@@ -16,9 +16,9 @@ Video File: 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 83
-Active Line: 89
-Video Position: 13109
+Scroll Position: 101
+Active Line: 103
+Video Position: 14265
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,53 +107,53 @@ Dialogue: 0,0:07:03.53,0:07:06.27,Main,Takagi,0,0,0,,Ух. Пожалуй, хв�
 Dialogue: 0,0:07:06.79,0:07:08.36,Main,Nishikata,0,0,0,,Это я должен сказать!
 Dialogue: 0,0:07:09.10,0:07:12.40,Main,Takagi,0,0,0,,Учитель, можно выйти?
 Dialogue: 0,0:07:12.40,0:07:13.28,Main,Teacher,0,0,0,,Выходи.
-Dialogue: 0,0:07:18.84,0:07:21.29,Italics,Nishikata,0,0,0,,Д-Да что же это такое?
-Dialogue: 0,0:07:21.29,0:07:23.92,Italics,Nishikata,0,0,0,,Нужно как-то подколоть Такаги-сан.
-Dialogue: 0,0:07:28.17,0:07:29.38,Italics,Nishikata,0,0,0,,Точно!
-Dialogue: 0,0:07:30.17,0:07:33.46,Italics,Nishikata,0,0,0,,Напишу чьё-нибудь имя на её ластике
-Dialogue: 0,0:07:33.46,0:07:36.06,Italics,Nishikata,0,0,0,,и, когда она вернётся, поржу над ней.
-Dialogue: 0,0:07:36.38,0:07:39.68,Italics,Nishikata,0,0,0,,Так, так. Чьё бы имя написа—
-Dialogue: 0,0:07:43.15,0:07:45.31,Italics,Nishikata,0,0,0,,Что? Тут уже чьё-то написано?!
-Dialogue: 0,0:07:50.06,0:07:52.10,Italics,Nishikata,0,0,0,,Н-Ничего, если я гляну?
-Dialogue: 0,0:07:52.55,0:07:55.07,Italics,Nishikata,0,0,0,,Всего одну букву…
+Dialogue: 0,0:07:18.84,0:07:21.29,Main,Nishikata,0,0,0,,{\i1}Д-Да что же это такое?{\i0}
+Dialogue: 0,0:07:21.29,0:07:23.92,Main,Nishikata,0,0,0,,{\i1}Нужно как-то подколоть Такаги-сан.{\i0}
+Dialogue: 0,0:07:28.17,0:07:29.38,Main,Nishikata,0,0,0,,{\i1}Точно!{\i0}
+Dialogue: 0,0:07:30.17,0:07:33.46,Main,Nishikata,0,0,0,,Напишу чьё-нибудь имя на её ластике
+Dialogue: 0,0:07:33.46,0:07:36.06,Main,Nishikata,0,0,0,,{\i1}и, когда она вернётся, поржу над ней.{\i0}
+Dialogue: 0,0:07:36.38,0:07:39.68,Main,Nishikata,0,0,0,,{\i1}Так, так. Чьё бы имя написа—{\i0}
+Dialogue: 0,0:07:43.15,0:07:45.31,Main,Nishikata,0,0,0,,{\i1}Что? Тут уже чьё-то написано?!{\i0}
+Dialogue: 0,0:07:50.06,0:07:52.10,Main,Nishikata,0,0,0,,{\i1}Н-Ничего, если я гляну?{\i0}
+Dialogue: 0,0:07:52.55,0:07:55.07,Main,Nishikata,0,0,0,,{\i1}Всего одну букву…{\i0}
 Dialogue: 0,0:07:55.07,0:07:57.83,Black Signs,Eraser,0,0,0,,По
-Dialogue: 0,0:07:57.83,0:08:00.30,Italics,Nishikata,0,0,0,,«По»? По…
-Dialogue: 0,0:08:00.30,0:08:01.95,Italics,Nishikata,0,0,0,,А значит…
-Dialogue: 0,0:08:07.45,0:08:11.58,Italics,Nishikata,0,0,0,,Это имя… не моё.
-Dialogue: 0,0:08:12.91,0:08:16.95,Italics,Nishikata,0,0,0,,Не то, чтобы я сильно расстроился или типа того.
-Dialogue: 0,0:08:32.53,0:08:33.66,Italics,Nishikata,0,0,0,,Чёрт!
-Dialogue: 0,0:08:37.04,0:08:38.23,Italics,Nishikata,0,0,0,,Я должен узнать!
-Dialogue: 0,0:08:39.41,0:08:41.04,Italics,Nishikata,0,0,0,,Всё целиком!
-Dialogue: 0,0:08:46.50,0:08:49.00,Black Signs,Eraser,0,0,0,,Посмотри на коридор
-Dialogue: 0,0:08:49.23,0:08:50.03,Main,Nishikata,0,0,0,,Чё?
-Dialogue: 0,0:08:58.06,0:09:00.72,Italics,Nishikata,0,0,0,,Опять… Она меня наколола!
-Dialogue: 0,0:09:06.71,0:09:09.90,Main,Takagi,0,0,0,,Нисиката, твоё выражение лица бесценно.
-Dialogue: 0,0:09:10.94,0:09:14.03,Main,Takagi,0,0,0,,And you acted exactly how I predicted.И ты действовал в точности, как я и предполагала
-Dialogue: 0,0:09:17.35,0:09:20.60,Main,Takagi,0,0,0,,That's why I can't help but tease you!
-Dialogue: 0,0:09:22.63,0:09:25.04,Main,Nishikata,0,0,0,,J-Just you wait, Такаги-сан!Ну погоди!
-Dialogue: 0,0:09:25.40,0:09:29.50,Main,Nishikata,0,0,0,,I'll get back at you someday\Nand embarrass you!
-Dialogue: 0,0:09:29.84,0:09:31.46,Main,Takagi,0,0,0,,I'll be waiting.Буду ждать
-Dialogue: 0,0:09:31.46,0:09:34.70,Main,Nishikata,0,0,0,,Oh, so you think I can't do it, huh?!Чё, думаешь я не смогу никогда
-Dialogue: 0,0:09:34.70,0:09:35.48,Main,Takagi,0,0,0,,Well, yeah.Ну, да.
-Dialogue: 0,0:09:35.82,0:09:38.61,Main,Nishikata,0,0,0,,I'm serious! You better be ready!Я серьёзно! 
-Dialogue: 0,0:09:39.34,0:09:40.97,Main,Takagi,0,0,0,,I think it's impossible.
-Dialogue: 0,0:09:41.40,0:09:44.65,Main,Takagi,0,0,0,,Especially when you missed with a 50/50 chance.
-Dialogue: 0,0:09:45.02,0:09:48.18,Main,Nishikata,0,0,0,,А? "A 50/50 chance"? Ты о чём?
-Dialogue: 0,0:09:45.02,0:09:49.65,Black Signs,Eraser,0,0,0,,Nishi
-Dialogue: 0,0:09:48.91,0:09:50.44,Main,Takagi,0,0,0,,I'm not telling you.
-Dialogue: 0,0:09:52.19,0:09:54.93,Main,Nishikata,0,0,0,,Day duty is such a pain…
-Dialogue: 0,0:09:58.77,0:10:02.97,Main,Nishikata,0,0,0,,Why do I have to go to school early \Nto clean the blackboard and write a log?
-Dialogue: 0,0:10:05.41,0:10:07.04,Main,Nishikata,0,0,0,,Day duty is awesome!
-Dialogue: 0,0:10:07.34,0:10:10.38,Main,Nishikata,0,0,0,,They do say the early bird gets the worm.
-Dialogue: 0,0:10:12.49,0:10:14.99,Main,Nishikata,0,0,0,,Wait, this is a token from the arcade.
-Dialogue: 0,0:10:19.05,0:10:23.06,Teacher's Assistant,Title2,0,0,0,,Day Duty
-Dialogue: 0,0:10:19.70,0:10:20.84,Main,Nishikata,0,0,0,,"Day Duty."
+Dialogue: 0,0:07:57.83,0:08:00.30,Main,Nishikata,0,0,0,,{\i1}«По»? По…{\i0}
+Dialogue: 0,0:08:00.30,0:08:01.95,Main,Nishikata,0,0,0,,{\i1}А значит…{\i0}
+Dialogue: 0,0:08:07.45,0:08:11.58,Main,Nishikata,0,0,0,,{\i1}Это имя… не моё.{\i0}
+Dialogue: 0,0:08:12.91,0:08:16.95,Main,Nishikata,0,0,0,,{\i1}Не то, чтобы я сильно расстроился или типа того.{\i0}
+Dialogue: 0,0:08:32.53,0:08:33.66,Main,Nishikata,0,0,0,,{\i1}Чёрт!{\i0}
+Dialogue: 0,0:08:37.04,0:08:38.23,Main,Nishikata,0,0,0,,{\i1}Я должен узнать!{\i0}
+Dialogue: 0,0:08:39.41,0:08:41.04,Main,Nishikata,0,0,0,,{\i1}Всё целиком!{\i0}
+Dialogue: 0,0:08:46.50,0:08:49.00,Black Signs,Eraser,0,0,0,,Посмотри в коридор
+Dialogue: 0,0:08:49.23,0:08:50.03,Main,Nishikata,0,0,0,,{\i0}Чё?{\i1}
+Dialogue: 0,0:08:58.06,0:09:00.72,Main,Nishikata,0,0,0,,{\i1}Опять… Она меня наколола!{\i0}
+Dialogue: 0,0:09:06.71,0:09:09.90,Main,Takagi,0,0,0,,Нисиката, выражение твоего лица бесценно.
+Dialogue: 0,0:09:10.94,0:09:14.03,Main,Takagi,0,0,0,,Более того, ты делал всё так, как я задумала.
+Dialogue: 0,0:09:17.35,0:09:20.60,Main,Takagi,0,0,0,,Из-за этого я не могу перестать подкалывать тебя!
+Dialogue: 0,0:09:22.63,0:09:25.04,Main,Nishikata,0,0,0,,Т-Ты у меня дождёшься, Такаги-сан!{Ну, заяц, погоди!}
+Dialogue: 0,0:09:25.40,0:09:29.50,Main,Nishikata,0,0,0,,Однажды я подловлю тебя и верну всё сполна!
+Dialogue: 0,0:09:29.84,0:09:31.46,Main,Takagi,0,0,0,,Буду ждать.
+Dialogue: 0,0:09:31.46,0:09:34.70,Main,Nishikata,0,0,0,,Чё, думаешь мне это не по силам?!
+Dialogue: 0,0:09:34.70,0:09:35.48,Main,Takagi,0,0,0,,Ну, да.
+Dialogue: 0,0:09:35.82,0:09:38.61,Main,Nishikata,0,0,0,,Я серьёзно! Лучше держись!{Хади, бойся!}
+Dialogue: 0,0:09:39.34,0:09:40.97,Main,Takagi,0,0,0,,Думаю, это невозможно.
+Dialogue: 0,0:09:41.40,0:09:44.65,Main,Takagi,0,0,0,,Особенно с твоим везением, когда шанс был «50 на 50».
+Dialogue: 0,0:09:45.02,0:09:48.18,Main,Nishikata,0,0,0,,А? «Шанс 50 на 50»? Ты о чём?
+Dialogue: 0,0:09:45.02,0:09:49.65,Black Signs,Eraser,0,0,0,,Нис
+Dialogue: 0,0:09:48.91,0:09:50.44,Main,Takagi,0,0,0,,Не скажу.
+Dialogue: 0,0:09:52.19,0:09:54.93,Main,Nishikata,0,0,0,,Такая морока с этим дежурством…
+Dialogue: 0,0:09:58.77,0:10:02.97,Main,Nishikata,0,0,0,,И почему я должен идти в школу в такую рань,\Nмыть доску и заполнять журнал?
+Dialogue: 0,0:10:05.41,0:10:07.04,Main,Nishikata,0,0,0,,Дежурство — офигенно!
+Dialogue: 0,0:10:07.34,0:10:10.38,Main,Nishikata,0,0,0,,Как говорится: «Кто рано встаёт, тому бог подаёт».
+Dialogue: 0,0:10:12.49,0:10:14.99,Main,Nishikata,0,0,0,,Стоп, это же жетон из игровых автоматов.
+Dialogue: 0,0:10:19.05,0:10:23.06,Teacher's Assistant,Title2,0,0,0,,Дежурство
+Dialogue: 0,0:10:19.70,0:10:20.84,Main,Nishikata,0,0,0,,«Дежурство».
 Dialogue: 0,0:10:25.55,0:10:26.92,Italics,Nishikata,0,0,0,,I know.
 Dialogue: 0,0:10:26.92,0:10:31.50,Italics,Nishikata,0,0,0,,I should use this opportunity \Nto rig Такаги-сан's desk.
 Dialogue: 0,0:10:33.34,0:10:35.16,Main,Nishikata,0,0,0,,Just thinking about it woke me up a little…
-Dialogue: 0,0:10:41.37,0:10:42.17,Main,Nishikata,0,0,0,,Ta…
-Dialogue: 0,0:10:48.17,0:10:50.20,Main,Nishikata,0,0,0,,Такаги-сан is already here.
-Dialogue: 0,0:10:51.38,0:10:52.18,Main,Nishikata,0,0,0,,Why?
+Dialogue: 0,0:10:41.37,0:10:42.17,Main,Nishikata,0,0,0,,Та…
+Dialogue: 0,0:10:48.17,0:10:50.20,Main,Nishikata,0,0,0,,Такаги-сан уже здесь.
+Dialogue: 0,0:10:51.38,0:10:52.18,Main,Nishikata,0,0,0,,Зачем?
 Dialogue: 0,0:10:57.69,0:10:58.90,Italics,Nishikata,0,0,0,,No one's here.
 Dialogue: 0,0:10:59.63,0:11:00.90,Italics,Nishikata,0,0,0,,That's odd.
 Dialogue: 0,0:11:01.51,0:11:03.32,Italics,Nishikata,0,0,0,,Was I just imagining it?
@@ -212,7 +212,7 @@ Dialogue: 0,0:14:50.11,0:14:52.17,Main,Mina,0,0,0,,Such nice weather we're havin
 Dialogue: 0,0:14:52.17,0:14:56.45,Main,Yukari,0,0,0,,Jeez, how is it that you're \Nso perky in the morning, Mina?
 Dialogue: 0,0:14:56.90,0:15:00.18,Main,Mina,0,0,0,,Huh? It's normal!
 Dialogue: 0,0:15:00.18,0:15:01.34,Main,Sanae,0,0,0,,You're wearing me out.
-Dialogue: 0,0:15:01.75,0:15:03.46,Main,Mina,0,0,0,,No, Sanae-chan!
+Dialogue: 0,0:15:01.75,0:15:03.46,Main,Mina,0,0,0,,No, Санаэ-тян!
 Dialogue: 0,0:15:03.46,0:15:06.38,Main,Mina,0,0,0,,Saying you're tired\Nmakes all your happiness go away!
 Dialogue: 0,0:15:06.38,0:15:08.06,Main,Mina,0,0,0,,I saw it on TV!
 Dialogue: 0,0:15:08.06,0:15:11.85,Main,Yukari,0,0,0,,You actually believe that? \NYou know it's not true, right?
@@ -220,7 +220,7 @@ Dialogue: 0,0:15:11.85,0:15:13.26,Main,Mina,0,0,0,,It is true!
 Dialogue: 0,0:15:13.26,0:15:15.49,Main,Mina,0,0,0,,It's better to be cheerful!
 Dialogue: 0,0:15:15.05,0:15:15.92,Main,Sanae,0,0,0,,So annoying…
 Dialogue: 0,0:15:15.92,0:15:17.19,Main,Mina,0,0,0,,Ow!
-Dialogue: 0,0:15:17.19,0:15:18.90,Main,Mina,0,0,0,,That hurts, Sanae-chan.
+Dialogue: 0,0:15:17.19,0:15:18.90,Main,Mina,0,0,0,,That hurts, Санаэ-тян.
 Dialogue: 0,0:15:18.90,0:15:20.23,Main,Yukari,0,0,0,,Stop that.
 Dialogue: 0,0:15:20.75,0:15:23.81,Main Top,Mina,0,0,0,,Just try smiling, you two!
 Dialogue: 0,0:15:23.23,0:15:24.98,Main,Takagi,0,0,0,,You were saying, Нисиката?
@@ -228,13 +228,13 @@ Dialogue: 0,0:15:23.81,0:15:26.56,Main Top,Mina,0,0,0,,Like this! See?
 Dialogue: 0,0:15:26.27,0:15:28.44,Main,Nishikata,0,0,0,,It's nothing.
 Dialogue: 0,0:15:32.17,0:15:35.26,Main,Takagi,0,0,0,,Speaking of which, did you \Nfinish your day duty work?
 Dialogue: 0,0:15:35.26,0:15:37.62,Main,Nishikata,0,0,0,,Oh! I forgot!
-Dialogue: 0,0:15:44.42,0:15:48.42,Funny Face,Title3,0,0,0,,Funny Face
-Dialogue: 0,0:15:44.89,0:15:45.87,Main,Nishikata,0,0,0,,"Funny Face."
+Dialogue: 0,0:15:44.42,0:15:48.42,Funny Face,Title1,0,0,0,,Рожица
+Dialogue: 0,0:15:44.89,0:15:45.87,Main,Nishikata,0,0,0,,«Рожица».
 Dialogue: 0,0:15:51.08,0:15:53.74,Italics,Nishikata,0,0,0,,How do I get one over on Такаги-сан?
 Dialogue: 0,0:15:54.47,0:15:57.05,Italics,Nishikata,0,0,0,,What should I do?
 Dialogue: 0,0:15:57.58,0:15:59.38,Main,Nakai,0,0,0,,Oh, Нисиката.
 Dialogue: 0,0:15:59.38,0:16:01.63,Main,Nakai,0,0,0,,What are you staring at the mirror for?
-Dialogue: 0,0:16:01.63,0:16:02.71,Main,Nishikata,0,0,0,,Nakai-kun…
+Dialogue: 0,0:16:01.63,0:16:02.71,Main,Nishikata,0,0,0,,Накай-кун…
 Dialogue: 0,0:16:03.47,0:16:05.82,Main,Nakai,0,0,0,,Were you practicing putting on \Na pretty face or something?
 Dialogue: 0,0:16:06.13,0:16:07.23,Main,Nishikata,0,0,0,,No way.
 Dialogue: 0,0:16:09.67,0:16:11.18,Main,Nakai,0,0,0,,A funny face, then?

@@ -10,7 +10,11 @@ SanSan @Kaschenka
 
 ## OP [Iwanai Kedo ne.]
 
+Перевод/Литературный текст/Оформление: SanSan
+
 ## ED #1 [AM11:00]
+
+Перевод/Литературный текст/Оформление: SanSan
 
 ## ED #2 [Kimagure Romantic]
 
