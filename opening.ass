@@ -16,8 +16,9 @@ Video File: /Users/alexfranz/Projects/takagi-san/01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 6
-Video Position: 1097
+Scroll Position: 5
+Active Line: 14
+Video Position: 977
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,41 +42,32 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:40.12,0:00:43.73,Default,,0,0,0,,Kanchigai sarechattatte ii yo
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code once,xres, yres, ar, artype = _G.aegisub.video_size() llead_dur = 500
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code line,lheight = line.height ytop, ymiddle, ybottom = lheight, yres / 2, yres - lheight
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl,!retime("start2syl", -llead_dur)!{\an5\pos($center, !ymiddle!)\fad(!llead_dur!,0)}
-Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl,!retime("syl",0,0)!{\an5\pos($center, !ymiddle!)\t(0,!$sdur/2!,\fscx150,\fscy150)\t(!$sdur/2!,$sdur,\fscx100,\fscy100)}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl,!retime("syl2end", 0, llead_dur)!{\an5\pos($center, !ymiddle!)\fad(0,!llead_dur!)}
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,!retime("start2syl", -llead_dur)!{\an5\pos($center, !ymiddle!)\fad(!llead_dur!,0)}
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,!retime("syl",0,0)!{\an5\pos($center, !ymiddle!)\t(0,!$sdur/2!,\fscx150,\fscy150)\t(!$sdur/2!,$sdur,\fscx100,\fscy100)}
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,!retime("syl2end", 0, llead_dur)!{\an5\pos($center, !ymiddle!)\fad(0,!llead_dur!)}
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl,!retime("postsyl", 0, 0)!postsyl ->
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl,!retime("syl", 0, 0)!syl ->
 Comment: 0,0:00:40.10,0:00:41.73,Default,,0,0,0,karaoke,{\k30}He{\k30}llo {\k80}World!
 Comment: 0,0:00:42.80,0:00:44.53,Default,,0,0,0,karaoke,{\k30}Wel{\k25}come {\k40}to {\k25}Ae{\k20}gi{\k4˚0}sub
-Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\pos(505, 360)\fad(500,0)}
-Dialogue: 1,0:00:40.10,0:00:40.10,Default,,0,0,0,fx,{\an5\pos(505, 360)\t(0,0,\fscx150,\fscy150)\t(0,0,\fscx100,\fscy100)}
-Dialogue: 0,0:00:40.10,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(505, 360)\fad(0,500)}
-Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\pos(535, 360)\fad(500,0)}He
-Dialogue: 1,0:00:40.10,0:00:40.40,Default,,0,0,0,fx,{\an5\pos(535, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}He
-Dialogue: 0,0:00:40.40,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(535, 360)\fad(0,500)}He
-Dialogue: 0,0:00:39.60,0:00:40.40,Default,,0,0,0,fx,{\an5\pos(593, 360)\fad(500,0)}llo 
-Dialogue: 1,0:00:40.40,0:00:40.70,Default,,0,0,0,fx,{\an5\pos(593, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}llo 
-Dialogue: 0,0:00:40.70,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(593, 360)\fad(0,500)}llo 
-Dialogue: 0,0:00:39.60,0:00:40.70,Default,,0,0,0,fx,{\an5\pos(704, 360)\fad(500,0)}World!
-Dialogue: 1,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\pos(704, 360)\t(0,400,\fscx150,\fscy150)\t(400,800,\fscx100,\fscy100)}World!
-Dialogue: 0,0:00:41.50,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(704, 360)\fad(0,500)}World!
-Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\pos(423, 360)\fad(500,0)}
-Dialogue: 1,0:00:42.80,0:00:42.80,Default,,0,0,0,fx,{\an5\pos(423, 360)\t(0,0,\fscx150,\fscy150)\t(0,0,\fscx100,\fscy100)}
-Dialogue: 0,0:00:42.80,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(423, 360)\fad(0,500)}
-Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(500,0)}Wel
-Dialogue: 1,0:00:42.80,0:00:43.10,Default,,0,0,0,fx,{\an5\pos(463, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}Wel
-Dialogue: 0,0:00:43.10,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(0,500)}Wel
-Dialogue: 0,0:00:42.30,0:00:43.10,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(500,0)}come 
-Dialogue: 1,0:00:43.10,0:00:43.35,Default,,0,0,0,fx,{\an5\pos(560, 360)\t(0,125,\fscx150,\fscy150)\t(125,250,\fscx100,\fscy100)}come 
-Dialogue: 0,0:00:43.35,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(0,500)}come 
-Dialogue: 0,0:00:42.30,0:00:43.35,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(500,0)}to 
-Dialogue: 1,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,{\an5\pos(652, 360)\t(0,200,\fscx150,\fscy150)\t(200,400,\fscx100,\fscy100)}to 
-Dialogue: 0,0:00:43.75,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(0,500)}to 
-Dialogue: 0,0:00:42.30,0:00:43.75,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(500,0)}Ae
-Dialogue: 1,0:00:43.75,0:00:44.00,Default,,0,0,0,fx,{\an5\pos(714, 360)\t(0,125,\fscx150,\fscy150)\t(125,250,\fscx100,\fscy100)}Ae
-Dialogue: 0,0:00:44.00,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(0,500)}Ae
-Dialogue: 0,0:00:42.30,0:00:44.00,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(500,0)}gi
-Dialogue: 1,0:00:44.00,0:00:44.20,Default,,0,0,0,fx,{\an5\pos(762, 360)\t(0,100,\fscx150,\fscy150)\t(100,200,\fscx100,\fscy100)}gi
-Dialogue: 0,0:00:44.20,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(0,500)}gi
-Dialogue: 0,0:00:42.30,0:00:44.20,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(500,0)}sub
-Dialogue: 1,0:00:44.20,0:00:44.24,Default,,0,0,0,fx,{\an5\pos(820, 360)\t(0,20,\fscx150,\fscy150)\t(20,40,\fscx100,\fscy100)}sub
-Dialogue: 0,0:00:44.24,0:00:45.03,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(0,500)}sub
+Dialogue: 0,0:00:40.10,0:00:40.10,Default,,0,0,0,fx,postsyl ->
+Dialogue: 0,0:00:40.10,0:00:40.10,Default,,0,0,0,fx,syl ->
+Dialogue: 0,0:00:40.40,0:00:40.40,Default,,0,0,0,fx,postsyl ->He
+Dialogue: 0,0:00:40.10,0:00:40.40,Default,,0,0,0,fx,syl ->He
+Dialogue: 0,0:00:40.70,0:00:40.70,Default,,0,0,0,fx,postsyl ->llo 
+Dialogue: 0,0:00:40.40,0:00:40.70,Default,,0,0,0,fx,syl ->llo 
+Dialogue: 0,0:00:41.50,0:00:41.50,Default,,0,0,0,fx,postsyl ->World!
+Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,syl ->World!
+Dialogue: 0,0:00:42.80,0:00:42.80,Default,,0,0,0,fx,postsyl ->
+Dialogue: 0,0:00:42.80,0:00:42.80,Default,,0,0,0,fx,syl ->
+Dialogue: 0,0:00:43.10,0:00:43.10,Default,,0,0,0,fx,postsyl ->Wel
+Dialogue: 0,0:00:42.80,0:00:43.10,Default,,0,0,0,fx,syl ->Wel
+Dialogue: 0,0:00:43.35,0:00:43.35,Default,,0,0,0,fx,postsyl ->come 
+Dialogue: 0,0:00:43.10,0:00:43.35,Default,,0,0,0,fx,syl ->come 
+Dialogue: 0,0:00:43.75,0:00:43.75,Default,,0,0,0,fx,postsyl ->to 
+Dialogue: 0,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,syl ->to 
+Dialogue: 0,0:00:44.00,0:00:44.00,Default,,0,0,0,fx,postsyl ->Ae
+Dialogue: 0,0:00:43.75,0:00:44.00,Default,,0,0,0,fx,syl ->Ae
+Dialogue: 0,0:00:44.20,0:00:44.20,Default,,0,0,0,fx,postsyl ->gi
+Dialogue: 0,0:00:44.00,0:00:44.20,Default,,0,0,0,fx,syl ->gi
+Dialogue: 0,0:00:44.24,0:00:44.24,Default,,0,0,0,fx,postsyl ->sub
+Dialogue: 0,0:00:44.20,0:00:44.24,Default,,0,0,0,fx,syl ->sub
