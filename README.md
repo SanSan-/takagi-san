@@ -26,7 +26,9 @@ SanSan @Kaschenka
 ##### Шрифты
 
 - Open Sans
-- PT Serif
+— PT Sans
+- PT Serif Caption
+— Five Minutes
 
 
 ##### Пояснения
