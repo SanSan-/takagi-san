@@ -216,11 +216,13 @@ function takagi:kara_build_shadow(subs, line, layer, scale)
 
         local pos_x = line.left + syl.center
         local pos_y = line.middle
+        local compens_x = scale * 0.25
+        local compens_y = scale * 0.55
 
         for i, corolla in ipairs(self.corollas) do
 
             l.text = text_format:format(color_from_style(syl.style.color4),
-                pos_x-10, pos_y-25,
+                pos_x - compens_x, pos_y - compens_y,
                 l.duration - 150 * i, l.duration,
                 scale, scale,
                 corolla)
@@ -340,8 +342,7 @@ function takagi:kara_build_syl(subs, line, layer)
         local et2 = st2 + smid
 
 
-        l.text = text_format:format(
-            pos_x, pos_y, color_from_style(syl.style.color2),
+        l.text = text_format:format(pos_x, pos_y, color_from_style(syl.style.color2),
             st1, st2, color_from_style(syl.style.color1), color_from_style(syl.style.color3),
             et1, et2,
             color_from_style(syl.style.color1),
