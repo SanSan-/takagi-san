@@ -18,7 +18,7 @@ takagi.meta = nil
 takagi.styles = nil
 takagi.line_numbers = {}
 takagi.config = {
-    corolla_scale = 100
+    corolla_scale = 35
 }
 takagi.corollas = {
     "m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62",
@@ -220,7 +220,7 @@ function takagi:kara_build_shadow(subs, line, layer, scale)
         for i, corolla in ipairs(self.corollas) do
 
             l.text = text_format:format(color_from_style(syl.style.color4),
-                pos_x, pos_y,
+                pos_x-10, pos_y-25,
                 l.duration - 150 * i, l.duration,
                 scale, scale,
                 corolla)
@@ -229,7 +229,6 @@ function takagi:kara_build_shadow(subs, line, layer, scale)
         end
     end
 end
-
 
 function takagi:kara_build_flower(subs, line, layer, scale)
 
@@ -317,9 +316,9 @@ end
 function takagi:kara_build_syl(subs, line, layer)
 
     local text_format = table.concat({
-        "{\\an5\\pos(%d,%d)\\1c%s",
-        "\\t(%d,%d,\\1c%s\\3c%s\\3a&H10&\\bord3\\be1)",
-        "\\t(%d,%d,\\1a&HFF&\\bord1\\be0\\3c%s)",
+        "{\\an5\\pos(%d,%d)\\1c%s\\fscx100\\fscy100",
+        "\\t(%d,%d,\\1c%s\\3c%s\\3a&H10&\\bord3\\be1\\fscx137\\fscy137)",
+        "\\t(%d,%d,\\1a&HFF&\\bord1\\be0\\3c%s\\fscx112\\fscy112)",
         "}%s"
     }, "")
 
@@ -341,7 +340,8 @@ function takagi:kara_build_syl(subs, line, layer)
         local et2 = st2 + smid
 
 
-        l.text = text_format:format(pos_x, pos_y, color_from_style(syl.style.color2),
+        l.text = text_format:format(
+            pos_x, pos_y, color_from_style(syl.style.color2),
             st1, st2, color_from_style(syl.style.color1), color_from_style(syl.style.color3),
             et1, et2,
             color_from_style(syl.style.color1),
