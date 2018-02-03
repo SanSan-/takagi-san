@@ -16,8 +16,9 @@ Audio File: 01.mkv
 Video File: 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 1
+Video Zoom Percent: 0.625000
+Scroll Position: 2
+Active Line: 6
 Video Position: 963
 
 [V4+ Styles]
@@ -40,53 +41,10 @@ Style: Teacher's Assistant,PT Serif Caption,75,&H009759FF,&H000000FF,&H00828586,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:40.12,0:00:43.73,Default,,0,0,0,,Kanchigai sarechattatte ii yo
+Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
 Comment: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,Karaoke,{\k100}He{\k100}llo {\k100}World!
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1600,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1450,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1300,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1150,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1000,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1600,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1450,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1300,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1150,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1000,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1600,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1450,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1300,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1150,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1000,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
-Dialogue: 0,0:00:40.09,0:00:41.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,539,3,1000,1750)\t(1000,1750,\frx48\fry33\frz91)\t(1550,1750,\alpha&HFF&)\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
-Dialogue: 0,0:00:40.08,0:00:41.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,503,3,1000,1750)\t(1000,1750,\frx39\fry-58\frz85)\t(1550,1750,\alpha&HFF&)\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
-Dialogue: 0,0:00:40.07,0:00:41.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,520,3,1000,1750)\t(1000,1750,\frx17\fry-139\frz-161)\t(1550,1750,\alpha&HFF&)\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
-Dialogue: 0,0:00:40.06,0:00:41.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,548,3,1000,1750)\t(1000,1750,\frx50\fry-117\frz171)\t(1550,1750,\alpha&HFF&)\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
-Dialogue: 0,0:00:40.05,0:00:41.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,512,3,1000,1750)\t(1000,1750,\frx-35\fry-10\frz65)\t(1550,1750,\alpha&HFF&)\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
-Dialogue: 0,0:00:41.09,0:00:42.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,588,3,1000,1750)\t(1000,1750,\frx72\fry-17\frz-115)\t(1550,1750,\alpha&HFF&)\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
-Dialogue: 0,0:00:41.08,0:00:42.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,593,3,1000,1750)\t(1000,1750,\frx-70\fry35\frz-128)\t(1550,1750,\alpha&HFF&)\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
-Dialogue: 0,0:00:41.07,0:00:42.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,605,3,1000,1750)\t(1000,1750,\frx20\fry-172\frz121)\t(1550,1750,\alpha&HFF&)\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
-Dialogue: 0,0:00:41.06,0:00:42.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,551,3,1000,1750)\t(1000,1750,\frx79\fry46\frz118)\t(1550,1750,\alpha&HFF&)\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
-Dialogue: 0,0:00:41.05,0:00:42.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,560,3,1000,1750)\t(1000,1750,\frx-59\fry152\frz-66)\t(1550,1750,\alpha&HFF&)\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
-Dialogue: 0,0:00:42.09,0:00:43.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,644,3,1000,1750)\t(1000,1750,\frx-35\fry152\frz-171)\t(1550,1750,\alpha&HFF&)\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
-Dialogue: 0,0:00:42.08,0:00:43.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,732,3,1000,1750)\t(1000,1750,\frx59\fry19\frz-138)\t(1550,1750,\alpha&HFF&)\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
-Dialogue: 0,0:00:42.07,0:00:43.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,652,3,1000,1750)\t(1000,1750,\frx-113\fry0\frz68)\t(1550,1750,\alpha&HFF&)\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
-Dialogue: 0,0:00:42.06,0:00:43.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,707,3,1000,1750)\t(1000,1750,\frx86\fry-130\frz-75)\t(1550,1750,\alpha&HFF&)\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
-Dialogue: 0,0:00:42.05,0:00:43.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,762,3,1000,1750)\t(1000,1750,\frx64\fry71\frz54)\t(1550,1750,\alpha&HFF&)\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,45,519,25,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(524,44,513,24,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(524,45,528,25,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,44,531,24,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,43,563,23,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(582,44,566,24,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,43,558,23,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,45,595,25,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,642,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,643,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,44,647,24,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(705,43,751,23,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,45,754,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,44,772,24,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,45,733,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,692,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
-Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(523,44)\1c&H8C7675&\t(0,500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(500,1000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}He
-Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(582,44)\1c&H8C7675&\t(1000,1500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(1500,2000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}llo 
-Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(706,44)\1c&H8C7675&\t(2000,2500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(2500,3000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}World!
