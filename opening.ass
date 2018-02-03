@@ -16,9 +16,9 @@ Video File: /Users/alexfranz/Projects/takagi-san/01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 7
+Scroll Position: 9
 Active Line: 14
-Video Position: 1100
+Video Position: 1114
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Style: Teacher's Assistant,PT Serif Caption,75,&H009759FF,&H000000FF,&H00828586,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:40.12,0:00:43.73,Default,,0,0,0,,Kanchigai sarechattatte ii yo
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code once,xres, yres, ar, artype = _G.aegisub.video_size() llead_dur = 500 star = "m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13"
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code line,lheight = line.height ytop, ymiddle, ybottom = lheight, yres / 2, yres - lheight apms = 0.3 starlead_dur = 500 starlead_arot = starlead_dur * apms starsc = 150 linearot = line.duration * apms
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code line,lheight = line.height ytop, ymiddle, ybottom = lheight, yres / 2, yres - lheight apms = .4 starlead_dur = 500 starlead_arot = starlead_dur * apms starsc = 150 linearot = line.duration * apms
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template pre-line PREL,!retime("preline",-starlead_dur,0)!{\an5\1a&HFF&\3c&HFFFFF&\frz!-starlead_arot!\fscx!starsc!\fscy!starsc!\pos(!$lleft-$lheight!,!ymiddle!)\t(\frz0\fscx100\fscy100)}{\p1}!star!{\p0}
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template line PREL notext,{}
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template pre-line L,{\an5\3c&HFFFFF&\frz0\pos(!$lleft-$lheight!,!ymiddle!)\t(\frz!linearot!)}{\p1}!star!{\p0}
@@ -55,101 +55,101 @@ Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl noblank,!retime("sy
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl noblank,!retime("syl2end", 0, llead_dur)!{\an5\pos($center, !ymiddle!)\fad(0,!llead_dur!)}
 Comment: 0,0:00:39.10,0:00:40.10,Default,,0,0,0,,
 Comment: 0,0:00:40.10,0:00:41.73,Default,,0,0,0,karaoke,{\k30}He{\k30}llo {\k80}World!
-Comment: 0,0:00:42.80,0:00:42.81,Default,,0,0,0,karaoke,{\k30}Wel{\k25}come {\k40}to {\k25}Ae{\k20}gi{\k40}sub
-Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz-150\fscx150\fscy150\pos(440,360)\t(\frz0\fscx100\fscy100)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
-Dialogue: 0,0:00:40.10,0:00:41.73,Default,,0,0,0,fx,{\an5\3c&HFFFFF&\frz0\pos(440,360)\t(\frz489)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
-Dialogue: 0,0:00:41.73,0:00:42.23,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz489\pos(440,360)\t(\frz639\fscx0\fscy0)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz316)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz308)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz317)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz313)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz360)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:39.70,0:00:40.10,Default,,0,0,0,fx,{\an5\move(517,65,535,360)\t(\frz349)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,554,655)\t(\frz383)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,536,655)\t(\frz250)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,521,655)\t(\frz367)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,521,655)\t(\frz387)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,533,655)\t(\frz274)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Comment: 0,0:00:42.80,0:00:44.51,Default,,0,0,0,karaoke,{\k30}Wel{\k25}come {\k40}to {\k25}Ae{\k20}gi{\k40}sub
+Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz-200\fscx150\fscy150\pos(440,360)\t(\frz0\fscx100\fscy100)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
+Dialogue: 0,0:00:40.10,0:00:41.73,Default,,0,0,0,fx,{\an5\3c&HFFFFF&\frz0\pos(440,360)\t(\frz652)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
+Dialogue: 0,0:00:41.73,0:00:42.23,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz652\pos(440,360)\t(\frz852\fscx0\fscy0)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
+Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz349)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz255)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz261)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz266)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz263)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:39.70,0:00:40.10,Default,,0,0,0,fx,{\an5\move(539,65,535,360)\t(\frz277)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,564,655)\t(\frz395)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,535,655)\t(\frz323)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,511,655)\t(\frz284)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,515,655)\t(\frz339)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,518,655)\t(\frz257)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\pos(535, 360)\fad(500,0)}He
 Dialogue: 1,0:00:40.10,0:00:40.40,Default,,0,0,0,fx,{\an5\pos(535, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}He
 Dialogue: 0,0:00:40.40,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(535, 360)\fad(0,500)}He
-Dialogue: 0,0:00:40.00,0:00:40.40,Default,,0,0,0,fx,{\an5\move(583,65,593,360)\t(\frz372)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,593,655)\t(\frz251)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,609,655)\t(\frz320)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,576,655)\t(\frz328)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,567,655)\t(\frz300)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,595,655)\t(\frz325)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.00,0:00:40.40,Default,,0,0,0,fx,{\an5\move(593,65,593,360)\t(\frz350)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,583,655)\t(\frz384)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,600,655)\t(\frz292)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,613,655)\t(\frz347)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,568,655)\t(\frz341)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,620,655)\t(\frz309)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:39.60,0:00:40.40,Default,,0,0,0,fx,{\an5\pos(593, 360)\fad(500,0)}llo 
 Dialogue: 1,0:00:40.40,0:00:40.70,Default,,0,0,0,fx,{\an5\pos(593, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}llo 
 Dialogue: 0,0:00:40.70,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(593, 360)\fad(0,500)}llo 
-Dialogue: 0,0:00:40.30,0:00:40.70,Default,,0,0,0,fx,{\an5\move(714,65,704,360)\t(\frz310)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,638,655)\t(\frz296)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,742,655)\t(\frz288)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,643,655)\t(\frz385)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,748,655)\t(\frz290)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,653,655)\t(\frz262)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:40.30,0:00:40.70,Default,,0,0,0,fx,{\an5\move(687,65,704,360)\t(\frz346)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,719,655)\t(\frz300)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,656,655)\t(\frz332)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,661,655)\t(\frz256)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,654,655)\t(\frz334)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,648,655)\t(\frz390)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:39.60,0:00:40.70,Default,,0,0,0,fx,{\an5\pos(704, 360)\fad(500,0)}World!
 Dialogue: 1,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\pos(704, 360)\t(0,400,\fscx150,\fscy150)\t(400,800,\fscx100,\fscy100)}World!
 Dialogue: 0,0:00:41.50,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(704, 360)\fad(0,500)}World!
-Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz-150\fscx150\fscy150\pos(358,360)\t(\frz0\fscx100\fscy100)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
-Dialogue: 0,0:00:42.80,0:00:42.81,Default,,0,0,0,fx,{\an5\3c&HFFFFF&\frz0\pos(358,360)\t(\frz3)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
-Dialogue: 0,0:00:42.81,0:00:43.31,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz3\pos(358,360)\t(\frz153\fscx0\fscy0)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz281)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz283)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz341)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz333)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz355)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.40,0:00:42.80,Default,,0,0,0,fx,{\an5\move(436,65,463,360)\t(\frz306)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,441,655)\t(\frz308)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,449,655)\t(\frz356)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,492,655)\t(\frz375)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,470,655)\t(\frz283)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,495,655)\t(\frz265)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz-200\fscx150\fscy150\pos(358,360)\t(\frz0\fscx100\fscy100)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
+Dialogue: 0,0:00:42.80,0:00:44.51,Default,,0,0,0,fx,{\an5\3c&HFFFFF&\frz0\pos(358,360)\t(\frz684)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
+Dialogue: 0,0:00:44.51,0:00:45.01,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz684\pos(358,360)\t(\frz884\fscx0\fscy0)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
+Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz372)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz358)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz267)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz313)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz328)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:42.40,0:00:42.80,Default,,0,0,0,fx,{\an5\move(502,65,463,360)\t(\frz373)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,473,655)\t(\frz274)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,427,655)\t(\frz312)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,426,655)\t(\frz355)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,501,655)\t(\frz323)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,427,655)\t(\frz259)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(500,0)}Wel
 Dialogue: 1,0:00:42.80,0:00:43.10,Default,,0,0,0,fx,{\an5\pos(463, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}Wel
-Dialogue: 0,0:00:43.10,0:00:43.31,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(0,500)}Wel
-Dialogue: 0,0:00:42.70,0:00:43.10,Default,,0,0,0,fx,{\an5\move(562,65,560,360)\t(\frz335)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,564,655)\t(\frz372)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,531,655)\t(\frz290)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,601,655)\t(\frz347)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,611,655)\t(\frz261)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,557,655)\t(\frz328)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.10,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(0,500)}Wel
+Dialogue: 0,0:00:42.70,0:00:43.10,Default,,0,0,0,fx,{\an5\move(604,65,560,360)\t(\frz315)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,502,655)\t(\frz318)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,545,655)\t(\frz259)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,521,655)\t(\frz251)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,608,655)\t(\frz303)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,506,655)\t(\frz264)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:42.30,0:00:43.10,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(500,0)}come 
 Dialogue: 1,0:00:43.10,0:00:43.35,Default,,0,0,0,fx,{\an5\pos(560, 360)\t(0,125,\fscx150,\fscy150)\t(125,250,\fscx100,\fscy100)}come 
-Dialogue: 0,0:00:43.35,0:00:43.31,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(0,500)}come 
-Dialogue: 0,0:00:42.95,0:00:43.35,Default,,0,0,0,fx,{\an5\move(654,65,652,360)\t(\frz398)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,635,655)\t(\frz256)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,654,655)\t(\frz284)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,650,655)\t(\frz275)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,659,655)\t(\frz340)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,644,655)\t(\frz372)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.35,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(0,500)}come 
+Dialogue: 0,0:00:42.95,0:00:43.35,Default,,0,0,0,fx,{\an5\move(631,65,652,360)\t(\frz309)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,661,655)\t(\frz298)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,664,655)\t(\frz311)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,662,655)\t(\frz313)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,661,655)\t(\frz326)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,638,655)\t(\frz385)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:42.30,0:00:43.35,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(500,0)}to 
 Dialogue: 1,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,{\an5\pos(652, 360)\t(0,200,\fscx150,\fscy150)\t(200,400,\fscx100,\fscy100)}to 
-Dialogue: 0,0:00:43.75,0:00:43.31,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(0,500)}to 
-Dialogue: 0,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,{\an5\move(695,65,714,360)\t(\frz378)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,741,655)\t(\frz387)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,717,655)\t(\frz286)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,701,655)\t(\frz326)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,716,655)\t(\frz357)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,727,655)\t(\frz264)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:43.75,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(0,500)}to 
+Dialogue: 0,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,{\an5\move(687,65,714,360)\t(\frz315)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,714,655)\t(\frz291)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,716,655)\t(\frz399)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,715,655)\t(\frz333)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,735,655)\t(\frz283)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,689,655)\t(\frz394)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:42.30,0:00:43.75,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(500,0)}Ae
 Dialogue: 1,0:00:43.75,0:00:44.00,Default,,0,0,0,fx,{\an5\pos(714, 360)\t(0,125,\fscx150,\fscy150)\t(125,250,\fscx100,\fscy100)}Ae
-Dialogue: 0,0:00:44.00,0:00:43.31,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(0,500)}Ae
-Dialogue: 0,0:00:43.60,0:00:44.00,Default,,0,0,0,fx,{\an5\move(777,65,762,360)\t(\frz302)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,759,655)\t(\frz261)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,766,655)\t(\frz326)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,777,655)\t(\frz383)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,762,655)\t(\frz360)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,746,655)\t(\frz282)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.00,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(0,500)}Ae
+Dialogue: 0,0:00:43.60,0:00:44.00,Default,,0,0,0,fx,{\an5\move(744,65,762,360)\t(\frz255)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,750,655)\t(\frz310)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,776,655)\t(\frz319)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,774,655)\t(\frz394)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,774,655)\t(\frz264)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,763,655)\t(\frz307)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:42.30,0:00:44.00,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(500,0)}gi
 Dialogue: 1,0:00:44.00,0:00:44.20,Default,,0,0,0,fx,{\an5\pos(762, 360)\t(0,100,\fscx150,\fscy150)\t(100,200,\fscx100,\fscy100)}gi
-Dialogue: 0,0:00:44.20,0:00:43.31,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(0,500)}gi
-Dialogue: 0,0:00:43.80,0:00:44.20,Default,,0,0,0,fx,{\an5\move(818,65,820,360)\t(\frz290)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,838,655)\t(\frz269)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,822,655)\t(\frz343)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,810,655)\t(\frz335)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,831,655)\t(\frz305)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,790,655)\t(\frz329)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.20,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(0,500)}gi
+Dialogue: 0,0:00:43.80,0:00:44.20,Default,,0,0,0,fx,{\an5\move(814,65,820,360)\t(\frz319)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,829,655)\t(\frz253)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,829,655)\t(\frz259)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,826,655)\t(\frz269)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,830,655)\t(\frz258)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
+Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,841,655)\t(\frz286)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
 Dialogue: 0,0:00:42.30,0:00:44.20,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(500,0)}sub
 Dialogue: 1,0:00:44.20,0:00:44.60,Default,,0,0,0,fx,{\an5\pos(820, 360)\t(0,200,\fscx150,\fscy150)\t(200,400,\fscx100,\fscy100)}sub
-Dialogue: 0,0:00:44.60,0:00:43.31,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(0,500)}sub
+Dialogue: 0,0:00:44.60,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(0,500)}sub
