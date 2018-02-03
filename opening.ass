@@ -21,20 +21,10 @@ Video Position: 963
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Teacher's Assistant-furigana,PT Serif Caption,37.5,&H009759FF,&H000000FF,&H00828586,&H007F7F83,-1,0,0,0,100,100,0,0,1,0,1.75,9,617,163,225,0
-Style: PoemBot-furigana,Zhizn,20.5,&H00FFFFFF,&H008C7675,&H004C3B3D,&H004C3B3D,-1,0,0,0,100,100,0,0,1,1,0,2,31,32,24,0
-Style: Карасума_Титосэ_bag-close-up(Ep 11)-furigana,PT Sans,22.5,&H000F0F0F,&H000000FF,&H00EEEEEE,&H00647FB5,-1,0,0,0,100,100,0,0,1,1.5,0,8,41,125,77,0
-Style: Manju_02:40(Ep 08)-furigana,PF Libera Pro,27,&H00EFC6C6,&H000000FF,&H00754072,&H00461004,-1,0,0,0,100,100,0,0,1,3,0,9,41,201,101,0
-Style: Hey_21:15(Ep 07)-furigana,Helvetica Neue,28,&H00366C44,&H000000FF,&H0052F088,&H00461004,0,0,0,0,100,100,0,0,3,3,0,1,80,20,120,0
-Style: PoemTop-furigana,Zhizn,20.5,&H00FFFFFF,&H008C7675,&H004C3B3D,&H004C3B3D,-1,0,0,0,100,100,0,0,1,1,0,8,31,32,24,0
-Style: Default-furigana,PT Sans,22.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
 Style: Default,PT Sans,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: PoemTop,Five Minutes,65,&H00FFFFFF,&H0046BD62,&H004C3B3D,&H000D6910,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,45,0
-Style: Hey_21:15(Ep 07),Helvetica Neue,56,&H00366C44,&H000000FF,&H0052F088,&H00461004,0,0,0,0,100,100,0,0,3,6,0,1,80,20,120,0
-Style: Manju_02:40(Ep 08),PF Libera Pro,54,&H00EFC6C6,&H000000FF,&H00754072,&H00461004,-1,0,0,0,100,100,0,0,1,6,0,9,41,201,101,0
-Style: Карасума_Титосэ_bag-close-up(Ep 11),PT Sans,45,&H000F0F0F,&H000000FF,&H00EEEEEE,&H00647FB5,-1,0,0,0,100,100,0,0,1,3,0,8,41,125,77,0
-Style: PoemBot,Zhizn,41,&H00FFFFFF,&H008C7675,&H004C3B3D,&H004C3B3D,-1,0,0,0,100,100,0,0,1,2,0,2,31,32,24,0
-Style: Teacher's Assistant,PT Serif Caption,75,&H009759FF,&H000000FF,&H00828586,&H007F7F83,-1,0,0,0,100,100,0,0,1,0,3.5,9,617,163,225,0
+Style: PoemTop,Five Minutes,65,&H00FFFFFF,&H0047CD6A,&H00036B1E,&H00014414,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,45,0
+Style: PoemBottom,Five Minutes,65,&H00FFFFFF,&H0046BD62,&H004C3B3D,&H000D6910,-1,0,0,0,100,100,0,0,1,2,0,2,31,32,45,0
+Style: PoemTopPink,Five Minutes,65,&H00FFFFFF,&H00924AE4,&H00641BC9,&H004C139B,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,45,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
