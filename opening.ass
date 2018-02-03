@@ -10,16 +10,15 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Automation Scripts: ~macro-sakura.lua
+Automation Scripts: ~macro-sakura.lua|~macro-takagi.lua
 Last Style Storage: Default
 Audio File: 01.mkv
 Video File: 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 2
-Active Line: 6
-Video Position: 963
+Video Zoom Percent: 0.500000
+Active Line: 1
+Video Position: 1119
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +30,7 @@ Style: Hey_21:15(Ep 07)-furigana,Helvetica Neue,28,&H00366C44,&H000000FF,&H0052F
 Style: PoemTop-furigana,Zhizn,20.5,&H00FFFFFF,&H008C7675,&H004C3B3D,&H004C3B3D,-1,0,0,0,100,100,0,0,1,1,0,8,31,32,24,0
 Style: Default-furigana,PT Sans,22.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
 Style: Default,PT Sans,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: PoemTop,Zhizn,41,&H00FFFFFF,&H008C7675,&H004C3B3D,&H004C3B3D,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,24,0
+Style: PoemTop,Zhizn,41,&H00FFFFFF,&H0046BD62,&H004C3B3D,&H000D6910,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,24,0
 Style: Hey_21:15(Ep 07),Helvetica Neue,56,&H00366C44,&H000000FF,&H0052F088,&H00461004,0,0,0,0,100,100,0,0,3,6,0,1,80,20,120,0
 Style: Manju_02:40(Ep 08),PF Libera Pro,54,&H00EFC6C6,&H000000FF,&H00754072,&H00461004,-1,0,0,0,100,100,0,0,1,6,0,9,41,201,101,0
 Style: Карасума_Титосэ_bag-close-up(Ep 11),PT Sans,45,&H000F0F0F,&H000000FF,&H00EEEEEE,&H00647FB5,-1,0,0,0,100,100,0,0,1,3,0,8,41,125,77,0
@@ -41,10 +40,63 @@ Style: Teacher's Assistant,PT Serif Caption,75,&H009759FF,&H000000FF,&H00828586,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:40.12,0:00:43.73,Default,,0,0,0,,Kanchigai sarechattatte ii yo
-Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.18,PoemTop,,0,0,0,,{\pos(125,125)}{\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
 Comment: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,Karaoke,{\k100}He{\k100}llo {\k100}World!
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1600,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1450,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1300,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1150,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1000,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(850,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1600,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1450,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1300,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1150,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1000,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(850,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1600,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1450,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1300,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1150,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1000,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H0D6910&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(850,1750,\alpha&HFF&)\fscx41\fscy41\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
+Dialogue: 0,0:00:40.09,0:00:41.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(523,44,531,3,1000,1750)\t(1000,1750,\frx-55\fry118\frz123)\t(1550,1750,\alpha&HFF&)\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:40.08,0:00:41.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(523,44,518,3,1000,1750)\t(1000,1750,\frx94\fry104\frz21)\t(1550,1750,\alpha&HFF&)\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:40.07,0:00:41.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(523,44,539,3,1000,1750)\t(1000,1750,\frx-116\fry20\frz136)\t(1550,1750,\alpha&HFF&)\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:40.06,0:00:41.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(523,44,514,3,1000,1750)\t(1000,1750,\frx4\fry38\frz-62)\t(1550,1750,\alpha&HFF&)\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:40.05,0:00:41.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(523,44,519,3,1000,1750)\t(1000,1750,\frx90\fry140\frz-177)\t(1550,1750,\alpha&HFF&)\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:40.04,0:00:41.79,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(523,44,511,3,1000,1750)\t(1000,1750,\frx-107\fry-35\frz2)\t(1550,1750,\alpha&HFF&)\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
+Dialogue: 0,0:00:41.09,0:00:42.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(582,44,613,3,1000,1750)\t(1000,1750,\frx-40\fry156\frz-129)\t(1550,1750,\alpha&HFF&)\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:41.08,0:00:42.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(582,44,586,3,1000,1750)\t(1000,1750,\frx-108\fry-73\frz53)\t(1550,1750,\alpha&HFF&)\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:41.07,0:00:42.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(582,44,604,3,1000,1750)\t(1000,1750,\frx99\fry27\frz19)\t(1550,1750,\alpha&HFF&)\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:41.06,0:00:42.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(582,44,613,3,1000,1750)\t(1000,1750,\frx119\fry108\frz-97)\t(1550,1750,\alpha&HFF&)\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:41.05,0:00:42.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(582,44,571,3,1000,1750)\t(1000,1750,\frx-26\fry-53\frz-79)\t(1550,1750,\alpha&HFF&)\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:41.04,0:00:42.79,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(582,44,561,3,1000,1750)\t(1000,1750,\frx-69\fry178\frz-172)\t(1550,1750,\alpha&HFF&)\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
+Dialogue: 0,0:00:42.09,0:00:43.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(706,44,663,3,1000,1750)\t(1000,1750,\frx-4\fry-159\frz1)\t(1550,1750,\alpha&HFF&)\p1}m 36 54 b 33 27 18 17 11 11 -1 1 -9 3 -4 17 -1 29 4 35 10 44 18 52 23 57 36 62{\p0}
+Dialogue: 0,0:00:42.08,0:00:43.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(706,44,698,3,1000,1750)\t(1000,1750,\frx-71\fry15\frz-172)\t(1550,1750,\alpha&HFF&)\p1}m 68 71 b 80 62 104 60 122 66 143 71 139 84 121 86 102 88 80 84 69 73{\p0}
+Dialogue: 0,0:00:42.07,0:00:43.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(706,44,768,3,1000,1750)\t(1000,1750,\frx-118\fry71\frz2)\t(1550,1750,\alpha&HFF&)\p1}m 30 85 b 16 88 4 97 -1 111 -5 127 2 131 16 121 25 113 33 99 31 88{\p0}
+Dialogue: 0,0:00:42.06,0:00:43.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(706,44,770,3,1000,1750)\t(1000,1750,\frx-75\fry113\frz149)\t(1550,1750,\alpha&HFF&)\p1}m 38 65 b 45 66 51 62 54 58 64 50 52 38 41 48 35 56 35 59 36 63{\p0}
+Dialogue: 0,0:00:42.05,0:00:43.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(706,44,729,3,1000,1750)\t(1000,1750,\frx-45\fry-141\frz-119)\t(1550,1750,\alpha&HFF&)\p1}m 33 77 b 51 77 58 83 59 92 61 105 47 105 42 102 35 99 31 91 32 78{\p0}
+Dialogue: 0,0:00:42.04,0:00:43.79,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx33\fscy33\1c&H46BD62&\move(706,44,634,3,1000,1750)\t(1000,1750,\frx84\fry-104\frz-81)\t(1550,1750,\alpha&HFF&)\p1}m 26 70 b 21 65 15 60 6 64 1 68 1 73 7 78 14 79 20 80 26 72{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(523,44,531,24,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(524,44,501,24,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,45,547,25,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(523,43,528,23,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,43,515,23,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(524,43,523,23,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,43,522,23,1000,1750)\fscx117\fscx117\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(582,44,586,24,1000,1750)\fscx219\fscx219\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(582,44,563,24,1000,1750)\fscx219\fscx219\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(583,43,557,23,1000,1750)\fscx219\fscx219\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(582,43,614,23,1000,1750)\fscx219\fscx219\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,44,580,24,1000,1750)\fscx219\fscx219\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(705,45,717,25,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(705,44,752,24,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(705,44,685,24,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(705,43,682,23,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,44,700,24,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,45,658,25,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,675,25,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,45,722,25,1000,1750)\fscx367\fscx367\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(523,44)\1c&H46BD62&\t(0,500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(500,1000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}He
+Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(582,44)\1c&H46BD62&\t(1000,1500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(1500,2000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}llo 
+Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(706,44)\1c&H46BD62&\t(2000,2500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(2500,3000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}World!
