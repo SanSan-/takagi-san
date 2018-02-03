@@ -10,14 +10,15 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Automation Scripts: ~macro-sakura.lua
 Last Style Storage: Default
-Audio File: /Users/alexfranz/Projects/takagi-san/01.mkv
-Video File: /Users/alexfranz/Projects/takagi-san/01.mkv
+Audio File: 01.mkv
+Video File: 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 10
-Active Line: 14
+Active Line: 1
+Video Position: 963
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,119 +40,53 @@ Style: Teacher's Assistant,PT Serif Caption,75,&H009759FF,&H000000FF,&H00828586,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:40.12,0:00:43.73,Default,,0,0,0,,Kanchigai sarechattatte ii yo
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code once,xres, yres, ar, artype = _G.aegisub.video_size() llead_dur = 500 star = "m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13"
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,code line,lheight = line.height ytop, ymiddle, ybottom = lheight, yres / 2, yres - lheight apms = .4 starlead_dur = 500 starlead_arot = starlead_dur * apms starsc = 150 linearot = line.duration * apms
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template pre-line PREL,!retime("preline",-starlead_dur,0)!{\an5\1a&HFF&\3c&HFFFFF&\frz!-starlead_arot!\fscx!starsc!\fscy!starsc!\pos(!$lleft-$lheight!,!ymiddle!)\t(\frz0\fscx100\fscy100)}{\p1}!star!{\p0}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template line PREL notext,{}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template pre-line L,{\an5\3c&HFFFFF&\frz0\pos(!$lleft-$lheight!,!ymiddle!)\t(\frz!linearot!)}{\p1}!star!{\p0}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template line L notext,{}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template pre-line POSTL,!retime("postline",0,starlead_dur)!{\an5\1a&HFF&\3c&HFFFFF&\frz!linearot!\pos(!$lleft-$lheight!,!ymiddle!)\t(\frz!linearot+starlead_arot!\fscx0\fscy0)}{\p1}!star!{\p0}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template line POSTL notext,{}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl noblank notext,!retime("presyl", -400,0)!{\an5\move(!math.random($sleft,$sright)!,!ytop!,$scenter,!ymiddle!)\t(\frz!math.random(250,400)!)\p1}!star!{\p0}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl notext loop 5,!retime("postsyl", 0,800)!{\an5\move($scenter,!ymiddle!,!math.random($sleft,$sright)!,!ybottom!)\t(\frz!math.random(250,400)!)\p2}!star!{\p0}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl noblank,!retime("start2syl", -llead_dur)!{\an5\pos($center, !ymiddle!)\fad(!llead_dur!,0)}
-Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl noblank,!retime("syl",0,0)!{\an5\pos($center, !ymiddle!)\t(0,!$sdur/2!,\fscx150,\fscy150)\t(!$sdur/2!,$sdur,\fscx100,\fscy100)}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template syl noblank,!retime("syl2end", 0, llead_dur)!{\an5\pos($center, !ymiddle!)\fad(0,!llead_dur!)}
-Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,template line,!retime("abs", 0, 0)!
-Comment: 0,0:00:39.10,0:00:40.10,Default,,0,0,0,,
-Comment: 0,0:00:40.10,0:00:41.73,Default,,0,0,0,karaoke,{\k30}He{\k30}llo {\k80}World!
-Comment: 0,0:00:42.80,0:00:44.51,Default,,0,0,0,karaoke,{\k30}Wel{\k25}come {\k40}to {\k25}Ae{\k20}gi{\k40}sub
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,fx,Hello World!
-Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz-200\fscx150\fscy150\pos(440,360)\t(\frz0\fscx100\fscy100)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
-Dialogue: 0,0:00:40.10,0:00:41.73,Default,,0,0,0,fx,{\an5\3c&HFFFFF&\frz0\pos(440,360)\t(\frz652)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
-Dialogue: 0,0:00:41.73,0:00:42.23,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz652\pos(440,360)\t(\frz852\fscx0\fscy0)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz302)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz250)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz257)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz362)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.10,0:00:40.90,Default,,0,0,0,fx,{\an5\move(505,360,505,655)\t(\frz341)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:39.70,0:00:40.10,Default,,0,0,0,fx,{\an5\move(521,65,535,360)\t(\frz357)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,523,655)\t(\frz365)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,551,655)\t(\frz328)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,542,655)\t(\frz364)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,533,655)\t(\frz282)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.40,0:00:41.20,Default,,0,0,0,fx,{\an5\move(535,360,539,655)\t(\frz351)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:39.60,0:00:40.10,Default,,0,0,0,fx,{\an5\pos(535, 360)\fad(500,0)}He
-Dialogue: 1,0:00:40.10,0:00:40.40,Default,,0,0,0,fx,{\an5\pos(535, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}He
-Dialogue: 0,0:00:40.40,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(535, 360)\fad(0,500)}He
-Dialogue: 0,0:00:40.00,0:00:40.40,Default,,0,0,0,fx,{\an5\move(612,65,593,360)\t(\frz345)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,621,655)\t(\frz390)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,609,655)\t(\frz300)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,599,655)\t(\frz394)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,608,655)\t(\frz286)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\move(593,360,621,655)\t(\frz293)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:39.60,0:00:40.40,Default,,0,0,0,fx,{\an5\pos(593, 360)\fad(500,0)}llo 
-Dialogue: 1,0:00:40.40,0:00:40.70,Default,,0,0,0,fx,{\an5\pos(593, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}llo 
-Dialogue: 0,0:00:40.70,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(593, 360)\fad(0,500)}llo 
-Dialogue: 0,0:00:40.30,0:00:40.70,Default,,0,0,0,fx,{\an5\move(687,65,704,360)\t(\frz384)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,742,655)\t(\frz280)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,712,655)\t(\frz293)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,695,655)\t(\frz290)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,772,655)\t(\frz398)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:41.50,0:00:42.30,Default,,0,0,0,fx,{\an5\move(704,360,667,655)\t(\frz299)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:39.60,0:00:40.70,Default,,0,0,0,fx,{\an5\pos(704, 360)\fad(500,0)}World!
-Dialogue: 1,0:00:40.70,0:00:41.50,Default,,0,0,0,fx,{\an5\pos(704, 360)\t(0,400,\fscx150,\fscy150)\t(400,800,\fscx100,\fscy100)}World!
-Dialogue: 0,0:00:41.50,0:00:42.23,Default,,0,0,0,fx,{\an5\pos(704, 360)\fad(0,500)}World!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,fx,Welcome to Aegisub
-Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz-200\fscx150\fscy150\pos(358,360)\t(\frz0\fscx100\fscy100)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
-Dialogue: 0,0:00:42.80,0:00:44.51,Default,,0,0,0,fx,{\an5\3c&HFFFFF&\frz0\pos(358,360)\t(\frz684)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
-Dialogue: 0,0:00:44.51,0:00:45.01,Default,,0,0,0,fx,{\an5\1a&HFF&\3c&HFFFFF&\frz684\pos(358,360)\t(\frz884\fscx0\fscy0)}{\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}{}{}{}{}{}{}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz345)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz299)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz332)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz255)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.80,0:00:43.60,Default,,0,0,0,fx,{\an5\move(423,360,423,655)\t(\frz359)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.40,0:00:42.80,Default,,0,0,0,fx,{\an5\move(479,65,463,360)\t(\frz364)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,474,655)\t(\frz341)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,436,655)\t(\frz255)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,458,655)\t(\frz344)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,447,655)\t(\frz373)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.10,0:00:43.90,Default,,0,0,0,fx,{\an5\move(463,360,479,655)\t(\frz285)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.30,0:00:42.80,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(500,0)}Wel
-Dialogue: 1,0:00:42.80,0:00:43.10,Default,,0,0,0,fx,{\an5\pos(463, 360)\t(0,150,\fscx150,\fscy150)\t(150,300,\fscx100,\fscy100)}Wel
-Dialogue: 0,0:00:43.10,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(463, 360)\fad(0,500)}Wel
-Dialogue: 0,0:00:42.70,0:00:43.10,Default,,0,0,0,fx,{\an5\move(546,65,560,360)\t(\frz294)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,547,655)\t(\frz276)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,583,655)\t(\frz365)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,596,655)\t(\frz326)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,524,655)\t(\frz341)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.35,0:00:44.15,Default,,0,0,0,fx,{\an5\move(560,360,548,655)\t(\frz320)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.30,0:00:43.10,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(500,0)}come 
-Dialogue: 1,0:00:43.10,0:00:43.35,Default,,0,0,0,fx,{\an5\pos(560, 360)\t(0,125,\fscx150,\fscy150)\t(125,250,\fscx100,\fscy100)}come 
-Dialogue: 0,0:00:43.35,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(560, 360)\fad(0,500)}come 
-Dialogue: 0,0:00:42.95,0:00:43.35,Default,,0,0,0,fx,{\an5\move(672,65,652,360)\t(\frz364)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,653,655)\t(\frz250)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,644,655)\t(\frz383)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,634,655)\t(\frz324)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,650,655)\t(\frz345)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:43.75,0:00:44.55,Default,,0,0,0,fx,{\an5\move(652,360,643,655)\t(\frz254)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.30,0:00:43.35,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(500,0)}to 
-Dialogue: 1,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,{\an5\pos(652, 360)\t(0,200,\fscx150,\fscy150)\t(200,400,\fscx100,\fscy100)}to 
-Dialogue: 0,0:00:43.75,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(652, 360)\fad(0,500)}to 
-Dialogue: 0,0:00:43.35,0:00:43.75,Default,,0,0,0,fx,{\an5\move(705,65,714,360)\t(\frz307)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,732,655)\t(\frz303)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,706,655)\t(\frz341)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,728,655)\t(\frz367)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,719,655)\t(\frz335)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.00,0:00:44.80,Default,,0,0,0,fx,{\an5\move(714,360,708,655)\t(\frz393)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.30,0:00:43.75,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(500,0)}Ae
-Dialogue: 1,0:00:43.75,0:00:44.00,Default,,0,0,0,fx,{\an5\pos(714, 360)\t(0,125,\fscx150,\fscy150)\t(125,250,\fscx100,\fscy100)}Ae
-Dialogue: 0,0:00:44.00,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(714, 360)\fad(0,500)}Ae
-Dialogue: 0,0:00:43.60,0:00:44.00,Default,,0,0,0,fx,{\an5\move(744,65,762,360)\t(\frz288)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,762,655)\t(\frz309)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,748,655)\t(\frz339)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,775,655)\t(\frz302)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,755,655)\t(\frz372)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.20,0:00:45.00,Default,,0,0,0,fx,{\an5\move(762,360,742,655)\t(\frz350)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.30,0:00:44.00,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(500,0)}gi
-Dialogue: 1,0:00:44.00,0:00:44.20,Default,,0,0,0,fx,{\an5\pos(762, 360)\t(0,100,\fscx150,\fscy150)\t(100,200,\fscx100,\fscy100)}gi
-Dialogue: 0,0:00:44.20,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(762, 360)\fad(0,500)}gi
-Dialogue: 0,0:00:43.80,0:00:44.20,Default,,0,0,0,fx,{\an5\move(833,65,820,360)\t(\frz297)\p1}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,787,655)\t(\frz283)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,809,655)\t(\frz273)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,811,655)\t(\frz275)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,803,655)\t(\frz302)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:44.60,0:00:45.40,Default,,0,0,0,fx,{\an5\move(820,360,848,655)\t(\frz387)\p2}m 21 0 l 17 12 l 0 13 l 13 22 l 7 33 l 21 27 l 32 36 l 29 22 l 42 13 l 26 13{\p0}
-Dialogue: 0,0:00:42.30,0:00:44.20,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(500,0)}sub
-Dialogue: 1,0:00:44.20,0:00:44.60,Default,,0,0,0,fx,{\an5\pos(820, 360)\t(0,200,\fscx150,\fscy150)\t(200,400,\fscx100,\fscy100)}sub
-Dialogue: 0,0:00:44.60,0:00:45.01,Default,,0,0,0,fx,{\an5\pos(820, 360)\fad(0,500)}sub
+Comment: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,Karaoke,{\k100}He{\k100}llo {\k100}World!
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1600,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1450,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1300,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1150,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(523.796875,44.500000)\t(1000,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1600,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1450,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1300,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1150,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(582.859375,44.500000)\t(1000,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1600,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1450,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1300,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1150,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\1a&HFF&\3c&H4C3B3D&\bord4\be1\3a&H99&\pos(706.765625,44.500000)\t(1000,1750,\alpha&HFF&)\fscx125\fscy125\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
+Dialogue: 0,0:00:40.09,0:00:41.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,539,3,1000,1750)\t(1000,1750,\frx48\fry33\frz91)\t(1550,1750,\alpha&HFF&)\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
+Dialogue: 0,0:00:40.08,0:00:41.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,503,3,1000,1750)\t(1000,1750,\frx39\fry-58\frz85)\t(1550,1750,\alpha&HFF&)\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
+Dialogue: 0,0:00:40.07,0:00:41.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,520,3,1000,1750)\t(1000,1750,\frx17\fry-139\frz-161)\t(1550,1750,\alpha&HFF&)\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
+Dialogue: 0,0:00:40.06,0:00:41.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,548,3,1000,1750)\t(1000,1750,\frx50\fry-117\frz171)\t(1550,1750,\alpha&HFF&)\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
+Dialogue: 0,0:00:40.05,0:00:41.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(523,44,512,3,1000,1750)\t(1000,1750,\frx-35\fry-10\frz65)\t(1550,1750,\alpha&HFF&)\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
+Dialogue: 0,0:00:41.09,0:00:42.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,588,3,1000,1750)\t(1000,1750,\frx72\fry-17\frz-115)\t(1550,1750,\alpha&HFF&)\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
+Dialogue: 0,0:00:41.08,0:00:42.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,593,3,1000,1750)\t(1000,1750,\frx-70\fry35\frz-128)\t(1550,1750,\alpha&HFF&)\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
+Dialogue: 0,0:00:41.07,0:00:42.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,605,3,1000,1750)\t(1000,1750,\frx20\fry-172\frz121)\t(1550,1750,\alpha&HFF&)\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
+Dialogue: 0,0:00:41.06,0:00:42.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,551,3,1000,1750)\t(1000,1750,\frx79\fry46\frz118)\t(1550,1750,\alpha&HFF&)\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
+Dialogue: 0,0:00:41.05,0:00:42.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(582,44,560,3,1000,1750)\t(1000,1750,\frx-59\fry152\frz-66)\t(1550,1750,\alpha&HFF&)\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
+Dialogue: 0,0:00:42.09,0:00:43.84,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,644,3,1000,1750)\t(1000,1750,\frx-35\fry152\frz-171)\t(1550,1750,\alpha&HFF&)\p1}m 14 12 b 14 12 0 -4 12 -9 b 13 -8 13 -7 14 -6 b 15 -7 15 -9 15 -10 b 28 -4 14 12 14 12{\p0}
+Dialogue: 0,0:00:42.08,0:00:43.83,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,732,3,1000,1750)\t(1000,1750,\frx59\fry19\frz-138)\t(1550,1750,\alpha&HFF&)\p1}m 10 14 b 10 14 20 -4 30 6 b 28 7 27 8 27 9 b 28 9 30 9 31 9 b 29 22 10 14 10 14{\p0}
+Dialogue: 0,0:00:42.07,0:00:43.82,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,652,3,1000,1750)\t(1000,1750,\frx-113\fry0\frz68)\t(1550,1750,\alpha&HFF&)\p1}m 10 10 b 10 10 30 13 25 25 b 24 24 23 24 23 24 b 23 25 23 26 23 27 b 9 29 10 10 10 10{\p0}
+Dialogue: 0,0:00:42.06,0:00:43.81,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,707,3,1000,1750)\t(1000,1750,\frx86\fry-130\frz-75)\t(1550,1750,\alpha&HFF&)\p1}m 11 9 b 11 9 14 27 0 26 b 0 25 1 24 0 23 b -1 23 -3 24 -3 25 b -8 14 11 9 11 9{\p0}
+Dialogue: 0,0:00:42.05,0:00:43.80,PoemTop,,0,0,0,fx,{\an5\be1\bord0.1\3c&H000000&\3a&HAA&\fscx100\fscy100\1c&H8C7675&\move(706,44,762,3,1000,1750)\t(1000,1750,\frx64\fry71\frz54)\t(1550,1750,\alpha&HFF&)\p1}m 10 13 b 10 13 -7 21 -10 9 b -9 9 -8 8 -7 8 b -8 7 -9 7 -10 6 b 0 -4 10 13 10 13{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,45,519,25,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(524,44,513,24,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(524,45,528,25,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:41.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(522,44,531,24,1000,1750)\fscx436\fscx436\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,43,563,23,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(582,44,566,24,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,43,558,23,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:41.10,0:00:42.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(581,45,595,25,1000,1750)\fscx400\fscx400\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,642,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,643,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,44,647,24,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(705,43,751,23,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,45,754,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,44,772,24,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord1.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(707,45,733,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:42.10,0:00:43.85,PoemTop,,0,0,0,fx,{\an5\shad0\bord0.100000\be1\1c&HFFFFFF&\3c&HFFFFFF&\3a&H55&\move(706,45,692,25,1000,1750)\fscx475\fscx475\p1}m 0 0 l 0 1 l 1 1 l 1 0 l 0 0{\p0}
+Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(523,44)\1c&H8C7675&\t(0,500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(500,1000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}He
+Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(582,44)\1c&H8C7675&\t(1000,1500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(1500,2000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}llo 
+Dialogue: 0,0:00:40.10,0:00:43.10,PoemTop,,0,0,0,fx,{\an5\pos(706,44)\1c&H8C7675&\t(2000,2500,\1c&HFFFFFF&\3c&H4C3B3D&\3a&H10&\bord3\be1)\t(2500,3000,\1a&HFF&\bord1\be0\3c&HFFFFFF&)}World!
