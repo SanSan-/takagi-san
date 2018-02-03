@@ -17,7 +17,7 @@ Video File: 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 29
+Scroll Position: 35
 Active Line: 39
 Video Position: 2944
 
@@ -52,10 +52,10 @@ Dialogue: 0,0:01:53.17,0:01:58.34,OPTop,,0,0,0,,{\k25}Ki{\k25}mi  {\k32}to  {\k2
 Dialogue: 0,0:01:58.34,0:02:02.72,OPTop,,0,0,0,,{\k40}Chi{\k50}ka{\k30}zu{\k65}ku  {\k25}so{\k25}ra  {\k35}no  {\k25}ka{\k20}o{\k25}ri  {\k120}o
 Dialogue: 0,0:02:02.72,0:02:08.31,OPTop,,0,0,0,,{\k30}To{\k25}na{\k25}ri  {\k35}de  {\k30}kan{\k30}ji  {\k120}te  {\k40}i  {\k40}ta{\k30}i  {\k120}no
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Песня (русский)
-Dialogue: 0,0:00:40.12,0:00:43.73,OPBottom,,0,0,0,,{\k50}Kan{\k25}chi{\k45}ga{\k40}i  {\k17}sa{\k15}re{\k15}cha{\k25}tta{\k35}tte  {\k75}ii  {\k35}yo
-Dialogue: 0,0:00:43.89,0:00:49.07,OPBottom,,0,0,0,,{\k25}Ki{\k25}mi  {\k32}to  {\k27}na{\k20}ra  {\k37}nan{\k45}te  {\k27}o{\k25}mo{\k20}tte  {\k27}ta{\k20}tte  {\k35}i{\k30}wa{\k30}nai  {\k30}ke{\k30}do  {\k30}ne
-Dialogue: 0,0:00:49.07,0:00:53.42,OPBottom,,0,0,0,,{\k40}Chi{\k50}ka{\k30}zu{\k65}ku  {\k25}so{\k25}ra  {\k35}no  {\k25}ka{\k20}o{\k25}ri  {\k120}o
-Dialogue: 0,0:00:53.42,0:00:59.00,OPBottom,,0,0,0,,{\k30}To{\k25}na{\k25}ri  {\k35}de  {\k30}kan{\k30}ji  {\k120}te  {\k40}i  {\k40}ta{\k30}i  {\k120}no
+Dialogue: 0,0:00:40.12,0:00:43.73,OPBottom,,0,0,0,,{\k50}По{\k25}слу{\k45}шай,  {\k40}мо{\k17}жет  {\k15}ты  {\k15}не {\k25}так  {\k35}всё  {\k75}по{\k35}нял
+Dialogue: 0,0:00:43.89,0:00:49.07,OPBottom,,0,0,0,,{\k25}Ведь  {\k25}я  {\k32}не  {\k27}о{\k20}бе{\k37}ща{\k45}ла,  {\k27}что  {\k25}мы  {\k20}бу{\k27}дем  {\k20}вме{\k35}сте,  {\k30}ты  {\k30}не  {\k30}о{\k30}бес{\k30}судь
+Dialogue: 0,0:00:49.07,0:00:53.42,OPBottom,,0,0,0,,{\k40}Ве{\k50}тер  {\k30}не{\k65}сёт  {\k25}све{\k25}жий  {\k35}за{\k25}пах  {\k20}о{\k25}бла{\k120}ков
+Dialogue: 0,0:00:53.42,0:00:59.00,OPBottom,,0,0,0,,{\k30}И  {\k25}ря{\k25}дом  {\k35}с  то{\k30}бой  {\k30}е{\k120}го  {\k40}хо{\k40}чу  {\k30}вдох{\k120}нуть
 Dialogue: 0,0:00:59.87,0:01:02.70,OPBottom,,0,0,0,,{\k30}Ko{\k30}tei  {\k20}de  {\k35}ki{\k35}mi  {\k30}no  {\k30}ko{\k30}to{\k30}ba
 Dialogue: 0,0:01:03.61,0:01:08.08,OPBottom,,0,0,0,,{\k50}Ichi{\k50}ban  {\k160}ni  {\k30}mi{\k20}tsu{\k20}ke  {\k20}te  {\k55}kyou  {\k45}wa
 Dialogue: 0,0:01:08.08,0:01:11.13,OPBottom,,0,0,0,,{\k30}Nan{\k30}te  {\k30}ha{\k30}na{\k25}shi{\k25}ka{\k30}ke{\k30}yo  {\k35}u  {\k35}ka?
@@ -67,10 +67,10 @@ Dialogue: 0,0:01:28.99,0:01:32.20,OPBottom,,0,0,0,,{\k30}Te{\k30}re  {\k47}te  {
 Dialogue: 0,0:01:33.60,0:01:40.48,OPBottom,,0,0,0,,{\k30}Yuu{\k20}u{\k32}tsu  {\k37}na  {\k32}te{\k25}su{\k27}to  {\k215}mo  {\k27}fu{\k27}ki{\k25}to{\k32}ba{\k25}se{\k25}ru  {\k65}you {\k30}na
 Dialogue: 0,0:01:41.88,0:01:46.00,OPBottom,,0,0,0,,{\k85}Nee,  {\k30}fu{\k30}ta{\k30}ri  {\k25}no  {\k30}hi{\k30}mi{\k30}tsu  {\k30}no  {\k30}ya{\k30}ku{\k30}so{\k30}ku
 Dialogue: 0,0:01:46.00,0:01:49.26,OPBottom,,0,0,0,,{\k40}O  {\k27}shi  {\k27}tai  {\k35}na{\k65}tte  {\k25}tei{\k25}an  {\k27}de{\k27}su
-Dialogue: 0,0:01:49.42,0:01:53.00,OPBottom,,0,0,0,,{\k50}Kan{\k25}chi{\k45}ga{\k40}i  {\k17}sa{\k15}re{\k15}cha{\k25}tta{\k35}tte  {\k75}ii  {\k35}yo
-Dialogue: 0,0:01:53.17,0:01:58.34,OPBottom,,0,0,0,,{\k25}Ki{\k25}mi  {\k32}to  {\k27}na{\k20}ra  {\k37}nan{\k45}te  {\k27}o{\k25}mo{\k20}tte  {\k27}ta{\k20}tte  {\k35}i{\k30}wa{\k30}nai  {\k30}ke{\k30}do  {\k30}ne
-Dialogue: 0,0:01:58.34,0:02:02.72,OPBottom,,0,0,0,,{\k40}Chi{\k50}ka{\k30}zu{\k65}ku  {\k25}so{\k25}ra  {\k35}no  {\k25}ka{\k20}o{\k25}ri  {\k120}o
-Dialogue: 0,0:02:02.72,0:02:08.31,OPBottom,,0,0,0,,{\k30}To{\k25}na{\k25}ri  {\k35}de  {\k30}kan{\k30}ji  {\k120}te  {\k40}i  {\k40}ta{\k30}i  {\k120}no
+Dialogue: 0,0:01:49.42,0:01:53.00,OPBottom,,0,0,0,,{\k50}По{\k25}слу{\k45}шай,  {\k40}мо{\k17}жет  {\k15}ты  {\k15}не {\k25}так  {\k35}всё  {\k75}по{\k35}нял
+Dialogue: 0,0:01:53.17,0:01:58.34,OPBottom,,0,0,0,,{\k25}Ведь  {\k25}я  {\k32}не  {\k27}о{\k20}бе{\k37}ща{\k45}ла,  {\k27}что  {\k25}мы  {\k20}бу{\k27}дем  {\k20}вме{\k35}сте,  {\k30}ты  {\k30}не  {\k30}о{\k30}бес{\k30}судь
+Dialogue: 0,0:01:58.34,0:02:02.72,OPBottom,,0,0,0,,{\k40}Ве{\k50}тер  {\k30}не{\k65}сёт  {\k25}све{\k25}жий  {\k35}за{\k25}пах  {\k20}о{\k25}бла{\k120}ков
+Dialogue: 0,0:02:02.72,0:02:08.31,OPBottom,,0,0,0,,{\k30}И  {\k25}ря{\k25}дом  {\k35}с  то{\k30}бой  {\k30}е{\k120}го  {\k40}хо{\k40}чу  {\k30}вдох{\k120}нуть
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Титры
 Dialogue: 0,0:00:57.45,0:01:04.06,Default,,0,0,0,,{\fad(350,1650)\bord1\shad0\an5\fscx175\fscy175\pos(640,150)\1c&Hfafafa&}Kaschenka
 Dialogue: 0,0:00:57.45,0:01:04.06,Title,,0,0,0,,{\fad(350,1650)\bord0\shad0\an5\fscx45\fscy45\pos(640,220)}представляет
