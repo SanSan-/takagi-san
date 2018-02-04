@@ -4,9 +4,9 @@
 include("karaskel.lua");
 
 
-script_name = "Spined Takagi Clower"
+script_name = "Takagi Clower"
 script_author = "Alex SanSan Franz"
-script_description = "..."
+script_description = "Takagi Clower"
 script_version = "1.0"
 
 
@@ -371,4 +371,4 @@ function takagi_process_macro(subtitles, selected_lines, active_line)
 end
 
 
-aegisub.register_macro("Spined Takagi Clower", "SanSan ArtWorks™ Present", takagi_process_macro)
+aegisub.register_macro("Takagi Clower", "SanSan ArtWorks™ Present", takagi_process_macro)

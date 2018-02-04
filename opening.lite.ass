@@ -31,7 +31,7 @@ Style: Title,PT Serif Caption,95,&H00000000,&H000000FF,&H00FFFFFF,&H00FAFAFD,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Песня (японский)
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Opening (японский)
 Dialogue: 0,0:00:40.12,0:00:43.73,OPTop,,0,0,0,,{\k50}Kan{\k25}chi{\k45}ga{\k40}i  {\k17}sa{\k15}re{\k15}cha{\k25}tta{\k35}tte  {\k75}ii  {\k35}yo
 Dialogue: 0,0:00:43.89,0:00:49.07,OPTop,,0,0,0,,{\k25}Ki{\k25}mi  {\k32}to  {\k27}na{\k20}ra  {\k37}nan{\k45}te  {\k27}o{\k25}mo{\k20}tte  {\k27}ta{\k20}tte  {\k35}i{\k30}wa{\k30}nai  {\k30}ke{\k30}do  {\k30}ne
 Dialogue: 0,0:00:49.07,0:00:53.42,OPTop,,0,0,0,,{\k40}Chi{\k50}ka{\k30}zu{\k65}ku  {\k25}so{\k25}ra  {\k35}no  {\k25}ka{\k20}o{\k25}ri  {\k120}o
@@ -51,7 +51,7 @@ Dialogue: 0,0:01:49.42,0:01:53.00,OPTop,,0,0,0,,{\k50}Kan{\k25}chi{\k45}ga{\k40}
 Dialogue: 0,0:01:53.17,0:01:58.34,OPTop,,0,0,0,,{\k25}Ki{\k25}mi  {\k32}to  {\k27}na{\k20}ra  {\k37}nan{\k45}te  {\k27}o{\k25}mo{\k20}tte  {\k27}ta{\k20}tte  {\k35}i{\k30}wa{\k30}nai  {\k30}ke{\k30}do  {\k30}ne
 Dialogue: 0,0:01:58.34,0:02:02.72,OPTop,,0,0,0,,{\k40}Chi{\k50}ka{\k30}zu{\k65}ku  {\k25}so{\k25}ra  {\k35}no  {\k25}ka{\k20}o{\k25}ri  {\k120}o
 Dialogue: 0,0:02:02.72,0:02:08.31,OPTop,,0,0,0,,{\k30}To{\k25}na{\k25}ri  {\k35}de  {\k30}kan{\k30}ji  {\k120}te  {\k40}i  {\k40}ta{\k30}i  {\k120}no
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Песня (русский)
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Opening (русский)
 Dialogue: 0,0:00:40.12,0:00:43.73,OPBottom,,0,0,0,,{\k50}По{\k25}слу{\k45}шай,  {\k40}мо{\k17}жет  {\k15}ты  {\k15}не {\k25}так  {\k35}всё  {\k75}по{\k35}нял
 Dialogue: 0,0:00:43.89,0:00:49.07,OPBottom,,0,0,0,,{\k25}Ведь  {\k25}я  {\k32}не  {\k27}о{\k20}бе{\k37}ща{\k45}ла,  {\k27}что  {\k25}мы  {\k20}бу{\k27}дем  {\k20}вме{\k35}сте,  {\k30}ты  {\k30}не  {\k30}о{\k30}бес{\k30}судь
 Dialogue: 0,0:00:49.07,0:00:53.42,OPBottom,,0,0,0,,{\k40}Ве{\k50}тер  {\k30}не{\k65}сёт  {\k25}све{\k25}жий  {\k35}за{\k25}пах  {\k20}о{\k25}бла{\k120}ков
