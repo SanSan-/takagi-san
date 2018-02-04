@@ -27,11 +27,11 @@ SanSan @Kaschenka
 
 - PF Din Text Comp Pro
 
-— PT Sans
+- PT Sans
 
 - PT Serif Caption
 
-— Five Minutes
+- Five Minutes
 
 
 ##### Пояснения
