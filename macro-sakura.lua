@@ -317,9 +317,9 @@ end
 function sakura:kara_build_syl(subs, line, layer)
 
     local text_format = table.concat({
-        "{\\an5\\pos(%d,%d)\\1c%s",
-        "\\t(%d,%d,\\1c%s\\3c%s\\3a&H10&\\bord3\\be1)",
-        "\\t(%d,%d,\\1a&HFF&\\bord1\\be0\\3c%s)",
+        "{\\an5\\pos(%d,%d)\\1c%s\\fscx100\\fscy100",
+        "\\t(%d,%d,\\1c%s\\3c%s\\3a&H10&\\bord3\\be1\\fscx125\\fscy125)",
+        "\\t(%d,%d,\\1a&HFF&\\bord1\\be0\\3c%s\\fscx112\\fscy112)",
         "}%s"
     }, "")
 
