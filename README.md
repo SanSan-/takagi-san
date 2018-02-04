@@ -25,7 +25,7 @@ SanSan @Kaschenka
 
 ##### Шрифты
 
-- Open Sans
+- PF Din Text Comp Pro
 — PT Sans
 - PT Serif Caption
 — Five Minutes
