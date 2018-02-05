@@ -25,6 +25,8 @@ SanSan @Kaschenka
 
 ##### Шрифты
 
+- Open Sans Semibold
+- Helvetica Neue
 - PF Din Text Comp Pro
 - PT Sans
 - PT Serif Caption
