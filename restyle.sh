@@ -7,6 +7,9 @@ sed -i -e 's/,Main,Нисиката/,Main-Nishikata,Нисиката/g' *.ass
 sed -i -e 's/,Main Top,Нисиката,0000,0000,0000,,/,Main-Nishikata,Нисиката,0000,0000,0000,,{\\an8}/g' *.ass
 sed -i -e 's/,Italics,Нисиката,0000,0000,0000,,/,Main-Nishikata,Нисиката,0000,0000,0000,,{\\i1}/g' *.ass
 sed -i -e 's/,Italics Top,Нисиката,0000,0000,0000,,/,Main-Nishikata,Нисиката,0000,0000,0000,,{\\an8\\i1}/g' *.ass
+sed -i -e 's/,Main Top,Нисиката,0,0,0,,/,Main-Nishikata,Нисиката,0,0,0,,{\\an8}/g' *.ass
+sed -i -e 's/,Italics,Нисиката,0,0,0,,/,Main-Nishikata,Нисиката,0,0,0,,{\\i1}/g' *.ass
+sed -i -e 's/,Italics Top,Нисиката,0,0,0,,/,Main-Nishikata,Нисиката,0,0,0,,{\\an8\\i1}/g' *.ass
 sed -i -e 's/,Main,Такаги/,Main-Takagi,Такаги/g' *.ass
 sed -i -e 's/,Main,Мина/,Main-Mina,Мина/g' *.ass
 sed -i -e 's/,Main,Юкари/,Main-Yukari,Юкари/g' *.ass
