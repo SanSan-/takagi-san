@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 sed -i -e 's/,Flashback Italics,/,Italics,/g' *.ass
 sed -i -e 's/,Flashback,/,Main,/g' *.ass
 sed -i -e 's/,Main,Танабэ/,Main-Tanabe,Танабэ/g' *.ass
