@@ -11,4 +11,5 @@ sed -i -e 's/-san/-сан/g' *.ass
 sed -i -e 's/-chan/-тян/g' *.ass
 sed -i -e 's/-kun/-кун/g' *.ass
 sed -i -e 's/-sensei/-сенсей/g' *.ass
+sed -i -e 's/.../…/g' *.ass
 rm -rf *.ass-e
