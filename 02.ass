@@ -15,9 +15,9 @@ Video File: 02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 35
-Active Line: 41
-Video Position: 5326
+Scroll Position: 13
+Active Line: 20
+Video Position: 3671
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,15 +64,15 @@ Dialogue: 0,0:01:45.16,0:01:46.55,Main,Students,0,0,0,,А ты что напиш
 Dialogue: 0,0:01:51.15,0:01:52.75,Main-Takagi,Такаги,0,0,0,,Трудно выбрать?
 Dialogue: 0,0:01:53.89,0:01:56.22,Main-Nishikata,Нисиката,0,0,0,,А ты уже знаешь, что будешь писать, Такаги-сан?
 Dialogue: 0,0:01:56.47,0:01:59.14,Main-Takagi,Такаги,0,0,0,,Нет… Понятия не имею.
-Dialogue: 0,0:02:00.14,0:02:04.18,Main-Takagi,Такаги,0,0,0,,Точно. Why don't we write\N what we want from each other? Давай напишем то, что хотим знать друг о друге лично?
-Dialogue: 0,0:02:04.42,0:02:07.48,Main-Nishikata,Нисиката,0,0,0,,What we want… from each other? Спросить… друг о друге?
+Dialogue: 0,0:02:00.14,0:02:04.18,Main-Takagi,Такаги,0,0,0,,Придумала. Why don't we write\N what we want from each other? Давай напишем то, что хотим попросить друг от друга?
+Dialogue: 0,0:02:04.42,0:02:07.48,Main-Nishikata,Нисиката,0,0,0,,What we want… from each other? Попросить… друг от друга?
 Dialogue: 0,0:02:07.48,0:02:08.22,Main-Takagi,Такаги,0,0,0,,Угу.
 Dialogue: 0,0:02:12.53,0:02:13.17,Main-Nishikata,Нисиката,0,0,0,,Идёт.
-Dialogue: 0,0:02:17.40,0:02:20.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}What I want from Такаги-сан… Что я хочу спросить у
+Dialogue: 0,0:02:17.40,0:02:20.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}What I want from Такаги-сан… О чём я хочу попросить Такаги-сан…
 Dialogue: 0,0:02:22.41,0:02:24.41,Black Signs,Paper,0,0,0,,{\fad(1150,1)}Дразниться запрещено
 Dialogue: 0,0:02:23.26,0:02:24.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}Отлично!
-Dialogue: 0,0:02:24.41,0:02:27.79,Main-Nishikata,Нисиката,0,0,0,,{\i1}A message telling her not to tease me anymore… Это будет ей послание больше не задирать меня…
-Dialogue: 0,0:02:30.12,0:02:33.09,Main-Nishikata,Нисиката,0,0,0,,{\i1}Wait… That might backfire. Стоп… Это может вызвать обратную реакцию.
+Dialogue: 0,0:02:24.41,0:02:27.79,Main-Nishikata,Нисиката,0,0,0,,{\i1}A message telling her not to tease me anymore… Это будет ей послание/намёк больше не задирать меня…
+Dialogue: 0,0:02:30.12,0:02:33.09,Main-Nishikata,Нисиката,0,0,0,,{\i1}Wait… That might backfire. Нет… Это может вызвать обратную реакцию.
 Dialogue: 0,0:02:34.09,0:02:36.83,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан would probably enjoy that. может такое только понравиться.
 Dialogue: 0,0:02:37.59,0:02:41.27,Main-Nishikata,Нисиката,0,0,0,,{\i1}A word that'll make Такаги-сан\N remorseful without provoking her… Слово, которое взовёт к её совести, но при этом не спровоцирует…
 Dialogue: 0,0:02:43.49,0:02:45.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}This is hard. Это не легко.
@@ -92,27 +92,27 @@ Dialogue: 0,0:03:21.50,0:03:23.09,Main-Nishikata,Нисиката,0,0,0,,{\i1}Th
 Dialogue: 0,0:03:26.21,0:03:29.26,Main-Nishikata,Нисиката,0,0,0,,So, what about you?\N What do you mean by "status quo"? Кстати, а твоё? Что означает «нейтралитет»?
 Dialogue: 0,0:03:30.79,0:03:33.58,Main-Takagi,Такаги,0,0,0,,А, это? Это значит…
 Dialogue: 0,0:03:34.62,0:03:38.03,Main-Takagi,Такаги,0,0,0,,I want Нисиката to stay\N the way he is. Easy to tease.  Я хочу, чтобы ты оставался таким как есть, легко возбудимым.
-Dialogue: 0,0:03:39.18,0:03:41.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn, Такаги-сан is going on the offensive! Чёрт, она 
-Dialogue: 0,0:03:42.06,0:03:45.46,Main-Nishikata,Нисиката,0,0,0,,{\i1}I see. So that's how she wants to play this.
-Dialogue: 0,0:03:45.46,0:03:47.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}I get it now.
-Dialogue: 0,0:03:49.07,0:03:50.95,Main-Nishikata,Нисиката,0,0,0,,Can we do it again? Может повторим?
-Dialogue: 0,0:03:51.53,0:03:52.37,Main-Takagi,Такаги,0,0,0,,All right. Хорошо.
-Dialogue: 0,0:03:55.30,0:03:56.98,Main-Nishikata,Нисиката,0,0,0,,{\i1}Just you watch, Такаги-сан. Смотри у меня
-Dialogue: 0,0:03:56.98,0:03:59.26,Main-Nishikata,Нисиката,0,0,0,,{\i1}I'm gonna go on the offensive this time, too!
-Dialogue: 0,0:04:01.47,0:04:02.54,Main,Students,0,0,0,,Did you finish? Закончил?
-Dialogue: 0,0:04:03.01,0:04:04.13,Main,Students,0,0,0,,Not yet… Нет, пока…
-Dialogue: 0,0:04:10.64,0:04:15.35,Black Signs,Paper,0,0,0,,Kindness Доброта
-Dialogue: 0,0:04:10.97,0:04:15.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}With this, I'll make Такаги-сан \N realize she isn't very kind.
-Dialogue: 0,0:04:15.69,0:04:18.32,Main-Nishikata,Нисиката,0,0,0,,{\i1}I hope this will upset you, Такаги-сан.
-Dialogue: 0,0:04:19.35,0:04:21.57,Main-Takagi,Такаги,0,0,0,,What should I write…? Чтобы написать
-Dialogue: 0,0:04:21.90,0:04:25.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}Oh? You look uncertain, Такаги-сан.
+Dialogue: 0,0:03:39.18,0:03:41.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чёрт, Такаги-сан перешла в наступление!
+Dialogue: 0,0:03:42.06,0:03:45.46,Main-Nishikata,Нисиката,0,0,0,,{\i1}I see. So that's how she wants to play this. Ясно. Значит играем по таким правилам.
+Dialogue: 0,0:03:45.46,0:03:47.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}Теперь я понял.
+Dialogue: 0,0:03:49.07,0:03:50.95,Main-Nishikata,Нисиката,0,0,0,,Может повторим ещё раз?
+Dialogue: 0,0:03:51.53,0:03:52.37,Main-Takagi,Такаги,0,0,0,,Идёт.
+Dialogue: 0,0:03:55.30,0:03:56.98,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вот увидишь, Такаги-сан. 
+Dialogue: 0,0:03:56.98,0:03:59.26,Main-Nishikata,Нисиката,0,0,0,,{\i1}Пришло время для моего наступления!
+Dialogue: 0,0:04:01.47,0:04:02.54,Main,Students,0,0,0,,{\an8}Закончил?
+Dialogue: 0,0:04:03.01,0:04:04.13,Main,Students,0,0,0,,{\an8}Пока, нет…
+Dialogue: 0,0:04:10.64,0:04:15.35,Black Signs,Paper,0,0,0,,Доброта
+Dialogue: 0,0:04:10.97,0:04:15.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}With this, I'll make Такаги-сан \N realize she isn't very kind. С этим, я заставлю Такаги-сан понять, что она не такая уж и добрая.
+Dialogue: 0,0:04:15.69,0:04:18.32,Main-Nishikata,Нисиката,0,0,0,,{\i1}Надеюсь тебя сильно огорчить, Такаги-сан.
+Dialogue: 0,0:04:19.35,0:04:21.57,Main-Takagi,Такаги,0,0,0,,Чтобы такое написать…?
+Dialogue: 0,0:04:21.90,0:04:25.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ого! Я уже беспокоюсь, Такаги-сан.
 Dialogue: 0,0:04:25.06,0:04:29.79,Main-Nishikata,Нисиката,0,0,0,,{\i1}I believe it's all due to\N your lack of kindness.
-Dialogue: 0,0:04:30.97,0:04:34.50,Main-Takagi,Такаги,0,0,0,,Oh, by the way, your handwriting is pretty good.
-Dialogue: 0,0:04:34.85,0:04:38.15,Main-Takagi,Такаги,0,0,0,,It looks interesting. Did you\N learn calligraphy somewhere?
-Dialogue: 0,0:04:38.53,0:04:40.50,Main-Nishikata,Нисиката,0,0,0,,N-No, not really…
-Dialogue: 0,0:04:42.82,0:04:45.30,Main-Takagi,Такаги,0,0,0,,Well, I like your handwriting, Нисиката.
-Dialogue: 0,0:04:58.60,0:04:59.40,Main-Takagi,Такаги,0,0,0,,Here.
-Dialogue: 0,0:05:00.02,0:05:02.08,Main-Nishikata,Нисиката,0,0,0,,Th-Thanks….
+Dialogue: 0,0:04:30.97,0:04:34.50,Main-Takagi,Такаги,0,0,0,,К слову, про рисунки — у тебя отлично выходит.
+Dialogue: 0,0:04:34.85,0:04:38.15,Main-Takagi,Такаги,0,0,0,,It looks interesting. Did you\N learn calligraphy somewhere? Выглядит интересно. Ты где-то этому обучался?
+Dialogue: 0,0:04:38.53,0:04:40.50,Main-Nishikata,Нисиката,0,0,0,,Н-Нет, нигде…
+Dialogue: 0,0:04:42.82,0:04:45.30,Main-Takagi,Такаги,0,0,0,,Мне нравится как ты рисуешь, Нисиката.
+Dialogue: 0,0:04:58.60,0:04:59.40,Main-Takagi,Такаги,0,0,0,,Держи.
+Dialogue: 0,0:05:00.02,0:05:02.08,Main-Nishikata,Нисиката,0,0,0,,С-Спасибо….
 Dialogue: 0,0:05:04.08,0:05:06.95,Main-Nishikata,Нисиката,0,0,0,,{\i1}Huh? She's nice all of a sudden…
 Dialogue: 0,0:05:07.30,0:05:08.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}What's going on…?
 Dialogue: 0,0:05:10.62,0:05:13.58,Main-Nishikata,Нисиката,0,0,0,,{\i1}Could it be? Is Такаги-сан actually pretty nice,
