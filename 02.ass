@@ -49,6 +49,7 @@ Style: Main-Mina,PF Din Text Comp Pro,65,&H00D1E4F8,&H000000FF,&H001E3C5A,&H0040
 Style: Main-Yukari,PF Din Text Comp Pro,65,&H00C7D3FB,&H000000FF,&H001E344F,&H003D648B,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Main-Sanae,PF Din Text Comp Pro,65,&H00F5F1F0,&H000000FF,&H002B2F33,&H00393E43,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Main-Nakai,PF Din Text Comp Pro,65,&H00E3E8F9,&H000000FF,&H0020273E,&H00323B57,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Main-Takao,PF Din Text Comp Pro,65,&H00E3E8F9,&H000000FF,&H0020273E,&H00323B57,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -296,9 +297,9 @@ Dialogue: 0,0:15:57.41,0:16:00.43,Main-Takagi,Такаги,0,0,0,,I'm actually r
 Dialogue: 0,0:16:00.71,0:16:02.18,Main-Takagi,Такаги,0,0,0,,What a klutz.
 Dialogue: 0,0:16:07.45,0:16:10.86,Main-Nishikata,Нисиката,0,0,0,,Why are you just observing today—
 Dialogue: 0,0:16:16.06,0:16:17.58,Main-Nishikata,Нисиката,0,0,0,,{\i1}That reminds me…
-Dialogue: 0,0:16:18.39,0:16:21.82,Main,Takao,0,0,0,,A girl who sits out swimming lessons\N is usually on her period.
-Dialogue: 0,0:16:21.82,0:16:25.63,Main,Takao,0,0,0,,According to the textbook,\N it causes abdominal pain.
-Dialogue: 0,0:16:25.88,0:16:28.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's what the King of Health Class, Takao, said…
+Dialogue: 0,0:16:18.39,0:16:21.82,Main-Takao,Такао,0,0,0,,A girl who sits out swimming lessons\N is usually on her period.
+Dialogue: 0,0:16:21.82,0:16:25.63,Main-Takao,Такао,0,0,0,,According to the textbook,\N it causes abdominal pain.
+Dialogue: 0,0:16:25.88,0:16:28.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's what the King of Health Class, Такао, said…
 Dialogue: 0,0:16:29.92,0:16:32.53,Main-Nishikata,Нисиката,0,0,0,,Ah, it's nothing.
 Dialogue: 0,0:16:33.18,0:16:36.74,Main-Nishikata,Нисиката,0,0,0,,{\i1}I shouldn't. I don't think it's something\N I should be asking, anyway.
 Dialogue: 0,0:16:38.08,0:16:40.53,Main-Takagi,Такаги,0,0,0,,You wanted to ask why I'm not swimming today?
