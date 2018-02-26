@@ -1,10 +1,13 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: Karakai Jouzu no Takagi-san
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 848
-PlayResY: 480
+PlayResX: 1280
+PlayResY: 720
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+Original Script: Leopard-Raws
+Original Translation: SanSan
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
