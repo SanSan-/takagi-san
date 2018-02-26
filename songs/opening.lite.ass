@@ -12,8 +12,8 @@ PlayResY: 720
 [Aegisub Project Garbage]
 Automation Scripts: ~macro-sakura.lua|~macro-takagi.lua
 Last Style Storage: Default
-Audio File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 01 RAW (YTV 1280x720 x264 AAC).mp4
-Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 01 RAW (YTV 1280x720 x264 AAC).mp4
+Audio File: ../[Leopard-Raws] Karakai Jouzu no Takagi-san - 01 RAW (YTV 1280x720 x264 AAC).mp4
+Video File: ../[Leopard-Raws] Karakai Jouzu no Takagi-san - 01 RAW (YTV 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
