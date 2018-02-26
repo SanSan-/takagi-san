@@ -18,9 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 01 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 301
-Active Line: 302
-Video Position: 1718
+Scroll Position: 98
+Active Line: 108
+Video Position: 15507
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -150,9 +150,9 @@ Dialogue: 0,0:10:18.84,0:10:20.47,Main-Nishikata,Нисиката,0,0,0,,Деж�
 Dialogue: 0,0:10:20.76,0:10:23.81,Main-Nishikata,Нисиката,0,0,0,,Как говорится: «Кто рано встаёт, тому бог подаёт».
 Dialogue: 0,0:10:25.89,0:10:28.39,Main-Nishikata,Нисиката,0,0,0,,Стоп, это же жетон из игровых автоматов.
 Dialogue: 0,0:10:33.11,0:10:34.27,Main-Nishikata,Нисиката,0,0,0,,«Дежурство»
-Dialogue: 0,0:10:38.99,0:10:40.32,Main-Nishikata,Нисиката,0,0,0,,{\i1}Знаю.
-Dialogue: 0,0:10:40.32,0:10:44.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}Это отличная возможность изгадить Такаги-сан парту.
-Dialogue: 0,0:10:46.75,0:10:48.58,Main-Nishikata,Нисиката,0,0,0,,Одна мысль об этом будит во мне…
+Dialogue: 0,0:10:38.99,0:10:40.32,Main-Nishikata,Нисиката,0,0,0,,{\i1}Знаю.\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:10:40.32,0:10:44.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}Это отличная возможность изгадить Такаги-сан парту.\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:10:46.75,0:10:48.58,Main-Nishikata,Нисиката,0,0,0,,Одна мысль об этом будит во мне…\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:10:54.80,0:10:55.59,Main-Nishikata,Нисиката,0,0,0,,Та…
 Dialogue: 0,0:11:01.59,0:11:03.64,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан уже здесь.
 Dialogue: 0,0:11:04.81,0:11:05.60,Main-Nishikata,Нисиката,0,0,0,,И зачем?
