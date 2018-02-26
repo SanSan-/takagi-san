@@ -10,14 +10,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: 02.mkv
 Video File: 02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 176
-Active Line: 184
-Video Position: 18094
+Scroll Position: 222
+Active Line: 232
+Video Position: 22299
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,7 +50,8 @@ Style: Main-Mina,PF Din Text Comp Pro,65,&H00D1E4F8,&H000000FF,&H001E3C5A,&H0040
 Style: Main-Yukari,PF Din Text Comp Pro,65,&H00C7D3FB,&H000000FF,&H001E344F,&H003D648B,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Main-Sanae,PF Din Text Comp Pro,65,&H00F5F1F0,&H000000FF,&H002B2F33,&H00393E43,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Main-Nakai,PF Din Text Comp Pro,65,&H00E3E8F9,&H000000FF,&H0020273E,&H00323B57,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
-Style: Main-Takao,PF Din Text Comp Pro,65,&H00E3E8F9,&H000000FF,&H0020273E,&H00323B57,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Main-Takao,PF Din Text Comp Pro,65,&H00E1EAF7,&H000000FF,&H0031353B,&H00464C55,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Main-Kimura,PF Din Text Comp Pro,65,&H00E1F7F4,&H000000FF,&H00383B40,&H00586765,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -198,7 +200,7 @@ Dialogue: 0,0:10:24.13,0:10:27.50,Main-Takagi,Такаги,0,0,0,,Я же теб
 Dialogue: 0,0:10:28.14,0:10:31.02,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она специально сказала, чтобы я не правильно понял?
 Dialogue: 0,0:10:31.02,0:10:34.21,Main-Takagi,Такаги,0,0,0,,Не ожидала, что ты {\i1}и правда{\i0} не поймёшь.
 Dialogue: 0,0:10:34.21,0:10:35.86,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так и знал.
-Dialogue: 0,0:10:36.93,0:10:39.62,Main-Takagi,Такаги,0,0,0,,А ты о чём задумался? 
+Dialogue: 0,0:10:36.93,0:10:39.62,Main-Takagi,Такаги,0,0,0,,А ты о чём задумался?
 Dialogue: 0,0:10:40.41,0:10:41.59,Main-Nishikata,Нисиката,0,0,0,,Да так.
 Dialogue: 0,0:10:42.28,0:10:43.76,Main-Takagi,Такаги,0,0,0,,Над чем размышлял?
 Dialogue: 0,0:10:47.05,0:10:49.78,Main-Nishikata,Нисиката,0,0,0,,Так, ничего особо важного.
@@ -281,109 +283,109 @@ Dialogue: 0,0:14:53.56,0:14:57.17,Main-Tanabe,Танабэ,0,0,0,,Сегодня
 Dialogue: 0,0:14:57.17,0:14:58.37,Main-Tanabe,Танабэ,0,0,0,,Нисиката!
 Dialogue: 0,0:15:00.37,0:15:04.88,Pool,Title,0,0,0,,Бассейн
 Dialogue: 0,0:15:02.40,0:15:03.20,Main-Nishikata,Нисиката,0,0,0,,«Бассейн»
-Dialogue: 0,0:15:12.30,0:15:15.94,Main-Nishikata,Нисиката,0,0,0,,{\i1}It's the first day we get to go in\N the pool, but all I can do is watch.
-Dialogue: 0,0:15:17.77,0:15:20.27,Main-Nishikata,Нисиката,0,0,0,,{\i1}If it weren't for this injured hand…
-Dialogue: 0,0:15:23.73,0:15:27.81,Main-Nishikata,Нисиката,0,0,0,,No fair. They're all having fun.
-Dialogue: 0,0:15:27.81,0:15:28.77,Main-Takagi,Такаги,0,0,0,,Right?
-Dialogue: 0,0:15:29.99,0:15:33.92,Main-Takagi,Такаги,0,0,0,,It's the first day of swimming,\N and all we can do is watch. It's sad.
-Dialogue: 0,0:15:33.92,0:15:36.49,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, you too?
-Dialogue: 0,0:15:36.49,0:15:37.29,Main-Takagi,Такаги,0,0,0,,Yeah.
-Dialogue: 0,0:15:38.46,0:15:41.83,Main-Takagi,Такаги,0,0,0,,In your case, is it because\N of your hand? What happened?
-Dialogue: 0,0:15:42.82,0:15:45.29,Main-Nishikata,Нисиката,0,0,0,,Ah, yeah…
-Dialogue: 0,0:15:45.88,0:15:48.39,Main-Nishikata,Нисиката,0,0,0,,You know, things happen.
-Dialogue: 0,0:15:49.16,0:15:52.13,Main-Takagi,Такаги,0,0,0,,I bet you tried to pet a stray cat\N and got bitten, right?
-Dialogue: 0,0:15:53.05,0:15:56.47,Main-Nishikata,Нисиката,0,0,0,,How did you know?! I didn't tell anyone!
-Dialogue: 0,0:15:57.41,0:16:00.43,Main-Takagi,Такаги,0,0,0,,I'm actually right?! I just took a wild guess!
-Dialogue: 0,0:16:00.71,0:16:02.18,Main-Takagi,Такаги,0,0,0,,What a klutz.
-Dialogue: 0,0:16:07.45,0:16:10.86,Main-Nishikata,Нисиката,0,0,0,,Why are you just observing today—
-Dialogue: 0,0:16:16.06,0:16:17.58,Main-Nishikata,Нисиката,0,0,0,,{\i1}That reminds me…
-Dialogue: 0,0:16:18.39,0:16:21.82,Main-Takao,Такао,0,0,0,,A girl who sits out swimming lessons\N is usually on her period.
-Dialogue: 0,0:16:21.82,0:16:25.63,Main-Takao,Такао,0,0,0,,According to the textbook,\N it causes abdominal pain.
-Dialogue: 0,0:16:25.88,0:16:28.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's what the King of Health Class, Такао, said…
-Dialogue: 0,0:16:29.92,0:16:32.53,Main-Nishikata,Нисиката,0,0,0,,Ah, it's nothing.
-Dialogue: 0,0:16:33.18,0:16:36.74,Main-Nishikata,Нисиката,0,0,0,,{\i1}I shouldn't. I don't think it's something\N I should be asking, anyway.
-Dialogue: 0,0:16:38.08,0:16:40.53,Main-Takagi,Такаги,0,0,0,,You wanted to ask why I'm not swimming today?
-Dialogue: 0,0:16:40.91,0:16:42.56,Main-Nishikata,Нисиката,0,0,0,,{\i1}She heard me?!
-Dialogue: 0,0:16:43.55,0:16:47.06,Main-Takagi,Такаги,0,0,0,,Well, I figured out your reason\N is your injured hand,
-Dialogue: 0,0:16:47.06,0:16:49.36,Main-Takagi,Такаги,0,0,0,,so why don't you try to guess my reason?
-Dialogue: 0,0:16:53.59,0:16:54.98,Main-Nishikata,Нисиката,0,0,0,,N-Not feeling good.
-Dialogue: 0,0:16:54.98,0:16:57.28,Main-Takagi,Такаги,0,0,0,,That's too vague.
-Dialogue: 0,0:16:58.31,0:17:01.75,Main-Nishikata,Нисиката,0,0,0,,No, forget it. I don't really wanna know.
-Dialogue: 0,0:17:02.13,0:17:04.37,Main-Takagi,Такаги,0,0,0,,Then I guess I win?
-Dialogue: 0,0:17:07.61,0:17:10.59,Main-Nishikata,Нисиката,0,0,0,,All right, I'll take a guess.
-Dialogue: 0,0:17:10.59,0:17:12.02,Main-Takagi,Такаги,0,0,0,,You get one try.
-Dialogue: 0,0:17:12.02,0:17:14.42,Main-Takagi,Такаги,0,0,0,,Though I don't think you can guess.
-Dialogue: 0,0:17:15.09,0:17:17.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn Такаги-сан…
-Dialogue: 0,0:17:17.47,0:17:20.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}Is she confident because\N she thinks I can't say "period"?
-Dialogue: 0,0:17:20.60,0:17:23.10,Main-Nishikata,Нисиката,0,0,0,,{\i1}If that's the case, she's seriously mocking me!
-Dialogue: 0,0:17:23.52,0:17:24.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, wait!
-Dialogue: 0,0:17:24.42,0:17:27.48,Main-Nishikata,Нисиката,0,0,0,,{\i1}This is Такаги-сан we're talking about.\N It could be a trap!
-Dialogue: 0,0:17:28.94,0:17:33.97,Main-Nishikata,Нисиката,0,0,0,,{\an8\i1}Even if I gathered my courage and answered…
-Dialogue: 0,0:17:31.42,0:17:32.31,Main-Nishikata,Нисиката,0,0,0,,"Period!"
-Dialogue: 0,0:17:34.23,0:17:36.18,Main-Takagi,Такаги,0,0,0,,No, you're so rude!
-Dialogue: 0,0:17:38.41,0:17:40.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's very likely!
-Dialogue: 0,0:17:40.66,0:17:42.96,Main-Nishikata,Нисиката,0,0,0,,{\i1}But knowing Такаги-сан,
-Dialogue: 0,0:17:43.39,0:17:48.97,Main-Nishikata,Нисиката,0,0,0,,{\i1}she probably already knows what\N I'm thinking and why I'm hesitating.
-Dialogue: 0,0:17:48.97,0:17:51.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}And then she'll counter that with…
-Dialogue: 0,0:17:54.31,0:17:57.97,Main-Takagi,Такаги,0,0,0,,You don't even know the reason\N why a girl isn't swimming?
-Dialogue: 0,0:17:58.30,0:18:00.17,Main-Takagi,Такаги,0,0,0,,I win, then.
-Dialogue: 0,0:18:01.35,0:18:03.34,Main-Nishikata,Нисиката,0,0,0,,{\i1}Is it a trap or an honest question?
-Dialogue: 0,0:18:03.34,0:18:05.45,Main-Nishikata,Нисиката,0,0,0,,{\i1}Is she making it seem genuine\N so I'll fall into her trap?
-Dialogue: 0,0:18:05.45,0:18:07.95,Main-Nishikata,Нисиката,0,0,0,,{\i1}Or is she making it seem like\N a trap but asking seriously?
-Dialogue: 0,0:18:08.69,0:18:11.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}This is all confusing.
-Dialogue: 0,0:18:11.23,0:18:15.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn it. What was with that\N face she made a minute ago?
-Dialogue: 0,0:18:16.78,0:18:20.28,Main-Nishikata,Нисиката,0,0,0,,{\i1}Other possibilities… Like an injury?
-Dialogue: 0,0:18:23.42,0:18:25.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}Doesn't seem like it.
-Dialogue: 0,0:18:26.25,0:18:30.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}It doesn't look like she's feeling\N too sick to exercise, either.
-Dialogue: 0,0:18:31.64,0:18:35.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Then that would leave… No…
-Dialogue: 0,0:18:40.67,0:18:43.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}It's not fair. Everyone's having fun.
-Dialogue: 0,0:18:43.92,0:18:49.72,Main-Nishikata,Нисиката,0,0,0,,{\i1}And I'm over here using all my brain\N power battling Такаги-сан in this heat.
-Dialogue: 0,0:18:50.86,0:18:53.50,Main-Takagi,Такаги,0,0,0,,Нисиката, are you taking this seriously?
-Dialogue: 0,0:18:53.50,0:18:56.73,Main-Takagi,Такаги,0,0,0,,I think you're just looking\N at the girls swimming.
-Dialogue: 0,0:18:57.24,0:18:58.40,Main-Nishikata,Нисиката,0,0,0,,N-No, I'm not!
-Dialogue: 0,0:18:58.85,0:19:00.33,Main-Takagi,Такаги,0,0,0,,Really?
-Dialogue: 0,0:19:00.85,0:19:04.62,Main-Takagi,Такаги,0,0,0,,I heard boys look at girls' chests all the time.
-Dialogue: 0,0:19:04.62,0:19:06.95,Main-Nishikata,Нисиката,0,0,0,,I said I wasn't looking.
-Dialogue: 0,0:19:09.84,0:19:11.17,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can't say it out loud,
-Dialogue: 0,0:19:11.79,0:19:15.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}but Такаги-сан doesn't really have a big chest.
-Dialogue: 0,0:19:15.71,0:19:21.28,Main,Kimura,0,0,0,,I heard that a lot of small-chested girls\Nare pretty sensitive about it.
-Dialogue: 0,0:19:22.08,0:19:24.43,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's what the King of\NEarly Lunch, Kimura, said.
-Dialogue: 0,0:19:25.46,0:19:30.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}Is Такаги-сан not swimming\N because she has a complex about her small chest?!
-Dialogue: 0,0:19:31.42,0:19:33.68,Main-Takagi,Такаги,0,0,0,,I knew it. You can't figure it out, can you?
-Dialogue: 0,0:19:33.68,0:19:35.57,Main-Takagi,Такаги,0,0,0,,I win today, too.
-Dialogue: 0,0:19:36.01,0:19:38.98,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан, I know why.
-Dialogue: 0,0:19:39.71,0:19:43.19,Main-Nishikata,Нисиката,0,0,0,,You're concerned about\N your small chest, right?
-Dialogue: 0,0:19:45.42,0:19:50.12,Main-Nishikata,Нисиката,0,0,0,,{\i1}There's no way I can say that! It's beyond rude!
-Dialogue: 0,0:19:50.41,0:19:53.82,Main-Nishikata,Нисиката,0,0,0,,{\i1}In the end, the only answer I have is "period."
-Dialogue: 0,0:19:53.82,0:19:56.44,Main-Nishikata,Нисиката,0,0,0,,{\i1}But that's plenty rude, too.
-Dialogue: 0,0:19:57.06,0:20:00.55,Main-Takagi,Такаги,0,0,0,,You're still thinking? You're almost out of time.
-Dialogue: 0,0:20:00.55,0:20:04.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, it's even mentioned in the textbook.\N It's nothing to be embarrassed about!
-Dialogue: 0,0:20:04.66,0:20:07.62,Main-Nishikata,Нисиката,0,0,0,,{\i1}Yeah, just say it with your head held high!
-Dialogue: 0,0:20:07.62,0:20:08.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}All right!
-Dialogue: 0,0:20:09.35,0:20:11.81,Main-Nishikata,Нисиката,0,0,0,,The reason why you're sitting out\N the swimming lesson
-Dialogue: 0,0:20:11.81,0:20:12.77,Main-Nishikata,Нисиката,0,0,0,,is that…!
-Dialogue: 0,0:20:15.36,0:20:16.68,Main-Nishikata,Нисиката,0,0,0,,You're on your period.
-Dialogue: 0,0:20:20.51,0:20:22.40,Main-Takagi,Такаги,0,0,0,,Wrong.
-Dialogue: 0,0:20:23.21,0:20:25.66,Main-Takagi,Такаги,0,0,0,,That's rude to say to a girl.
-Dialogue: 0,0:20:25.66,0:20:29.66,Main-Nishikata,Нисиката,0,0,0,,But it's mentioned in our\N textbook, and usually, I…
-Dialogue: 0,0:20:32.04,0:20:34.87,Main-Takagi,Такаги,0,0,0,,Нисиката, you're bright red.
-Dialogue: 0,0:20:37.58,0:20:41.59,Main-Nishikata,Нисиката,0,0,0,,{\i1}Then that would mean the reason is that\Nshe has a complex about her small chest?
-Dialogue: 0,0:20:43.18,0:20:44.42,Main-Takagi,Такаги,0,0,0,,Too funny.
-Dialogue: 0,0:20:48.50,0:20:49.49,Main-Takagi,Такаги,0,0,0,,Upsy-daisy.
-Dialogue: 0,0:20:55.93,0:21:00.11,Main-Takagi,Такаги,0,0,0,,By the way, "too embarrassed\N because of my small chest"
-Dialogue: 0,0:21:02.78,0:21:04.26,Main-Takagi,Такаги,0,0,0,,is also incorrect.
-Dialogue: 0,0:21:04.26,0:21:05.03,Main-Nishikata,Нисиката,0,0,0,,Wha—?!
-Dialogue: 0,0:21:06.02,0:21:07.49,Main-Takagi,Такаги,0,0,0,,Sensei,
-Dialogue: 0,0:21:07.95,0:21:10.64,Main-Takagi,Такаги,0,0,0,,I changed my mind. May I swim?
-Dialogue: 0,0:21:10.64,0:21:11.59,Main,Teacher,0,0,0,,Okay.
-Dialogue: 0,0:21:12.24,0:21:13.03,Main-Nishikata,Нисиката,0,0,0,,{\i1}Huh?
-Dialogue: 0,0:21:13.03,0:21:15.84,Main-Nishikata,Нисиката,0,0,0,,{\i1}Then why was she watching?
-Dialogue: 0,0:21:16.57,0:21:17.53,Main-Takagi,Такаги,0,0,0,,Well then…
-Dialogue: 0,0:21:17.53,0:21:21.17,Main-Takagi,Такаги,0,0,0,,Now that I got to see Нисиката make\N a good face, I guess I'll go for a swim.
-Dialogue: 0,0:21:22.00,0:21:25.74,Main-Nishikata,Нисиката,0,0,0,,Don't tell me, you were staying out\Njust to tease me?!
-Dialogue: 0,0:21:32.68,0:21:34.36,Main-Takagi,Такаги,0,0,0,,When your hand's all better…
-Dialogue: 0,0:21:37.71,0:21:39.13,Main-Takagi,Такаги,0,0,0,,we can swim together.
-Dialogue: 0,0:21:48.79,0:21:50.15,Main-Takagi,Такаги,0,0,0,,Oh, it's cold!
-Dialogue: 0,0:21:54.58,0:21:56.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}I won't fall for it.
-Dialogue: 0,0:21:56.54,0:22:00.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}When we do swim together,\N she's gonna tease me again.
-Dialogue: 0,0:22:00.97,0:22:03.63,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's the kind of person Такаги-сан is.
+Dialogue: 0,0:15:12.30,0:15:15.94,Main-Nishikata,Нисиката,0,0,0,,{\i1}Первый день занятий в бассейне, \Nа я только сижу и смотрю.{\i0}
+Dialogue: 0,0:15:17.77,0:15:20.27,Main-Nishikata,Нисиката,0,0,0,,{\i1}Если бы не травма руки…
+Dialogue: 0,0:15:23.73,0:15:27.81,Main-Nishikata,Нисиката,0,0,0,,Везёт. Всем так весело.
+Dialogue: 0,0:15:27.81,0:15:28.77,Main-Takagi,Такаги,0,0,0,,Эй.
+Dialogue: 0,0:15:29.99,0:15:33.92,Main-Takagi,Такаги,0,0,0,,Первый день плавания, а мы только сидим и смотрим.\NПечаль какая.
+Dialogue: 0,0:15:33.92,0:15:36.49,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, и ты тоже?
+Dialogue: 0,0:15:36.49,0:15:37.29,Main-Takagi,Такаги,0,0,0,,Угу.
+Dialogue: 0,0:15:38.46,0:15:41.83,Main-Takagi,Такаги,0,0,0,,Нисиката, ты из-за руки пропускаешь? \NЧто случилось-то?
+Dialogue: 0,0:15:42.82,0:15:45.29,Main-Nishikata,Нисиката,0,0,0,,А, да~а…
+Dialogue: 0,0:15:45.88,0:15:48.39,Main-Nishikata,Нисиката,0,0,0,,Ну, много чего.
+Dialogue: 0,0:15:49.16,0:15:52.13,Main-Takagi,Такаги,0,0,0,,Пытался погладить бродячего кота, а тот тебя цапнул?
+Dialogue: 0,0:15:53.05,0:15:56.47,Main-Nishikata,Нисиката,0,0,0,,Откуда узнала?! Я ведь никому не говорил!
+Dialogue: 0,0:15:57.41,0:16:00.43,Main-Takagi,Такаги,0,0,0,,Правда что ли?! Я просто предположила!
+Dialogue: 0,0:16:00.71,0:16:02.18,Main-Takagi,Такаги,0,0,0,,Вот же растяпа.
+Dialogue: 0,0:16:07.45,0:16:10.86,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан, а ты почему просто наблю—
+Dialogue: 0,0:16:16.06,0:16:17.58,Main-Nishikata,Нисиката,0,0,0,,{\i1}Хотя, если вспомнить…
+Dialogue: 0,0:16:18.39,0:16:21.82,Main-Takao,Такао,0,0,0,,Девочки пропускают плавание, как правило, из-за месячных.
+Dialogue: 0,0:16:21.82,0:16:25.63,Main-Takao,Такао,0,0,0,,Судя по тому, что тут пишут, у них очень сильной боли.
+Dialogue: 0,0:16:25.88,0:16:28.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так сказал Такао, король Биологии…
+Dialogue: 0,0:16:29.92,0:16:32.53,Main-Nishikata,Нисиката,0,0,0,,А, нет, ничего.
+Dialogue: 0,0:16:33.18,0:16:36.74,Main-Nishikata,Нисиката,0,0,0,,{\i1}Прекращай. Чувствую, лучше не затрагивать эту тему.
+Dialogue: 0,0:16:38.08,0:16:40.53,Main-Takagi,Такаги,0,0,0,,Ты хотел спросить, почему я не плаваю?
+Dialogue: 0,0:16:40.91,0:16:42.56,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она, что, услышала меня?!
+Dialogue: 0,0:16:43.55,0:16:47.06,Main-Takagi,Такаги,0,0,0,,Ну, я же догадалась про твои раны, Нисиката.
+Dialogue: 0,0:16:47.06,0:16:49.36,Main-Takagi,Такаги,0,0,0,,Теперь твоя очередь.
+Dialogue: 0,0:16:53.59,0:16:54.98,Main-Nishikata,Нисиката,0,0,0,,П-Плохое самочувстие?
+Dialogue: 0,0:16:54.98,0:16:57.28,Main-Takagi,Такаги,0,0,0,,Слишком неопределённо. Не подходит.
+Dialogue: 0,0:16:58.31,0:17:01.75,Main-Nishikata,Нисиката,0,0,0,,Ладно, забудь. Не больно-то хотелось знать.
+Dialogue: 0,0:17:02.13,0:17:04.37,Main-Takagi,Такаги,0,0,0,,Получается, я победила?
+Dialogue: 0,0:17:07.61,0:17:10.59,Main-Nishikata,Нисиката,0,0,0,,Так и быть, я попробую угадать.
+Dialogue: 0,0:17:10.59,0:17:12.02,Main-Takagi,Такаги,0,0,0,,У тебя одна попытка.
+Dialogue: 0,0:17:12.02,0:17:14.42,Main-Takagi,Такаги,0,0,0,,Хотя, не думаю, что ты догадаешься.
+Dialogue: 0,0:17:15.09,0:17:17.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вот же, Такаги-сан…
+Dialogue: 0,0:17:17.47,0:17:20.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}А самоуверенность, \Nпотому что вслух не сказать?
+Dialogue: 0,0:17:20.60,0:17:23.10,Main-Nishikata,Нисиката,0,0,0,,{\i1}Да, она просто издевается надо мной!
+Dialogue: 0,0:17:23.52,0:17:24.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}Стоп, погодите!
+Dialogue: 0,0:17:24.42,0:17:27.48,Main-Nishikata,Нисиката,0,0,0,,{\i1}Это же типичная подколка от Такаги-сан!
+Dialogue: 0,0:17:28.94,0:17:33.97,Main-Nishikata,Нисиката,0,0,0,,{\an8\i1}Даже, если я осмелюсь ответить…
+Dialogue: 0,0:17:31.42,0:17:32.31,Main-Nishikata,Нисиката,0,0,0,,«Месячные!»
+Dialogue: 0,0:17:34.23,0:17:36.18,Main-Takagi,Такаги,0,0,0,,Да нет же, грубиян чёртов!
+Dialogue: 0,0:17:38.41,0:17:40.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вполне вероятно!
+Dialogue: 0,0:17:40.66,0:17:42.96,Main-Nishikata,Нисиката,0,0,0,,{\i1}Хотя, зная Такаги-сан, 
+Dialogue: 0,0:17:43.39,0:17:48.97,Main-Nishikata,Нисиката,0,0,0,,{\i1}скорее всего, она уже знает, \Nо чём я подумал и почему так переживаю.
+Dialogue: 0,0:17:48.97,0:17:51.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}К тому же, в таком случае она просто ответит…
+Dialogue: 0,0:17:54.31,0:17:57.97,Main-Takagi,Такаги,0,0,0,,Ты даже не знаешь, почему девочки пропускают плавание?
+Dialogue: 0,0:17:58.30,0:18:00.17,Main-Takagi,Такаги,0,0,0,,Выходит, я победила.
+Dialogue: 0,0:18:01.35,0:18:03.34,Main-Nishikata,Нисиката,0,0,0,,{\i1}Прикалывается или серьёзно?
+Dialogue: 0,0:18:03.34,0:18:05.45,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она серьёзно захотела приколоться?
+Dialogue: 0,0:18:05.45,0:18:07.95,Main-Nishikata,Нисиката,0,0,0,,{\i1}Или прикалывается только для виду?
+Dialogue: 0,0:18:08.69,0:18:11.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}Это всё сбивает с толку.
+Dialogue: 0,0:18:11.23,0:18:15.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чёрт бы её подрал. \NЧто это была за кислая мина минуту назад?
+Dialogue: 0,0:18:16.78,0:18:20.28,Main-Nishikata,Нисиката,0,0,0,,{\i1}Другие варианты… Может поранилась?
+Dialogue: 0,0:18:23.42,0:18:25.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вроде как, нет.
+Dialogue: 0,0:18:26.25,0:18:30.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}Тем более, она не выглядит слишком больной,\Nчтобы не заниматься.
+Dialogue: 0,0:18:31.64,0:18:35.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Получается, как и предполагал… Нет…
+Dialogue: 0,0:18:40.67,0:18:43.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}Везёт же. Им всем так весело.
+Dialogue: 0,0:18:43.92,0:18:49.72,Main-Nishikata,Нисиката,0,0,0,,{\i1}Пока я тут, значит, плавлю свои мозги \Nв битве против Такаги-сан. 
+Dialogue: 0,0:18:50.86,0:18:53.50,Main-Takagi,Такаги,0,0,0,,Нисиката, ты там вообще думаешь?
+Dialogue: 0,0:18:53.50,0:18:56.73,Main-Takagi,Такаги,0,0,0,,А похоже, что просто пялишься на плавающих девочек.
+Dialogue: 0,0:18:57.24,0:18:58.40,Main-Nishikata,Нисиката,0,0,0,,Д-Да не пялюсь я!
+Dialogue: 0,0:18:58.85,0:19:00.33,Main-Takagi,Такаги,0,0,0,,Серьёзно?
+Dialogue: 0,0:19:00.85,0:19:04.62,Main-Takagi,Такаги,0,0,0,,Слышала, что парни \Nтолько на женскую грудь, всё время, пялятся.
+Dialogue: 0,0:19:04.62,0:19:06.95,Main-Nishikata,Нисиката,0,0,0,,Сказал же, не пялюсь я!
+Dialogue: 0,0:19:09.84,0:19:11.17,Main-Nishikata,Нисиката,0,0,0,,{\i1}Кстати говоря,
+Dialogue: 0,0:19:11.79,0:19:15.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан не обладает пышным бюстом.
+Dialogue: 0,0:19:15.71,0:19:21.28,Main-Kimura,Кимура,0,0,0,,Слышал, что девочки с маленькой грудью \Nочень переживают по этому поводу.
+Dialogue: 0,0:19:22.08,0:19:24.43,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так сказал Кимура, король обжор.
+Dialogue: 0,0:19:25.46,0:19:30.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}Неужели, Такаги-сан не плавает, \Nиз-за того, что комплексует по поводу груди?!
+Dialogue: 0,0:19:31.42,0:19:33.68,Main-Takagi,Такаги,0,0,0,,Так и думала, что не знаешь.
+Dialogue: 0,0:19:33.68,0:19:35.57,Main-Takagi,Такаги,0,0,0,,И, опять, я победила.
+Dialogue: 0,0:19:36.01,0:19:38.98,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан, а я знаю.
+Dialogue: 0,0:19:39.71,0:19:43.19,Main-Nishikata,Нисиката,0,0,0,,Всё из-за твоей маленькой груди?
+Dialogue: 0,0:19:45.42,0:19:50.12,Main-Nishikata,Нисиката,0,0,0,,{\i1}Я ни за что так не скажу! Это слишком грубо!
+Dialogue: 0,0:19:50.41,0:19:53.82,Main-Nishikata,Нисиката,0,0,0,,{\i1}В итоге, остались только «месячные».
+Dialogue: 0,0:19:53.82,0:19:56.44,Main-Nishikata,Нисиката,0,0,0,,{\i1}Но, всё равно, получится грубо.
+Dialogue: 0,0:19:57.06,0:20:00.55,Main-Takagi,Такаги,0,0,0,,До сих пор не придумал? Уже, скоро, урок закончится.
+Dialogue: 0,0:20:00.55,0:20:04.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}Стоп, так даже в учебниках пишут. \NВ этом нет ничего постыдного!
+Dialogue: 0,0:20:04.66,0:20:07.62,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно, скажи ей это с высоко поднятой головой!
+Dialogue: 0,0:20:07.62,0:20:08.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так-так!
+Dialogue: 0,0:20:09.35,0:20:11.81,Main-Nishikata,Нисиката,0,0,0,,Причина, по которой ты пропускаешь плавание
+Dialogue: 0,0:20:11.81,0:20:12.77,Main-Nishikata,Нисиката,0,0,0,,это…!
+Dialogue: 0,0:20:15.36,0:20:16.68,Main-Nishikata,Нисиката,0,0,0,,Месячные.
+Dialogue: 0,0:20:20.51,0:20:22.40,Main-Takagi,Такаги,0,0,0,,НЕ  У-ГА-ДАЛ.
+Dialogue: 0,0:20:23.21,0:20:25.66,Main-Takagi,Такаги,0,0,0,,И, вообще, ты как с девочкой разговариваешь?
+Dialogue: 0,0:20:25.66,0:20:29.66,Main-Nishikata,Нисиката,0,0,0,,Но, ведь, так пишут в учебниках, и, как правило…
+Dialogue: 0,0:20:32.04,0:20:34.87,Main-Takagi,Такаги,0,0,0,,Нисиката, у тебя лицо на помидор похоже.
+Dialogue: 0,0:20:37.58,0:20:41.59,Main-Nishikata,Нисиката,0,0,0,,{\i1}Значит, она не плавает, \Nпотому что комплексует из-за своей груди?
+Dialogue: 0,0:20:43.18,0:20:44.42,Main-Takagi,Такаги,0,0,0,,Забавно.
+Dialogue: 0,0:20:48.50,0:20:49.49,Main-Takagi,Такаги,0,0,0,,А-та-та.
+Dialogue: 0,0:20:55.93,0:21:00.11,Main-Takagi,Такаги,0,0,0,,Кстати говоря, «из-за того, что у меня маленькая грудь» —
+Dialogue: 0,0:21:02.78,0:21:04.26,Main-Takagi,Такаги,0,0,0,,тоже неверный ответ.
+Dialogue: 0,0:21:04.26,0:21:05.03,Main-Nishikata,Нисиката,0,0,0,,Э—?!
+Dialogue: 0,0:21:06.02,0:21:07.49,Main-Takagi,Такаги,0,0,0,,Учительница!
+Dialogue: 0,0:21:07.95,0:21:10.64,Main-Takagi,Такаги,0,0,0,,Я передумала! Можно поплавать?
+Dialogue: 0,0:21:10.64,0:21:11.59,Main,Teacher,0,0,0,,Хорошо.
+Dialogue: 0,0:21:12.24,0:21:13.03,Main-Nishikata,Нисиката,0,0,0,,{\i1}Э?
+Dialogue: 0,0:21:13.03,0:21:15.84,Main-Nishikata,Нисиката,0,0,0,,{\i1}Тогда, почему она смотрела?
+Dialogue: 0,0:21:16.57,0:21:17.53,Main-Takagi,Такаги,0,0,0,,А теперь… 
+Dialogue: 0,0:21:17.53,0:21:21.17,Main-Takagi,Такаги,0,0,0,,Когда Нисиката больше не грустит, можно и поплавать.
+Dialogue: 0,0:21:22.00,0:21:25.74,Main-Nishikata,Нисиката,0,0,0,,Неужели, ты осталась только, чтобы поиздеваться надо мной?
+Dialogue: 0,0:21:32.68,0:21:34.36,Main-Takagi,Такаги,0,0,0,,Когда твоя рука пройдёт…
+Dialogue: 0,0:21:37.71,0:21:39.13,Main-Takagi,Такаги,0,0,0,,поплаваем вместе.
+Dialogue: 0,0:21:48.79,0:21:50.15,Main-Takagi,Такаги,0,0,0,,Ух, холодная!
+Dialogue: 0,0:21:54.58,0:21:56.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Меня не проведёшь!
+Dialogue: 0,0:21:56.54,0:22:00.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}Когда мы будем плавать вместе, \Nона снова начнёт издеваться.
+Dialogue: 0,0:22:00.97,0:22:03.63,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такая уж наша Такаги-сан.
