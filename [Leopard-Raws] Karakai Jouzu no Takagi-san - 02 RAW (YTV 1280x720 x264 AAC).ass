@@ -18,9 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 02 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 11918
-Active Line: 11926
-Video Position: 32477
+Scroll Position: 79
+Active Line: 85
+Video Position: 11353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,9 +128,9 @@ Dialogue: 0,0:07:10.69,0:07:12.44,Main-Nishikata,Нисиката,0,0,0,,В то
 Dialogue: 0,0:07:12.44,0:07:15.65,Main-Nishikata,Нисиката,0,0,0,,Ты же только что пообещала перестать!
 Dialogue: 0,0:07:15.65,0:07:18.36,Main-Takagi,Такаги,0,0,0,,Но, ведь, это случилось до обещания.
 Dialogue: 0,0:07:39.80,0:07:41.01,Main-Mina,Мина,0,0,0,,«Сезонная смена школьной формы»
-Dialogue: 0,0:07:45.81,0:07:47.64,Main-Mina,Мина,0,0,0,,Жарко…
-Dialogue: 0,0:07:48.10,0:07:49.77,Main-Yukari,Юкари,0,0,0,,Ну да~а.
-Dialogue: 0,0:07:50.31,0:07:53.48,Main-Mina,Мина,0,0,0,,Вот-вот, скоро, переодеваться в короткую матроску.
+Dialogue: 0,0:07:45.81,0:07:47.64,Main-Mina,Мина,0,0,0,,Жарко…\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:07:48.10,0:07:49.77,Main-Yukari,Юкари,0,0,0,,Ну да~а.\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:07:50.31,0:07:53.48,Main-Mina,Мина,0,0,0,,Вот-вот, скоро, переодеваться в короткую матроску.\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:07:53.48,0:07:55.36,Main-Yukari,Юкари,0,0,0,,Ну да~а.
 Dialogue: 0,0:07:56.44,0:08:01.20,Main-Mina,Мина,0,0,0,,Надо сказать Санаэ-тян, \Nчто завтра меняем зимнюю форму на летнюю.
 Dialogue: 0,0:08:01.20,0:08:03.11,Main-Yukari,Юкари,0,0,0,,Ну да~а.
