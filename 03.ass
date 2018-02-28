@@ -17,9 +17,9 @@ Video File: 03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 17
-Active Line: 21
-Video Position: 1739
+Scroll Position: 98
+Active Line: 105
+Video Position: 11859
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,89 +79,89 @@ Dialogue: 0,0:01:17.90,0:01:20.05,Main-Mina,Мина,0,0,0,,Э! Злюка!
 Dialogue: 0,0:01:25.86,0:01:26.77,Main-Mina,Мина,0,0,0,,Вах…
 Dialogue: 0,0:01:27.27,0:01:28.71,Main-Sanae,Санаэ,0,0,0,,Ах, ты ж…
 Dialogue: 0,0:01:29.12,0:01:31.33,Main-Yukari,Юкари,0,0,0,,Взрослые так не поступают.
-Dialogue: 0,0:03:04.41,0:03:06.41,Signs,Can,0,0,0,,{\c&H5741E0&}Apple {\c&H38AE80&}Tea
-Dialogue: 0,0:03:13.70,0:03:18.09,Main-Nishikata,Нисиката,0,0,0,,{\i1}As usual, Такаги-сан made fun of me a lot today.
-Dialogue: 0,0:03:26.73,0:03:28.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}But tomorrow, I'll…
+Dialogue: 0,0:03:04.41,0:03:06.41,Signs,Can,0,0,0,,{\c&H5741E0&}Яблочный {\c&H38AE80&}Чай
+Dialogue: 0,0:03:13.70,0:03:18.09,Main-Nishikata,Нисиката,0,0,0,,{\i1}Как обычно, Такаги-сан глумилась надо мной весь день.
+Dialogue: 0,0:03:26.73,0:03:28.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}Но вот завтра…
 Dialogue: 0,0:03:28.35,0:03:29.68,Main-Takagi,Такаги,0,0,0,,Нисиката.
 Dialogue: 0,0:03:32.69,0:03:33.65,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан!
-Dialogue: 0,0:03:34.27,0:03:35.07,Main-Takagi,Такаги,0,0,0,,Huh?
-Dialogue: 0,0:03:36.54,0:03:37.52,Main-Takagi,Такаги,0,0,0,,Are you alone today?
-Dialogue: 0,0:03:37.52,0:03:38.36,Main-Nishikata,Нисиката,0,0,0,,Ah, yeah.
-Dialogue: 0,0:03:38.76,0:03:40.32,Main-Takagi,Такаги,0,0,0,,Then, let's walk home together.
-Dialogue: 0,0:03:40.63,0:03:41.89,Main-Nishikata,Нисиката,0,0,0,,Huh? Why?
-Dialogue: 0,0:03:44.36,0:03:45.17,Main-Takagi,Такаги,0,0,0,,What?
-Dialogue: 0,0:03:45.17,0:03:47.33,Main-Nishikata,Нисиката,0,0,0,,Uh… It's nothing.
-Dialogue: 0,0:03:47.95,0:03:50.08,Main-Nishikata,Нисиката,0,0,0,,But you're on your bike.
-Dialogue: 0,0:03:50.68,0:03:51.54,Main-Takagi,Такаги,0,0,0,,I'll just push.
-Dialogue: 0,0:03:52.75,0:03:56.75,Empty_Can,Title,0,0,0,,Empty Can
-Dialogue: 0,0:03:54.81,0:03:55.74,Main-Nishikata,Нисиката,0,0,0,,"Empty Can."
-Dialogue: 0,0:04:00.92,0:04:03.67,Main-Takagi,Такаги,0,0,0,,That's a new drink that came out recently, right?
-Dialogue: 0,0:04:03.67,0:04:04.47,Main-Takagi,Такаги,0,0,0,,Is it good?
-Dialogue: 0,0:04:05.46,0:04:08.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}What is this? Is this some kind of a trap?
-Dialogue: 0,0:04:08.80,0:04:11.59,Main-Nishikata,Нисиката,0,0,0,,It's good. You want a sip?
-Dialogue: 0,0:04:12.16,0:04:12.90,Main-Takagi,Такаги,0,0,0,,Can I?
-Dialogue: 0,0:04:12.90,0:04:13.70,Main-Nishikata,Нисиката,0,0,0,,Yeah.
-Dialogue: 0,0:04:16.11,0:04:17.46,Main-Takagi,Такаги,0,0,0,,Thanks.
-Dialogue: 0,0:04:18.43,0:04:19.23,Main-Nishikata,Нисиката,0,0,0,,Uh…
-Dialogue: 0,0:04:19.77,0:04:22.19,Main-Nishikata,Нисиката,0,0,0,,I don't really mind, but isn't this…
-Dialogue: 0,0:04:22.82,0:04:25.28,Main-Nishikata,Нисиката,0,0,0,,an indirect kiss?
-Dialogue: 0,0:04:27.13,0:04:28.70,Main-Nishikata,Нисиката,0,0,0,,{\i1}How's that, Такаги-сан?
-Dialogue: 0,0:04:28.70,0:04:31.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}It's embarrassing, right?! Be embarrassed!
-Dialogue: 0,0:04:32.76,0:04:35.00,Main-Nishikata,Нисиката,0,0,0,,{\i1}Wh-What?!
-Dialogue: 0,0:04:35.50,0:04:37.46,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's not embarrassed at all!
-Dialogue: 0,0:04:38.11,0:04:39.82,Main-Nishikata,Нисиката,0,0,0,,{\i1}What is up with her?!
-Dialogue: 0,0:04:40.86,0:04:43.22,Main-Takagi,Такаги,0,0,0,,Here. Thanks. It's good.
-Dialogue: 0,0:04:52.40,0:04:53.34,Main-Takagi,Такаги,0,0,0,,You're not gonna drink it?
-Dialogue: 0,0:04:54.51,0:04:56.56,Main-Nishikata,Нисиката,0,0,0,,No, I'm gonna drink it, of course.
-Dialogue: 0,0:04:57.61,0:05:00.27,Main-Nishikata,Нисиката,0,0,0,,{\i1}It's nothing. This is nothing.
-Dialogue: 0,0:05:05.09,0:05:06.37,Main-Takagi,Такаги,0,0,0,,It's an indirect kiss.
-Dialogue: 0,0:05:13.45,0:05:15.08,Main-Takagi,Такаги,0,0,0,,What are you doing?
-Dialogue: 0,0:05:15.78,0:05:18.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Uhh… Where's a trash can?
-Dialogue: 0,0:05:19.70,0:05:20.50,Main-Nishikata,Нисиката,0,0,0,,Damn it…
-Dialogue: 0,0:05:23.69,0:05:26.13,Main-Takagi,Такаги,0,0,0,,Wow! Nice shot, Нисиката.
-Dialogue: 0,0:05:26.48,0:05:30.01,Main-Nishikata,Нисиката,0,0,0,,{\i1}I threw it without thinking.\N I didn't expect to make it.
-Dialogue: 0,0:05:40.45,0:05:43.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}I had no idea I had such talent.
-Dialogue: 0,0:05:44.70,0:05:47.23,Main-Takagi,Такаги,0,0,0,,All right. I wanna try.
-Dialogue: 0,0:05:57.74,0:06:01.92,Main-Nishikata,Нисиката,0,0,0,,What are you aiming at?\N You weren't even close, Такаги-сан!
-Dialogue: 0,0:06:03.30,0:06:04.66,Main-Takagi,Такаги,0,0,0,,How about a match, then?
-Dialogue: 0,0:06:05.80,0:06:06.90,Main-Nishikata,Нисиката,0,0,0,,A match?
-Dialogue: 0,0:06:06.90,0:06:08.97,Main-Nishikata,Нисиката,0,0,0,,I don't mind. I won't lose, though.
-Dialogue: 0,0:06:09.34,0:06:13.88,Main-Takagi,Такаги,0,0,0,,Then, we'll throw one at a time.\N The first one to make it wins.
-Dialogue: 0,0:06:15.65,0:06:18.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}To challenge me to a match she can't win…
-Dialogue: 0,0:06:19.20,0:06:21.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан has lost her cool!
-Dialogue: 0,0:06:22.23,0:06:24.19,Main-Nishikata,Нисиката,0,0,0,,{\i1}This feels great.
-Dialogue: 0,0:06:24.94,0:06:28.65,Main-Nishikata,Нисиката,0,0,0,,If you win, I'll do anything you want me to do.
-Dialogue: 0,0:06:29.17,0:06:32.70,Main-Takagi,Такаги,0,0,0,,I heard that loud and clear.\N You better not take it back later.
-Dialogue: 0,0:06:33.09,0:06:34.33,Main-Nishikata,Нисиката,0,0,0,,I won't.
-Dialogue: 0,0:06:34.33,0:06:36.91,Main-Nishikata,Нисиката,0,0,0,,Though, there's no way I'm gonna lose.
-Dialogue: 0,0:06:38.38,0:06:39.48,Main-Takagi,Такаги,0,0,0,,Here I go!
-Dialogue: 0,0:06:40.83,0:06:41.54,Main,,0,0,0,,Hup!
-Dialogue: 0,0:06:50.22,0:06:52.24,Main-Takagi,Такаги,0,0,0,,If you miss, I win.
-Dialogue: 0,0:06:55.66,0:06:58.14,Main-Nishikata,Нисиката,0,0,0,,{\i1}She… She tricked me yet again.
-Dialogue: 0,0:07:00.79,0:07:04.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}Stand at the same place and the same angle.
-Dialogue: 0,0:07:06.58,0:07:07.38,Main-Nishikata,Нисиката,0,0,0,,Okay.
-Dialogue: 0,0:07:08.92,0:07:11.57,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can do this. I can definitely do this.
-Dialogue: 0,0:07:12.13,0:07:13.63,Main-Takagi,Такаги,0,0,0,,Oh, yeah.
-Dialogue: 0,0:07:13.63,0:07:15.37,Main-Takagi,Такаги,0,0,0,,If you win…
-Dialogue: 0,0:07:16.41,0:07:18.17,Main-Takagi,Такаги,0,0,0,,I'll give you my first kiss.
-Dialogue: 0,0:07:31.85,0:07:33.05,Main-Takagi,Такаги,0,0,0,,I guess I win.
-Dialogue: 0,0:07:33.85,0:07:35.01,Main-Nishikata,Нисиката,0,0,0,,That wasn't fair.
-Dialogue: 0,0:07:35.38,0:07:36.18,Main-Takagi,Такаги,0,0,0,,What wasn't fair?
-Dialogue: 0,0:07:37.30,0:07:39.68,Main-Nishikata,Нисиката,0,0,0,,"What wasn't fair"? When I was throwing it, you…
-Dialogue: 0,0:07:40.09,0:07:41.14,Main-Takagi,Такаги,0,0,0,,What?
-Dialogue: 0,0:07:42.27,0:07:43.60,Main-Nishikata,Нисиката,0,0,0,,Nothing…
-Dialogue: 0,0:07:43.83,0:07:46.06,Main-Takagi,Такаги,0,0,0,,A promise is a promise.
-Dialogue: 0,0:07:46.61,0:07:48.44,Main-Takagi,Такаги,0,0,0,,What should I make you do?
-Dialogue: 0,0:07:55.88,0:07:58.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}What? What's coming?
-Dialogue: 0,0:07:58.91,0:07:59.71,Main-Takagi,Такаги,0,0,0,,But…
-Dialogue: 0,0:08:00.93,0:08:03.29,Main-Takagi,Такаги,0,0,0,,I guess I don't mind if you don't do anything.
-Dialogue: 0,0:08:06.84,0:08:08.92,Main-Nishikata,Нисиката,0,0,0,,But, Такаги-сан, that's…
-Dialogue: 0,0:08:09.95,0:08:14.61,Main-Nishikata,Нисиката,0,0,0,,If you do that, I'll feel like\N I can never win against you.
-Dialogue: 0,0:08:14.61,0:08:16.37,Main-Takagi,Такаги,0,0,0,,You can't win, so what's the problem?
-Dialogue: 0,0:08:16.37,0:08:18.59,Main-Nishikata,Нисиката,0,0,0,,Huh? What is that supposed to mean?
-Dialogue: 0,0:08:18.59,0:08:19.81,Main-Nishikata,Нисиката,0,0,0,,Hey!
-Dialogue: 0,0:08:20.43,0:08:23.44,Soda,Title,0,0,0,,Soda
-Dialogue: 0,0:08:21.72,0:08:22.75,Main-Mina,Мина,0,0,0,,"Soda."
+Dialogue: 0,0:03:34.27,0:03:35.07,Main-Takagi,Такаги,0,0,0,,Чего?
+Dialogue: 0,0:03:36.54,0:03:37.52,Main-Takagi,Такаги,0,0,0,,Ты сегодня один?
+Dialogue: 0,0:03:37.52,0:03:38.36,Main-Nishikata,Нисиката,0,0,0,,А, да.
+Dialogue: 0,0:03:38.76,0:03:40.32,Main-Takagi,Такаги,0,0,0,,Тогда, давай пойдём домой вместе.
+Dialogue: 0,0:03:40.63,0:03:41.89,Main-Nishikata,Нисиката,0,0,0,,Э? Зачем?
+Dialogue: 0,0:03:44.36,0:03:45.17,Main-Takagi,Такаги,0,0,0,,А что?
+Dialogue: 0,0:03:45.17,0:03:47.33,Main-Nishikata,Нисиката,0,0,0,,Ну… Так, ничего.
+Dialogue: 0,0:03:47.95,0:03:50.08,Main-Nishikata,Нисиката,0,0,0,,Но ты, ведь, на велосипеде.
+Dialogue: 0,0:03:50.68,0:03:51.54,Main-Takagi,Такаги,0,0,0,,Да я слезу.
+Dialogue: 0,0:03:52.75,0:03:56.75,Empty_Can,Title,0,0,0,,Пустая банка
+Dialogue: 0,0:03:54.81,0:03:55.74,Main-Nishikata,Нисиката,0,0,0,,«Пустая банка»
+Dialogue: 0,0:04:00.92,0:04:03.67,Main-Takagi,Такаги,0,0,0,,Это же тот напиток, который появился совсем недавно?
+Dialogue: 0,0:04:03.67,0:04:04.47,Main-Takagi,Такаги,0,0,0,,Вкусно?
+Dialogue: 0,0:04:05.46,0:04:08.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}Что это было? Пытается меня подловить?
+Dialogue: 0,0:04:08.80,0:04:11.59,Main-Nishikata,Нисиката,0,0,0,,Вкусно. Хочешь попробовать?
+Dialogue: 0,0:04:12.16,0:04:12.90,Main-Takagi,Такаги,0,0,0,,Можно?
+Dialogue: 0,0:04:12.90,0:04:13.70,Main-Nishikata,Нисиката,0,0,0,,Угу.
+Dialogue: 0,0:04:16.11,0:04:17.46,Main-Takagi,Такаги,0,0,0,,Ну, за здоровье.
+Dialogue: 0,0:04:18.43,0:04:19.23,Main-Nishikata,Нисиката,0,0,0,,А…
+Dialogue: 0,0:04:19.77,0:04:22.19,Main-Nishikata,Нисиката,0,0,0,,Мне, конечно, всё равно, но разве это не…
+Dialogue: 0,0:04:22.82,0:04:25.28,Main-Nishikata,Нисиката,0,0,0,,не прямой поцелуй?
+Dialogue: 0,0:04:27.13,0:04:28.70,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ну что, Такаги-сан?
+Dialogue: 0,0:04:28.70,0:04:31.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}Это же так смущает?! Стесняйся же!
+Dialogue: 0,0:04:32.76,0:04:35.00,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ч-Что такое?!
+Dialogue: 0,0:04:35.50,0:04:37.46,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она совсем не смутилась!
+Dialogue: 0,0:04:38.11,0:04:39.82,Main-Nishikata,Нисиката,0,0,0,,{\i1}Что это с ней?!
+Dialogue: 0,0:04:40.86,0:04:43.22,Main-Takagi,Такаги,0,0,0,,Держи. Спасибо. Было вкусно.
+Dialogue: 0,0:04:52.40,0:04:53.34,Main-Takagi,Такаги,0,0,0,,Ты же не пил?
+Dialogue: 0,0:04:54.51,0:04:56.56,Main-Nishikata,Нисиката,0,0,0,,Нет, конечно же выпил уже.
+Dialogue: 0,0:04:57.61,0:05:00.27,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ничего не значит. Это же ничего не значит.
+Dialogue: 0,0:05:05.09,0:05:06.37,Main-Takagi,Такаги,0,0,0,,Не прямой поцелуй.
+Dialogue: 0,0:05:13.45,0:05:15.08,Main-Takagi,Такаги,0,0,0,,Ты что делаешь?
+Dialogue: 0,0:05:15.78,0:05:18.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так… Где тут мусорка?
+Dialogue: 0,0:05:19.70,0:05:20.50,Main-Nishikata,Нисиката,0,0,0,,Чёрт побери…
+Dialogue: 0,0:05:23.69,0:05:26.13,Main-Takagi,Такаги,0,0,0,,Ух ты! Отличный бросок, Нисиката.
+Dialogue: 0,0:05:26.48,0:05:30.01,Main-Nishikata,Нисиката,0,0,0,,{\i1}Я сделал это без задней мысли.\NСам не ожидал, что получится.
+Dialogue: 0,0:05:40.45,0:05:43.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}А у меня, оказывается, талант.
+Dialogue: 0,0:05:44.70,0:05:47.23,Main-Takagi,Такаги,0,0,0,,Так. Я тоже хочу попробовать.
+Dialogue: 0,0:05:57.74,0:06:01.92,Main-Nishikata,Нисиката,0,0,0,,Ты куда целилась-то?\N Это было даже не близко, Такаги-сан!
+Dialogue: 0,0:06:03.30,0:06:04.66,Main-Takagi,Такаги,0,0,0,,Тогда, как насчёт пари?
+Dialogue: 0,0:06:05.80,0:06:06.90,Main-Nishikata,Нисиката,0,0,0,,Пари?
+Dialogue: 0,0:06:06.90,0:06:08.97,Main-Nishikata,Нисиката,0,0,0,,Как хочешь. Всё равно, я выиграю.
+Dialogue: 0,0:06:09.34,0:06:13.88,Main-Takagi,Такаги,0,0,0,,Then, we'll throw one at a time.\N The first one to make it wins. Тогда, бросаем одну банку за раз. Первый, кто попадёт - победил.
+Dialogue: 0,0:06:15.65,0:06:18.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вызвать меня на дуэль, в которой у неё нет шансов…
+Dialogue: 0,0:06:19.20,0:06:21.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан растеряла всю крутизну!
+Dialogue: 0,0:06:22.23,0:06:24.19,Main-Nishikata,Нисиката,0,0,0,,{\i1}Что за чудесное чувство{превосходства}.
+Dialogue: 0,0:06:24.94,0:06:28.65,Main-Nishikata,Нисиката,0,0,0,,Если победишь, я сделаю всё, что попросишь.
+Dialogue: 0,0:06:29.17,0:06:32.70,Main-Takagi,Такаги,0,0,0,,I heard that loud and clear.\N You better not take it back later. Я всё чётко расслышала. Смотри, не откажись от слов потом.
+Dialogue: 0,0:06:33.09,0:06:34.33,Main-Nishikata,Нисиката,0,0,0,,Не откажусь.
+Dialogue: 0,0:06:34.33,0:06:36.91,Main-Nishikata,Нисиката,0,0,0,,Всё таки здесь я не могу проиграть.
+Dialogue: 0,0:06:38.38,0:06:39.48,Main-Takagi,Такаги,0,0,0,,Тогда, бросаю!
+Dialogue: 0,0:06:40.83,0:06:41.54,Main-Takagi,Такаги,0,0,0,,Так!
+Dialogue: 0,0:06:50.22,0:06:52.24,Main-Takagi,Такаги,0,0,0,,Если промахнёшься, я выиграла.
+Dialogue: 0,0:06:55.66,0:06:58.14,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она… Она опять меня разыграла.
+Dialogue: 0,0:07:00.79,0:07:04.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}Стою в том же месте, под тем же углом.
+Dialogue: 0,0:07:06.58,0:07:07.38,Main-Nishikata,Нисиката,0,0,0,,Так.
+Dialogue: 0,0:07:08.92,0:07:11.57,Main-Nishikata,Нисиката,0,0,0,,{\i1}Я смогу. Ни за что не промахнусь.
+Dialogue: 0,0:07:12.13,0:07:13.63,Main-Takagi,Такаги,0,0,0,,О, кстати.
+Dialogue: 0,0:07:13.63,0:07:15.37,Main-Takagi,Такаги,0,0,0,,Если ты победишь…
+Dialogue: 0,0:07:16.41,0:07:18.17,Main-Takagi,Такаги,0,0,0,,Я подарю тебе свой первый поцелуй.
+Dialogue: 0,0:07:31.85,0:07:33.05,Main-Takagi,Такаги,0,0,0,,Похоже, я победила.
+Dialogue: 0,0:07:33.85,0:07:35.01,Main-Nishikata,Нисиката,0,0,0,,Это было не честно.
+Dialogue: 0,0:07:35.38,0:07:36.18,Main-Takagi,Такаги,0,0,0,,Что именно?
+Dialogue: 0,0:07:37.30,0:07:39.68,Main-Nishikata,Нисиката,0,0,0,,Как «что именно»? Когда я замахнулся, ты…
+Dialogue: 0,0:07:40.09,0:07:41.14,Main-Takagi,Такаги,0,0,0,,М? Что я?
+Dialogue: 0,0:07:42.27,0:07:43.60,Main-Nishikata,Нисиката,0,0,0,,Ничего…
+Dialogue: 0,0:07:43.83,0:07:46.06,Main-Takagi,Такаги,0,0,0,,А теперь, обещание есть обещание.
+Dialogue: 0,0:07:46.61,0:07:48.44,Main-Takagi,Такаги,0,0,0,,Что бы мне тебя попросить?
+Dialogue: 0,0:07:55.88,0:07:58.06,Main-Nishikata,Нисиката,0,0,0,,{\i1}Что это? Что же будет?
+Dialogue: 0,0:07:58.91,0:07:59.71,Main-Takagi,Такаги,0,0,0,,Правда…
+Dialogue: 0,0:08:00.93,0:08:03.29,Main-Takagi,Такаги,0,0,0,,Ничего, если ничего не станешь делать.
+Dialogue: 0,0:08:06.84,0:08:08.92,Main-Nishikata,Нисиката,0,0,0,,Но, Такаги-сан, это же…
+Dialogue: 0,0:08:09.95,0:08:14.61,Main-Nishikata,Нисиката,0,0,0,,Тогда, у меня будет чувство, \Nбудто я никогда не смогу тебя победить.
+Dialogue: 0,0:08:14.61,0:08:16.37,Main-Takagi,Такаги,0,0,0,,Не можешь победить, ну и что?
+Dialogue: 0,0:08:16.37,0:08:18.59,Main-Nishikata,Нисиката,0,0,0,,А? Стой, что ты хочешь этим сказать?
+Dialogue: 0,0:08:18.59,0:08:19.81,Main-Nishikata,Нисиката,0,0,0,,Эй!
+Dialogue: 0,0:08:20.43,0:08:23.44,Soda,Title,0,0,0,,Газировка
+Dialogue: 0,0:08:21.72,0:08:22.75,Main-Mina,Мина,0,0,0,,«Газировка»
 Dialogue: 0,0:08:26.15,0:08:28.63,Main-Mina,Мина,0,0,0,,Ughh… It's spicy.
 Dialogue: 0,0:08:28.63,0:08:29.86,Main,sanae,0,0,0,,What's with that face?
 Dialogue: 0,0:08:29.86,0:08:31.94,Signs,Bottle,0,0,0,,{\c&H7762DE&}Ra{\c&H6BEDEA&}mu{\c&H7CFD9D&}ne
