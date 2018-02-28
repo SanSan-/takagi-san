@@ -17,9 +17,9 @@ Video File: 03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 19
-Video Position: 1503
+Scroll Position: 17
+Active Line: 21
+Video Position: 1739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,13 +72,13 @@ Dialogue: 0,0:00:58.75,0:01:00.71,Main-Sanae,Санаэ,0,0,0,,два, р—
 Dialogue: 0,0:00:59.91,0:01:01.66,Main-Mina,Мина,0,0,0,,Меняемся, пожалуйста!
 Dialogue: 0,0:01:02.62,0:01:03.70,Main-Mina,Мина,0,0,0,,Ура!
 Dialogue: 0,0:01:08.79,0:01:10.22,Main-Mina,Мина,0,0,0,,Вкуснотища…
-Dialogue: 0,0:01:10.99,0:01:12.52,Main-Sanae,Санаэ,0,0,0,,You're okay with this? ino ka sore de?
-Dialogue: 0,0:01:12.52,0:01:15.47,Main-Mina,Мина,0,0,0,,Well, there are some adults\N who can't drink coffee.
-Dialogue: 0,0:01:15.87,0:01:17.90,Main-Sanae,Санаэ,0,0,0,,You're a kid, though.
-Dialogue: 0,0:01:17.90,0:01:20.05,Main-Mina,Мина,0,0,0,,That's mean!
-Dialogue: 0,0:01:25.86,0:01:26.77,Main-Mina,Мина,0,0,0,,Whoa…
-Dialogue: 0,0:01:27.27,0:01:28.71,Main-Sanae,Санаэ,0,0,0,,Oh, jeez…
-Dialogue: 0,0:01:29.12,0:01:31.33,Main-Yukari,Юкари,0,0,0,,Adults don't do that.
+Dialogue: 0,0:01:10.99,0:01:12.52,Main-Sanae,Санаэ,0,0,0,,А так разве можно?
+Dialogue: 0,0:01:12.52,0:01:15.47,Main-Mina,Мина,0,0,0,,Ну, полно взрослых, которые не пьют кофе.
+Dialogue: 0,0:01:15.87,0:01:17.90,Main-Sanae,Санаэ,0,0,0,,Ты всё ещё ребёнок.
+Dialogue: 0,0:01:17.90,0:01:20.05,Main-Mina,Мина,0,0,0,,Э! Злюка!
+Dialogue: 0,0:01:25.86,0:01:26.77,Main-Mina,Мина,0,0,0,,Вах…
+Dialogue: 0,0:01:27.27,0:01:28.71,Main-Sanae,Санаэ,0,0,0,,Ах, ты ж…
+Dialogue: 0,0:01:29.12,0:01:31.33,Main-Yukari,Юкари,0,0,0,,Взрослые так не поступают.
 Dialogue: 0,0:03:04.41,0:03:06.41,Signs,Can,0,0,0,,{\c&H5741E0&}Apple {\c&H38AE80&}Tea
 Dialogue: 0,0:03:13.70,0:03:18.09,Main-Nishikata,Нисиката,0,0,0,,{\i1}As usual, Такаги-сан made fun of me a lot today.
 Dialogue: 0,0:03:26.73,0:03:28.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}But tomorrow, I'll…

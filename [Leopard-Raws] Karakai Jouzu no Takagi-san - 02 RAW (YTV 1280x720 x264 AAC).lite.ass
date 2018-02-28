@@ -18,9 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 02 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 53
-Active Line: 60
-Video Position: 8078
+Scroll Position: 259
+Active Line: 269
+Video Position: 27674
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -314,8 +314,8 @@ Dialogue: 0,0:18:57.31,0:19:03.11,Main-Nishikata,Нисиката,0,0,0,,{\i1}П
 Dialogue: 0,0:19:04.23,0:19:06.86,Main-Takagi,Такаги,0,0,0,,Нисиката, ты там вообще думаешь?
 Dialogue: 0,0:19:06.86,0:19:10.11,Main-Takagi,Такаги,0,0,0,,А похоже, что просто пялишься на плавающих девочек.
 Dialogue: 0,0:19:10.61,0:19:11.78,Main-Nishikata,Нисиката,0,0,0,,Д-Да не пялюсь я!
-Dialogue: 0,0:19:12.20,0:19:13.70,Main-Takagi,Такаги,0,0,0,,Серьёзно?
-Dialogue: 0,0:19:14.20,0:19:18.00,Main-Takagi,Такаги,0,0,0,,Слышала, что парни \Nтолько на женскую грудь и пялятся.
+Dialogue: 0,0:19:12.20,0:19:13.70,Main-Takagi,Такаги,0,0,0,,Точно не врёшь?
+Dialogue: 0,0:19:14.20,0:19:18.00,Main-Takagi,Такаги,0,0,0,,Слышала, парни только на женскую грудь и пялятся.
 Dialogue: 0,0:19:18.00,0:19:20.33,Main-Nishikata,Нисиката,0,0,0,,Сказал же, не пялюсь я!
 Dialogue: 0,0:19:23.21,0:19:24.54,Main-Nishikata,Нисиката,0,0,0,,{\i1}Кстати говоря,
 Dialogue: 0,0:19:25.17,0:19:28.67,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан не обладает пышным бюстом.
