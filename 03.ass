@@ -17,9 +17,9 @@ Video File: 03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 218
-Active Line: 224
-Video Position: 21611
+Scroll Position: 311
+Active Line: 320
+Video Position: 30208
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -353,11 +353,11 @@ Dialogue: 0,0:19:45.91,0:19:47.12,Main-Takagi,Такаги,0,0,0,,What was the w
 Dialogue: 0,0:19:48.91,0:19:51.00,Main-Takagi,Такаги,0,0,0,,I can't seem to remember.
 Dialogue: 0,0:19:51.49,0:19:53.71,Main-Nishikata,Нисиката,0,0,0,,Uh… Umm…
 Dialogue: 0,0:19:54.58,0:19:55.80,Main-Takagi,Такаги,0,0,0,,What was it called again?
-Dialogue: 0,0:19:57.66,0:19:59.04,Main-Nishikata,Нисиката,0,0,0,,Aiaigasa.
-Dialogue: 0,0:19:59.38,0:20:00.74,Main-Takagi,Такаги,0,0,0,,Huh? What?
-Dialogue: 0,0:20:02.17,0:20:04.15,Main-Takagi,Такаги,0,0,0,,I can't hear you.
-Dialogue: 0,0:20:07.99,0:20:09.47,Main-Takagi,Такаги,0,0,0,,Oh, I remember!
-Dialogue: 0,0:20:10.37,0:20:11.52,Main-Takagi,Такаги,0,0,0,,It's Aiaigasa.
+Dialogue: 0,0:19:57.66,0:19:59.04,Main-Nishikata,Нисиката,0,0,0,,Aiaigasa.«Давай встречаться»
+Dialogue: 0,0:19:59.38,0:20:00.74,Main-Takagi,Такаги,0,0,0,,Э? Что?
+Dialogue: 0,0:20:02.17,0:20:04.15,Main-Takagi,Такаги,0,0,0,,Я тебя не слышу!
+Dialogue: 0,0:20:07.99,0:20:09.47,Main-Takagi,Такаги,0,0,0,,О, вспомнила!
+Dialogue: 0,0:20:10.37,0:20:11.52,Main-Takagi,Такаги,0,0,0,,«Поделись зонтом»
 Dialogue: 0,0:20:11.79,0:20:13.85,Main-Nishikata,Нисиката,0,0,0,,There's no way you forgot that!
 Dialogue: 0,0:20:14.32,0:20:17.86,Main-Takagi,Такаги,0,0,0,,Oh, and what do you call that thing
 Dialogue: 0,0:20:18.25,0:20:23.95,Main-Takagi,Такаги,0,0,0,,where a couple presses their lips\N together to express their love?
@@ -371,7 +371,7 @@ Dialogue: 0,0:20:41.99,0:20:43.44,Main-Takagi,Такаги,0,0,0,,Oh, that's rig
 Dialogue: 0,0:20:43.95,0:20:48.80,Main-Takagi,Такаги,0,0,0,,And how about that phrase a couple says\N to each other to express their feelings?
 Dialogue: 0,0:20:50.02,0:20:53.52,Main-Takagi,Такаги,0,0,0,,You know, the one that\Ngoes beyond "I like you."
 Dialogue: 0,0:20:55.02,0:20:57.69,Main-Takagi,Такаги,0,0,0,,It starts with an "A"…
-Dialogue: 0,0:20:58.01,0:20:59.90,Main-Nishikata,Нисиката,0,0,0,,H-How should I know?
+Dialogue: 0,0:20:58.01,0:20:59.90,Main-Nishikata,Нисиката,0,0,0,,О-Откуда мне знать?
 Dialogue: 0,0:21:00.19,0:21:02.61,Main-Takagi,Такаги,0,0,0,,Then comes "I."
 Dialogue: 0,0:21:02.83,0:21:04.57,Main-Nishikata,Нисиката,0,0,0,,I-I don't know.
 Dialogue: 0,0:21:05.12,0:21:06.75,Main-Takagi,Такаги,0,0,0,,Then, how about in English?
