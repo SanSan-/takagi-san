@@ -17,9 +17,8 @@ Video File: 03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 329
-Active Line: 336
-Video Position: 31280
+Active Line: 161
+Video Position: 16521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -212,7 +211,7 @@ Dialogue: 0,0:11:13.06,0:11:15.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}М
 Dialogue: 0,0:11:16.35,0:11:20.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Будет мне наказанием за то, \Nчто так часто попадался на её удочку!
 Dialogue: 0,0:11:22.04,0:11:24.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так что наслаждайся агонией боли
 Dialogue: 0,0:11:24.89,0:11:28.10,Main-Nishikata,Нисиката,0,0,0,,{\i1}и мотивируйся, чтобы, в следующий раз, \Nотплатить ей сполна!
-Dialogue: 0,0:11:29.01,0:11:30.54,Main-Nishikata,,0,0,0,,{\i1}Давай, старайся!{\i0}
+Dialogue: 0,0:11:29.01,0:11:30.54,Main-Nishikata,Нисиката,0,0,0,,{\i1}Давай, старайся!{\i0}
 Dialogue: 0,0:11:30.54,0:11:34.54,Muscle Training,Title,0,0,0,,Отжимания
 Dialogue: 0,0:11:32.30,0:11:33.22,Main-Nishikata,Нисиката,0,0,0,,«Отжимания»
 Dialogue: 0,0:11:37.86,0:11:40.02,Main-Takagi,Такаги,0,0,0,,Что у тебя с руками?
