@@ -16,8 +16,8 @@ Video File: ../03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 8
-Video Position: 33173
+Active Line: 3
+Video Position: 32537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,9 +28,9 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending (японский)
-Dialogue: 0,0:22:19.10,0:22:24.12,EDTop,,0,0,0,,{\k27}«Me  {\k27}wo  {\k27}sa{\k27}ma{\k27}shi{\k27}te  {\k127}yo»  {\k27}ki{\k27}mi  {\k27}no  {\k27}ko{\k27}e  {\k27}ga
-Dialogue: 0,0:22:24.12,0:22:28.70,EDTop,,0,0,0,,{\k20}Bo{\k27}ku  {\k27}wo  {\k27}tsu{\k27}tsu{\k27}mi  ({\k27}Ye{\k27}ah)
-Dialogue: 0,0:22:29.02,0:22:36.41,EDTop,,0,0,0,,{\k20}Ma{\k27}do  {\k27}wo  {\k27}a{\k27}ke{\k27}te  {\k27}so{\k27}yo{\k27}ka{\k27}ze  {\k27}ga  {\k27}ki{\k27}mi  {\k27}no  {\k27}ka{\k27}mi  {\k27}wo  {\k27}na{\k27}bi{\k27}ku
+Dialogue: 0,0:22:19.10,0:22:24.12,EDTop,,0,0,0,,{\k20}«Me  {\k35}wo  {\k33}sa{\k32}ma{\k27}shi{\k36}te  {\k127}yo»  {\k27}ki{\k27}mi  {\k30}no  {\k21}ko{\k27}e  {\k27}ga
+Dialogue: 0,0:22:24.12,0:22:28.70,EDTop,,0,0,0,,{\k37}Bo{\k25}ku  {\k34}wo  {\k61}tsu{\k38}tsu{\k117}mi  {\k144}~Yeah~
+Dialogue: 0,0:22:29.02,0:22:37.04,EDTop,,0,0,0,,{\k36}Ma{\k28}do  {\k28}wo  {\k64}a{\k30}ke{\k124}te  {\k40}so{\k28}yo{\k20}ka{\k30}ze  {\k18}ga  {\k30}ki{\k21}mi  {\k35}no  {\k32}ka{\k30}mi  {\k32}wo  {\k34}na{\k21}bi{\k126}ku
 Dialogue: 0,0:22:38.80,0:22:43.66,EDTop,,0,0,0,,{\k20}He{\k27}ya  {\k27}ka{\k27}ra  {\k27}de{\k27}ru  {\k27}bo{\k27}ku  {\k27}no  {\k27}u{\k27}de  {\k27}wo
 Dialogue: 0,0:22:43.66,0:22:48.12,EDTop,,0,0,0,,{\k32}Tsu{\k27}ka{\k27}mi  {\k27}na{\k27}ga{\k27}ra  {\k27}ki{\k27}mi  {\k27}wa
 Dialogue: 0,0:22:48.64,0:22:53.80,EDTop,,0,0,0,,{\k26}«Mo{\k27}u  {\k27}su{\k27}ko{\k27}shi  {\k27}da{\k27}ke»  {\k27}«Mo{\k27}u  {\k27}su{\k27}ko{\k27}shi  {\k27}da{\k27}ke»  {\k27}to
