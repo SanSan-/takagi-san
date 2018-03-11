@@ -16,9 +16,9 @@ Video File: ../03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 4
-Active Line: 9
-Video Position: 33314
+Scroll Position: 3
+Active Line: 13
+Video Position: 33739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,8 +38,8 @@ Dialogue: 0,0:22:48.64,0:22:53.80,EDTop,,0,0,0,,{\k25}«Mo{\k24}u  {\k43}su{\k45
 Dialogue: 0,0:22:54.06,0:22:57.50,EDTop,,0,0,0,,{\k42}Bo{\k26}ku  {\k33}ni  {\k31}ki{\k50}mi  {\k33}wa  {\k32}tsu{\k37}bu{\k30}ya{\k30}ku
 Dialogue: 0,0:22:57.50,0:23:01.88,EDTop,,0,0,0,,{\k35}Ko{\k32}no  {\k30}se{\k28}ka{\k28}i  {\k66}ga  {\k29}ya{\k29}mi  {\k153}ni
 Dialogue: 0,0:23:02.32,0:23:09.44,EDTop,,0,0,0,,{\k38}So{\k30}ma{\k32}ru  {\k31}ma{\k30}e  {\k243}ni  {\k24}ko{\k47}no  {\k25}o{\k28}mo{\k17}i  {\k67}wo
-Dialogue: 0,0:23:09.70,0:23:17.40,EDTop,,0,0,0,,{\k25}Da{\k27}ka{\k27}ra  {\k27}o{\k27}ne{\k27}ga{\k27}i  {\k27}bo{\k27}ku  {\k27}no  {\k27}so{\k27}ba  {\k27}ni  {\k27}i{\k27}te  {\k27}ku{\k27}re{\k27}na{\k27}i  {\k27}ka
-Dialogue: 0,0:23:17.40,0:23:19.72,EDTop,,0,0,0,,{\k20}Ki{\k27}mi  {\k27}ga  {\k27}su{\k27}ki  {\k27}da{\k27}ka{\k27}ra
-Dialogue: 0,0:23:19.88,0:23:25.00,EDTop,,0,0,0,,{\k20}Ko{\k27}no  {\k27}o{\k27}mo{\k27}i  {\k27}ga  {\k27}ki{\k27}mi  {\k27}ni  {\k27}to{\k27}do{\k27}ku  {\k27}yo{\k27}u  {\k27}ni
-Dialogue: 0,0:23:25.34,0:23:29.93,EDTop,,0,0,0,,{\k20}Ne{\k27}ga{\k27}i  {\k27}ga  {\k27}ka{\k27}na{\k27}i{\k27}ma{\k27}su  {\k27}yo{\k27}u  {\k27}ni
+Dialogue: 0,0:23:09.70,0:23:14.64,EDTop,,0,0,0,,{\k39}Da{\k31}ka{\k43}ra  {\k25}o{\k23}ne{\k22}ga{\k93}i  {\k35}bo{\k33}ku  {\k22}no  {\k20}so{\k16}ba  {\k90}ni
+Dialogue: 0,0:23:14.64,0:23:19.72,EDTop,,0,0,0,,{\k64}I{\k89}te  {\k31}ku{\k16}re{\k14}na{\k34}i  {\k27}ka  {\k30}ki{\k32}mi  {\k38}ga  {\k19}su{\k29}ki  {\k21}da{\k32}ka{\k31}ra
+Dialogue: 0,0:23:19.88,0:23:25.00,EDTop,,0,0,0,,{\k28}Ko{\k44}no  {\k21}o{\k30}mo{\k34}i  {\k56}ga  {\k29}ki{\k30}mi  {\k32}ni  {\k32}to{\k31}do{\k30}ku  {\k34}yo{\k27}u  {\k53}ni
+Dialogue: 0,0:23:25.34,0:23:29.93,EDTop,,0,0,0,,{\k34}Ne{\k22}ga{\k19}i  {\k45}ga  {\k37}ka{\k27}na{\k18}i{\k24}ma{\k30}su  {\k32}yo{\k32}u  {\k148}ni
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending (русский)
