@@ -16,9 +16,9 @@ Video File: ../03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2
-Active Line: 3
-Video Position: 32346
+Scroll Position: 11
+Active Line: 21
+Video Position: 32946
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,10 +46,10 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending (русский)
 Dialogue: 0,0:22:19.10,0:22:24.12,EDBottom,,0,0,0,,{\k20}«Про{\k35}сы{\k33}пать{\k32}ся  {\k27}по{\k36}ра»  {\k127}—  во  {\k27}сне  {\k27}слы{\k30}шу  {\k21}го{\k27}лос  {\k27}твой
 Dialogue: 0,0:22:24.12,0:22:28.70,EDBottom,,0,0,0,,{\k37}Он  {\k25}о{\k34}ку{\k61}тал  {\k38}ме{\k117}ня  {\k144}~Еее~
 Dialogue: 0,0:22:29.02,0:22:37.04,EDBottom,,0,0,0,,{\k36}Вдруг  {\k28}лёг{\k28}кий  {\k64}ве{\k30}тер{\k124}ок  {\k40}рас{\k28}пах{\k20}нул  {\k30}ок{\k18}но  {\k30}И  {\k21}во{\k35}ло{\k32}сы  {\k30}тво{\k32}и  {\k34}лас{\k21}ка{\k126}ет
-Dialogue: 0,0:22:38.80,0:22:43.72,EDBottom,,0,0,0,,{\k37}He{\k27}ya  {\k34}ka{\k57}ra  {\k50}de{\k78}ru  {\k29}bo{\k30}ku  {\k31}no  {\k46}u{\k40}de  {\k34}wo
-Dialogue: 0,0:22:43.72,0:22:48.28,EDBottom,,0,0,0,,{\k33}Tsu{\k31}ka{\k32}mi  {\k59}na{\k32}ga{\k91}ra  {\k35}ki{\k53}mi  {\k90}wa
-Dialogue: 0,0:22:48.64,0:22:53.80,EDBottom,,0,0,0,,{\k25}«Mo{\k24}u  {\k43}su{\k45}ko{\k18}shi  {\k29}da{\k123}ke»  {\k27}«Mo{\k27}u  {\k23}su{\k28}ko{\k28}shi  {\k17}da{\k33}ke»  {\k21}to
-Dialogue: 0,0:22:54.06,0:22:57.50,EDBottom,,0,0,0,,{\k42}Bo{\k26}ku  {\k33}ni  {\k31}ki{\k50}mi  {\k33}wa  {\k32}tsu{\k37}bu{\k30}ya{\k30}ku
+Dialogue: 0,0:22:38.80,0:22:43.72,EDBottom,,0,0,0,,{\k37}За  {\k27}ру{\k34}ку  {\k57}тя{\k50}нешь  {\k78}ты  {\k29}из  {\k30}ком{\k31}на{\k46}ты  {\k40}до{\k34}лой
+Dialogue: 0,0:22:43.72,0:22:48.28,EDBottom,,0,0,0,,{\k33}Но,  {\k31}как  {\k32}все{\k59}гда,  {\k32}неп{\k91}рек{\k35}лон{\k53}на  {\k90}я
+Dialogue: 0,0:22:48.64,0:22:53.80,EDBottom,,0,0,0,,{\k25}«Ещ{\k24}ё  {\k43}нем{\k45}но{\k18}го,  {\k29}ещ{\k123}ё  {\k27}чуть-{\k27}чуть  {\k23}пос{\k28}пать  {\k28}хо{\k17}чу  {\k33}по{\k21}рой», —
+Dialogue: 0,0:22:54.06,0:22:57.50,EDBottom,,0,0,0,,{\k42}Те{\k26}бя  {\k33}мо{\k31}лю  {\k50}я,  {\k33}под  {\k32}нос  {\k37}бор{\k30}мо{\k30}ча
 Dialogue: 0,0:22:57.50,0:23:01.88,EDBottom,,0,0,0,,{\k35}Ko{\k32}no  {\k30}se{\k28}ka{\k28}i  {\k66}ga  {\k29}ya{\k29}mi  {\k153}ni
 Dialogue: 0,0:23:02.32,0:23:09.44,EDBottom,,0,0,0,,{\k38}So{\k30}ma{\k32}ru  {\k31}ma{\k30}e  {\k243}ni  {\k24}ko{\k47}no  {\k25}o{\k28}mo{\k17}i  {\k67}wo
 Dialogue: 0,0:23:09.70,0:23:14.64,EDBottom,,0,0,0,,{\k39}Da{\k31}ka{\k43}ra  {\k25}o{\k23}ne{\k22}ga{\k93}i  {\k35}bo{\k33}ku  {\k22}no  {\k20}so{\k16}ba  {\k90}ni
