@@ -16,9 +16,9 @@ Video File: ../03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 11
-Active Line: 21
-Video Position: 32946
+Scroll Position: 20
+Active Line: 23
+Video Position: 33144
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,8 +50,8 @@ Dialogue: 0,0:22:38.80,0:22:43.72,EDBottom,,0,0,0,,{\k37}За  {\k27}ру{\k34}�
 Dialogue: 0,0:22:43.72,0:22:48.28,EDBottom,,0,0,0,,{\k33}Но,  {\k31}как  {\k32}все{\k59}гда,  {\k32}неп{\k91}рек{\k35}лон{\k53}на  {\k90}я
 Dialogue: 0,0:22:48.64,0:22:53.80,EDBottom,,0,0,0,,{\k25}«Ещ{\k24}ё  {\k43}нем{\k45}но{\k18}го,  {\k29}ещ{\k123}ё  {\k27}чуть-{\k27}чуть  {\k23}пос{\k28}пать  {\k28}хо{\k17}чу  {\k33}по{\k21}рой», —
 Dialogue: 0,0:22:54.06,0:22:57.50,EDBottom,,0,0,0,,{\k42}Те{\k26}бя  {\k33}мо{\k31}лю  {\k50}я,  {\k33}под  {\k32}нос  {\k37}бор{\k30}мо{\k30}ча
-Dialogue: 0,0:22:57.50,0:23:01.88,EDBottom,,0,0,0,,{\k35}Ko{\k32}no  {\k30}se{\k28}ka{\k28}i  {\k66}ga  {\k29}ya{\k29}mi  {\k153}ni
-Dialogue: 0,0:23:02.32,0:23:09.44,EDBottom,,0,0,0,,{\k38}So{\k30}ma{\k32}ru  {\k31}ma{\k30}e  {\k243}ni  {\k24}ko{\k47}no  {\k25}o{\k28}mo{\k17}i  {\k67}wo
+Dialogue: 0,0:22:57.50,0:23:01.88,EDBottom,,0,0,0,,{\k35}И  {\k32}мне  {\k30}не  {\k28}ну{\k28}жен  {\k66}мир  {\k29}без  {\k29}те{\k153}бя
+Dialogue: 0,0:23:02.32,0:23:09.44,EDBottom,,0,0,0,,{\k38}Смы{\k30}сла  {\k32}нет  {\k31}и  {\k30}всё  {\k243}зря  {\k24}Тьма  {\k47}вновь  {\k25}вок{\k28}руг  {\k17}ме{\k67}ня
 Dialogue: 0,0:23:09.70,0:23:14.64,EDBottom,,0,0,0,,{\k39}Da{\k31}ka{\k43}ra  {\k25}o{\k23}ne{\k22}ga{\k93}i  {\k35}bo{\k33}ku  {\k22}no  {\k20}so{\k16}ba  {\k90}ni
 Dialogue: 0,0:23:14.64,0:23:19.72,EDBottom,,0,0,0,,{\k64}I{\k89}te  {\k31}ku{\k16}re{\k14}na{\k34}i  {\k27}ka  {\k30}ki{\k32}mi  {\k38}ga  {\k19}su{\k29}ki  {\k21}da{\k32}ka{\k31}ra
 Dialogue: 0,0:23:19.88,0:23:25.00,EDBottom,,0,0,0,,{\k28}Ko{\k44}no  {\k21}o{\k30}mo{\k34}i  {\k56}ga  {\k29}ki{\k30}mi  {\k32}ni  {\k32}to{\k31}do{\k30}ku  {\k34}yo{\k27}u  {\k53}ni
