@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 20
-Active Line: 23
-Video Position: 33144
+Active Line: 25
+Video Position: 33439
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +52,7 @@ Dialogue: 0,0:22:48.64,0:22:53.80,EDBottom,,0,0,0,,{\k25}«Ещ{\k24}ё  {\k43}�
 Dialogue: 0,0:22:54.06,0:22:57.50,EDBottom,,0,0,0,,{\k42}Те{\k26}бя  {\k33}мо{\k31}лю  {\k50}я,  {\k33}под  {\k32}нос  {\k37}бор{\k30}мо{\k30}ча
 Dialogue: 0,0:22:57.50,0:23:01.88,EDBottom,,0,0,0,,{\k35}И  {\k32}мне  {\k30}не  {\k28}ну{\k28}жен  {\k66}мир  {\k29}без  {\k29}те{\k153}бя
 Dialogue: 0,0:23:02.32,0:23:09.44,EDBottom,,0,0,0,,{\k38}Смы{\k30}сла  {\k32}нет  {\k31}и  {\k30}всё  {\k243}зря  {\k24}Тьма  {\k47}вновь  {\k25}вок{\k28}руг  {\k17}ме{\k67}ня
-Dialogue: 0,0:23:09.70,0:23:14.64,EDBottom,,0,0,0,,{\k39}Da{\k31}ka{\k43}ra  {\k25}o{\k23}ne{\k22}ga{\k93}i  {\k35}bo{\k33}ku  {\k22}no  {\k20}so{\k16}ba  {\k90}ni
-Dialogue: 0,0:23:14.64,0:23:19.72,EDBottom,,0,0,0,,{\k64}I{\k89}te  {\k31}ku{\k16}re{\k14}na{\k34}i  {\k27}ka  {\k30}ki{\k32}mi  {\k38}ga  {\k19}su{\k29}ki  {\k21}da{\k32}ka{\k31}ra
+Dialogue: 0,0:23:09.70,0:23:14.64,EDBottom,,0,0,0,,{\k39}Я {\k31}про{\k43}шу,  {\k25}ты  {\k23}не {\k22}за{\k93}будь,  {\k35}со  {\k33}мно{\k22}ю  {\k20}ря{\k16}дом  {\k90}будь
+Dialogue: 0,0:23:14.64,0:23:19.72,EDBottom,,0,0,0,,{\k64}Как  {\k89}по{\k31}слу{\k16}ша{\k14}ешь  {\k34}ме{\k27}ня,  {\k30}тог{\k32}да  {\k38}бу{\k19}ду  {\k29}лю{\k21}бить  {\k32}те{\k31}бя
 Dialogue: 0,0:23:19.88,0:23:25.00,EDBottom,,0,0,0,,{\k28}Ko{\k44}no  {\k21}o{\k30}mo{\k34}i  {\k56}ga  {\k29}ki{\k30}mi  {\k32}ni  {\k32}to{\k31}do{\k30}ku  {\k34}yo{\k27}u  {\k53}ni
 Dialogue: 0,0:23:25.34,0:23:29.93,EDBottom,,0,0,0,,{\k34}Ne{\k22}ga{\k19}i  {\k45}ga  {\k37}ka{\k27}na{\k18}i{\k24}ma{\k30}su  {\k32}yo{\k32}u  {\k148}ni
