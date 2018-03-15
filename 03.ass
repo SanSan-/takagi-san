@@ -17,9 +17,9 @@ Video File: 03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 338
-Active Line: 344
-Video Position: 29048
+Scroll Position: 331
+Active Line: 341
+Video Position: 22885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -385,15 +385,15 @@ Dialogue: 0,0:21:49.29,0:21:52.73,Main-Nishikata,Нисиката,0,0,0,,Н-Ну
 Dialogue: 0,0:21:55.97,0:21:59.06,Main-Takagi,Такаги,0,0,0,,А не напомнишь, в какой стороне мой дом? {Я забыла, как ходить}
 Dialogue: 0,0:21:59.64,0:22:03.45,Main-Nishikata,Нисиката,0,0,0,,Блин, отвяжись уже от меня!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Надписи
-Dialogue: 0,0:00:00.47,0:00:03.48,Episode Title,Title,0,0,0,,{\1c&HB1FFB0&}Кофе
-Dialogue: 0,0:00:49.48,0:00:51.23,Signs,Can,0,0,0,,Orange с соком
-Dialogue: 0,0:03:04.41,0:03:06.41,Signs,Can,0,0,0,,{\c&H5741E0&}Яблочный {\c&H38AE80&}Чай
-Dialogue: 0,0:03:52.75,0:03:56.75,Empty_Can,Title,0,0,0,,Пустая банка
-Dialogue: 0,0:08:20.43,0:08:23.44,Soda,Title,0,0,0,,Содовая
-Dialogue: 0,0:08:29.86,0:08:31.94,Signs,Bottle,0,0,0,,{\c&H7762DE&}Ра{\c&H6BEDEA&}му{\c&H7CFD9D&}нэ
-Dialogue: 0,0:11:30.54,0:11:34.54,Muscle Training,Title,0,0,0,,Отжимания
-Dialogue: 0,0:14:33.43,0:14:36.43,Dubbing,Title,0,0,0,,Переозвучка
-Dialogue: 0,0:15:54.43,0:15:58.43,Umbrella,Title,0,0,0,,Зонт
+Dialogue: 0,0:00:00.47,0:00:03.48,Episode Title,Title,0,230,0,,{\1c&HB1FFB0&}Кофе
+Dialogue: 0,0:00:49.48,0:00:51.23,Default,Can,0,0,0,,{\move(72,318,452,278,0,270)\frz345.9}с соком
+Dialogue: 0,0:03:04.41,0:03:06.41,Default,Can,0,0,0,,{\c&H5741E0&}Яблочный {\c&H38AE80&}Чай
+Dialogue: 0,0:03:52.75,0:03:56.75,Episode Title,Title,0,0,0,,{\q2\pos(541,249)\1c&HE4F48D&}Пустая банка
+Dialogue: 0,0:08:20.43,0:08:23.44,Episode Title,Title,0,0,0,,{\q2\1c&H9AD3FC&\pos(1113,529)}Содовая
+Dialogue: 0,0:08:29.86,0:08:31.94,Default,Bottle,0,0,0,,{\c&H7762DE&}Ра{\c&H6BEDEA&}му{\c&H7CFD9D&}нэ
+Dialogue: 0,0:11:30.54,0:11:34.54,Episode Title,Title,0,0,0,,{\q2\1c&HCFB7F7&\pos(579,57)}Отжимания
+Dialogue: 0,0:14:33.43,0:14:36.43,Episode Title,Title,0,0,0,,{\q2\1c&HE575F8&\pos(545,623)}Переозвучка
+Dialogue: 0,0:15:54.43,0:15:58.43,Episode Title,Title,0,0,0,,{\q2\1c&HAFD091&\pos(1101,599)}Зонт
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Примечания
 Dialogue: 1,0:19:57.66,0:20:11.52,Default - Note,Примечание,0,0,0,,Примечание: «Аиаигаса» — «Зонтик любви» («Под одним зонтом»). \NПожалуй, аналог нашего «Тили-тили, тесто. Жених и невеста».
 Dialogue: 0,0:19:57.66,0:20:11.52,Default - Note,Примечание,0,0,0,,{\blur1\c&8a8a8a&\alpha&999\p1\pos(640,32)}m 0 0 l 650 0 650 75 0 75{\p0}
