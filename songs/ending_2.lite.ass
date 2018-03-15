@@ -16,9 +16,9 @@ Video File: ../03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 20
-Active Line: 25
-Video Position: 33439
+Scroll Position: 17
+Active Line: 27
+Video Position: 33696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,5 +54,5 @@ Dialogue: 0,0:22:57.50,0:23:01.88,EDBottom,,0,0,0,,{\k35}И  {\k32}мне  {\k30
 Dialogue: 0,0:23:02.32,0:23:09.44,EDBottom,,0,0,0,,{\k38}Смы{\k30}сла  {\k32}нет  {\k31}и  {\k30}всё  {\k243}зря  {\k24}Тьма  {\k47}вновь  {\k25}вок{\k28}руг  {\k17}ме{\k67}ня
 Dialogue: 0,0:23:09.70,0:23:14.64,EDBottom,,0,0,0,,{\k39}Я {\k31}про{\k43}шу,  {\k25}ты  {\k23}не {\k22}за{\k93}будь,  {\k35}со  {\k33}мно{\k22}ю  {\k20}ря{\k16}дом  {\k90}будь
 Dialogue: 0,0:23:14.64,0:23:19.72,EDBottom,,0,0,0,,{\k64}Как  {\k89}по{\k31}слу{\k16}ша{\k14}ешь  {\k34}ме{\k27}ня,  {\k30}тог{\k32}да  {\k38}бу{\k19}ду  {\k29}лю{\k21}бить  {\k32}те{\k31}бя
-Dialogue: 0,0:23:19.88,0:23:25.00,EDBottom,,0,0,0,,{\k28}Ko{\k44}no  {\k21}o{\k30}mo{\k34}i  {\k56}ga  {\k29}ki{\k30}mi  {\k32}ni  {\k32}to{\k31}do{\k30}ku  {\k34}yo{\k27}u  {\k53}ni
-Dialogue: 0,0:23:25.34,0:23:29.93,EDBottom,,0,0,0,,{\k34}Ne{\k22}ga{\k19}i  {\k45}ga  {\k37}ka{\k27}na{\k18}i{\k24}ma{\k30}su  {\k32}yo{\k32}u  {\k148}ni
+Dialogue: 0,0:23:19.88,0:23:25.00,EDBottom,,0,0,0,,{\k28}Ведь, {\k44}вещь,  {\k21}та  {\k30}са{\k34}ма{\k56}я,  {\k29}что  {\k30}так  {\k32}дол{\k32}жна  {\k31}дой{\k30}ти  {\k34}до  {\k27}те{\k53}бя
+Dialogue: 0,0:23:25.34,0:23:29.93,EDBottom,,0,0,0,,{\k34}Же{\k22}ла{\k19}ю  {\k45}я,  {\k37}чтоб  {\k27}бы{\k18}ли  {\k24}вме{\k30}сте  {\k32}мы  {\k32}все{\k148}гда
