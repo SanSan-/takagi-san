@@ -19,7 +19,7 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 6
 Active Line: 16
-Video Position: 2991
+Video Position: 3532
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,21 +49,21 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Диалоги
 Dialogue: 0,0:00:04.87,0:00:06.48,Main-Tanabe,Танабэ,0,0,0,,Эй, Нисиката.
-Dialogue: 0,0:00:06.89,0:00:10.41,Main-Tanabe,Танабэ,0,0,0,,You've been too loud during class lately.
-Dialogue: 0,0:00:11.61,0:00:13.04,Main-Tanabe,Танабэ,0,0,0,,You better shape up.
-Dialogue: 0,0:00:13.63,0:00:17.07,Main-Nishikata,Нисиката,0,0,0,,Y-Yes, sir. I'm sorry.
-Dialogue: 0,0:00:17.55,0:00:20.78,Main-Tanabe,Танабэ,0,0,0,,I'm putting you in charge of cleaning\N the science room after school.
-Dialogue: 0,0:00:20.78,0:00:21.54,Main-Nishikata,Нисиката,0,0,0,,Huh?
-Dialogue: 0,0:00:21.96,0:00:24.32,Main-Tanabe,Танабэ,0,0,0,,Make sure you wipe the desks clean, too.
-Dialogue: 0,0:00:24.32,0:00:25.74,Main-Nishikata,Нисиката,0,0,0,,Huh?!
-Dialogue: 0,0:01:57.98,0:01:59.20,Main-Nishikata,Нисиката,0,0,0,,"Cleaning Duty."
-Dialogue: 0,0:02:04.70,0:02:06.35,Main-Nishikata,Нисиката,0,0,0,,Why only me?
-Dialogue: 0,0:02:06.86,0:02:09.19,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан is at fault, too.
-Dialogue: 0,0:02:09.58,0:02:11.57,Main-Nishikata,Нисиката,0,0,0,,She's the one who's always\N teasing me during class.
-Dialogue: 0,0:02:14.53,0:02:17.40,Main-Nishikata,Нисиката,0,0,0,,I guess it's my reactions\Nthat are loud.
-Dialogue: 0,0:02:17.88,0:02:20.03,Main-Nishikata,Нисиката,0,0,0,,Let's just get this over with and go home—
+Dialogue: 0,0:00:06.89,0:00:10.41,Main-Tanabe,Танабэ,0,0,0,,Ты стал слишком часто шуметь во время урока.
+Dialogue: 0,0:00:11.61,0:00:13.04,Main-Tanabe,Танабэ,0,0,0,,Лучше угомонись, а.
+Dialogue: 0,0:00:13.63,0:00:17.07,Main-Nishikata,Нисиката,0,0,0,,Д-Да. Прости меня, пожалуйста.
+Dialogue: 0,0:00:17.55,0:00:20.78,Main-Tanabe,Танабэ,0,0,0,,Я направляю тебя на уборку лаборатории после уроков.
+Dialogue: 0,0:00:20.78,0:00:21.54,Main-Nishikata,Нисиката,0,0,0,,Э?
+Dialogue: 0,0:00:21.96,0:00:24.32,Main-Tanabe,Танабэ,0,0,0,,И убедись, что доска чисто вымыта.
+Dialogue: 0,0:00:24.32,0:00:25.74,Main-Nishikata,Нисиката,0,0,0,,Э?!
+Dialogue: 0,0:01:57.98,0:01:59.20,Main-Nishikata,Нисиката,0,0,0,,«Уборка»
+Dialogue: 0,0:02:04.70,0:02:06.35,Main-Nishikata,Нисиката,0,0,0,,Почему одного меня?
+Dialogue: 0,0:02:06.86,0:02:09.19,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан тоже виновата.
+Dialogue: 0,0:02:09.58,0:02:11.57,Main-Nishikata,Нисиката,0,0,0,,Постоянно дразнит меня на уроках.
+Dialogue: 0,0:02:14.53,0:02:17.40,Main-Nishikata,Нисиката,0,0,0,,Конечно, моя реакция будет громкой.
+Dialogue: 0,0:02:17.88,0:02:20.03,Main-Nishikata,Нисиката,0,0,0,,Надо убраться и валить домо—
 Dialogue: 0,0:02:22.19,0:02:23.88,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан?!
-Dialogue: 0,0:02:25.94,0:02:27.31,Main-Takagi,Такаги,0,0,0,,You're so surprised!
+Dialogue: 0,0:02:25.94,0:02:27.31,Main-Takagi,Такаги,0,0,0,,Ты так испугался!
 Dialogue: 0,0:02:29.06,0:02:32.29,Main-Takagi,Такаги,0,0,0,,This was worth having \Nto stay and wait for a while.
 Dialogue: 0,0:02:32.84,0:02:35.63,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, do you have to clean\N the room as punishment, too?
 Dialogue: 0,0:02:37.70,0:02:39.47,Main-Takagi,Такаги,0,0,0,,Let's just get it over with.
