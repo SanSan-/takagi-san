@@ -1,0 +1,425 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Iwtalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Next,Open Sans Semibold,30,&H00DFDFDF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,5,64,77,1
+Style: Episode Title,Open Sans Semibold,36,&H00E0F358,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,9,465,283,36,0
+Style: Cat,Open Sans Semibold,36,&H00C9E9FC,&H000000FF,&H00315A60,&H0096969B,1,0,0,0,100,100,0,0,1,1,1,9,513,283,36,0
+Style: Type,Open Sans Semibold,36,&H004653F7,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,8,293,293,36,0
+Style: class,Open Sans Semibold,30,&H00000000,&H000000FF,&H0049719F,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,325,325,24,1
+Style: Portrait,Open Sans Semibold,36,&H009FFF55,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,9,600,125,37,0
+Style: poster,Open Sans Semibold,30,&H00524BCA,&H000000FF,&H0083E8E6,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,243,243,24,1
+Style: Fortune Telling,Open Sans Semibold,36,&H003C383B,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,7,96,497,135,0
+Style: House of fortune,Open Sans Semibold,30,&H00CF7BE5,&H000000FF,&H00D3FFFB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,491,116,87,1
+Style: Critical_Hit,Open Sans Semibold,36,&H0064F6FE,&H000000FF,&H00040089,&H00080087,1,0,0,0,100,100,0,0,1,0,1,8,245,245,36,0
+Style: sign_23958_295_Toy_with__Soothe,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,211,521,97,1
+Style: Crawl,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,400,32,128,1
+Style: sign_23958_296_Takagi_san,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,631,113,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.01,0:00:05.53,Italics,Nishikata,0000,0000,0000,,How to approach a cat.
+Dialogue: 0,0:00:06.21,0:00:08.19,Italics,Nishikata,0000,0000,0000,,Number one: Don't make eye contact.
+Dialogue: 0,0:00:08.61,0:00:11.58,Italics,Nishikata,0000,0000,0000,,Number two: Crouch down.
+Dialogue: 0,0:00:14.34,0:00:18.93,Italics,Nishikata,0000,0000,0000,,How about it? Now you know\N I don't mean you any harm, right?
+Dialogue: 0,0:00:19.84,0:00:20.92,Italics,Nishikata,0000,0000,0000,,Number three:
+Dialogue: 0,0:00:21.95,0:00:24.46,Italics,Nishikata,0000,0000,0000,,Approach slowly.
+Dialogue: 0,0:00:26.92,0:00:28.43,Italics,Nishikata,0000,0000,0000,,This is amazing!
+Dialogue: 0,0:00:28.43,0:00:31.93,Italics,Nishikata,0000,0000,0000,,I can get so close now, following\Nthe advice on that show yesterday!
+Dialogue: 0,0:00:36.51,0:00:37.97,Main,Takagi,0000,0000,0000,,Hey, it's Nishikata.
+Dialogue: 0,0:00:44.23,0:00:45.44,Main,Takagi,0000,0000,0000,,What were you doing?
+Dialogue: 0,0:00:48.11,0:00:49.67,Main,Nishikata,0000,0000,0000,,N-Nothing...
+Dialogue: 0,0:02:20.49,0:02:24.49,Cat,Title 1,0000,0000,0000,,Cat
+Dialogue: 0,0:02:22.43,0:02:23.23,Main,Nishikata,0000,0000,0000,,"Cat."
+Dialogue: 0,0:02:25.83,0:02:30.61,Italics,Nishikata,0000,0000,0000,,Damn you, Takagi-san!\N I was so close to touching that cat!
+Dialogue: 0,0:02:31.38,0:02:32.18,Italics,Nishikata,0000,0000,0000,,But...
+Dialogue: 0,0:02:32.92,0:02:36.38,Italics,Nishikata,0000,0000,0000,,I'm glad she didn't see me petting the cat.
+Dialogue: 0,0:02:37.05,0:02:38.76,Italics,Nishikata,0000,0000,0000,,If she did...
+Dialogue: 0,0:02:39.06,0:02:41.58,Flashback,Takagi,0000,0000,0000,,Nishikata's petting a cat!
+Dialogue: 0,0:02:41.58,0:02:43.72,Flashback,Takagi,0000,0000,0000,,You're a boy, but you like cute things, huh?
+Dialogue: 0,0:02:44.08,0:02:46.33,Italics,Nishikata,0000,0000,0000,,That's definitely what would have happened.
+Dialogue: 0,0:02:48.38,0:02:52.65,Italics,Nishikata,0000,0000,0000,,There's no way I'm gonna give her\N more fodder to make fun of me with!
+Dialogue: 0,0:02:52.94,0:02:54.05,Main,Takagi,0000,0000,0000,,Oh, a cat.
+Dialogue: 0,0:02:54.05,0:02:54.85,Main,Nishikata,0000,0000,0000,,Where?!
+Dialogue: 0,0:02:56.63,0:02:58.19,Main,Takagi,0000,0000,0000,,You like cats?
+Dialogue: 0,0:02:58.19,0:02:59.65,Main,Nishikata,0000,0000,0000,,N-Not really...
+Dialogue: 0,0:02:59.93,0:03:01.83,Italics,Nishikata,0000,0000,0000,,Crap! I messed up.
+Dialogue: 0,0:03:02.43,0:03:03.22,Main,Takagi,0000,0000,0000,,There.
+Dialogue: 0,0:03:04.77,0:03:05.75,Main,Takagi,0000,0000,0000,,Here, kitty, kitty.
+Dialogue: 0,0:03:06.67,0:03:07.83,Main,Takagi,0000,0000,0000,,Come here.
+Dialogue: 0,0:03:09.01,0:03:12.90,Italics,Nishikata,0000,0000,0000,,You're naïve, Takagi-san.\N Cats are very wary animals.
+Dialogue: 0,0:03:12.90,0:03:14.77,Italics,Nishikata,0000,0000,0000,,There's no way that cat will—
+Dialogue: 0,0:03:15.17,0:03:17.19,Main,Takagi,0000,0000,0000,,Oh, here he comes.
+Dialogue: 0,0:03:17.63,0:03:19.07,Italics,Nishikata,0000,0000,0000,,What?!
+Dialogue: 0,0:03:19.07,0:03:21.80,Italics,Nishikata,0000,0000,0000,,Why?! That wasn't even a proper call!
+Dialogue: 0,0:03:21.80,0:03:25.24,Italics,Nishikata,0000,0000,0000,,Could Takagi-san be a cat master?!
+Dialogue: 0,0:03:25.68,0:03:28.82,Main,Takagi,0000,0000,0000,,Good boy. You're cute as usual, Meeta.
+Dialogue: 0,0:03:29.98,0:03:31.63,Main,Nishikata,0000,0000,0000,,You know this cat?
+Dialogue: 0,0:03:31.63,0:03:34.94,Main,Takagi,0000,0000,0000,,Yep. He belongs to the\Nold lady by our house.
+Dialogue: 0,0:03:35.38,0:03:37.90,Italics,Nishikata,0000,0000,0000,,No wonder. I freaked out for nothing.
+Dialogue: 0,0:03:38.12,0:03:39.78,Main,Takagi,0000,0000,0000,,Good boy.
+Dialogue: 0,0:03:47.49,0:03:51.32,Main,Takagi,0000,0000,0000,,He really likes people.\NHe lets you pet him all you want.
+Dialogue: 0,0:03:52.33,0:03:53.98,Italics,Nishikata,0000,0000,0000,,Pet him all you want?!
+Dialogue: 0,0:03:53.98,0:03:56.09,Italics,Nishikata,0000,0000,0000,,An all-you-can-pet cat?!
+Dialogue: 0,0:03:56.32,0:03:57.61,Italics,Nishikata,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:03:59.33,0:04:00.92,Main,Takagi,0000,0000,0000,,Why don't you try, Nishikata?
+Dialogue: 0,0:04:00.92,0:04:02.63,Main,Nishikata,0000,0000,0000,,Huh?! Why?!
+Dialogue: 0,0:04:02.63,0:04:05.45,Main,Takagi,0000,0000,0000,,You were trying to pet that cat earlier, right?
+Dialogue: 0,0:04:05.45,0:04:07.60,Main,Takagi,0000,0000,0000,,You were trying to use\Nthat trick from TV yesterday.
+Dialogue: 0,0:04:08.15,0:04:09.85,Main,Takagi,0000,0000,0000,,You like cats, right?
+Dialogue: 0,0:04:09.85,0:04:11.81,Italics,Nishikata,0000,0000,0000,,Sh-She already knows!
+Dialogue: 0,0:04:11.81,0:04:16.13,Main,Nishikata,0000,0000,0000,,I-I was just trying to test\N out that trick from TV.
+Dialogue: 0,0:04:17.00,0:04:19.86,Main,Takagi,0000,0000,0000,,So you don't particularly like cats or anything?
+Dialogue: 0,0:04:19.86,0:04:22.05,Main,Nishikata,0000,0000,0000,,I guess not.
+Dialogue: 0,0:04:22.05,0:04:24.78,Main,Nishikata,0000,0000,0000,,It's not as if I've ever had the urge\N to touch a cat or anything.
+Dialogue: 0,0:04:25.05,0:04:27.16,Main,Takagi,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:04:27.47,0:04:29.37,Main,Takagi,0000,0000,0000,,They're so cute, though.
+Dialogue: 0,0:04:29.68,0:04:31.58,Main,Takagi,0000,0000,0000,,Their coats are so fluffy,
+Dialogue: 0,0:04:31.98,0:04:34.04,Main,Takagi,0000,0000,0000,,and their paws are so squishy.
+Dialogue: 0,0:04:37.04,0:04:40.50,Italics,Nishikata,0000,0000,0000,,This cat even lets people to touch his paws?!
+Dialogue: 0,0:04:40.50,0:04:42.55,Italics,Nishikata,0000,0000,0000,,I-I want to touch it.
+Dialogue: 0,0:04:42.55,0:04:45.23,Italics,Nishikata,0000,0000,0000,,But no! It's too late to say that now!
+Dialogue: 0,0:04:47.02,0:04:48.18,Italics,Nishikata,0000,0000,0000,,I know!
+Dialogue: 0,0:04:48.79,0:04:53.13,Main,Nishikata,0000,0000,0000,,I really don't understand people\N who want to touch cats.
+Dialogue: 0,0:04:53.89,0:04:56.21,Main,Nishikata,0000,0000,0000,,Are they that cute?
+Dialogue: 0,0:04:56.21,0:05:00.97,Main,Nishikata,0000,0000,0000,,And even if they are,\N I wouldn't want to pet them.
+Dialogue: 0,0:05:00.97,0:05:05.20,Main,Nishikata,0000,0000,0000,,They're animals, after all.\N You don't know what they might do.
+Dialogue: 0,0:05:07.43,0:05:10.99,Main,Takagi,0000,0000,0000,,Are you just saying that because\N you're scared of getting scratched?
+Dialogue: 0,0:05:10.99,0:05:12.70,Italics,Nishikata,0000,0000,0000,,She took the bait!
+Dialogue: 0,0:05:12.70,0:05:14.66,Main,Nishikata,0000,0000,0000,,Of course not!
+Dialogue: 0,0:05:14.66,0:05:18.67,Main,Nishikata,0000,0000,0000,,All right, I'll prove to you right now\N that I'm not scared of petting cats!
+Dialogue: 0,0:05:18.93,0:05:20.89,Main,Takagi,0000,0000,0000,,I see. I'm sorry I doubted you.
+Dialogue: 0,0:05:20.89,0:05:21.63,Main,Nishikata,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:22.13,0:05:23.38,Main,Takagi,0000,0000,0000,,I believe you.
+Dialogue: 0,0:05:23.38,0:05:25.59,Main,Nishikata,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:30.51,0:05:32.82,Main,Takagi,0000,0000,0000,,Your face is like an open book, Nishikata!
+Dialogue: 0,0:05:32.82,0:05:34.60,Main,Takagi,0000,0000,0000,,You {\i1}really{\i0} want to pet the cat, don't you?
+Dialogue: 0,0:05:35.83,0:05:37.93,Italics,Nishikata,0000,0000,0000,,Damn you, Takagi-san!
+Dialogue: 0,0:05:38.66,0:05:40.90,Main,Takagi,0000,0000,0000,,Well? Are you going to pet him or not?
+Dialogue: 0,0:05:44.79,0:05:47.36,Main,Nishikata,0000,0000,0000,,Can I... pet him?
+Dialogue: 0,0:05:48.37,0:05:49.11,Main,Takagi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:49.71,0:05:51.45,Main,Takagi,0000,0000,0000,,Though Meeta is gone.
+Dialogue: 0,0:05:51.45,0:05:53.08,Main,Nishikata,0000,0000,0000,,He's gone already?!
+Dialogue: 0,0:05:53.60,0:05:55.82,Main,Takagi,0000,0000,0000,,Do you want to go look for a cat, Nishikata?
+Dialogue: 0,0:05:56.15,0:05:58.57,Main,Nishikata,0000,0000,0000,,We're gonna be late for school.
+Dialogue: 0,0:06:01.71,0:06:05.40,Main,Girl,0000,0000,0000,,Satou-chan likes Tanaka-kun from Class 3.
+Dialogue: 0,0:06:05.40,0:06:07.56,Main,Girl 2,0000,0000,0000,,Yeah, I can kinda tell!
+Dialogue: 0,0:06:12.09,0:06:15.06,Italics,Yukari,0000,0000,0000,,I want to talk about love, too!
+Dialogue: 0,0:06:15.06,0:06:19.06,Type,Title 2,0000,0000,0000,,Taste
+Dialogue: 0,0:06:17.22,0:06:18.02,Main,Mina,0000,0000,0000,,"Taste."
+Dialogue: 0,0:06:19.06,0:06:21.52,class,Sign,0000,0000,0000,,Year 1 Class 2
+Dialogue: 0,0:06:19.82,0:06:21.52,Main,Yukari,0000,0000,0000,,So guys,
+Dialogue: 0,0:06:21.83,0:06:24.26,Main,Yukari,0000,0000,0000,,what's your type, anyway?
+Dialogue: 0,0:06:27.15,0:06:28.53,Italics,Yukari,0000,0000,0000,,Was that too abrupt?!
+Dialogue: 0,0:06:29.07,0:06:32.41,Main,Mina,0000,0000,0000,,I like the dependent type.
+Dialogue: 0,0:06:32.84,0:06:33.62,Italics,Yukari,0000,0000,0000,,Whoa?!
+Dialogue: 0,0:06:33.84,0:06:36.95,Main,Sanae,0000,0000,0000,,I like a large physique and long hair.
+Dialogue: 0,0:06:36.95,0:06:39.42,Main,Yukari,0000,0000,0000,,O-Oh? I didn't expect that.
+Dialogue: 0,0:06:39.42,0:06:42.63,Italics,Yukari,0000,0000,0000,,We can do this! These two are ready!
+Dialogue: 0,0:06:42.63,0:06:45.82,Main,Mina,0000,0000,0000,,We were just talking about that right now.
+Dialogue: 0,0:06:45.82,0:06:47.59,Main,Yukari,0000,0000,0000,,Huh?! R-Really?
+Dialogue: 0,0:06:48.13,0:06:49.61,Italics,Yukari,0000,0000,0000,,They've grown so much.
+Dialogue: 0,0:06:49.61,0:06:51.83,Italics,Yukari,0000,0000,0000,,All right, I'm going to dig more in-depth.
+Dialogue: 0,0:06:51.83,0:06:53.45,Main,Mina,0000,0000,0000,,What's your type, Yukari-chan?
+Dialogue: 0,0:06:54.40,0:06:56.21,Main,Yukari,0000,0000,0000,,I'm glad you asked!
+Dialogue: 0,0:06:56.83,0:07:00.98,Main,Yukari,0000,0000,0000,,I like long legs and the\N handsome type, I guess...
+Dialogue: 0,0:07:01.24,0:07:02.22,Main,Sanae,0000,0000,0000,,What about hair?
+Dialogue: 0,0:07:02.22,0:07:04.44,Italics,Yukari,0000,0000,0000,,Sanae is particular about a guy's hair.
+Dialogue: 0,0:07:04.74,0:07:07.42,Main,Yukari,0000,0000,0000,,I like it long, too, I guess.
+Dialogue: 0,0:07:07.42,0:07:08.74,Italics,Yukari,0000,0000,0000,,This is fun!
+Dialogue: 0,0:07:08.74,0:07:11.86,Italics,Yukari,0000,0000,0000,,This is the kind of conversation\N I've wanted to have with my friends!
+Dialogue: 0,0:07:12.12,0:07:13.70,Main,Mina,0000,0000,0000,,A borzoi, then.
+Dialogue: 0,0:07:13.70,0:07:15.03,Main,Yukari,0000,0000,0000,,Yep, yep. A borzoi...
+Dialogue: 0,0:07:16.45,0:07:18.66,Main,Yukari,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:07:19.38,0:07:20.95,Main,Mina,0000,0000,0000,,We're talking about dogs, right?
+Dialogue: 0,0:07:24.10,0:07:25.64,Main,Mina,0000,0000,0000,,So what do you like?
+Dialogue: 0,0:07:25.97,0:07:27.76,Main,Yukari,0000,0000,0000,,I like chihuahuas.
+Dialogue: 0,0:07:27.76,0:07:30.51,Main,Mina,0000,0000,0000,,Huh? You're contradicting what you said earlier.
+Dialogue: 0,0:07:30.51,0:07:33.90,Main,Sanae,0000,0000,0000,,Though, there are long-haired chihuahuas.
+Dialogue: 0,0:07:34.47,0:07:38.47,Portrait,Title 3,0000,0000,0000,,Portrait
+Dialogue: 0,0:07:36.09,0:07:37.07,Main,Nishikata,0000,0000,0000,,"Portrait."
+Dialogue: 0,0:07:44.01,0:07:44.97,Main,Takagi,0000,0000,0000,,Aren't you going to draw?
+Dialogue: 0,0:07:46.31,0:07:47.75,Main,Takagi,0000,0000,0000,,You're going to run out of time.
+Dialogue: 0,0:07:48.55,0:07:49.35,Main,Nishikata,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:56.00,0:07:57.92,Italics,Nishikata,0000,0000,0000,,Why does it have to be a portrait?
+Dialogue: 0,0:07:57.92,0:07:59.58,Italics,Nishikata,0000,0000,0000,,Can't we just draw whatever we want?
+Dialogue: 0,0:08:04.50,0:08:07.46,poster,Poster,0000,0000,0000,,The importance of a smile
+Dialogue: 0,0:08:07.90,0:08:10.18,Main,Takagi,0000,0000,0000,,Nishikata, are you actually looking\N at me while you're drawing?
+Dialogue: 0,0:08:10.18,0:08:11.55,Main,Nishikata,0000,0000,0000,,I am looking.
+Dialogue: 0,0:08:15.14,0:08:16.22,Main,Teacher,0000,0000,0000,,Listen up.
+Dialogue: 0,0:08:16.22,0:08:18.30,Main,Teacher,0000,0000,0000,,You can get too focused on drawing
+Dialogue: 0,0:08:18.30,0:08:21.18,Main,Teacher,0000,0000,0000,,and take more time drawing\N than actually observing the subject,
+Dialogue: 0,0:08:21.49,0:08:22.64,Main,Teacher,0000,0000,0000,,but that's not gonna work.
+Dialogue: 0,0:08:23.18,0:08:24.56,Main,Teacher,0000,0000,0000,,You have to observe.
+Dialogue: 0,0:08:24.56,0:08:26.65,Main,Teacher,0000,0000,0000,,Take twice as much\N time observing as drawing.
+Dialogue: 0,0:08:27.91,0:08:28.92,Main,Takagi,0000,0000,0000,,You got that?
+Dialogue: 0,0:08:31.13,0:08:32.88,Main,Nishikata,0000,0000,0000,,I-I guess so.
+Dialogue: 0,0:08:37.52,0:08:38.74,Main,Nishikata,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:08:39.45,0:08:40.70,Main,Takagi,0000,0000,0000,,Sorry, it's nothing.
+Dialogue: 0,0:08:41.06,0:08:43.43,Italics,Nishikata,0000,0000,0000,,What? What was that laugh about?
+Dialogue: 0,0:08:43.43,0:08:45.37,Italics,Nishikata,0000,0000,0000,,Is there something on my face?
+Dialogue: 0,0:08:45.86,0:08:50.30,Italics,Nishikata,0000,0000,0000,,No, there was nothing when I checked\N in the restroom mirror during the break.
+Dialogue: 0,0:08:50.67,0:08:52.90,Italics,Nishikata,0000,0000,0000,,What, then? Bed head?
+Dialogue: 0,0:08:52.90,0:08:55.05,Italics,Nishikata,0000,0000,0000,,No, that can't be it, either.
+Dialogue: 0,0:08:56.00,0:08:58.61,Italics,Nishikata,0000,0000,0000,,Could it be?! My face itself?!
+Dialogue: 0,0:08:58.61,0:09:00.56,Italics,Nishikata,0000,0000,0000,,I can't do anything about that!
+Dialogue: 0,0:09:00.82,0:09:02.71,Italics,Nishikata,0000,0000,0000,,Calm down. I have to calm down.
+Dialogue: 0,0:09:03.17,0:09:05.12,Italics,Nishikata,0000,0000,0000,,I know. It's the usual stuff.
+Dialogue: 0,0:09:05.12,0:09:08.20,Italics,Nishikata,0000,0000,0000,,She's just making me worry\N so she can enjoy my reaction.
+Dialogue: 0,0:09:08.20,0:09:09.64,Italics,Nishikata,0000,0000,0000,,Damn Takagi-san!
+Dialogue: 0,0:09:11.36,0:09:13.74,Italics,Nishikata,0000,0000,0000,,Two can play this game!
+Dialogue: 0,0:09:18.96,0:09:20.77,Main,Takagi,0000,0000,0000,,Are you laughing because\N your drawing sucks so bad?
+Dialogue: 0,0:09:20.77,0:09:21.70,Main,Nishikata,0000,0000,0000,,No!
+Dialogue: 0,0:09:22.01,0:09:24.74,Main,Takagi,0000,0000,0000,,Then, is there something on my face?
+Dialogue: 0,0:09:25.69,0:09:28.41,Italics,Nishikata,0000,0000,0000,,I didn't expect her to ask me straight.
+Dialogue: 0,0:09:28.41,0:09:29.62,Main,Nishikata,0000,0000,0000,,N-No...
+Dialogue: 0,0:09:31.66,0:09:33.93,Italics,Nishikata,0000,0000,0000,,No damage...
+Dialogue: 0,0:09:33.93,0:09:36.07,Main,Yukari,0000,0000,0000,,I told you, Mina!
+Dialogue: 0,0:09:36.54,0:09:39.18,Main,Yukari,0000,0000,0000,,My eyes don't slant upward so much.
+Dialogue: 0,0:09:39.18,0:09:41.59,Main,Mina,0000,0000,0000,,That's how I envision you, though.
+Dialogue: 0,0:09:41.59,0:09:43.58,Main,Yukari,0000,0000,0000,,Don't draw me based on\Nyour "envisioning"! Observe!
+Dialogue: 0,0:09:43.58,0:09:44.75,Italics,Nishikata,0000,0000,0000,,That's it!
+Dialogue: 0,0:09:45.25,0:09:47.10,Flashback,Takagi,0000,0000,0000,,Huh? This is me?
+Dialogue: 0,0:09:47.10,0:09:50.15,Flashback,Nishikata,0000,0000,0000,,Well, that how I envision you.
+Dialogue: 0,0:09:50.94,0:09:52.23,Italics,Nishikata,0000,0000,0000,,That's what I'll say.
+Dialogue: 0,0:10:00.49,0:10:02.53,Main,Teacher,0000,0000,0000,,Ten more minutes.
+Dialogue: 0,0:10:03.12,0:10:05.13,Italics,Nishikata,0000,0000,0000,,Okay, this looks good.
+Dialogue: 0,0:10:05.98,0:10:06.83,Main,Takagi,0000,0000,0000,,Nishikata,
+Dialogue: 0,0:10:07.90,0:10:09.03,Main,Takagi,0000,0000,0000,,can I take a look?
+Dialogue: 0,0:10:13.34,0:10:14.74,Main,Nishikata,0000,0000,0000,,Yeah, go ahead.
+Dialogue: 0,0:10:20.34,0:10:21.94,Italics,Nishikata,0000,0000,0000,,How's that, Takagi-san?
+Dialogue: 0,0:10:27.21,0:10:29.94,Italics,Nishikata,0000,0000,0000,,Crap, did I go too far?
+Dialogue: 0,0:10:30.77,0:10:34.86,Main,Nishikata,0000,0000,0000,,U-Uh, I drew it based on how I envision you.
+Dialogue: 0,0:10:35.24,0:10:36.25,Main,Takagi,0000,0000,0000,,Nishikata.
+Dialogue: 0,0:10:44.55,0:10:47.25,Main,Nishikata,0000,0000,0000,,What the heck?! Takagi-san, your face!
+Dialogue: 0,0:10:48.15,0:10:49.37,Main,Nishikata,0000,0000,0000,,My stomach hurts!
+Dialogue: 0,0:10:49.89,0:10:52.46,Main,Takagi,0000,0000,0000,,If you're going to draw me weird,\Nyou might as well make it really weird.
+Dialogue: 0,0:10:53.35,0:10:55.06,Main,Takagi,0000,0000,0000,,Here, look closely.
+Dialogue: 0,0:10:56.84,0:10:57.64,Main,Nishikata,0000,0000,0000,,Okay...
+Dialogue: 0,0:11:06.28,0:11:08.83,Main,Takagi,0000,0000,0000,,Can you see me well? I can\N get closer if you want.
+Dialogue: 0,0:11:08.83,0:11:10.83,Main,Nishikata,0000,0000,0000,,N-No, you're fine.
+Dialogue: 0,0:11:11.27,0:11:12.09,Main,Takagi,0000,0000,0000,,Good.
+Dialogue: 0,0:11:17.92,0:11:20.11,Italics,Nishikata,0000,0000,0000,,On a closer look,
+Dialogue: 0,0:11:20.45,0:11:22.74,Italics,Nishikata,0000,0000,0000,,Takagi-san is... p—
+Dialogue: 0,0:11:22.74,0:11:24.41,Italics,Nishikata,0000,0000,0000,,Pre— Pret—
+Dialogue: 0,0:11:24.41,0:11:25.75,Main,Takagi,0000,0000,0000,,There, finished.
+Dialogue: 0,0:11:26.09,0:11:26.89,Main,Takagi,0000,0000,0000,,See?
+Dialogue: 0,0:11:30.18,0:11:30.98,Main,Takagi,0000,0000,0000,,What do you think?
+Dialogue: 0,0:11:33.09,0:11:36.00,Main,Nishikata,0000,0000,0000,,Was I looking sideways that much?
+Dialogue: 0,0:11:36.00,0:11:37.73,Main,Takagi,0000,0000,0000,,Oh, I forgot.
+Dialogue: 0,0:11:40.36,0:11:41.23,Main,Nishikata,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:41.83,0:11:42.73,Main,Takagi,0000,0000,0000,,Finished.
+Dialogue: 0,0:11:47.63,0:11:49.91,Main,Nishikata,0000,0000,0000,,My face isn't that red!
+Dialogue: 0,0:11:49.91,0:11:51.36,Main,Takagi,0000,0000,0000,,You've been blushing the whole time.
+Dialogue: 0,0:11:51.36,0:11:53.52,Main,Nishikata,0000,0000,0000,,No, I haven't! It just looks like that.
+Dialogue: 0,0:11:54.34,0:11:56.52,Main,Nishikata,0000,0000,0000,,Look carefully! How am I blushing?!
+Dialogue: 0,0:11:56.52,0:11:58.53,House of fortune,Sign,0000,0000,0000,,House of Fortune
+Dialogue: 0,0:11:56.52,0:12:00.53,Fortune Telling,Title 4,0000,0000,0000,,Fortune Telling
+Dialogue: 0,0:11:57.71,0:11:58.53,Main,Nishikata,0000,0000,0000,,"Fortune Telling."
+Dialogue: 0,0:12:03.11,0:12:07.49,Main,Girl,0000,0000,0000,,Oh, this card means your wish\Nwill more or less come true.
+Dialogue: 0,0:12:07.49,0:12:08.58,Main,Takagi,0000,0000,0000,,Really?
+Dialogue: 0,0:12:10.03,0:12:12.66,Main,Yukari,0000,0000,0000,,Why don't you get your\Nlove fortune telling done, too, Mina?
+Dialogue: 0,0:12:12.66,0:12:14.01,Main,Girl2,0000,0000,0000,,She's good.
+Dialogue: 0,0:12:14.01,0:12:15.04,Main,Yukari,0000,0000,0000,,Do it.
+Dialogue: 0,0:12:16.25,0:12:20.16,Main,Mina,0000,0000,0000,,You say that, but I bet you're the one\N who wants to get a reading, Yukari-chan.
+Dialogue: 0,0:12:20.16,0:12:21.76,Main,Yukari,0000,0000,0000,,No, I don't!
+Dialogue: 0,0:12:21.76,0:12:22.74,Main,Sanae,0000,0000,0000,,You're so obvious.
+Dialogue: 0,0:12:22.74,0:12:24.47,Main,Yukari,0000,0000,0000,,It's for Mina!
+Dialogue: 0,0:12:27.38,0:12:30.63,Main,Nishikata,0000,0000,0000,,What a pain... I wanted to go home.
+Dialogue: 0,0:12:31.03,0:12:31.89,Main,Takagi,0000,0000,0000,,Nishikata.
+Dialogue: 0,0:12:33.17,0:12:34.36,Main,Nishikata,0000,0000,0000,,Takagi-san.
+Dialogue: 0,0:12:34.36,0:12:35.41,Main,Takagi,0000,0000,0000,,Hey, Nishikata,
+Dialogue: 0,0:12:36.09,0:12:37.15,Main,Takagi,0000,0000,0000,,let's play rock-paper-scissors.
+Dialogue: 0,0:12:37.15,0:12:38.76,Main,Nishikata,0000,0000,0000,,Why?
+Dialogue: 0,0:12:38.76,0:12:41.86,Main,Takagi,0000,0000,0000,,The loser has to buy juice\N on the way home. How about it?
+Dialogue: 0,0:12:41.86,0:12:45.50,Main,Nishikata,0000,0000,0000,,Uh, sorry, but I have to clean up after school,
+Dialogue: 0,0:12:45.50,0:12:46.69,Main,Nishikata,0000,0000,0000,,so go home without me.
+Dialogue: 0,0:12:48.77,0:12:50.79,Main,Takagi,0000,0000,0000,,I'll wait until you're done, then.
+Dialogue: 0,0:12:50.79,0:12:52.87,Main,Nishikata,0000,0000,0000,,No, I'd feel bad.
+Dialogue: 0,0:12:55.05,0:12:58.08,Main,Takagi,0000,0000,0000,,Then, if you win, I'll help you clean up.
+Dialogue: 0,0:12:59.57,0:13:02.09,Main,Nishikata,0000,0000,0000,,Why do you wanna do\N rock-paper-scissors so badly?
+Dialogue: 0,0:13:02.09,0:13:03.55,Main,Takagi,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:13:04.05,0:13:05.88,Main,Nishikata,0000,0000,0000,,I guess it's okay.
+Dialogue: 0,0:13:06.96,0:13:07.80,Main,Nishikata,0000,0000,0000,,Wait!
+Dialogue: 0,0:13:08.19,0:13:09.01,Main,Takagi,0000,0000,0000,,What?
+Dialogue: 0,0:13:09.22,0:13:13.27,Main,Nishikata,0000,0000,0000,,No psychological attacks like declaring\Nwhat you're gonna go with!
+Dialogue: 0,0:13:13.27,0:13:14.88,Main,Takagi,0000,0000,0000,,Okay, I'm good with that.
+Dialogue: 0,0:13:15.37,0:13:20.74,Italics,Nishikata,0000,0000,0000,,That was close. I lost to her\N four times in a row before.
+Dialogue: 0,0:13:21.62,0:13:22.62,Main,Takagi,0000,0000,0000,,Ready?
+Dialogue: 0,0:13:23.01,0:13:25.07,Main,Both,0000,0000,0000,,Rock, paper, scissors!
+Dialogue: 0,0:13:27.13,0:13:28.89,Italics,Nishikata,0000,0000,0000,,I-I won?!
+Dialogue: 0,0:13:30.38,0:13:32.19,Italics,Nishikata,0000,0000,0000,,My first victory over Takagi-san.
+Dialogue: 0,0:13:32.19,0:13:34.19,Italics,Nishikata,0000,0000,0000,,Yes! I did it!
+Dialogue: 0,0:13:34.19,0:13:36.25,Italics,Nishikata,0000,0000,0000,,I bet she's super mad!
+Dialogue: 0,0:13:36.57,0:13:38.08,Main,Takagi,0000,0000,0000,,I'll help you, then.
+Dialogue: 0,0:13:46.59,0:13:49.11,Italics,Nishikata,0000,0000,0000,,She doesn't seem to mind.
+Dialogue: 0,0:13:50.73,0:13:52.03,Italics,Nishikata,0000,0000,0000,,In any case, I won.
+Dialogue: 0,0:13:52.03,0:13:54.89,Italics,Nishikata,0000,0000,0000,,I'm gonna drown myself in\N euphoria over my first triumph.
+Dialogue: 0,0:13:55.43,0:13:56.48,Main,Takagi,0000,0000,0000,,Nishikata.
+Dialogue: 0,0:13:56.72,0:13:58.19,Main,Nishikata,0000,0000,0000,,What is it, Takagi-san?
+Dialogue: 0,0:13:58.58,0:14:00.13,Main,Takagi,0000,0000,0000,,Do you believe in fortune telling?
+Dialogue: 0,0:14:01.01,0:14:03.94,Main,Nishikata,0000,0000,0000,,Fortune telling? N-No, why?
+Dialogue: 0,0:14:04.15,0:14:05.89,Main,Takagi,0000,0000,0000,,We were all doing it today.
+Dialogue: 0,0:14:05.89,0:14:08.60,Main,Nishikata,0000,0000,0000,,Oh, like with the deck of cards earlier?
+Dialogue: 0,0:14:08.60,0:14:10.02,Main,Takagi,0000,0000,0000,,They're tarot cards.
+Dialogue: 0,0:14:12.82,0:14:15.95,Main,Takagi,0000,0000,0000,,I had my tarot reading about love today.
+Dialogue: 0,0:14:16.69,0:14:17.78,Main,Nishikata,0000,0000,0000,,Oh...
+Dialogue: 0,0:14:18.77,0:14:19.66,Italics,Nishikata,0000,0000,0000,,Love?
+Dialogue: 0,0:14:20.19,0:14:24.32,Main,Takagi,0000,0000,0000,,I was told I'll do well with my current crush.
+Dialogue: 0,0:14:24.32,0:14:27.22,Main,Nishikata,0000,0000,0000,,Current crush? I-I see.
+Dialogue: 0,0:14:27.80,0:14:29.93,Main,Takagi,0000,0000,0000,,Nishikata, do you have a crush?
+Dialogue: 0,0:14:32.75,0:14:34.50,Main,Nishikata,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:14:35.71,0:14:37.60,Main,Takagi,0000,0000,0000,,I said, do you have a crush?
+Dialogue: 0,0:14:37.60,0:14:40.26,Main,Nishikata,0000,0000,0000,,N-No! I don't!
+Dialogue: 0,0:14:41.74,0:14:42.54,Main,Takagi,0000,0000,0000,,I see.
+Dialogue: 0,0:14:43.07,0:14:45.78,Italics,Nishikata,0000,0000,0000,,Why did she ask me that just now?
+Dialogue: 0,0:14:46.41,0:14:48.74,Italics,Nishikata,0000,0000,0000,,Could it be? Does Takagi-san...
+Dialogue: 0,0:14:49.14,0:14:50.63,Italics,Nishikata,0000,0000,0000,,like me?
+Dialogue: 0,0:14:52.20,0:14:53.45,Main,Takagi,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:14:53.90,0:14:55.83,Main,Nishikata,0000,0000,0000,,I-It's nothing.
+Dialogue: 0,0:14:58.35,0:15:00.41,Italics,Nishikata,0000,0000,0000,,Why am I so nervous?
+Dialogue: 0,0:15:00.41,0:15:01.21,Italics,Nishikata,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:02.52,0:15:04.22,Italics,Nishikata,0000,0000,0000,,Does this mean...
+Dialogue: 0,0:15:06.94,0:15:11.38,Italics,Nishikata,0000,0000,0000,,I like... Takagi-san?
+Dialogue: 0,0:15:11.70,0:15:14.37,Italics,Nishikata,0000,0000,0000,,N-No, that can't be.
+Dialogue: 0,0:15:18.07,0:15:19.72,Main,Takagi,0000,0000,0000,,Oh, by the way, Nishikata.
+Dialogue: 0,0:15:19.72,0:15:20.85,Main,Nishikata,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:15:21.53,0:15:23.46,Main,Takagi,0000,0000,0000,,I asked whether you have a crush
+Dialogue: 0,0:15:24.29,0:15:26.89,Main,Takagi,0000,0000,0000,,because I had your tarot reading done, too.
+Dialogue: 0,0:15:28.11,0:15:31.20,Main,Nishikata,0000,0000,0000,,S-So that's why.
+Dialogue: 0,0:15:33.35,0:15:34.35,Main,Nishikata,0000,0000,0000,,I see.
+Dialogue: 0,0:15:37.13,0:15:39.83,Italics,Nishikata,0000,0000,0000,,Wait, am I disappointed.
+Dialogue: 0,0:15:40.28,0:15:43.43,Main,Takagi,0000,0000,0000,,As it turns out, you'll do well\Nwith your crush, too.
+Dialogue: 0,0:15:46.45,0:15:48.82,Main,Takagi,0000,0000,0000,,You wish you had a crush now, don't you?
+Dialogue: 0,0:15:51.07,0:15:52.23,Main,Takagi,0000,0000,0000,,You're blushing.
+Dialogue: 0,0:15:52.23,0:15:54.39,Main,Nishikata,0000,0000,0000,,That's because I'm hard at work cleaning.
+Dialogue: 0,0:15:54.39,0:15:56.54,Italics,Nishikata,0000,0000,0000,,I-I should change the subject.
+Dialogue: 0,0:15:56.54,0:15:58.47,Main,Nishikata,0000,0000,0000,,What other readings did you have done?
+Dialogue: 0,0:15:58.98,0:16:00.15,Main,Takagi,0000,0000,0000,,Um...
+Dialogue: 0,0:16:00.66,0:16:03.02,Main,Takagi,0000,0000,0000,,Like, what your choice was going to be\N for rock-paper-scissors.
+Dialogue: 0,0:16:03.37,0:16:06.42,Main,Nishikata,0000,0000,0000,,Huh? You mean the\N rock-paper-scissors I won earlier?
+Dialogue: 0,0:16:06.42,0:16:07.23,Main,Takagi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:07.59,0:16:10.45,Italics,Nishikata,0000,0000,0000,,See? It's just fortune telling, after all.
+Dialogue: 0,0:16:10.45,0:16:12.63,Italics,Nishikata,0000,0000,0000,,I feel stupid for worrying.
+Dialogue: 0,0:16:13.45,0:16:17.32,Main,Nishikata,0000,0000,0000,,That's what you get for\N believing in fortune telling.
+Dialogue: 0,0:16:17.32,0:16:18.55,Main,Nishikata,0000,0000,0000,,You're stuck cleaning.
+Dialogue: 0,0:16:18.55,0:16:19.95,Main,Takagi,0000,0000,0000,,It came true.
+Dialogue: 0,0:16:20.43,0:16:23.16,Main,Nishikata,0000,0000,0000,,Huh? But I won.
+Dialogue: 0,0:16:23.16,0:16:24.70,Main,Takagi,0000,0000,0000,,Yeah, you did.
+Dialogue: 0,0:16:28.78,0:16:29.58,Main,Nishikata,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:30.59,0:16:33.14,Main,Takagi,0000,0000,0000,,Let's clean up, Nishikata.
+Dialogue: 0,0:16:33.14,0:16:33.94,Main,Nishikata,0000,0000,0000,,Uh,
+Dialogue: 0,0:16:34.21,0:16:36.11,Main,Nishikata,0000,0000,0000,,yeah... Huh?
+Dialogue: 0,0:16:39.22,0:16:39.72,Crawl,,0000,0000,0000,,Nishikata has appeared!
+Dialogue: 0,0:16:39.22,0:16:43.96,sign_23958_295_Toy_with__Soothe,Left,0000,0000,0000,,Toy with\N\NSoothe\N\NRun\N\NTease
+Dialogue: 0,0:16:39.22,0:16:43.96,sign_23958_296_Takagi_san,Left,0000,0000,0000,,Takagi-san
+Dialogue: 0,0:16:39.72,0:16:40.56,Crawl,Bottom,0000,0000,0000,,Nishikata has appeared!\N Nishikata looks embarrassed.
+Dialogue: 0,0:16:40.52,0:16:43.94,Critical_Hit,Title 5,0000,0000,0000,,Critical
+Dialogue: 0,0:16:40.56,0:16:41.22,Crawl,Bottom,0000,0000,0000,,Nishikata looks embarrassed.\NTakagi-san teases him.
+Dialogue: 0,0:16:41.22,0:16:41.85,Crawl,Bottom,0000,0000,0000,,Critical hit!
+Dialogue: 0,0:16:41.80,0:16:42.86,Main,Nishikata,0000,0000,0000,,"Critical."
+Dialogue: 0,0:16:41.85,0:16:42.06,Crawl,Bottom,0000,0000,0000,,Nishikata has been defeated!
+Dialogue: 0,0:16:42.06,0:16:43.94,Crawl,Bottom,0000,0000,0000,,Nishikata has been defeated!\NNishikata still looks embarrassed.
+Dialogue: 0,0:16:46.38,0:16:50.28,Italics,Nishikata,0000,0000,0000,,I'll finally win against\N Takagi-san today, for sure!
+Dialogue: 0,0:16:51.89,0:16:53.32,Main,Takagi,0000,0000,0000,,Oh, Nishikata.
+Dialogue: 0,0:16:53.87,0:16:54.67,Main,Takagi,0000,0000,0000,,Morning.
+Dialogue: 0,0:16:55.27,0:16:57.24,Main,Nishikata,0000,0000,0000,,Morning.
+Dialogue: 0,0:16:57.87,0:16:59.78,Main,Takagi,0000,0000,0000,,You're in a good mood today.
+Dialogue: 0,0:17:00.30,0:17:02.79,Main,Nishikata,0000,0000,0000,,Really? You think so?
+Dialogue: 0,0:17:03.51,0:17:04.88,Italics,Nishikata,0000,0000,0000,,You're right, though.
+Dialogue: 0,0:17:07.96,0:17:10.97,Italics,Nishikata,0000,0000,0000,,You have no idea what's coming, Takagi-san.
+Dialogue: 0,0:17:10.97,0:17:13.30,Italics,Nishikata,0000,0000,0000,,I'm invincible today.
+Dialogue: 0,0:17:13.56,0:17:17.22,Italics,Nishikata,0000,0000,0000,,Because according to\N this morning's horoscope, I—
+Dialogue: 0,0:17:17.22,0:17:20.26,Main,Takagi,0000,0000,0000,,Is it because Cancer was number\N one in the morning horoscope?
+Dialogue: 0,0:17:21.47,0:17:24.00,Main,Nishikata,0000,0000,0000,,How do you know I'm a Cancer?!
+Dialogue: 0,0:17:24.00,0:17:26.87,Main,Takagi,0000,0000,0000,,Don't you remember me\N wishing you a happy birthday?
+Dialogue: 0,0:17:27.96,0:17:30.27,Main,Nishikata,0000,0000,0000,,Oh, yeah. Now that you mention it.
+Dialogue: 0,0:17:30.94,0:17:33.08,Italics,Nishikata,0000,0000,0000,,Why does she even know\Nabout the horoscope?
+Dialogue: 0,0:17:33.08,0:17:34.51,Italics,Nishikata,0000,0000,0000,,I have to be careful.
+Dialogue: 0,0:17:35.21,0:17:36.74,Italics,Nishikata,0000,0000,0000,,But you underestimate me, too.
+Dialogue: 0,0:17:37.36,0:17:40.61,Italics,Nishikata,0000,0000,0000,,I bet you don't know that in\N today's blood-type fortune, I—
+Dialogue: 0,0:17:40.61,0:17:42.95,Main,Takagi,0000,0000,0000,,Also, blood type O got number one too, right?
+Dialogue: 0,0:17:43.91,0:17:46.48,Main,Nishikata,0000,0000,0000,,How do you know I'm type O?!
+Dialogue: 0,0:17:46.48,0:17:49.03,Main,Takagi,0000,0000,0000,,Oh, so you are. I had a feeling.
+Dialogue: 0,0:17:51.78,0:17:53.29,Italics,Nishikata,0000,0000,0000,,She's too good.
+Dialogue: 0,0:17:53.29,0:17:55.56,Italics,Nishikata,0000,0000,0000,,I was the one underestimating her.
+Dialogue: 0,0:17:55.56,0:17:57.17,Italics,Nishikata,0000,0000,0000,,You can't mess with Takagi-san.
+Dialogue: 0,0:17:57.79,0:17:59.53,Italics,Nishikata,0000,0000,0000,,But just you wait.
+Dialogue: 0,0:17:59.53,0:18:01.08,Italics,Nishikata,0000,0000,0000,,Today, I am—
+Dialogue: 0,0:18:01.08,0:18:03.17,Main,Takagi,0000,0000,0000,,You have an invincible aura
+Dialogue: 0,0:18:03.17,0:18:05.57,Main,Takagi,0000,0000,0000,,because you got number\N one in both fortunes, huh?
+Dialogue: 0,0:18:12.45,0:18:14.53,Main,Takagi,0000,0000,0000,,Well, I hope something good happens today.
+Dialogue: 0,0:18:15.39,0:18:16.56,Main,Nishikata,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:18:17.30,0:18:21.78,Italics,Nishikata,0000,0000,0000,,Just watch, Takagi-san.\N I'm lucky as hell today!
+Dialogue: 0,0:18:31.42,0:18:36.30,Italics,Nishikata,0000,0000,0000,,I was teased fifty times today, so\N I have to do a hundred and fifty push-ups!
+Dialogue: 0,0:18:36.53,0:18:38.50,Italics,Nishikata,0000,0000,0000,,Wh-Why?! Damn it!
+Dialogue: 0,0:18:38.50,0:18:40.18,Italics,Nishikata,0000,0000,0000,,Was I stupid for getting excited
+Dialogue: 0,0:18:40.18,0:18:42.44,Italics,Nishikata,0000,0000,0000,,just because I was told I have good fortune?
+Dialogue: 0,0:18:43.71,0:18:46.83,Main,Takagi,0000,0000,0000,,Are you upset because\N nothing special happened?
+Dialogue: 0,0:18:46.83,0:18:48.47,Main,Takagi,0000,0000,0000,,It's just a fortune.
+Dialogue: 0,0:18:48.47,0:18:51.37,Main,Nishikata,0000,0000,0000,,You had a tarot reading, too.
+Dialogue: 0,0:18:51.73,0:18:55.62,Italics,Nishikata,0000,0000,0000,,Man, I've been thinking of a plan\N to win against Takagi-san all day,
+Dialogue: 0,0:18:55.62,0:18:57.92,Italics,Nishikata,0000,0000,0000,,but nothing came to mind.
+Dialogue: 0,0:18:57.92,0:19:00.20,Italics,Nishikata,0000,0000,0000,,Maybe I should just give up today.
+Dialogue: 0,0:19:00.50,0:19:04.22,Italics,Nishikata,0000,0000,0000,,Or was today a good day\N because that's all that happened?
+Dialogue: 0,0:19:04.22,0:19:05.57,Italics,Nishikata,0000,0000,0000,,Is that what it means?
+Dialogue: 0,0:19:05.57,0:19:08.12,Main,Takagi,0000,0000,0000,,Hey, Nishikata, let's walk home together.
+Dialogue: 0,0:19:08.95,0:19:10.62,Main,Nishikata,0000,0000,0000,,Yeah, okay...
+Dialogue: 0,0:19:10.87,0:19:13.61,Italics,Nishikata,0000,0000,0000,,No, I can't let it end like this!
+Dialogue: 0,0:19:15.57,0:19:18.94,Main,Takagi,0000,0000,0000,,By the way, what did it say about your fortune?
+Dialogue: 0,0:19:18.94,0:19:22.79,Main,Nishikata,0000,0000,0000,,Huh? Oh, you mean the one-line description?
+Dialogue: 0,0:19:22.79,0:19:23.51,Main,Takagi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:23.51,0:19:25.60,Main,Nishikata,0000,0000,0000,,Uh, let's see.
+Dialogue: 0,0:19:26.53,0:19:29.22,Flashback Italics,Anchor,0000,0000,0000,,Cancer is in first place.\NYou'll land a critical hit!
+Dialogue: 0,0:19:29.22,0:19:30.02,Flashback Italics,Anchor,0000,0000,0000,,Get 'em!
+Dialogue: 0,0:19:31.10,0:19:33.77,Italics,Nishikata,0000,0000,0000,,That's right! A critical hit!
+Dialogue: 0,0:19:33.77,0:19:36.19,Italics,Nishikata,0000,0000,0000,,Which means I'll have a chance\N to turn the tables with a single blow!
+Dialogue: 0,0:19:36.49,0:19:39.30,Italics,Nishikata,0000,0000,0000,,I get it now! No matter how\N many times she teases me,
+Dialogue: 0,0:19:39.30,0:19:42.56,Italics,Nishikata,0000,0000,0000,,If I get to tease her just once, I win!
+Dialogue: 0,0:19:42.56,0:19:44.28,Italics,Nishikata,0000,0000,0000,,Don't give up!
+Dialogue: 0,0:19:44.28,0:19:46.16,Main,Takagi,0000,0000,0000,,So? What did it say?
+Dialogue: 0,0:19:46.16,0:19:49.50,Main,Nishikata,0000,0000,0000,,Uh, I wonder what it said.
+Dialogue: 0,0:19:50.06,0:19:51.69,Main,Sakurai,0000,0000,0000,,Hey, Nishikata.
+Dialogue: 0,0:19:53.01,0:19:55.71,Main,Sakurai,0000,0000,0000,,The {\i1}Fierce-Soccer{\i0}\N video game is on sale today.
+Dialogue: 0,0:19:55.71,0:19:57.53,Main,Sakurai,0000,0000,0000,,Let's play at this kid's house!
+Dialogue: 0,0:20:09.02,0:20:10.81,Main,Nishikata,0000,0000,0000,,{\i1}Fierce-Soccer{\i0}...
+Dialogue: 0,0:20:11.47,0:20:13.12,Italics,Nishikata,0000,0000,0000,,I wanted to play, too.
+Dialogue: 0,0:20:14.53,0:20:18.38,Italics,Nishikata,0000,0000,0000,,No! I can't go home\N without scoring my critical hit!
+Dialogue: 0,0:20:19.18,0:20:23.12,Italics,Nishikata,0000,0000,0000,,But then again, I have\N yet to come up with a plan.
+Dialogue: 0,0:20:23.12,0:20:25.24,Italics,Nishikata,0000,0000,0000,,No, I should be able to!
+Dialogue: 0,0:20:25.24,0:20:28.17,Italics,Nishikata,0000,0000,0000,,I'm the luckiest man\Nof the day, after all.
+Dialogue: 0,0:20:28.53,0:20:29.83,Main,Takagi,0000,0000,0000,,You're okay with not playing?
+Dialogue: 0,0:20:29.83,0:20:30.66,Main,Nishikata,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:30.66,0:20:31.50,Main,Takagi,0000,0000,0000,,The video game?
+Dialogue: 0,0:20:31.95,0:20:33.54,Main,Nishikata,0000,0000,0000,,Uh, yeah...
+Dialogue: 0,0:20:34.93,0:20:37.17,Main,Nishikata,0000,0000,0000,,I wanted to walk home with you, anyway.
+Dialogue: 0,0:20:38.92,0:20:41.91,Italics,Nishikata,0000,0000,0000,,Hmm... There must be something.
+Dialogue: 0,0:20:44.33,0:20:47.77,Italics,Nishikata,0000,0000,0000,,Wait! Did I just say something\N super awkward just now?
+Dialogue: 0,0:20:55.70,0:20:58.13,Main,Nishikata,0000,0000,0000,,T-Today's fortune said I'd land\N a critical hit, so I...
+Dialogue: 0,0:20:58.13,0:21:01.91,Main,Nishikata,0000,0000,0000,,I thought I'd finally win against you!
+Dialogue: 0,0:21:01.91,0:21:04.49,Main,Nishikata,0000,0000,0000,,So I didn't mean what you think!
+Dialogue: 0,0:21:08.23,0:21:11.45,Italics,Nishikata,0000,0000,0000,,Damn it! This is not a critical hit!
+Dialogue: 0,0:21:11.45,0:21:14.17,Italics,Nishikata,0000,0000,0000,,I just made an own goal!
+Dialogue: 0,0:21:16.75,0:21:20.07,Main,Nishikata,0000,0000,0000,,So pretend you didn't hear that.
+Dialogue: 0,0:21:22.29,0:21:23.71,Main,Takagi,0000,0000,0000,,I guess I can do that.
+Dialogue: 0,0:21:25.18,0:21:28.93,Main,Takagi,0000,0000,0000,,I'll pretend I didn't hear\N it if you say it again.
+Dialogue: 0,0:21:30.76,0:21:32.68,Main,Nishikata,0000,0000,0000,,Why would I?!
+Dialogue: 0,0:21:32.96,0:21:34.79,Main,Nishikata,0000,0000,0000,,I-I'm going this way.
+Dialogue: 0,0:21:34.79,0:21:36.39,Main,Nishikata,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:21:52.02,0:21:53.29,Italics,Takagi,0000,0000,0000,,A critical hit...
+Dialogue: 0,0:21:56.03,0:21:57.13,Italics,Takagi,0000,0000,0000,,Terrifying.
