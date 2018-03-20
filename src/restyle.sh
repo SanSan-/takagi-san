@@ -18,5 +18,6 @@ sed -i -e 's/,Main,Мина/,Main-Mina,Мина/g' $MASK.ass
 sed -i -e 's/,Main,Юкари/,Main-Yukari,Юкари/g' $MASK.ass
 sed -i -e 's/,Main,Санаэ/,Main-Sanae,Санаэ/g' $MASK.ass
 sed -i -e 's/,Main,Накай/,Main-Nakai,Накай/g' $MASK.ass
+sed -i -e 's/,Main,Мано/,Main-Mano,Мано/g' $MASK.ass
 sed -i -e 's/,Main,Такао/,Main-Takao,Такао/g' $MASK.ass
 rm -rf $MASK.ass-e

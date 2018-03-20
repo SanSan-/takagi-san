@@ -10,6 +10,7 @@ sed -i -e 's/Mina/Мина/g' $MASK.ass
 sed -i -e 's/Yukari/Юкари/g' $MASK.ass
 sed -i -e 's/Sanae/Санаэ/g' $MASK.ass
 sed -i -e 's/Nakai/Накай/g' $MASK.ass
+sed -i -e 's/Mano/Мано/g' $MASK.ass
 sed -i -e 's/Takao/Такао/g' $MASK.ass
 sed -i -e 's/-san/-сан/g' $MASK.ass
 sed -i -e 's/-chan/-тян/g' $MASK.ass

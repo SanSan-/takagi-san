@@ -181,12 +181,12 @@ Dialogue: 0,0:10:37.13,0:10:39.58,Main,Kimura,0000,0000,0000,,Competing in the m
 Dialogue: 0,0:10:39.58,0:10:40.87,Main-Nishikata,Нисиката,0000,0000,0000,,None of your business!
 Dialogue: 0,0:10:42.80,0:10:46.63,Main,Kimura,0000,0000,0000,,Well, they don't seem to be going out, I guess.
 Dialogue: 0,0:10:47.10,0:10:49.09,Main-Takao,Такао,0000,0000,0000,,If they were going out…
-Dialogue: 0,0:10:49.50,0:10:50.79,Main,Mano,0000,0000,0000,,Накай-кун!
-Dialogue: 0,0:10:51.21,0:10:52.50,Main,Mano,0000,0000,0000,,How are you feeling?
+Dialogue: 0,0:10:49.50,0:10:50.79,Main-Mano,Мано,0000,0000,0000,,Накай-кун!
+Dialogue: 0,0:10:51.21,0:10:52.50,Main-Mano,Мано,0000,0000,0000,,How are you feeling?
 Dialogue: 0,0:10:52.50,0:10:56.84,Main-Nakai,Накай,0000,0000,0000,,Really good! It's because you've\N trained with me every day!
-Dialogue: 0,0:10:57.69,0:10:59.30,Main,Mano,0000,0000,0000,,Let's both do our best.
+Dialogue: 0,0:10:57.69,0:10:59.30,Main-Mano,Мано,0000,0000,0000,,Let's both do our best.
 Dialogue: 0,0:10:59.76,0:11:00.76,Main-Nakai,Накай,0000,0000,0000,,Yeah!
-Dialogue: 0,0:11:00.76,0:11:01.67,Main,Mano,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:00.76,0:11:01.67,Main-Mano,Мано,0000,0000,0000,,Yeah.
 Dialogue: 0,0:11:03.89,0:11:06.09,Main,Kimura,0000,0000,0000,,They'd be acting something like that.
 Dialogue: 0,0:11:07.05,0:11:08.93,Main-Tanabe,Танабэ,0000,0000,0000,,All right, gather 'round!
 Dialogue: 0,0:11:10.93,0:11:14.01,Main,Kimura,0000,0000,0000,,Why do we have to run?

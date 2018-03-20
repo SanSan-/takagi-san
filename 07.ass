@@ -172,23 +172,23 @@ Dialogue: 0,0:10:26.31,0:10:28.66,Main-Nishikata,Нисиката,0000,0000,0000
 Dialogue: 0,0:10:28.66,0:10:30.76,Main-Nishikata,Нисиката,0000,0000,0000,,{\i1}That was totally on purpose!
 Dialogue: 0,0:10:31.77,0:10:35.26,Main-Nishikata,Нисиката,0000,0000,0000,,{\i1}But… I really need to get this over with quickly.
 Dialogue: 0,0:10:35.87,0:10:39.59,Main-Nishikata,Нисиката,0000,0000,0000,,{\i1}If my classmates see me here,\N there's no telling what they'll say.
-Dialogue: 0,0:10:40.86,0:10:42.20,Main,Mano,0000,0000,0000,,There are so many.
+Dialogue: 0,0:10:40.86,0:10:42.20,Main-Mano,Мано,0000,0000,0000,,There are so many.
 Dialogue: 0,0:10:48.31,0:10:49.99,Main-Takagi,Такаги,0000,0000,0000,,What about this one?
-Dialogue: 0,0:10:55.16,0:10:56.27,Main,Mano,0000,0000,0000,,Такаги-тян!
-Dialogue: 0,0:10:56.92,0:10:58.14,Main-Takagi,Такаги,0000,0000,0000,,Mano-тян…
+Dialogue: 0,0:10:55.16,0:10:56.27,Main-Mano,Мано,0000,0000,0000,,Такаги-тян!
+Dialogue: 0,0:10:56.92,0:10:58.14,Main-Takagi,Такаги,0000,0000,0000,,Мано-тян…
 Dialogue: 0,0:11:00.27,0:11:01.78,Main-Takagi,Такаги,0000,0000,0000,,and Накай-кун.
 Dialogue: 0,0:11:03.03,0:11:04.47,Main-Nakai,Накай,0000,0000,0000,,H-Hey…
 Dialogue: 0,0:11:05.79,0:11:07.30,Main-Takagi,Такаги,0000,0000,0000,,You're here to buy a bathing suit?
-Dialogue: 0,0:11:07.61,0:11:10.05,Main,Mano,0000,0000,0000,,Y-Yeah, that's right.
+Dialogue: 0,0:11:07.61,0:11:10.05,Main-Mano,Мано,0000,0000,0000,,Y-Yeah, that's right.
 Dialogue: 0,0:11:09.42,0:11:10.88,Main-Nakai,Накай,0000,0000,0000,,Ow…
 Dialogue: 0,0:11:11.31,0:11:15.36,Main-Nakai,Накай,0000,0000,0000,,Hey, it's embarrassing being here.\NCan you choose one already?
-Dialogue: 0,0:11:16.84,0:11:19.01,Main,Mano,0000,0000,0000,,Can't you wait a minute?
-Dialogue: 0,0:11:19.50,0:11:21.98,Main,Mano,0000,0000,0000,,I want to buy something I really like.
-Dialogue: 0,0:11:39.01,0:11:40.54,Main,Mano,0000,0000,0000,,Let's come back later!
+Dialogue: 0,0:11:16.84,0:11:19.01,Main-Mano,Мано,0000,0000,0000,,Can't you wait a minute?
+Dialogue: 0,0:11:19.50,0:11:21.98,Main-Mano,Мано,0000,0000,0000,,I want to buy something I really like.
+Dialogue: 0,0:11:39.01,0:11:40.54,Main-Mano,Мано,0000,0000,0000,,Let's come back later!
 Dialogue: 0,0:11:40.54,0:11:42.25,Main,nakai,0000,0000,0000,,Huh? Why?
-Dialogue: 0,0:11:42.25,0:11:45.14,Main,Mano,0000,0000,0000,,Because! See you, Такаги-тян.
+Dialogue: 0,0:11:42.25,0:11:45.14,Main-Mano,Мано,0000,0000,0000,,Because! See you, Такаги-тян.
 Dialogue: 0,0:11:45.58,0:11:46.18,Main-Takagi,Такаги,0000,0000,0000,,Yeah.
-Dialogue: 0,0:11:58.64,0:12:01.12,Main-Takagi,Такаги,0000,0000,0000,,Mano-тян and Накай-кун are gone now.
+Dialogue: 0,0:11:58.64,0:12:01.12,Main-Takagi,Такаги,0000,0000,0000,,Мано-тян and Накай-кун are gone now.
 Dialogue: 0,0:12:01.53,0:12:03.67,Main-Nishikata,Нисиката,0000,0000,0000,,Oh, I see.
 Dialogue: 0,0:12:04.79,0:12:06.56,Main-Takagi,Такаги,0000,0000,0000,,You get so shy.
 Dialogue: 0,0:12:06.56,0:12:08.10,Main-Nishikata,Нисиката,0000,0000,0000,,N-No, I don't.
