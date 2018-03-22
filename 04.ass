@@ -17,9 +17,9 @@ Video File: 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 16
-Video Position: 3532
+Scroll Position: 18
+Active Line: 26
+Video Position: 4286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,18 +64,18 @@ Dialogue: 0,0:02:14.53,0:02:17.40,Main-Nishikata,Нисиката,0,0,0,,Кон�
 Dialogue: 0,0:02:17.88,0:02:20.03,Main-Nishikata,Нисиката,0,0,0,,Надо убраться и валить домо—
 Dialogue: 0,0:02:22.19,0:02:23.88,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан?!
 Dialogue: 0,0:02:25.94,0:02:27.31,Main-Takagi,Такаги,0,0,0,,Ты так испугался!
-Dialogue: 0,0:02:29.06,0:02:32.29,Main-Takagi,Такаги,0,0,0,,This was worth having \Nto stay and wait for a while.
-Dialogue: 0,0:02:32.84,0:02:35.63,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, do you have to clean\N the room as punishment, too?
+Dialogue: 0,0:02:29.06,0:02:32.29,Main-Takagi,Такаги,0,0,0,,Ух! This was worth having \Nto stay and wait for a while.
+Dialogue: 0,0:02:32.84,0:02:35.63,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, тебя тоже наказали уборкой?
 Dialogue: 0,0:02:37.70,0:02:39.47,Main-Takagi,Такаги,0,0,0,,Let's just get it over with.
-Dialogue: 0,0:02:40.94,0:02:42.43,Main-Nishikata,Нисиката,0,0,0,,Y-Yeah…
+Dialogue: 0,0:02:40.94,0:02:42.43,Main-Nishikata,Нисиката,0,0,0,,У-Угу…
 Dialogue: 0,0:02:44.81,0:02:46.78,Main-Takagi,Такаги,0,0,0,,So, I have a suggestion.
 Dialogue: 0,0:02:47.43,0:02:50.85,Main-Takagi,Такаги,0,0,0,,If we have to clean,\Nwe should turn it into a game so it's fun.
-Dialogue: 0,0:02:51.18,0:02:52.06,Main-Nishikata,Нисиката,0,0,0,,A game?
-Dialogue: 0,0:02:52.71,0:02:53.51,Main-Takagi,Такаги,0,0,0,,Yep.
-Dialogue: 0,0:02:53.98,0:02:55.14,Main-Takagi,Такаги,0,0,0,,We'll do rock-paper-scissors
-Dialogue: 0,0:02:55.14,0:02:58.74,Main-Takagi,Такаги,0,0,0,,and the loser has to clean\Na quarter of the room. You in?
-Dialogue: 0,0:02:59.95,0:03:04.70,Main-Nishikata,Нисиката,0,0,0,,{\i1}In other words, if I win four times,\N I don't have to do anything.
-Dialogue: 0,0:03:05.52,0:03:06.32,Main-Nishikata,Нисиката,0,0,0,,Okay.
+Dialogue: 0,0:02:51.18,0:02:52.06,Main-Nishikata,Нисиката,0,0,0,,Игру?
+Dialogue: 0,0:02:52.71,0:02:53.51,Main-Takagi,Такаги,0,0,0,,Да.
+Dialogue: 0,0:02:53.98,0:02:55.14,Main-Takagi,Такаги,0,0,0,,В камень-ножницы-бумага
+Dialogue: 0,0:02:55.14,0:02:58.74,Main-Takagi,Такаги,0,0,0,,И проигравший убирает четверть комнаты. Ну как?
+Dialogue: 0,0:02:59.95,0:03:04.70,Main-Nishikata,Нисиката,0,0,0,,{\i1}Получается, тот, кто победит 4 раза, \Nничего не будет делать.
+Dialogue: 0,0:03:05.52,0:03:06.32,Main-Nishikata,Нисиката,0,0,0,,Идёт.
 Dialogue: 0,0:03:06.32,0:03:08.66,Main-Takagi,Такаги,0,0,0,,All right. First round.
 Dialogue: 0,0:03:09.17,0:03:11.12,Main-Takagi,Такаги,0,0,0,,I'm going with rock.
 Dialogue: 0,0:03:12.19,0:03:14.34,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's declaring it?!
