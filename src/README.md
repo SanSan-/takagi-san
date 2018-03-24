@@ -75,3 +75,7 @@ sh ./src/build.sh src/
 ```
 ^(\w*)([ ,:.0-9]*)([A-Za-z -]*)(,)([A-ZА-Я0-9 )(]*)(,0,0,0,,)
 ```
+
+Например так:
+ 
+<img src="https://sun1-5.userapi.com/c824203/v824203373/f77f0/MXoskLGadHc.jpg">
