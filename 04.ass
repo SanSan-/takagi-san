@@ -18,9 +18,9 @@ Video File: 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 172
-Active Line: 179
-Video Position: 18106
+Scroll Position: 163
+Active Line: 168
+Video Position: 16736
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,6 +38,8 @@ Style: Main-Nakai,PF Din Text Comp Pro,65,&H00E3E8F9,&H000000FF,&H0020273E,&H003
 Style: Main-Mano,PF Din Text Comp Pro,65,&H00E2E9E0,&H000000FF,&H002F332E,&H005D625C,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Main-Takao,PF Din Text Comp Pro,65,&H00E1EAF7,&H000000FF,&H0031353B,&H00464C55,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Main-Kimura,PF Din Text Comp Pro,65,&H00E1F7F4,&H000000FF,&H00383B40,&H00586765,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Main-Kyunko,PF Din Text Comp Pro,65,&H00C4ECF5,&H000000FF,&H00297388,&H0052B9CD,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
+Style: Main-Ikeo,PF Din Text Comp Pro,65,&H00BFC2F6,&H000000FF,&H00212266,&H004649AD,0,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,0
 Style: Default,PT Sans,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 Style: Default - Note,PF Din Text Comp Pro,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,42,0
 Style: OPTop,Five Minutes,65,&H00FFFFFF,&H0047CD6A,&H00036B1E,&H00014414,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,45,0
@@ -214,14 +216,14 @@ Dialogue: 0,0:11:00.88,0:11:02.35,Main-Nishikata,Нисиката,0,0,0,,Да я
 Dialogue: 0,0:11:02.75,0:11:06.42,Main-Takagi,Такаги,0,0,0,,Значит, ты думал, что я обманываю?
 Dialogue: 0,0:11:06.88,0:11:09.03,Main-Nishikata,Нисиката,0,0,0,,Э? Нет, я же…
 Dialogue: 0,0:11:11.90,0:11:16.44,Episode Title,Text,0,0,0,,100% Безответная Любовь
-Dialogue: 0,0:11:26.95,0:11:28.29,Italics,Kyunko,0,0,0,,Пу~ку~!
-Dialogue: 0,0:11:28.67,0:11:33.97,Italics,Kyunko,0,0,0,,Что с тобой не так?!\N Вечно натыкаешься на меня!
-Dialogue: 0,0:11:37.98,0:11:38.91,Italics,Ikeo,0,0,0,,Да так.
-Dialogue: 0,0:11:40.81,0:11:41.67,Italics,Kyunko,0,0,0,,Туки!
-Dialogue: 0,0:11:47.56,0:11:51.06,Italics,Ikeo,0,0,0,,Но тебя же всё устраивает?
-Dialogue: 0,0:11:51.39,0:11:52.28,Italics,Kyunko,0,0,0,,Кью~!
-Dialogue: 0,0:11:54.37,0:11:57.79,Italics,Ikeo,0,0,0,,Тебе разве не нравится?
-Dialogue: 0,0:11:57.79,0:11:59.19,Italics,Kyunko,0,0,0,,Кью~!
+Dialogue: 0,0:11:26.95,0:11:28.29,Main-Kyunko,Кюнко,0,0,0,,Пу~ку~!
+Dialogue: 0,0:11:28.67,0:11:33.97,Main-Kyunko,Кюнко,0,0,0,,Что с тобой не так?!\N Вечно натыкаешься на меня!
+Dialogue: 0,0:11:37.98,0:11:38.91,Main-Ikeo,Икео,0,0,0,,Да так.
+Dialogue: 0,0:11:40.81,0:11:41.67,Main-Kyunko,Кюнко,0,0,0,,Туки~!
+Dialogue: 0,0:11:47.56,0:11:51.06,Main-Ikeo,Икео,0,0,0,,Но тебя же всё устраивает?
+Dialogue: 0,0:11:51.39,0:11:52.28,Main-Kyunko,Кюнко,0,0,0,,Кью~!
+Dialogue: 0,0:11:54.37,0:11:57.79,Main-Ikeo,Икео,0,0,0,,Тебе разве не нравится?
+Dialogue: 0,0:11:57.79,0:11:59.19,Main-Kyunko,Кюнко,0,0,0,,Кью~!
 Dialogue: 0,0:12:01.09,0:12:03.57,Main-Nishikata,Нисиката,0,0,0,,{\i1}100% Безответная Любовь…
 Dialogue: 0,0:12:09.37,0:12:13.33,Episode Title,Title3,0,0,0,,Простуда
 Dialogue: 0,0:12:09.80,0:12:10.60,Main-Nishikata,Нисиката,0,0,0,,«Простуда»
@@ -236,7 +238,7 @@ Dialogue: 0,0:12:55.23,0:12:59.63,Main-Nishikata,Нисиката,0,0,0,,It's no
 Dialogue: 0,0:12:59.63,0:13:00.64,Main-Nishikata,Нисиката,0,0,0,,{\i1}Nailed it!
 Dialogue: 0,0:13:03.84,0:13:07.35,Main-Takagi,Такаги,0,0,0,,It's because you stayed up late\N watching {\i1}100% Unrequited Love.{\i0}
 Dialogue: 0,0:13:09.52,0:13:11.22,Main-Nishikata,Нисиката,0,0,0,,{\i1}How did she know?!
-Dialogue: 0,0:13:11.47,0:13:12.67,Italics,Kyunko,0,0,0,,Squeal, squeal!
+Dialogue: 0,0:13:11.47,0:13:12.67,Main-Kyunko,Кюнко,0,0,0,,Squeal, squeal!
 Dialogue: 0,0:13:13.53,0:13:15.52,Main-Nishikata,Нисиката,0,0,0,,You're too loud, Такаги-sa—
 Dialogue: 0,0:13:15.52,0:13:16.48,Main-Nishikata,Нисиката,0,0,0,,Ow!
 Dialogue: 0,0:13:16.91,0:13:18.71,Main,Teacher,0,0,0,,You're the one being loud!
@@ -246,12 +248,12 @@ Dialogue: 0,0:13:26.86,0:13:28.66,Main-Takagi,Такаги,0,0,0,,Are you okay, 
 Dialogue: 0,0:13:28.66,0:13:30.45,Main-Nishikata,Нисиката,0,0,0,,Yeah, I'm fine.
 Dialogue: 0,0:13:33.02,0:13:36.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn it. She's ruthless even when I'm sick!
 Dialogue: 0,0:13:38.45,0:13:42.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}But! I have the ultimate secret plan today!
-Dialogue: 0,0:13:43.13,0:13:45.63,Italics,Kyunko,0,0,0,,What's an outsider like him doing here?!
-Dialogue: 0,0:13:45.95,0:13:50.10,Italics,Kyunko,0,0,0,,Now I'm mad! I'm going to\N give him a piece of my mind!
-Dialogue: 0,0:13:50.83,0:13:51.63,Italics,Kyunko,0,0,0,,Excuse me!
-Dialogue: 0,0:13:54.21,0:13:55.01,Italics,Kyunko,0,0,0,,Hmph!
-Dialogue: 0,0:14:01.98,0:14:04.13,Italics,Ikeo,0,0,0,,You're cute.
-Dialogue: 0,0:14:04.56,0:14:06.66,Italics,Kyunko,0,0,0,,S-Squeal!
+Dialogue: 0,0:13:43.13,0:13:45.63,Main-Kyunko,Кюнко,0,0,0,,What's an outsider like him doing here?!
+Dialogue: 0,0:13:45.95,0:13:50.10,Main-Kyunko,Кюнко,0,0,0,,Now I'm mad! I'm going to\N give him a piece of my mind!
+Dialogue: 0,0:13:50.83,0:13:51.63,Main-Kyunko,Кюнко,0,0,0,,Excuse me!
+Dialogue: 0,0:13:54.21,0:13:55.01,Main-Kyunko,Кюнко,0,0,0,,Hmph!
+Dialogue: 0,0:14:01.98,0:14:04.13,Main-Ikeo,Икео,0,0,0,,You're cute.
+Dialogue: 0,0:14:04.56,0:14:06.66,Main-Kyunko,Кюнко,0,0,0,,S-Squeal!
 Dialogue: 0,0:14:10.30,0:14:12.16,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can use this!
 Dialogue: 0,0:14:15.58,0:14:19.88,Main-Nishikata,Нисиката,0,0,0,,{\i1}I may have caught a cold, but that's\N nothing compared to what I've acquired!
 Dialogue: 0,0:14:22.59,0:14:26.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Okay, Такаги-сан. Hit me with your best shot!
@@ -294,7 +296,7 @@ Dialogue: 0,0:17:06.47,0:17:08.20,Main-Nishikata,Нисиката,0,0,0,,Yeah, I
 Dialogue: 0,0:17:10.39,0:17:12.59,Main-Takagi,Такаги,0,0,0,,I can tease you, then.
 Dialogue: 0,0:17:12.80,0:17:14.36,Main-Nishikata,Нисиката,0,0,0,,What do you mean by that?!
 Dialogue: 0,0:17:15.63,0:17:19.41,Main-Nishikata,Нисиката,0,0,0,,{\i1}She ended up making fun of me\N more than usual that day.
-Dialogue: 0,0:17:20.65,0:17:21.97,Italics,Kyunko,0,0,0,,Squeal, squeal!
+Dialogue: 0,0:17:20.65,0:17:21.97,Main-Kyunko,Кюнко,0,0,0,,Squeal, squeal!
 Dialogue: 0,0:17:23.84,0:17:27.23,Main-Mina,Мина,0,0,0,,Hey, Юкари-тян, Санаэ-тян! Hurry, hurry!
 Dialogue: 0,0:17:27.71,0:17:30.15,Main-Yukari,Юкари,0,0,0,,Why are we doing this just for a popsicle?
 Dialogue: 0,0:17:30.46,0:17:32.70,Main-Mina,Мина,0,0,0,,It's a baked sweet potato flavored popsicle!
