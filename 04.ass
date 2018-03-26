@@ -18,9 +18,9 @@ Video File: 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 99
-Active Line: 105
-Video Position: 10442
+Scroll Position: 131
+Active Line: 136
+Video Position: 13088
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,43 +153,43 @@ Dialogue: 0,0:07:02.13,0:07:02.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Н
 Dialogue: 0,0:07:04.68,0:07:06.07,Main-Nishikata,Нисиката,0,0,0,,{\i1}Наслаждаться юностью…
 Dialogue: 0,0:07:09.44,0:07:12.28,Main-Takagi,Такаги,0,0,0,,Нисиката, купишь мне сок, по дороге домой.
 Dialogue: 0,0:07:12.28,0:07:13.88,Main-Nishikata,Нисиката,0,0,0,,Э? С чего бы?!
-Dialogue: 0,0:07:15.45,0:07:19.46,Episode Title,Title2,0,0,0,,Подъем с переворотом
-Dialogue: 0,0:07:17.06,0:07:18.17,Main-Nishikata,Нисиката,0,0,0,,«Подъем с переворотом»
+Dialogue: 0,0:07:15.45,0:07:19.46,Episode Title,Title2,0,0,0,,Кувырок
+Dialogue: 0,0:07:17.06,0:07:18.17,Main-Nishikata,Нисиката,0,0,0,,«Кувырок»
 Dialogue: 0,0:07:20.13,0:07:22.17,Main-Nishikata,Нисиката,0,0,0,,Как же печёт…
 Dialogue: 0,0:07:22.61,0:07:24.50,Main-Takagi,Такаги,0,0,0,,Пить хочу.
 Dialogue: 0,0:07:27.50,0:07:31.00,Main-Takagi,Такаги,0,0,0,,Точно. Давай устроим соревнование на напиток.
 Dialogue: 0,0:07:34.11,0:07:35.11,Main-Nishikata,Нисиката,0,0,0,,Идёт.
-Dialogue: 0,0:07:35.64,0:07:39.08,Main-Nishikata,Нисиката,0,0,0,,Can I decide what to compete on, then?
-Dialogue: 0,0:07:40.47,0:07:41.53,Main-Takagi,Такаги,0,0,0,,A high bar?
-Dialogue: 0,0:07:42.18,0:07:46.36,Main-Nishikata,Нисиката,0,0,0,,The one who can't do \Na kickover on the high bar loses.
-Dialogue: 0,0:07:48.40,0:07:52.11,Main-Nishikata,Нисиката,0,0,0,,{\i1}I just casually tried a kickover\N on the high bar recently…
-Dialogue: 0,0:07:52.11,0:07:55.78,Main-Nishikata,Нисиката,0,0,0,,{\i1}and surprise! I succeeded\N for the first time in my life.
-Dialogue: 0,0:07:56.25,0:08:00.25,Main-Nishikata,Нисиката,0,0,0,,{\i1}Since then, I've been waiting for\N Такаги-сан to challenge me to a duel.
-Dialogue: 0,0:08:00.57,0:08:04.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Maybe Такаги-сан is able to do it, too.
-Dialogue: 0,0:08:05.13,0:08:05.92,Main-Nishikata,Нисиката,0,0,0,,{\i1}But!
-Dialogue: 0,0:08:06.48,0:08:07.70,Main-Takagi,Такаги,0,0,0,,Hey, Нисиката.
-Dialogue: 0,0:08:08.41,0:08:10.70,Main-Takagi,Такаги,0,0,0,,I'm wearing a skirt.
-Dialogue: 0,0:08:11.87,0:08:13.81,Main-Nishikata,Нисиката,0,0,0,,{\i1}Exactly!
-Dialogue: 0,0:08:13.81,0:08:16.19,Main-Nishikata,Нисиката,0,0,0,,{\i1}She can't do a kickover wearing a skirt!
-Dialogue: 0,0:08:16.19,0:08:18.76,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's unable to compete!
-Dialogue: 0,0:08:19.10,0:08:20.37,Main-Takagi,Такаги,0,0,0,,Oh, well.
-Dialogue: 0,0:08:20.82,0:08:22.45,Main-Takagi,Такаги,0,0,0,,Then, can I go first?
-Dialogue: 0,0:08:24.86,0:08:26.36,Main-Nishikata,Нисиката,0,0,0,,R-Really?
-Dialogue: 0,0:08:26.79,0:08:27.69,Main-Takagi,Такаги,0,0,0,,Really.
-Dialogue: 0,0:08:28.06,0:08:31.90,Main-Takagi,Такаги,0,0,0,,But you have to turn the other\N way when I'm doing it.
-Dialogue: 0,0:08:32.20,0:08:33.23,Main-Nishikata,Нисиката,0,0,0,,Huh?!
-Dialogue: 0,0:08:33.23,0:08:35.86,Main-Takagi,Такаги,0,0,0,,I am wearing a skirt, after all.
-Dialogue: 0,0:08:36.35,0:08:40.25,Main-Takagi,Такаги,0,0,0,,If you look while I'm doing\N a kickover, you lose.
-Dialogue: 0,0:08:42.44,0:08:43.61,Main-Takagi,Такаги,0,0,0,,Here I go.
-Dialogue: 0,0:08:54.17,0:08:57.34,Main-Takagi,Такаги,0,0,0,,Okay, your turn next.
-Dialogue: 0,0:08:59.55,0:09:02.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}Really? Did she really do it?
-Dialogue: 0,0:09:02.91,0:09:05.16,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, I should save my breath.
-Dialogue: 0,0:09:05.81,0:09:07.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}For now, just concentrate!
-Dialogue: 0,0:09:13.37,0:09:14.70,Main-Takagi,Такаги,0,0,0,,Wow.
-Dialogue: 0,0:09:16.42,0:09:19.23,Main-Takagi,Такаги,0,0,0,,We both did it. What now?
-Dialogue: 0,0:09:19.84,0:09:21.22,Main-Nishikata,Нисиката,0,0,0,,Let's do it again.
-Dialogue: 0,0:09:21.85,0:09:22.62,Main-Takagi,Такаги,0,0,0,,Okay.
-Dialogue: 0,0:09:23.08,0:09:25.02,Main-Takagi,Такаги,0,0,0,,I'll go first again.
+Dialogue: 0,0:07:35.64,0:07:39.08,Main-Nishikata,Нисиката,0,0,0,,Тогда можно я выберу, в чём будем соревноваться?
+Dialogue: 0,0:07:40.47,0:07:41.53,Main-Takagi,Такаги,0,0,0,,Перекладина?
+Dialogue: 0,0:07:42.18,0:07:46.36,Main-Nishikata,Нисиката,0,0,0,,Тот, кто не сможет сделать \Nкувырок на перекладине - проиграет.
+Dialogue: 0,0:07:48.40,0:07:52.11,Main-Nishikata,Нисиката,0,0,0,,{\i1}Недавно, я просто попытался сделать кувырок на перекладине…
+Dialogue: 0,0:07:52.11,0:07:55.78,Main-Nishikata,Нисиката,0,0,0,,{\i1}и, внезапно, у меня получилось с первого раза!
+Dialogue: 0,0:07:56.25,0:08:00.25,Main-Nishikata,Нисиката,0,0,0,,{\i1}С тех пор я ждал, пока Такаги-сан бросит мне вызов.
+Dialogue: 0,0:08:00.57,0:08:04.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Возможно, Такаги-сан тоже умеет делать кувырок.
+Dialogue: 0,0:08:05.13,0:08:05.92,Main-Nishikata,Нисиката,0,0,0,,{\i1}Только!
+Dialogue: 0,0:08:06.48,0:08:07.70,Main-Takagi,Такаги,0,0,0,,Слушай, Нисиката.
+Dialogue: 0,0:08:08.41,0:08:10.70,Main-Takagi,Такаги,0,0,0,,А я в юбке.
+Dialogue: 0,0:08:11.87,0:08:13.81,Main-Nishikata,Нисиката,0,0,0,,{\i1}Именно!
+Dialogue: 0,0:08:13.81,0:08:16.19,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она не может делать кувырки в юбке!
+Dialogue: 0,0:08:16.19,0:08:18.76,Main-Nishikata,Нисиката,0,0,0,,{\i1}Она не может состязаться!
+Dialogue: 0,0:08:19.10,0:08:20.37,Main-Takagi,Такаги,0,0,0,,А, ничего.
+Dialogue: 0,0:08:20.82,0:08:22.45,Main-Takagi,Такаги,0,0,0,,Тогда, я первая?
+Dialogue: 0,0:08:24.86,0:08:26.36,Main-Nishikata,Нисиката,0,0,0,,П-Правда?
+Dialogue: 0,0:08:26.79,0:08:27.69,Main-Takagi,Такаги,0,0,0,,Правда.
+Dialogue: 0,0:08:28.06,0:08:31.90,Main-Takagi,Такаги,0,0,0,,Только тебе нужно будет отвернуться, когда я буду делать.
+Dialogue: 0,0:08:32.20,0:08:33.23,Main-Nishikata,Нисиката,0,0,0,,Э?!
+Dialogue: 0,0:08:33.23,0:08:35.86,Main-Takagi,Такаги,0,0,0,,Всё таки я в юбке буду делать.
+Dialogue: 0,0:08:36.35,0:08:40.25,Main-Takagi,Такаги,0,0,0,,Нисиката, если будешь подсматривать, то проиграешь.
+Dialogue: 0,0:08:42.44,0:08:43.61,Main-Takagi,Такаги,0,0,0,,Ну, поехали.
+Dialogue: 0,0:08:54.17,0:08:57.34,Main-Takagi,Такаги,0,0,0,,Так, теперь твоя очередь.
+Dialogue: 0,0:08:59.55,0:09:02.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}Серьёзно? Она правда сделала кувырок?
+Dialogue: 0,0:09:02.91,0:09:05.16,Main-Nishikata,Нисиката,0,0,0,,{\i1}Нет, мне нужно следить за дыханием.
+Dialogue: 0,0:09:05.81,0:09:07.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}А сейчас, сконцентрируйся!
+Dialogue: 0,0:09:13.37,0:09:14.70,Main-Takagi,Такаги,0,0,0,,Ух ты.
+Dialogue: 0,0:09:16.42,0:09:19.23,Main-Takagi,Такаги,0,0,0,,Мы оба смогли. Что теперь?
+Dialogue: 0,0:09:19.84,0:09:21.22,Main-Nishikata,Нисиката,0,0,0,,Ещё один подход.
+Dialogue: 0,0:09:21.85,0:09:22.62,Main-Takagi,Такаги,0,0,0,,Давай.
+Dialogue: 0,0:09:23.08,0:09:25.02,Main-Takagi,Такаги,0,0,0,,Я снова буду первая.
 Dialogue: 0,0:09:27.15,0:09:29.86,Main-Nishikata,Нисиката,0,0,0,,{\i1}Didn't even hesitate.\NVery confident, aren't you?
 Dialogue: 0,0:09:30.32,0:09:33.01,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's not even worried she'll fail this time?
 Dialogue: 0,0:09:33.49,0:09:36.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}I bet she probably\N isn't actually doing a kickover.
