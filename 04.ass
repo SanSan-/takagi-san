@@ -18,9 +18,9 @@ Video File: 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 327
-Active Line: 335
-Video Position: 518
+Scroll Position: 268
+Active Line: 278
+Video Position: 27274
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -328,7 +328,7 @@ Dialogue: 0,0:18:39.74,0:18:41.31,Main-Takagi,Такаги,0,0,0,,Ты разв�
 Dialogue: 0,0:18:41.59,0:18:44.02,Main-Takagi,Такаги,0,0,0,,Ты же сам первый начал.
 Dialogue: 0,0:18:49.76,0:18:53.95,Main-Mina,Мина,0,0,0,,Слушай, почему мы идём за ними?\N Нам же в другую сторону.
 Dialogue: 0,0:18:54.41,0:18:57.08,Main-Yukari,Юкари,0,0,0,,Цыц! Вдруг они нас увидят!
-Dialogue: 0,0:18:57.50,0:18:58.78,Main-Yukari,Юкари,0,0,0,,Лучше скажи, что ты думаешь?
+Dialogue: 0,0:18:57.50,0:18:58.78,Main-Yukari,Юкари,0,0,0,,Лучше скажи, что думаешь?
 Dialogue: 0,0:18:59.22,0:19:02.65,Main-Yukari,Юкари,0,0,0,,Когда смотришь на них, не возникает этого чувсвтва?
 Dialogue: 0,0:19:02.65,0:19:03.57,Main-Mina,Мина,0,0,0,,Хмм…
 Dialogue: 0,0:19:03.90,0:19:07.98,Main-Mina,Мина,0,0,0,,О! У них же велосипед! Почему они на нём вдвоём не поедут?
@@ -389,4 +389,4 @@ Dialogue: 0,0:00:21.54,0:00:26.52,Black Signs,Note,0,0,0,,Отчёт распр�
 Dialogue: 0,0:00:21.54,0:00:26.52,Black Signs,Note,0,0,0,,Ученик из моего класса на уборку в лабораторию:
 Dialogue: 0,0:00:21.54,0:00:26.52,Black Signs,Note,0,0,0,,Нисиката
 Dialogue: 0,0:01:56.47,0:02:00.39,Episode Title,Title1,0,0,0,,Уборка
-Dialogue: 0,0:02:00.39,0:02:02.39,Black Signs,Sign,0,0,0,,Science Room
+Dialogue: 0,0:02:00.39,0:02:02.39,Black Signs,Sign,0,0,0,,Лаборатория
