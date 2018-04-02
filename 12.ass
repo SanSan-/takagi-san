@@ -1,0 +1,342 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Next,Open Sans Semibold,30,&H00DFDFDF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,5,64,77,1
+Style: Episode Title,Open Sans Semibold,36,&H00E0F358,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,9,465,283,36,0
+Style: To Sanae chan,Open Sans Semibold,30,&H00000000,&H000000FF,&H0083ECFB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,320,320,24,1
+Style: Year 1 Class 2,Open Sans Semibold,30,&H00000000,&H000000FF,&H0084A7C6,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,325,325,24,1
+Style: Letter,Open Sans Semibold,36,&H005DFF6B,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,3,499,255,188,0
+Style: Dear Nishikata,Open Sans Semibold,30,&H00000000,&H000000FF,&H00F3F3F3,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,423,0,36,1
+Style: First Day,Open Sans Semibold,36,&H00E0F358,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,3,401,116,181,0
+Style: Tanabe,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H007D804F,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,375,375,24,1
+Style: Seating Arrangement,Open Sans Semibold,36,&H00E672F2,&H000000FF,&H00828586,&H0096969B,1,0,0,0,100,100,0,0,1,0,1,3,369,112,181,0
+Style: Status Quo,Open Sans Semibold,30,&H00000000,&H000000FF,&H00C4DFEC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,347,347,24,1
+Style: Dear Takagi san,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,27,588,24,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:32.17,0:00:34.05,Main,Frazzles,0000,0000,0000,,Sanae-chan!
+Dialogue: 0,0:00:34.63,0:00:35.59,Main,Frazzles,0000,0000,0000,,Here.
+Dialogue: 0,0:00:35.59,0:00:36.49,Main,Frazzles,0000,0000,0000,,For you.
+Dialogue: 0,0:00:35.59,0:00:37.05,To Sanae chan,Text,0000,0000,0000,,To Sanae-chan
+Dialogue: 0,0:00:38.03,0:00:38.90,Main,Bob,0000,0000,0000,,What's this?
+Dialogue: 0,0:00:39.53,0:00:40.51,Main,Bob,0000,0000,0000,,A love letter?
+Dialogue: 0,0:00:40.51,0:00:43.19,Main,Frazzles,0000,0000,0000,,No way! It's a normal letter.
+Dialogue: 0,0:00:43.19,0:00:44.94,Main,Frazzles,0000,0000,0000,,Everyone's doing it these days.
+Dialogue: 0,0:00:44.94,0:00:46.27,Main,Frazzles,0000,0000,0000,,Didn't you know?
+Dialogue: 0,0:00:46.27,0:00:47.42,Main,Bob,0000,0000,0000,,No.
+Dialogue: 0,0:00:47.42,0:00:48.48,Main,,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:00:48.94,0:00:51.30,Main,Frazzles,0000,0000,0000,,I'll write one for you later, too, Yukari-chan.
+Dialogue: 0,0:00:51.30,0:00:55.21,Main,Glasses,0000,0000,0000,,I appreciate it, but you should focus on\N studying while you're in class, Mina.
+Dialogue: 0,0:00:55.21,0:00:57.74,Main,Frazzles,0000,0000,0000,,Friendship is more important than studying.
+Dialogue: 0,0:00:58.27,0:01:01.45,Main,Buckteeth,0000,0000,0000,,Is there a letter-writing trend \N among the girls right now?
+Dialogue: 0,0:01:01.45,0:01:03.11,Main,Tall,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:01:03.11,0:01:05.46,Main,Buckteeth,0000,0000,0000,,Imagine if they're writing love letters, too.
+Dialogue: 0,0:01:06.67,0:01:08.96,Main,Tall,0000,0000,0000,,They get pretty intense\N when it comes to writing.
+Dialogue: 0,0:01:09.21,0:01:10.52,Main,Buckteeth,0000,0000,0000,,I know.
+Dialogue: 0,0:01:10.52,0:01:12.09,Italics,Teased,0000,0000,0000,,Love letters, huh?
+Dialogue: 0,0:01:12.09,0:01:13.73,Main,Buckteeth,0000,0000,0000,,They could just say things out loud.
+Dialogue: 0,0:01:13.73,0:01:16.93,Main,Buckteeth,0000,0000,0000,,Why would they bother to write letters?
+Dialogue: 0,0:01:17.21,0:01:19.05,Main,Buckteeth,0000,0000,0000,,They must have a ton of time to waste.
+Dialogue: 0,0:01:26.61,0:01:28.71,Main,Buckteeth,0000,0000,0000,,I'm sorry! I'm sorry! I'm sorry!
+Dialogue: 0,0:01:28.71,0:01:31.12,Main,Glasses,0000,0000,0000,,Come on, Sanae. He's had enough.
+Dialogue: 0,0:01:31.12,0:01:32.66,Main,Bob,0000,0000,0000,,One kick is enough.
+Dialogue: 0,0:01:33.09,0:01:34.97,Main,Teased,0000,0000,0000,,But kicking him once {\i1}is{\i0} okay?
+Dialogue: 0,0:01:35.90,0:01:38.99,Year 1 Class 2,Text,0000,0000,0000,,Year 1 Class 2
+Dialogue: 0,0:01:37.17,0:01:38.99,Main,Scary Teacher,0000,0000,0000,,We're starting class.
+Dialogue: 0,0:01:39.45,0:01:42.08,Main,Scary Teacher,0000,0000,0000,,Open your textbooks to page 76.
+Dialogue: 0,0:01:47.61,0:01:49.78,Italics,Teased,0000,0000,0000,,Takagi-san's doing letters, too?
+Dialogue: 0,0:01:51.97,0:01:55.54,Italics,Teased,0000,0000,0000,,I guess Takagi-san's just an ordinary girl, too.
+Dialogue: 0,0:02:10.96,0:02:11.76,Italics,Teased,0000,0000,0000,,What?
+Dialogue: 0,0:03:42.49,0:03:46.49,Letter,Text,0000,0000,0000,,{\fad(0,300)}Letter
+Dialogue: 0,0:03:43.88,0:03:44.78,Main,Teased,0000,0000,0000,,"Letter."
+Dialogue: 0,0:03:51.96,0:03:53.51,Main,Jozu,0000,0000,0000,,What's wrong, Nishikata?
+Dialogue: 0,0:03:54.35,0:03:56.84,Main,Teased,0000,0000,0000,,N-Nothing at all!
+Dialogue: 0,0:03:56.84,0:03:58.97,Italics,Teased,0000,0000,0000,,A letter? Who's it from?
+Dialogue: 0,0:03:58.97,0:04:00.13,Italics,Teased,0000,0000,0000,,Why me?
+Dialogue: 0,0:04:00.66,0:04:03.13,Flashback,Buckteeth,0000,0000,0000,,Imagine if they're writing love letters, too.
+Dialogue: 0,0:04:03.34,0:04:06.11,Italics,Teased,0000,0000,0000,,No, no, no, that's impossible!
+Dialogue: 0,0:04:06.11,0:04:07.46,Italics,Teased,0000,0000,0000,,Someone's playing a prank on me.
+Dialogue: 0,0:04:08.13,0:04:09.59,Italics,Teased,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:04:11.06,0:04:13.73,Italics,Teased,0000,0000,0000,,This might be Takagi-san's doing.
+Dialogue: 0,0:04:13.73,0:04:15.63,Italics,Teased,0000,0000,0000,,No, it {\i0}must{\i1} be her.
+Dialogue: 0,0:04:17.33,0:04:18.35,Main,Teased,0000,0000,0000,,Takagi-san...
+Dialogue: 0,0:04:19.02,0:04:20.23,Italics,Teased,0000,0000,0000,,Wait a second.
+Dialogue: 0,0:04:20.23,0:04:23.57,Italics,Teased,0000,0000,0000,,What if it's someone else?\NWhat if it isn't Takagi-san?
+Dialogue: 0,0:04:23.57,0:04:27.30,Italics,Teased,0000,0000,0000,,If she finds out I got a letter,\N she's going to tease me again.
+Dialogue: 0,0:04:28.16,0:04:29.62,Main,Jozu,0000,0000,0000,,Yes, Nishikata?
+Dialogue: 0,0:04:31.30,0:04:32.22,Main,Teased,0000,0000,0000,,No...
+Dialogue: 0,0:04:37.93,0:04:40.09,Main,Teased,0000,0000,0000,,The weather's so nice today.
+Dialogue: 0,0:04:40.58,0:04:41.80,Main,Jozu,0000,0000,0000,,Are you hiding something?
+Dialogue: 0,0:04:43.21,0:04:45.33,Main,Teased,0000,0000,0000,,Of course not.
+Dialogue: 0,0:04:47.27,0:04:49.64,Main,Jozu,0000,0000,0000,,Something's suspicious, though.
+Dialogue: 0,0:04:50.03,0:04:51.21,Main,Jozu,0000,0000,0000,,You're red, too.
+Dialogue: 0,0:04:51.21,0:04:53.49,Main,Teased,0000,0000,0000,,Y-You're imagining things.
+Dialogue: 0,0:04:53.95,0:04:55.23,Main,Jozu,0000,0000,0000,,That's fine,
+Dialogue: 0,0:04:55.78,0:04:57.56,Main,Jozu,0000,0000,0000,,but why do you have your textbook closed?
+Dialogue: 0,0:04:57.83,0:05:00.18,Main,Teased,0000,0000,0000,,W-Well, you see...
+Dialogue: 0,0:05:00.52,0:05:02.99,Main,Jozu,0000,0000,0000,,Does it have something to do\N with your face being red?
+Dialogue: 0,0:05:03.32,0:05:04.18,Main,Teased,0000,0000,0000,,It's nothing!
+Dialogue: 0,0:05:04.18,0:05:05.95,Main,Teased,0000,0000,0000,,And my face isn't red!
+Dialogue: 0,0:05:06.63,0:05:08.16,Main,Jozu,0000,0000,0000,,Is there {\i1}really{\i0} nothing?
+Dialogue: 0,0:05:08.16,0:05:10.12,Main,Teased,0000,0000,0000,,There really isn't!
+Dialogue: 0,0:05:13.73,0:05:15.62,Main,Jozu,0000,0000,0000,,I guess I was imagining things.
+Dialogue: 0,0:05:18.14,0:05:20.51,Main,Jozu,0000,0000,0000,,Oh, and the letter in your textbook...
+Dialogue: 0,0:05:21.15,0:05:22.00,Main,Jozu,0000,0000,0000,,I put that there.
+Dialogue: 0,0:05:23.34,0:05:26.63,Italics,Teased,0000,0000,0000,,I knew it!
+Dialogue: 0,0:05:30.17,0:05:33.38,Main,Teased,0000,0000,0000,,I totally knew that. Of course.
+Dialogue: 0,0:05:34.75,0:05:35.75,Main,Jozu,0000,0000,0000,,Liar.
+Dialogue: 0,0:05:36.19,0:05:39.86,Main,Teased,0000,0000,0000,,I was actually having fun making you squirm.
+Dialogue: 0,0:05:40.80,0:05:42.37,Main,Jozu,0000,0000,0000,,Aren't you going to read what's inside?
+Dialogue: 0,0:05:42.88,0:05:44.06,Main,Teased,0000,0000,0000,,You wrote something?
+Dialogue: 0,0:05:44.74,0:05:46.21,Main,Jozu,0000,0000,0000,,Obviously.
+Dialogue: 0,0:05:48.69,0:05:51.41,Main,Teased,0000,0000,0000,,You're teasing me again, aren't you?
+Dialogue: 0,0:05:54.69,0:05:56.60,Italics,Teased,0000,0000,0000,,Why aren't you saying anything?!
+Dialogue: 0,0:05:57.35,0:06:00.48,Main,Teased,0000,0000,0000,,O-Okay, I'll read it at home.
+Dialogue: 0,0:06:01.39,0:06:02.34,Main,Jozu,0000,0000,0000,,Read it now.
+Dialogue: 0,0:06:03.74,0:06:04.85,Main,Teased,0000,0000,0000,,Wh-Why?
+Dialogue: 0,0:06:05.49,0:06:08.81,Main,Jozu,0000,0000,0000,,School's out after this class, right?
+Dialogue: 0,0:06:08.81,0:06:10.64,Main,Jozu,0000,0000,0000,,I want an answer by then.
+Dialogue: 0,0:06:10.64,0:06:12.03,Main,Teased,0000,0000,0000,,A-An answer?
+Dialogue: 0,0:06:15.56,0:06:19.37,Italics,Teased,0000,0000,0000,,If it's a letter that needs an answer,\N it's a letter asking a question.
+Dialogue: 0,0:06:19.37,0:06:22.21,Italics,Teased,0000,0000,0000,,So it's not just something to tease me?
+Dialogue: 0,0:06:22.87,0:06:25.11,Flashback,Buckteeth,0000,0000,0000,,Imagine if they're writing love letters, too.
+Dialogue: 0,0:06:26.05,0:06:28.94,Italics,Teased,0000,0000,0000,,S-So it {\i0}could{\i1} be a love letter?!
+Dialogue: 0,0:06:28.94,0:06:31.07,Italics,Teased,0000,0000,0000,,Wait, could it be?!
+Dialogue: 0,0:06:33.03,0:06:36.54,Main,Teased,0000,0000,0000,,Is it a love letter by any chance?
+Dialogue: 0,0:06:39.93,0:06:41.45,Italics,Teased,0000,0000,0000,,The silent treatment again?!
+Dialogue: 0,0:06:41.98,0:06:43.13,Main,Jozu,0000,0000,0000,,Aren't you going to read it?
+Dialogue: 0,0:06:43.13,0:06:45.61,Main,Teased,0000,0000,0000,,I-I will. I'll read it.
+Dialogue: 0,0:06:45.94,0:06:47.43,Main,Teased,0000,0000,0000,,I just have to read it, right?
+Dialogue: 0,0:06:48.37,0:06:53.07,Italics,Teased,0000,0000,0000,,That means whatever is written\N in it is just to tease me.
+Dialogue: 0,0:06:53.43,0:06:56.56,Italics,Teased,0000,0000,0000,,So no matter whatever it says,\N I have to be firm so she doesn't tease me.
+Dialogue: 0,0:06:56.56,0:06:58.88,Italics,Teased,0000,0000,0000,,I have to be bold.
+Dialogue: 0,0:06:59.77,0:07:02.11,Italics,Teased,0000,0000,0000,,But if...
+Dialogue: 0,0:07:02.78,0:07:06.74,Italics,Teased,0000,0000,0000,,It really can't be possible.
+Dialogue: 0,0:07:07.19,0:07:09.14,Italics,Teased,0000,0000,0000,,But {\i0}if{\i1} it's a love letter...
+Dialogue: 0,0:07:09.79,0:07:12.72,Italics,Teased,0000,0000,0000,,If it is, I...
+Dialogue: 0,0:07:18.25,0:07:23.08,Dear Nishikata,Text,0000,0000,0000,,{\fad(102,1)}Dear Nishikata,\N\NLet's walk home together today.\N\N—Takagi
+Dialogue: 0,0:07:34.50,0:07:36.50,Main,Teased,0000,0000,0000,,You could have just asked me directly.
+Dialogue: 0,0:07:37.04,0:07:38.93,Main,Jozu,0000,0000,0000,,Letter-writing is popular right now.
+Dialogue: 0,0:07:40.18,0:07:45.02,Main,Jozu,0000,0000,0000,,Besides, I wanted to see how you would react.
+Dialogue: 0,0:07:47.82,0:07:50.11,Main,Teased,0000,0000,0000,,So you {\i1}were{\i0} teasing me!
+Dialogue: 0,0:07:50.11,0:07:50.85,Main,Teased,0000,0000,0000,,Ow!
+Dialogue: 0,0:07:50.85,0:07:52.95,Main,Scary Teacher,0000,0000,0000,,Shut it, Nishikata!
+Dialogue: 0,0:08:06.42,0:08:10.42,First Day,Text,0000,0000,0000,,First Day of School
+Dialogue: 0,0:08:08.13,0:08:09.27,Main,People,0000,0000,0000,,"First Day of School."
+Dialogue: 0,0:08:10.42,0:08:14.09,Black Signs,Text,0000,0000,0000,,Entrance Ceremony
+Dialogue: 0,0:08:14.09,0:08:17.05,Year 1 Class 2,Text,0000,0000,0000,,Staff Office
+Dialogue: 0,0:08:17.05,0:08:20.16,Main,Bomb,0000,0000,0000,,Thanks a lot, man.
+Dialogue: 0,0:08:20.16,0:08:22.01,Main,Teased,0000,0000,0000,,Not at all. Pardon me.
+Dialogue: 0,0:08:23.39,0:08:24.57,Main,Bomb,0000,0000,0000,,Oh yeah.
+Dialogue: 0,0:08:26.23,0:08:28.11,Main,Bomb,0000,0000,0000,,What's your name, new kid?
+Dialogue: 0,0:08:28.90,0:08:29.98,Main,Teased,0000,0000,0000,,Me?
+Dialogue: 0,0:08:31.06,0:08:32.18,Main,Teased,0000,0000,0000,,I'm Nishikata.
+Dialogue: 0,0:08:33.40,0:08:34.60,Main,Bomb,0000,0000,0000,,Nishikata-kun.
+Dialogue: 0,0:08:34.60,0:08:35.91,Main,Bomb,0000,0000,0000,,Congratulations on getting in.
+Dialogue: 0,0:08:39.43,0:08:40.23,Main,Teased,0000,0000,0000,,Right.
+Dialogue: 0,0:08:41.29,0:08:46.00,Tanabe,Signs,0000,0000,0000,,Tanabe
+Dialogue: 0,0:08:42.59,0:08:45.75,Main,Scary Teacher,0000,0000,0000,,You're going to be learning with\N each other over the next year.
+Dialogue: 0,0:08:46.43,0:08:49.02,Main,Scary Teacher,0000,0000,0000,,I'm not going to force you to\N get along no matter what.
+Dialogue: 0,0:08:49.02,0:08:52.49,Main,Scary Teacher,0000,0000,0000,,But keep in mind that you should\N try your best to make things work.
+Dialogue: 0,0:08:53.38,0:08:55.09,Main,Jozu,0000,0000,0000,,Did I lose it somewhere?
+Dialogue: 0,0:08:56.15,0:08:59.68,Main,Scary Teacher,0000,0000,0000,,Well, I don't want to start the\N year with a long speech, so...
+Dialogue: 0,0:09:01.31,0:09:03.31,Main,Scary Teacher,0000,0000,0000,,Slept in already?
+Dialogue: 0,0:09:03.85,0:09:05.56,Main,Teased,0000,0000,0000,,No, I...
+Dialogue: 0,0:09:05.56,0:09:07.97,Main,Scary Teacher,0000,0000,0000,,I'll commend you for having balls.
+Dialogue: 0,0:09:08.47,0:09:09.27,Main,Teased,0000,0000,0000,,No...
+Dialogue: 0,0:09:09.27,0:09:10.48,Main,Scary Teacher,0000,0000,0000,,What's your name?
+Dialogue: 0,0:09:11.86,0:09:13.23,Main,Teased,0000,0000,0000,,Nishikata.
+Dialogue: 0,0:09:13.91,0:09:16.01,Main,Scary Teacher,0000,0000,0000,,All right. Sit down.
+Dialogue: 0,0:09:16.01,0:09:17.36,Main,Teased,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:09:24.73,0:09:26.28,Italics,Teased,0000,0000,0000,,Everyone's looking at me.
+Dialogue: 0,0:09:26.28,0:09:28.74,Italics,Teased,0000,0000,0000,,I have to get to know people\N and clear things up
+Dialogue: 0,0:09:28.74,0:09:31.64,Italics,Teased,0000,0000,0000,,before I become known as the late guy.
+Dialogue: 0,0:09:34.71,0:09:36.67,Main,Grey,0000,0000,0000,,Tanabe-sensei, a moment.
+Dialogue: 0,0:09:39.27,0:09:41.39,Main,Grey,0000,0000,0000,,The car is late.
+Dialogue: 0,0:09:41.39,0:09:42.82,Main,Scary Teacher,0000,0000,0000,,It's late, huh?
+Dialogue: 0,0:09:42.82,0:09:44.42,Main,Scary Teacher,0000,0000,0000,,So the entrance ceremony is, too?
+Dialogue: 0,0:09:44.42,0:09:46.05,Main,Grey,0000,0000,0000,,Thanks for your understanding.
+Dialogue: 0,0:09:46.96,0:09:50.44,Main,Scary Teacher,0000,0000,0000,,I just got word that the entrance\N ceremony is behind schedule.
+Dialogue: 0,0:09:50.44,0:09:52.94,Main,Scary Teacher,0000,0000,0000,,It seems it's going to take a while,
+Dialogue: 0,0:09:52.94,0:09:54.60,Main,Scary Teacher,0000,0000,0000,,so in the meantime...
+Dialogue: 0,0:09:55.58,0:09:57.29,Main,Scary Teacher,0000,0000,0000,,We're figuring out seating.
+Dialogue: 0,0:10:05.37,0:10:06.82,Italics,Teased,0000,0000,0000,,Oh, come on.
+Dialogue: 0,0:10:06.82,0:10:10.08,Italics,Teased,0000,0000,0000,,I'm in the far back corner.
+Dialogue: 0,0:10:10.43,0:10:14.18,Italics,Teased,0000,0000,0000,,Normally I'd be happy, but\N it doesn't benefit me at all right now.
+Dialogue: 0,0:10:14.62,0:10:16.93,Italics,Teased,0000,0000,0000,,I don't even know anyone as it is.
+Dialogue: 0,0:10:17.55,0:10:20.30,Italics,Teased,0000,0000,0000,,There's no one behind me or to my left.
+Dialogue: 0,0:10:20.30,0:10:22.27,Italics,Teased,0000,0000,0000,,Worse, I'm sitting next to a girl.
+Dialogue: 0,0:10:25.03,0:10:26.31,Main,Jozu,0000,0000,0000,,Did you actually sleep in?
+Dialogue: 0,0:10:27.88,0:10:29.52,Italics,Teased,0000,0000,0000,,She's talking to me.
+Dialogue: 0,0:10:29.52,0:10:31.61,Main,Jozu,0000,0000,0000,,You were about to say\N something to the teacher.
+Dialogue: 0,0:10:32.37,0:10:33.66,Main,Teased,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:10:34.31,0:10:36.28,Main,Teased,0000,0000,0000,,No, actually, well...
+Dialogue: 0,0:10:37.70,0:10:39.45,Italics,Teased,0000,0000,0000,,If only I'd made it on time...
+Dialogue: 0,0:10:39.45,0:10:41.99,Italics,Teased,0000,0000,0000,,I made it to school on time, but...
+Dialogue: 0,0:10:43.02,0:10:45.46,Main,Teased,0000,0000,0000,,It's all because of that Takagi-san person.
+Dialogue: 0,0:10:47.21,0:10:49.73,Main,Scary Teacher,0000,0000,0000,,All right, everyone, head to the gymnasium.
+Dialogue: 0,0:10:50.12,0:10:52.66,Main,Scary Teacher,0000,0000,0000,,Keep quiet. Don't run.
+Dialogue: 0,0:10:52.66,0:10:54.09,Main,All,0000,0000,0000,,Okay.
+Dialogue: 0,0:10:55.84,0:10:56.64,Main,Frazzles,0000,0000,0000,,Hey.
+Dialogue: 0,0:10:58.47,0:10:59.71,Main,Frazzles,0000,0000,0000,,Let's go together.
+Dialogue: 0,0:11:06.29,0:11:07.39,Main,Jozu,0000,0000,0000,,Wait a moment.
+Dialogue: 0,0:11:09.36,0:11:15.26,Main,Speech,0000,0000,0000,,You will soon have a great treasure,\N known as the right to vote.
+Dialogue: 0,0:11:16.43,0:11:20.55,Main,Speech,0000,0000,0000,,It is important to choose\N politicians who are worthy of trust.
+Dialogue: 0,0:11:19.44,0:11:25.08,Black Signs,Text,0000,0000,0000,,Congratulations, New Students
+Dialogue: 0,0:11:20.79,0:11:25.08,Main,Speech,0000,0000,0000,,Likewise, to your mother and father...
+Dialogue: 0,0:11:28.08,0:11:30.21,Main,Frazzles,0000,0000,0000,,That was such a long speech.
+Dialogue: 0,0:11:30.21,0:11:31.23,Main,,0000,0000,0000,,Wasn't it?
+Dialogue: 0,0:11:30.54,0:11:33.72,Main,Buckteeth,0000,0000,0000,,That old dude was talking forever.
+Dialogue: 0,0:11:33.72,0:11:36.88,Main,Bald,0000,0000,0000,,It's the same thing in middle\N school as it was in elementary.
+Dialogue: 0,0:11:38.33,0:11:41.00,Main,Tall,0000,0000,0000,,You're pretty awesome, though,\N coming in late on the first day.
+Dialogue: 0,0:11:41.00,0:11:42.29,Main,Teased,0000,0000,0000,,No, I...
+Dialogue: 0,0:11:42.29,0:11:44.26,Main,Scary Teacher,0000,0000,0000,,Quit yapping and take your seats.
+Dialogue: 0,0:11:50.82,0:11:51.62,Main,Teased,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:56.31,0:11:57.98,Main,Jozu,0000,0000,0000,,Sorry I'm late.
+Dialogue: 0,0:11:58.55,0:12:00.27,Main,Scary Teacher,0000,0000,0000,,Take your seat.
+Dialogue: 0,0:12:01.22,0:12:04.95,Main,Scary Teacher,0000,0000,0000,,That's it for today, but classes start tomorrow.
+Dialogue: 0,0:12:05.17,0:12:08.66,Main,Scary Teacher,0000,0000,0000,,Don't get giddy because it's the\N entrance ceremony. Go straight home.
+Dialogue: 0,0:12:09.45,0:12:11.12,Main,Jozu,0000,0000,0000,,Hey, Nishikata-kun...
+Dialogue: 0,0:12:12.46,0:12:16.55,Main,Jozu,0000,0000,0000,,Want me to guess why you were late today?
+Dialogue: 0,0:12:18.14,0:12:20.62,Main,Jozu,0000,0000,0000,,If I can guess on my first try, I win.
+Dialogue: 0,0:12:21.57,0:12:22.59,Main,Teased,0000,0000,0000,,Sure.
+Dialogue: 0,0:12:23.07,0:12:25.88,Italics,Teased,0000,0000,0000,,Wait, how is she going\N to guess on her first try?
+Dialogue: 0,0:12:28.81,0:12:31.39,Main,Jozu,0000,0000,0000,,You were delivering a lost item.
+Dialogue: 0,0:12:31.39,0:12:32.75,Main,Teased,0000,0000,0000,,What?! How?!
+Dialogue: 0,0:12:32.75,0:12:35.63,Main,Scary Teacher,0000,0000,0000,,Yo, shut up, Nishikata.
+Dialogue: 0,0:12:35.63,0:12:36.85,Main,Teased,0000,0000,0000,,Sorry.
+Dialogue: 0,0:12:39.01,0:12:39.97,Main,Jozu,0000,0000,0000,,How?
+Dialogue: 0,0:12:47.30,0:12:48.62,Main,Teased,0000,0000,0000,,I wonder how?
+Dialogue: 0,0:12:54.85,0:12:55.97,Main,Jozu,0000,0000,0000,,Takagi-san?
+Dialogue: 0,0:12:56.67,0:12:59.19,Main,Teased,0000,0000,0000,,You weren't there during\N the self-introductions.
+Dialogue: 0,0:13:08.66,0:13:10.13,Main,Jozu,0000,0000,0000,,Why are you reacting like that?
+Dialogue: 0,0:13:10.13,0:13:12.14,Main,Scary Teacher,0000,0000,0000,,Hey! Quiet down over there!
+Dialogue: 0,0:13:12.49,0:13:13.81,Main,Jozu,0000,0000,0000,,Sorry.
+Dialogue: 0,0:13:21.79,0:13:23.82,Main,Jozu,0000,0000,0000,,Thanks for picking it up.
+Dialogue: 0,0:13:26.91,0:13:28.65,Main,Jozu,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:13:32.45,0:13:33.91,Main,Teased,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:13:34.41,0:13:37.71,Seating Arrangement,Text,0000,0000,0000,,Seating Arrangement
+Dialogue: 0,0:13:35.66,0:13:36.61,Main,Jozu,0000,0000,0000,,"Seating Arrangement."
+Dialogue: 0,0:13:38.21,0:13:42.74,Main,Teased,0000,0000,0000,,Seventy-two, seventy-three,
+Dialogue: 0,0:13:43.29,0:13:48.45,Main,Teased,0000,0000,0000,,seventy-four, seventy-five.
+Dialogue: 0,0:13:55.53,0:13:57.82,Main,Teased,0000,0000,0000,,It's getting there.
+Dialogue: 0,0:14:04.44,0:14:05.90,Status Quo,Text,0000,0000,0000,,Status Quo
+Dialogue: 0,0:14:08.41,0:14:09.93,Main,Teased,0000,0000,0000,,Ow...
+Dialogue: 0,0:14:39.26,0:14:40.76,Main,Teased,0000,0000,0000,,She's not here yet.
+Dialogue: 0,0:14:44.69,0:14:45.85,Main,Jozu,0000,0000,0000,,Morning, Nishikata.
+Dialogue: 0,0:14:46.46,0:14:48.32,Main,Teased,0000,0000,0000,,Morning, Takagi-san.
+Dialogue: 0,0:14:52.05,0:14:53.74,Main,Jozu,0000,0000,0000,,Have you heard, Nishikata?
+Dialogue: 0,0:14:55.32,0:14:57.58,Main,Jozu,0000,0000,0000,,There's a seating arrangement change today.
+Dialogue: 0,0:15:03.55,0:15:04.82,Main,Teased,0000,0000,0000,,When?
+Dialogue: 0,0:15:05.43,0:15:06.46,Main,Jozu,0000,0000,0000,,During homeroom.
+Dialogue: 0,0:15:06.46,0:15:07.99,Italics,Teased,0000,0000,0000,,Homeroom?
+Dialogue: 0,0:15:07.99,0:15:09.64,Italics,Teased,0000,0000,0000,,That's first period.
+Dialogue: 0,0:15:21.94,0:15:23.01,Main,Teased,0000,0000,0000,,Taka—
+Dialogue: 0,0:15:21.94,0:15:23.01,Main,Jozu,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:28.84,0:15:30.60,Main,Teased,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:15:30.60,0:15:31.80,Main,Teased,0000,0000,0000,,That'll be fun.
+Dialogue: 0,0:15:32.78,0:15:33.42,Main,Jozu,0000,0000,0000,,Yeah?
+Dialogue: 0,0:15:35.75,0:15:38.71,Main,Teased,0000,0000,0000,,No, I mean, we haven't had\N a seating change in a while.
+Dialogue: 0,0:15:46.90,0:15:49.61,Main,Jozu,0000,0000,0000,,Well, I guess it could be fun in some ways.
+Dialogue: 0,0:15:50.67,0:15:54.35,Main,Jozu,0000,0000,0000,,I wanted to be next to you for\N a while longer, though.
+Dialogue: 0,0:15:58.37,0:16:01.10,Italics,Teased,0000,0000,0000,,She's going to tease me again.
+Dialogue: 0,0:16:01.50,0:16:03.41,Italics,Teased,0000,0000,0000,,Close one.
+Dialogue: 0,0:16:18.37,0:16:24.83,Tanabe,Text,0000,0000,0000,,Lots
+Dialogue: 0,0:16:18.70,0:16:21.16,Main,Scary Teacher,0000,0000,0000,,Does everyone have a lot?
+Dialogue: 0,0:16:21.16,0:16:24.85,Main,Scary Teacher,0000,0000,0000,,All right, move your desks\N according to your lots.
+Dialogue: 0,0:16:25.44,0:16:27.02,Main,Jozu,0000,0000,0000,,Nishikata, what number?
+Dialogue: 0,0:16:27.02,0:16:28.10,Main,Teased,0000,0000,0000,,Twenty-nine.
+Dialogue: 0,0:16:29.41,0:16:30.23,Main,Jozu,0000,0000,0000,,Ah.
+Dialogue: 0,0:16:30.77,0:16:32.47,Main,Jozu,0000,0000,0000,,The far back again, then.
+Dialogue: 0,0:16:32.47,0:16:33.46,Main,Teased,0000,0000,0000,,What about you?
+Dialogue: 0,0:16:34.54,0:16:37.56,Main,Jozu,0000,0000,0000,,I'm front and center.
+Dialogue: 0,0:16:37.91,0:16:39.35,Main,Teased,0000,0000,0000,,Oh.
+Dialogue: 0,0:16:41.39,0:16:43.14,Main,Jozu,0000,0000,0000,,We're going to be pretty far.
+Dialogue: 0,0:16:43.67,0:16:44.47,Main,Teased,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:44.97,0:16:45.77,Main,Jozu,0000,0000,0000,,Bye.
+Dialogue: 0,0:16:48.57,0:16:49.55,Main,Frazzles,0000,0000,0000,,Yay!
+Dialogue: 0,0:16:49.55,0:16:52.07,Main,Frazzles,0000,0000,0000,,Give me answers during tests, Yukari-chan.
+Dialogue: 0,0:16:52.07,0:16:53.97,Main,Glasses,0000,0000,0000,,No, that's straight-up cheating.
+Dialogue: 0,0:16:53.97,0:16:55.54,Main,Frazzles,0000,0000,0000,,It's called mutual aid.
+Dialogue: 0,0:16:55.54,0:16:57.50,Main,Glasses,0000,0000,0000,,So what are you going to help me with, then?
+Dialogue: 0,0:16:57.50,0:16:59.42,Main,Frazzles,0000,0000,0000,,I'll cheer for you from behind.
+Dialogue: 0,0:17:01.41,0:17:02.82,Main,Tall,0000,0000,0000,,Hey, Nishikata.
+Dialogue: 0,0:17:02.82,0:17:04.22,Main,Tall,0000,0000,0000,,Are you here?
+Dialogue: 0,0:17:04.22,0:17:05.28,Main,Teased,0000,0000,0000,,No, over there.
+Dialogue: 0,0:17:05.54,0:17:06.86,Main,Tall,0000,0000,0000,,Aww.
+Dialogue: 0,0:17:06.86,0:17:09.04,Main,Tall,0000,0000,0000,,Too bad we aren't closer.
+Dialogue: 0,0:17:09.04,0:17:10.00,Main,Teased,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:12.85,0:17:15.18,Main,Tall,0000,0000,0000,,My vision's gotten bad lately.
+Dialogue: 0,0:17:15.18,0:17:17.39,Main,Tall,0000,0000,0000,,I hope I can see the chalkboard.
+Dialogue: 0,0:17:33.35,0:17:37.44,Main,Stranger Danger,0000,0000,0000,,Oh, I'm next to Nishikata-kun.
+Dialogue: 0,0:17:38.33,0:17:39.58,Main,Teased,0000,0000,0000,,Mano-san?
+Dialogue: 0,0:17:39.58,0:17:42.19,Main,Stranger Danger,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:17:44.31,0:17:46.34,Main,Teased,0000,0000,0000,,What's with that reaction?
+Dialogue: 0,0:17:47.16,0:17:50.30,Main,Stranger Danger,0000,0000,0000,,It's nothing. Don't mind me.
+Dialogue: 0,0:17:50.78,0:17:56.37,Main,Stranger Danger,0000,0000,0000,,I'm just depressed because\N I don't get to be by Nakai-kun.
+Dialogue: 0,0:18:00.18,0:18:02.14,Main,Teased,0000,0000,0000,,Nakai-kun?
+Dialogue: 0,0:18:02.69,0:18:04.32,Main,Tall,0000,0000,0000,,Hey.
+Dialogue: 0,0:18:04.32,0:18:05.83,Main,Bald,0000,0000,0000,,Someone!
+Dialogue: 0,0:18:06.14,0:18:09.10,Main,Bald,0000,0000,0000,,Someone please switch seats with me!
+Dialogue: 0,0:18:09.10,0:18:13.11,Main,Bald,0000,0000,0000,,How am I supposed to eat lunch early\N if I'm in front of the teacher's podium?!
+Dialogue: 0,0:18:13.11,0:18:16.57,Main,Scary Teacher,0000,0000,0000,,You aren't switching seats unless\N you have a legitimate reason.
+Dialogue: 0,0:18:16.78,0:18:20.17,Main,Scary Teacher,0000,0000,0000,,Also, Kimura, I'll see you\N at the staff office later.
+Dialogue: 0,0:18:22.50,0:18:24.49,Italics,Teased,0000,0000,0000,,In front of the teacher's podium?
+Dialogue: 0,0:18:25.22,0:18:28.92,Flashback,Jozu,0000,0000,0000,,I wanted to be next to you for\N a while longer, though.
+Dialogue: 0,0:18:46.31,0:18:47.91,Main,Teased,0000,0000,0000,,K-Kimura-kun,
+Dialogue: 0,0:18:47.91,0:18:49.89,Main,Teased,0000,0000,0000,,I have bad eyesight. Let's switch.
+Dialogue: 0,0:18:50.12,0:18:53.27,Main,Bald,0000,0000,0000,,Nope, I already had someone switch.
+Dialogue: 0,0:19:02.19,0:19:04.22,Italics,Teased,0000,0000,0000,,I don't care.
+Dialogue: 0,0:19:08.65,0:19:09.49,Main,Jozu,0000,0000,0000,,Nishikata.
+Dialogue: 0,0:19:10.50,0:19:11.30,Main,Jozu,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:20.84,0:19:21.44,Main,Teased,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:22.45,0:19:24.46,Main,Jozu,0000,0000,0000,,I'm sitting here now.
+Dialogue: 0,0:19:25.03,0:19:25.86,Main,Teased,0000,0000,0000,,Why?
+Dialogue: 0,0:19:26.68,0:19:31.19,Main,Jozu,0000,0000,0000,,Nakai-kun switched with Kimura-kun\N because he couldn't see the chalkboard.
+Dialogue: 0,0:19:31.71,0:19:33.82,Main,Jozu,0000,0000,0000,,Nakai-kun came to the front,
+Dialogue: 0,0:19:33.82,0:19:37.17,Main,Jozu,0000,0000,0000,,and Mano-chan wanted to switch\N with me, since I was next to him.
+Dialogue: 0,0:19:37.79,0:19:40.64,Main,Jozu,0000,0000,0000,,Mano-chan's small, so she prefers the front.
+Dialogue: 0,0:19:41.41,0:19:43.58,Main,Teased,0000,0000,0000,,I-I see.
+Dialogue: 0,0:19:44.75,0:19:48.37,Main,Jozu,0000,0000,0000,,Nishikata, you tried to sit\N next to me, didn't you?
+Dialogue: 0,0:19:50.77,0:19:54.57,Main,Teased,0000,0000,0000,,No, I couldn't see the chalkboard.
+Dialogue: 0,0:19:57.40,0:19:58.30,Main,Jozu,0000,0000,0000,,Yeah?
+Dialogue: 0,0:20:03.67,0:20:05.11,Main,Teased,0000,0000,0000,,I swear!
+Dialogue: 0,0:20:05.35,0:20:08.31,Main,Stranger Danger,0000,0000,0000,,Class is starting. Get your textbooks out.
+Dialogue: 0,0:20:08.81,0:20:12.22,Main,Jozu,0000,0000,0000,,Oh yeah, what were you about to say?
+Dialogue: 0,0:20:13.33,0:20:16.15,Main,Jozu,0000,0000,0000,,It looked like you've been wanting\Nto say something since this morning.
+Dialogue: 0,0:20:24.31,0:20:27.43,Main,Teased,0000,0000,0000,,Sorry it took a while to return this to you.
+Dialogue: 0,0:20:27.94,0:20:28.79,Main,Teased,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:30.06,0:20:31.61,Main,Jozu,0000,0000,0000,,From summer break?
+Dialogue: 0,0:20:31.61,0:20:34.68,Main,Teased,0000,0000,0000,,Yeah, and...
+Dialogue: 0,0:20:35.09,0:20:36.46,Main,Jozu,0000,0000,0000,,And from the first day of school?
+Dialogue: 0,0:20:36.79,0:20:37.93,Main,Teased,0000,0000,0000,,You remembered?
+Dialogue: 0,0:20:38.23,0:20:40.28,Main,Jozu,0000,0000,0000,,You remembered, too, huh?
+Dialogue: 0,0:20:42.15,0:20:42.96,Main,Teased,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:45.58,0:20:46.42,Main,Jozu,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:47.20,0:20:48.96,Main,Teased,0000,0000,0000,,I washed it well.
+Dialogue: 0,0:20:54.17,0:20:55.25,Main,Teased,0000,0000,0000,,No...
+Dialogue: 0,0:20:55.77,0:20:57.87,Main,Teased,0000,0000,0000,,I'm glad, though.
+Dialogue: 0,0:20:58.50,0:20:58.82,Main,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:59.14,0:21:01.19,Main,Teased,0000,0000,0000,,Oh, stuff.
+Dialogue: 0,0:21:01.86,0:21:06.43,Main,Teased,0000,0000,0000,,That I got to return your handkerchief,\N and that we're next to each other again.
+Dialogue: 0,0:21:06.43,0:21:09.09,Main,Teased,0000,0000,0000,,No, I mean, you know.
+Dialogue: 0,0:21:10.61,0:21:12.00,Main,Jozu,0000,0000,0000,,I'm looking forward to it.
+Dialogue: 0,0:21:16.82,0:21:17.63,Main,Teased,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:43.36,0:21:47.66,Dear Takagi san,Text,0000,0000,0000,,Dear Takagi-san,\N\NThank you.\N\N—Nishikata
