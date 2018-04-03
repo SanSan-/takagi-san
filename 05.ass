@@ -17,9 +17,9 @@ Video File: 05.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 404
-Active Line: 407
-Video Position: 3478
+Scroll Position: 407
+Active Line: 417
+Video Position: 25988
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -468,4 +468,4 @@ Dialogue: 0,0:13:22.94,0:13:27.41,Black Signs,Manga(L),0,0,0,,100% Unrequited Lo
 Dialogue: 0,0:13:22.94,0:13:27.41,Black Signs,Manga(L),0,0,0,,Fierce!!
 Dialogue: 0,0:13:22.94,0:13:27.41,Black Signs,Manga(L),0,0,0,,Ultimate Soccer!!
 Dialogue: 0,0:13:29.91,0:13:32.29,Black Signs,Sign,0,0,0,,Books
-Dialogue: 0,0:18:04.97,0:18:08.98,Episode Title,Title 4,0,0,0,,Shelter from the Rain
+Dialogue: 0,0:18:04.97,0:18:08.98,Episode Title,Title 4,0,0,0,,{\pos(909,133)}Shelter from the Rain
