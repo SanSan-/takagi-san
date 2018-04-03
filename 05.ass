@@ -17,9 +17,8 @@ Video File: 05.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 407
-Active Line: 417
-Video Position: 25988
+Active Line: 1
+Video Position: 59
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +51,7 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Диалоги
-Dialogue: 0,0:00:02.39,0:00:04.31,Main-Kimura,Кимура,0,0,0,,I've had enough!
+Dialogue: 0,0:00:02.39,0:00:04.31,Main-Kimura,Кимура,0,0,0,,С меня хватит!
 Dialogue: 0,0:00:04.31,0:00:07.27,Main-Kimura,Кимура,0,0,0,,I can't study for the test any longer!
 Dialogue: 0,0:00:07.27,0:00:08.40,Main-Kimura,Кимура,0,0,0,,Let's go to the arcade.
 Dialogue: 0,0:00:08.40,0:00:10.36,Main-Takao,Такао Сакурай,0,0,0,,If you say so, I guess we have to.
