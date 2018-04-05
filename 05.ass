@@ -18,9 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 05 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 18
-Video Position: 3651
+Scroll Position: 62
+Active Line: 69
+Video Position: 7432
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,30 +101,30 @@ Dialogue: 0,0:04:05.66,0:04:08.25,Main-Nishikata,Нисиката,0,0,0,,{\i1}и
 Dialogue: 0,0:04:08.25,0:04:09.92,Main-Nishikata,Нисиката,0,0,0,,{\i1}По-другому и быть не может.
 Dialogue: 0,0:04:09.92,0:04:11.77,Main-Nishikata,Нисиката,0,0,0,,{\i1}Потому что она Такаги-сан!
 Dialogue: 0,0:04:12.59,0:04:13.81,Main-Takagi,Такаги,0,0,0,,Что такое?
-Dialogue: 0,0:04:13.81,0:04:15.87,Main-Nishikata,Нисиката,0,0,0,,Ah, it's nothing.
-Dialogue: 0,0:04:16.38,0:04:18.37,Main-Nishikata,Нисиката,0,0,0,,I guess it's nothing.
-Dialogue: 0,0:04:18.37,0:04:21.25,Main-Nishikata,Нисиката,0,0,0,,I was just looking. It's not like—
-Dialogue: 0,0:04:19.18,0:04:20.93,Main-Takagi,Такаги,0,0,0,,Oh, that one is wrong.
-Dialogue: 0,0:04:21.25,0:04:22.05,Main-Nishikata,Нисиката,0,0,0,,Huh?
-Dialogue: 0,0:04:22.26,0:04:27.53,Main-Takagi,Такаги,0,0,0,,Problem six, where it says\N"Solve for x over (-2 + 3y)."
-Dialogue: 0,0:04:27.53,0:04:29.67,Main-Nishikata,Нисиката,0,0,0,,Huh? I got this wrong?
-Dialogue: 0,0:04:29.99,0:04:30.79,Main-Takagi,Такаги,0,0,0,,Yeah.
-Dialogue: 0,0:04:30.79,0:04:31.99,Main-Nishikata,Нисиката,0,0,0,,How?
-Dialogue: 0,0:04:34.71,0:04:38.96,Main-Nishikata,Нисиката,0,0,0,,Where? This is, uhh…
-Dialogue: 0,0:04:43.20,0:04:44.39,Main-Takagi,Такаги,0,0,0,,Here we go.
+Dialogue: 0,0:04:13.81,0:04:15.87,Main-Nishikata,Нисиката,0,0,0,,А… Нет, ничего.
+Dialogue: 0,0:04:16.38,0:04:18.37,Main-Nishikata,Нисиката,0,0,0,,Не стоит внимания.
+Dialogue: 0,0:04:18.37,0:04:21.25,Main-Nishikata,Нисиката,0,0,0,,Я просто увидел кое-что. Не то, чтобы—
+Dialogue: 0,0:04:19.18,0:04:20.93,Main-Takagi,Такаги,0,0,0,,А вот тут не правильно.
+Dialogue: 0,0:04:21.25,0:04:22.05,Main-Nishikata,Нисиката,0,0,0,,Э?
+Dialogue: 0,0:04:22.26,0:04:27.53,Main-Takagi,Такаги,0,0,0,,В 6-ой задаче, где сказано:\N«Найдите x, делённый на (-2 + 3y).»
+Dialogue: 0,0:04:27.53,0:04:29.67,Main-Nishikata,Нисиката,0,0,0,,Э? Не правильно решил?
+Dialogue: 0,0:04:29.99,0:04:30.79,Main-Takagi,Такаги,0,0,0,,Угу.
+Dialogue: 0,0:04:30.79,0:04:31.99,Main-Nishikata,Нисиката,0,0,0,,В чём же?
+Dialogue: 0,0:04:34.71,0:04:38.96,Main-Nishikata,Нисиката,0,0,0,,Где? Может, эмм…
+Dialogue: 0,0:04:43.20,0:04:44.39,Main-Takagi,Такаги,0,0,0,,Вот так.
 Dialogue: 0,0:04:45.89,0:04:46.81,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан?
-Dialogue: 0,0:04:51.31,0:04:53.06,Main-Takagi,Такаги,0,0,0,,It's easier for me to teach you this way.
-Dialogue: 0,0:04:53.39,0:04:58.77,Main-Takagi,Такаги,0,0,0,,{\an8}So, x equals -16 and y equals -1, right?
-Dialogue: 0,0:04:56.08,0:04:58.77,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан is teaching me?!
-Dialogue: 0,0:04:59.12,0:05:01.23,Main-Takagi,Такаги,0,0,0,,{\an8}First, just substitute them as-is.
-Dialogue: 0,0:04:59.72,0:05:01.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}What is she planning?!
-Dialogue: 0,0:05:01.61,0:05:02.94,Main-Takagi,Такаги,0,0,0,,Write out the formula.
-Dialogue: 0,0:05:03.23,0:05:04.65,Main-Nishikata,Нисиката,0,0,0,,Ah, okay…
-Dialogue: 0,0:05:04.99,0:05:08.29,Main-Takagi,Такаги,0,0,0,,This will be a negative number\N times a negative number,
-Dialogue: 0,0:05:08.29,0:05:09.98,Main-Takagi,Такаги,0,0,0,,so pay attention to the\N order of operations.
+Dialogue: 0,0:04:51.31,0:04:53.06,Main-Takagi,Такаги,0,0,0,,Мне так будет удобнее.
+Dialogue: 0,0:04:53.39,0:04:58.77,Main-Takagi,Такаги,0,0,0,,{\an8}Так, x равен -16, а y равен -1, да?
+Dialogue: 0,0:04:56.08,0:04:58.77,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан учит меня?!
+Dialogue: 0,0:04:59.12,0:05:01.23,Main-Takagi,Такаги,0,0,0,,{\an8}Сперва, просто подставь их как-есть.
+Dialogue: 0,0:04:59.72,0:05:01.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}Что она задумала?!
+Dialogue: 0,0:05:01.61,0:05:02.94,Main-Takagi,Такаги,0,0,0,,Выпишем формулу.
+Dialogue: 0,0:05:03.23,0:05:04.65,Main-Nishikata,Нисиката,0,0,0,,А, угу…
+Dialogue: 0,0:05:04.99,0:05:08.29,Main-Takagi,Такаги,0,0,0,,Получится отрицательное число умноженное на\Nотрицательное,
+Dialogue: 0,0:05:08.29,0:05:09.98,Main-Takagi,Такаги,0,0,0,,поэтому следи за порядком действий.
 Dialogue: 0,0:05:09.98,0:05:12.12,Main-Nishikata,Нисиката,0,0,0,,Oh! Then, the answer is…
-Dialogue: 0,0:05:13.79,0:05:14.50,Main-Nishikata,Нисиката,0,0,0,,five.
-Dialogue: 0,0:05:14.72,0:05:16.12,Main-Takagi,Такаги,0,0,0,,Yep, that's right.
+Dialogue: 0,0:05:13.79,0:05:14.50,Main-Nishikata,Нисиката,0,0,0,,Пять.
+Dialogue: 0,0:05:14.72,0:05:16.12,Main-Takagi,Такаги,0,0,0,,Угу, верно!
 Dialogue: 0,0:05:16.76,0:05:18.00,Main-Takagi,Такаги,0,0,0,,Oh, and this…
 Dialogue: 0,0:05:18.00,0:05:21.59,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан is amazing. She can\N figure it out at just a quick glance.
 Dialogue: 0,0:05:22.62,0:05:25.55,Main-Nishikata,Нисиката,0,0,0,,Th-Thanks… I wasn't really getting this.
