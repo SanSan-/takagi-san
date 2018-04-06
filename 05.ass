@@ -18,9 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 05 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 62
-Active Line: 69
-Video Position: 7432
+Scroll Position: 106
+Active Line: 116
+Video Position: 11145
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,54 +121,54 @@ Dialogue: 0,0:04:59.72,0:05:01.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ч
 Dialogue: 0,0:05:01.61,0:05:02.94,Main-Takagi,Такаги,0,0,0,,Выпишем формулу.
 Dialogue: 0,0:05:03.23,0:05:04.65,Main-Nishikata,Нисиката,0,0,0,,А, угу…
 Dialogue: 0,0:05:04.99,0:05:08.29,Main-Takagi,Такаги,0,0,0,,Получится отрицательное число умноженное на\Nотрицательное,
-Dialogue: 0,0:05:08.29,0:05:09.98,Main-Takagi,Такаги,0,0,0,,поэтому следи за порядком действий.
-Dialogue: 0,0:05:09.98,0:05:12.12,Main-Nishikata,Нисиката,0,0,0,,Oh! Then, the answer is…
+Dialogue: 0,0:05:08.29,0:05:09.98,Main-Takagi,Такаги,0,0,0,,поэтому следи за порядком.
+Dialogue: 0,0:05:09.98,0:05:12.12,Main-Nishikata,Нисиката,0,0,0,,А! Значит ответ будет…
 Dialogue: 0,0:05:13.79,0:05:14.50,Main-Nishikata,Нисиката,0,0,0,,Пять.
 Dialogue: 0,0:05:14.72,0:05:16.12,Main-Takagi,Такаги,0,0,0,,Угу, верно!
-Dialogue: 0,0:05:16.76,0:05:18.00,Main-Takagi,Такаги,0,0,0,,Oh, and this…
-Dialogue: 0,0:05:18.00,0:05:21.59,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан is amazing. She can\N figure it out at just a quick glance.
-Dialogue: 0,0:05:22.62,0:05:25.55,Main-Nishikata,Нисиката,0,0,0,,Th-Thanks… I wasn't really getting this.
-Dialogue: 0,0:05:26.05,0:05:28.84,Main-Takagi,Такаги,0,0,0,,Okay, I'll just teach you from\N the beginning, then.
-Dialogue: 0,0:05:30.80,0:05:34.18,Main-Nishikata,Нисиката,0,0,0,,{\i1}T-Такаги-сан is gonna teach me?\N I'm saved!
-Dialogue: 0,0:05:35.36,0:05:37.48,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, something's fishy!
-Dialogue: 0,0:05:37.84,0:05:41.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}Why is she being so nice?! It's odd!
-Dialogue: 0,0:05:41.95,0:05:46.53,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, why are you\N being so nice to me today?
-Dialogue: 0,0:05:46.97,0:05:48.44,Main-Takagi,Такаги,0,0,0,,What do you mean?
-Dialogue: 0,0:05:49.18,0:05:53.24,Main-Nishikata,Нисиката,0,0,0,,Well, you're kinda being\Nunusually nice today, so…
-Dialogue: 0,0:05:55.77,0:06:00.29,Main-Takagi,Такаги,0,0,0,,Yeah… I'm always teasing you during class,
-Dialogue: 0,0:06:00.77,0:06:03.41,Main-Takagi,Такаги,0,0,0,,so I'd feel bad if your grades go down\N because of me.
+Dialogue: 0,0:05:16.76,0:05:18.00,Main-Takagi,Такаги,0,0,0,,О, а вот здесь…
+Dialogue: 0,0:05:18.00,0:05:21.59,Main-Nishikata,Нисиката,0,0,0,,{\i1}Такаги-сан неверноятная. Она так быстро соображает.
+Dialogue: 0,0:05:22.62,0:05:25.55,Main-Nishikata,Нисиката,0,0,0,,С-Спасибо… Я, действительно, этого не понимал.
+Dialogue: 0,0:05:26.05,0:05:28.84,Main-Takagi,Такаги,0,0,0,,Вот, тогда я буду учить тебя с самого начала.
+Dialogue: 0,0:05:30.80,0:05:34.18,Main-Nishikata,Нисиката,0,0,0,,{\i1}T-Такаги-сан будет учить меня?\N Крутяк!
+Dialogue: 0,0:05:35.36,0:05:37.48,Main-Nishikata,Нисиката,0,0,0,,{\i1}Стоп! Это чертовски странно!
+Dialogue: 0,0:05:37.84,0:05:41.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чего вдруг она стала такой доброй?! Это необычно!
+Dialogue: 0,0:05:41.95,0:05:46.53,Main-Nishikata,Нисиката,0,0,0,,T-Такаги-сан, почему ты сегодня со мной так добра?
+Dialogue: 0,0:05:46.97,0:05:48.44,Main-Takagi,Такаги,0,0,0,,Ммм… Ты о чём?
+Dialogue: 0,0:05:49.18,0:05:53.24,Main-Nishikata,Нисиката,0,0,0,,Ну, ты так добра ко мне сегодня, поэтому…
+Dialogue: 0,0:05:55.77,0:06:00.29,Main-Takagi,Такаги,0,0,0,,Да… Я постоянно дразню тебя во время уроков, так что
+Dialogue: 0,0:06:00.77,0:06:03.41,Main-Takagi,Такаги,0,0,0,,я чувствую себя виноватой за твои низкие оценки.
 Dialogue: 0,0:06:05.05,0:06:05.95,Main-Takagi,Такаги,0,0,0,,Нисиката…
-Dialogue: 0,0:06:07.42,0:06:09.01,Main-Takagi,Такаги,0,0,0,,I'm sorry for teasing you every day.
-Dialogue: 0,0:06:09.01,0:06:11.81,Main-Takagi,Такаги,0,0,0,,Let's make sure you do well on the next test.
+Dialogue: 0,0:06:07.42,0:06:09.01,Main-Takagi,Такаги,0,0,0,,Прости меня за всё.
+Dialogue: 0,0:06:09.01,0:06:11.81,Main-Takagi,Такаги,0,0,0,,Давай постараемся для следующего теста.
 Dialogue: 0,0:06:13.95,0:06:15.10,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан…
-Dialogue: 0,0:06:16.62,0:06:20.25,Main-Nishikata,Нисиката,0,0,0,,{\i1}You've finally changed your ways!
-Dialogue: 0,0:06:21.25,0:06:23.39,Main-Nishikata,Нисиката,0,0,0,,All right! I'll do my best!
-Dialogue: 0,0:06:26.11,0:06:27.63,Main-Takagi,Такаги,0,0,0,,Thanks for the juice.
-Dialogue: 0,0:06:27.63,0:06:28.94,Main-Nishikata,Нисиката,0,0,0,,No, thank you.
-Dialogue: 0,0:06:28.94,0:06:32.62,Main-Nishikata,Нисиката,0,0,0,,I made huge progress\N on math today, thanks to you.
-Dialogue: 0,0:06:33.18,0:06:35.70,Main-Nishikata,Нисиката,0,0,0,,{\i1}I have a better chance\N of not getting my games confiscated.
-Dialogue: 0,0:06:38.22,0:06:41.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}Maybe Такаги-сан is actually a good person.
-Dialogue: 0,0:06:42.41,0:06:44.50,Main-Nishikata,Нисиката,0,0,0,,Seriously, thanks for today, Такаги-сан.
-Dialogue: 0,0:06:44.76,0:06:47.21,Main-Takagi,Такаги,0,0,0,,You don't need to thank me.
-Dialogue: 0,0:06:48.31,0:06:49.67,Main-Takagi,Такаги,0,0,0,,After all, what I taught you today
-Dialogue: 0,0:06:51.05,0:06:52.55,Main-Takagi,Такаги,0,0,0,,won't be on the test.
-Dialogue: 0,0:06:58.06,0:06:59.78,Main-Nishikata,Нисиката,0,0,0,,H-Hey, wait!
-Dialogue: 0,0:06:59.78,0:07:01.51,Main-Takagi,Такаги,0,0,0,,You've mastered substitution, right?
-Dialogue: 0,0:07:01.51,0:07:05.00,Main-Nishikata,Нисиката,0,0,0,,I did, but still!\NGive me back that juice!
-Dialogue: 0,0:07:05.00,0:07:06.24,Main-Takagi,Такаги,0,0,0,,Oh, I opened it already.
-Dialogue: 0,0:07:06.24,0:07:07.90,Main-Nishikata,Нисиката,0,0,0,,You just opened it now!
-Dialogue: 0,0:07:09.21,0:07:10.01,Main-Yukari,Юкари,0,0,0,,"Test."
-Dialogue: 0,0:07:11.27,0:07:13.17,Main-Tanabe,Танабэ,0,0,0,,Pass the answer sheets forward.
-Dialogue: 0,0:07:16.49,0:07:19.42,Main-Yukari,Юкари,0,0,0,,{\i1}I think I did well. I should've gotten\N a ninety, at least.
-Dialogue: 0,0:07:19.42,0:07:20.69,Main-Yukari,Юкари,0,0,0,,{\i1}Good, good.
+Dialogue: 0,0:06:16.62,0:06:20.25,Main-Nishikata,Нисиката,0,0,0,,{\i1}Наконец ты поменяла своё отношение!
+Dialogue: 0,0:06:21.25,0:06:23.39,Main-Nishikata,Нисиката,0,0,0,,Отлично! Я сделаю всё возможное!
+Dialogue: 0,0:06:26.11,0:06:27.63,Main-Takagi,Такаги,0,0,0,,Спасибо за сок.
+Dialogue: 0,0:06:27.63,0:06:28.94,Main-Nishikata,Нисиката,0,0,0,,Нет, спасибо тебе.
+Dialogue: 0,0:06:28.94,0:06:32.62,Main-Nishikata,Нисиката,0,0,0,,Сегодня я резко продвинулся в математике. Спасибо тебе.
+Dialogue: 0,0:06:33.18,0:06:35.70,Main-Nishikata,Нисиката,0,0,0,,{\i1}Теперь больше шансов не лишиться приставки.
+Dialogue: 0,0:06:38.22,0:06:41.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}Может Такаги-сан не такой плохой человек.
+Dialogue: 0,0:06:42.41,0:06:44.50,Main-Nishikata,Нисиката,0,0,0,,Серьёзно, спасибо за сегодня, Такаги-сан.
+Dialogue: 0,0:06:44.76,0:06:47.21,Main-Takagi,Такаги,0,0,0,,Не стоит благодарности.
+Dialogue: 0,0:06:48.31,0:06:49.67,Main-Takagi,Такаги,0,0,0,,Всё таки, то, что мы разбирали
+Dialogue: 0,0:06:51.05,0:06:52.55,Main-Takagi,Такаги,0,0,0,,не будет на тестах.
+Dialogue: 0,0:06:58.06,0:06:59.78,Main-Nishikata,Нисиката,0,0,0,,С-Стоп! Что?
+Dialogue: 0,0:06:59.78,0:07:01.51,Main-Takagi,Такаги,0,0,0,,Ты же освоил подстановку?
+Dialogue: 0,0:07:01.51,0:07:05.00,Main-Nishikata,Нисиката,0,0,0,,Освоил, но всё равно!\NВерни мне этот сок!
+Dialogue: 0,0:07:05.00,0:07:06.24,Main-Takagi,Такаги,0,0,0,,Упс, я его уже открыла.
+Dialogue: 0,0:07:06.24,0:07:07.90,Main-Nishikata,Нисиката,0,0,0,,Ты только что его открыла!
+Dialogue: 0,0:07:09.21,0:07:10.01,Main-Yukari,Юкари,0,0,0,,«Тест»
+Dialogue: 0,0:07:11.27,0:07:13.17,Main-Tanabe,Танабэ,0,0,0,,Передаём листы с ответами вперёд.
+Dialogue: 0,0:07:16.49,0:07:19.42,Main-Yukari,Юкари,0,0,0,,{\i1}Думаю, я справилась. По крайней мере на 90 баллов.
+Dialogue: 0,0:07:19.42,0:07:20.69,Main-Yukari,Юкари,0,0,0,,{\i1}Отлично, просто отлично.
 Dialogue: 0,0:07:21.87,0:07:23.23,Main-Mina,Мина,0,0,0,,Юкари-тян…
-Dialogue: 0,0:07:23.23,0:07:24.47,Main-Sanae,Санаэ,0,0,0,,Can you teach this to me?
-Dialogue: 0,0:07:25.25,0:07:27.56,Main-Mina,Мина,0,0,0,,English is not my cup of tea.
-Dialogue: 0,0:07:27.56,0:07:30.45,Main-Sanae,Санаэ,0,0,0,,Huh? You make it sound as though\N you're good at everything else.
-Dialogue: 0,0:07:31.61,0:07:33.69,Main-Mina,Мина,0,0,0,,I meant it's my worst subject!
-Dialogue: 0,0:07:33.69,0:07:36.80,Main-Mina,Мина,0,0,0,,Anyway, the translation for this—
-Dialogue: 0,0:07:38.73,0:07:41.64,Main-Yukari,Юкари,0,0,0,,Sorry, but I want to review as well.
-Dialogue: 0,0:07:42.00,0:07:44.85,Main-Mina,Мина,0,0,0,,Huh?! But you always help me study!
+Dialogue: 0,0:07:23.23,0:07:24.47,Main-Sanae,Санаэ,0,0,0,,Можешь объяснить это?
+Dialogue: 0,0:07:25.25,0:07:27.56,Main-Mina,Мина,0,0,0,,Я в {\i1}Английском{\i0} не в зуб ногой.
+Dialogue: 0,0:07:27.56,0:07:30.45,Main-Sanae,Санаэ,0,0,0,,Э? Хочешь сказать, что в чём-то ещё разбираешься.
+Dialogue: 0,0:07:31.61,0:07:33.69,Main-Mina,Мина,0,0,0,,Я имела ввиду, худший из моих предметов!
+Dialogue: 0,0:07:33.69,0:07:36.80,Main-Mina,Мина,0,0,0,,Всё равно, как это перевест—
+Dialogue: 0,0:07:38.73,0:07:41.64,Main-Yukari,Юкари,0,0,0,,Прошу прощения, но мне тоже нужна проверка.
+Dialogue: 0,0:07:42.00,0:07:44.85,Main-Mina,Мина,0,0,0,,Э?! Но ты же всегда мне помогаешь с уроками!
 Dialogue: 0,0:07:44.85,0:07:48.37,Main-Yukari,Юкари,0,0,0,,If I get ninety percent or above\N on all the tests this time,
 Dialogue: 0,0:07:48.37,0:07:50.57,Main-Yukari,Юкари,0,0,0,,my parents will buy any video game I want!
 Dialogue: 0,0:07:53.07,0:07:55.20,Main-Mina,Мина,0,0,0,,How do I turn this into a negative sentence?
