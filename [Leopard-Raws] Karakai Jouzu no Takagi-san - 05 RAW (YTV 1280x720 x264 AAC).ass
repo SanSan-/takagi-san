@@ -18,9 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 05 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 406
-Active Line: 408
-Video Position: 3857
+Scroll Position: 53
+Active Line: 57
+Video Position: 6521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,9 +85,9 @@ Dialogue: 0,0:03:07.71,0:03:11.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}Е
 Dialogue: 0,0:03:15.24,0:03:18.00,Main-Nishikata,Нисиката,0,0,0,,П-Пошутил…
 Dialogue: 0,0:03:19.15,0:03:20.05,Main-Takagi,Такаги,0,0,0,,О чём?
 Dialogue: 0,0:03:20.68,0:03:22.27,Main-Nishikata,Нисиката,0,0,0,,Да так, ни о чём.
-Dialogue: 0,0:03:23.26,0:03:25.68,Main-Nishikata,Нисиката,0,0,0,,В-В любом случае, не мешай…
-Dialogue: 0,0:03:26.07,0:03:29.45,Main-Takagi,Такаги,0,0,0,,Как грубо. Говоришь, будто я всегда встаю у тебя на пути.
-Dialogue: 0,0:03:29.45,0:03:30.71,Main-Nishikata,Нисиката,0,0,0,,В-Встаёшь ведь!
+Dialogue: 0,0:03:23.26,0:03:25.68,Main-Nishikata,Нисиката,0,0,0,,В-В любом случае, не мешайся…
+Dialogue: 0,0:03:26.07,0:03:29.45,Main-Takagi,Такаги,0,0,0,,Обидно, слышь. Будто я тебе всегда плаки в колёса ставлю.
+Dialogue: 0,0:03:29.45,0:03:30.71,Main-Nishikata,Нисиката,0,0,0,,В-Ведь ставишь же!
 Dialogue: 0,0:03:31.53,0:03:32.39,Main-Takagi,Такаги,0,0,0,,Так ведь…
 Dialogue: 0,0:03:33.95,0:03:36.29,Main-Takagi,Такаги,0,0,0,,Так весело дразнить тебя, Нисиката.
 Dialogue: 0,0:03:37.36,0:03:38.91,Main-Nishikata,Нисиката,0,0,0,,{\i1}Может пойти куда-нибудь ещё?
@@ -111,7 +111,7 @@ Dialogue: 0,0:04:21.25,0:04:22.05,Main-Nishikata,Нисиката,0,0,0,,Э?
 Dialogue: 0,0:04:22.26,0:04:27.53,Main-Takagi,Такаги,0,0,0,,В 6-ой задаче, где сказано:\N«Найдите x, делённый на (-2 + 3y).»
 Dialogue: 0,0:04:27.53,0:04:29.67,Main-Nishikata,Нисиката,0,0,0,,Э? Не правильно решил?
 Dialogue: 0,0:04:29.99,0:04:30.79,Main-Takagi,Такаги,0,0,0,,Угу.
-Dialogue: 0,0:04:30.79,0:04:31.99,Main-Nishikata,Нисиката,0,0,0,,В чём же?
+Dialogue: 0,0:04:30.79,0:04:31.99,Main-Nishikata,Нисиката,0,0,0,,Почему?
 Dialogue: 0,0:04:34.71,0:04:38.96,Main-Nishikata,Нисиката,0,0,0,,Где? Может, эмм…
 Dialogue: 0,0:04:43.20,0:04:44.39,Main-Takagi,Такаги,0,0,0,,Вот так.
 Dialogue: 0,0:04:45.89,0:04:46.81,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан?

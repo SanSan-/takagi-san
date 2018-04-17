@@ -10,15 +10,17 @@ SanSan @Kaschenka
 
 ## Песни
 
-### OP [Iwanai Kedo ne.]
+### OP "Iwanai kedo ne. (言わないけどね.)" by Yuiko Oohara
 
 Перевод/Литературный текст/Оформление: SanSan
 
-### ED #1 [Kimagure Romantic]
-
-Перевод/Литературный текст/Оформление: SanSan
-
-### ED #2 [AM11:00]
+### ED #1: "Kimagure Romantic (気まぐれロマンティック)" by Takagi-san (Rie Takahashi) (eps 1-2)
+### ED #2: "AM11:00" by Takagi-san (Rie Takahashi) (eps 3-4)
+### ED #3: "Jitensha (自転車)" by Takagi-san (Rie Takahashi) (eps 5-6)
+### ED #4: "Kaze Fukeba Koi (風吹けば恋)" by Takagi-san (Rie Takahashi) (eps 7-8)
+### ED #5: "Chiisana Koi no Uta (小さな恋のうた)" by Takagi-san (Rie Takahashi) (eps 9-10)
+### ED #6: "Ai Uta (愛唄)" by Takagi-san (Rie Takahashi) (ep 11)
+### ED #7: "Deatta Koro no You ni (出逢った頃のように)" by Takagi-san (Rie Takahashi) (eps 12)
 
 Перевод/Литературный текст/Оформление: SanSan
 
