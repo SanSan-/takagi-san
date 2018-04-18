@@ -16,7 +16,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Active Line: 1
-Video Position: 32585
+Video Position: 32501
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,8 +27,8 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:39.26,0:00:39.26,Default,,0,0,0,,Ending (японский)
-Dialogue: 0,0:22:35.56,0:22:39.10,EDTop,,0,0,0,,{\k28}Pu{\k36}u{\k23}ru{\k11}sa{\k25}i{\k20}do {\k47}de {\k26}yu{\k34}me {\k25}wo {\k14}mi{\k21}te{\k12}i{\k12}ta {\k20}no
-Dialogue: 0,0:22:39.34,0:22:44.21,EDTop,,0,0,0,,Mabushii hodo ni anata no koe ga hibiiteru
+Dialogue: 0,0:22:35.56,0:22:39.10,EDTop,,0,0,0,,{\k28}Pu{\k36}u{\k23}ru{\k11}sa{\k25}i{\k20}do  {\k47}de  {\k26}yu{\k34}me  {\k25}wo  {\k14}mi{\k21}te{\k12}i{\k12}ta  {\k20}no
+Dialogue: 0,0:22:39.34,0:22:44.21,EDTop,,0,0,0,,{\k25}Ma{\k25}bu{\k25}shi{\k25}i  {\k25}ho{\k25}do  {\k25}ni  {\k25}a{\k25}na{\k25}ta  {\k25}no  {\k25}ko{\k25}e  {\k25}ga  {\k25}hi{\k25}bi{\k25}i{\k25}te{\k25}ru
 Dialogue: 0,0:22:45.81,0:22:49.16,EDTop,,0,0,0,,Hibiiteiru wa
 Dialogue: 0,0:22:50.54,0:22:54.12,EDTop,,0,0,0,,Kinou no atashi marude koneko na no
 Dialogue: 0,0:22:54.34,0:22:59.27,EDTop,,0,0,0,,Kasuka ni wakaru shiroi kenami ga furueteru
