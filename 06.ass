@@ -18,7 +18,9 @@ Video File: [Leopard-Raws] Karakai Jouzu no Takagi-san - 06 RAW (YTV 1280x720 x2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 107
+Scroll Position: 96
+Active Line: 105
+Video Position: 10566
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,112 +55,111 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.44,0:00:05.86,Black Signs,Book,0,0,0,,Посещаемость
-Dialogue: 0,0:00:05.27,0:00:09.57,Main-Tanabe,Танабэ,0,0,0,,Well, summer vacation starts tomorrow,\N but don't go too crazy. Got it?
-Dialogue: 0,0:00:17.30,0:00:18.10,Main,Takao,0,0,0,,Hey,
-Dialogue: 0,0:00:18.77,0:00:20.95,Main,Takao,0,0,0,,let's go to the beach tomorrow.
-Dialogue: 0,0:00:20.95,0:00:22.37,Main-Nishikata,Нисиката,0,0,0,,Good idea.
-Dialogue: 0,0:00:22.37,0:00:25.19,Main,Kimura,0,0,0,,I suddenly have a craving for watermelon!
-Dialogue: 0,0:00:25.19,0:00:26.46,Main-Nishikata,Нисиката,0,0,0,,What's up with that?
-Dialogue: 0,0:00:26.46,0:00:28.08,Main,Takao,0,0,0,,Let's spit the seeds.
-Dialogue: 0,0:00:28.08,0:00:28.92,Main-Nishikata,Нисиката,0,0,0,,Yeah!
-Dialogue: 0,0:02:08.95,0:02:12.91,Tandem Riding,Title1,0,0,0,,Tandem\N Riding
-Dialogue: 0,0:02:10.32,0:02:11.45,Main-Nishikata,Нисиката,0,0,0,,"Tandem riding."
-Dialogue: 0,0:02:18.98,0:02:21.08,Main-Takagi,Такаги,0,0,0,,Summer vacation starts tomorrow.\N{\alpha&HFFF&}`{\alpha}
-Dialogue: 0,0:02:21.55,0:02:24.75,Main-Nishikata,Нисиката,0,0,0,,Yeah, the long-awaited\N summer vacation is finally here!\N{\alpha&HFFF&}`{\alpha}
-Dialogue: 0,0:02:25.10,0:02:28.16,Main-Nishikata,Нисиката,0,0,0,,With no school, I can play as much as I want!
-Dialogue: 0,0:02:28.16,0:02:29.83,Main-Takagi,Такаги,0,0,0,,You better do your homework.
-Dialogue: 0,0:02:30.60,0:02:32.36,Main-Takagi,Такаги,0,0,0,,I bet you're planning\Nnot to do it tomorrow,
-Dialogue: 0,0:02:32.36,0:02:34.79,Main-Takagi,Такаги,0,0,0,,because it's only the\Nfirst day of vacation.
-Dialogue: 0,0:02:34.79,0:02:36.10,Main-Nishikata,Нисиката,0,0,0,,How did you know?!
-Dialogue: 0,0:02:36.57,0:02:37.88,Main-Takagi,Такаги,0,0,0,,So I'm right?
-Dialogue: 0,0:02:37.88,0:02:40.81,Main-Nishikata,Нисиката,0,0,0,,B-But we have to enjoy summer vacation.
-Dialogue: 0,0:02:41.18,0:02:45.85,Main-Nishikata,Нисиката,0,0,0,,I wanna go to the pool and\N the beach, and go camping and stuff.
-Dialogue: 0,0:02:45.85,0:02:47.90,Main-Nishikata,Нисиката,0,0,0,,Summer vacation is way too short!
-Dialogue: 0,0:02:48.91,0:02:51.86,Main-Nishikata,Нисиката,0,0,0,,I wish we could have summer vacation forever!
-Dialogue: 0,0:02:52.14,0:02:53.01,Main-Takagi,Такаги,0,0,0,,Really?
-Dialogue: 0,0:02:53.78,0:02:55.57,Main-Takagi,Такаги,0,0,0,,I like school, too.
-Dialogue: 0,0:02:56.38,0:02:57.33,Main-Takagi,Такаги,0,0,0,,Because…
-Dialogue: 0,0:03:01.08,0:03:02.10,Main-Takagi,Такаги,0,0,0,,it's fun.
-Dialogue: 0,0:03:04.89,0:03:06.53,Main-Takagi,Такаги,0,0,0,,Summer vacation, huh?
-Dialogue: 0,0:03:06.96,0:03:08.42,Main-Nakai,Накай,0,0,0,,So hot!
-Dialogue: 0,0:03:08.72,0:03:10.65,Main-Mano,Мано,0,0,0,,The breeze feels good.
-Dialogue: 0,0:03:10.65,0:03:12.38,Main-Mano,Мано,0,0,0,,We need more speed!
-Dialogue: 0,0:03:12.38,0:03:15.44,Main-Nakai,Накай,0,0,0,,No way, it's way too hot.
-Dialogue: 0,0:03:20.43,0:03:21.84,Main-Takagi,Такаги,0,0,0,,So hot…
-Dialogue: 0,0:03:28.48,0:03:29.86,Main-Takagi,Такаги,0,0,0,,Should we do what they were doing?
-Dialogue: 0,0:03:30.20,0:03:31.01,Main-Nishikata,Нисиката,0,0,0,,Huh?!
-Dialogue: 0,0:03:31.01,0:03:32.97,Main-Takagi,Такаги,0,0,0,,You go in the front, of course.
-Dialogue: 0,0:03:32.97,0:03:35.21,Main-Nishikata,Нисиката,0,0,0,,No, we shouldn't!
-Dialogue: 0,0:03:35.21,0:03:37.49,Main-Nishikata,Нисиката,0,0,0,,It's dangerous with the cars and stuff.
-Dialogue: 0,0:03:37.98,0:03:40.99,Main-Takagi,Такаги,0,0,0,,There are no cars here,\N and it's not a public road.
-Dialogue: 0,0:03:41.70,0:03:42.71,Main-Nishikata,Нисиката,0,0,0,,But…
-Dialogue: 0,0:03:43.10,0:03:45.50,Main-Takagi,Такаги,0,0,0,,Oh? Could it be that you're embarrassed?
-Dialogue: 0,0:03:45.50,0:03:47.17,Main-Nishikata,Нисиката,0,0,0,,N-No, that's not it!
-Dialogue: 0,0:03:47.51,0:03:49.38,Main-Takagi,Такаги,0,0,0,,Oh, so you can't do it, then.
-Dialogue: 0,0:03:49.77,0:03:53.01,Main-Nishikata,Нисиката,0,0,0,,What are you saying? Tandem riding is easy.
-Dialogue: 0,0:03:53.39,0:03:56.10,Main-Nishikata,Нисиката,0,0,0,,It's just that we shouldn't do it\N because it's dangerous.
-Dialogue: 0,0:03:58.38,0:03:59.96,Main-Takagi,Такаги,0,0,0,,Let's go to the vacant lot, then.
-Dialogue: 0,0:03:59.96,0:04:00.76,Main-Nishikata,Нисиката,0,0,0,,Huh?
-Dialogue: 0,0:04:06.89,0:04:09.10,Main-Takagi,Такаги,0,0,0,,If you can't do it, you owe me juice.
-Dialogue: 0,0:04:09.97,0:04:13.28,Main-Nishikata,Нисиката,0,0,0,,{\i1}Just you watch, Такаги-сан.\N Tandem riding is nothing!
-Dialogue: 0,0:04:17.39,0:04:19.12,Main-Nishikata,Нисиката,0,0,0,,That one doesn't count!
-Dialogue: 0,0:04:19.37,0:04:20.58,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can do this!
-Dialogue: 0,0:04:23.77,0:04:24.75,Main-Takagi,Такаги,0,0,0,,Juice it is, then.
-Dialogue: 0,0:04:24.75,0:04:25.96,Main-Nishikata,Нисиката,0,0,0,,Wait, wait!
-Dialogue: 0,0:04:26.30,0:04:29.92,Main-Nishikata,Нисиката,0,0,0,,{\i1}T-Tandem riding is this hard?!
-Dialogue: 0,0:04:30.25,0:04:33.78,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан, you're not throwing us\Noff balance on purpose, are you?
-Dialogue: 0,0:04:33.78,0:04:35.28,Main-Takagi,Такаги,0,0,0,,Nope.
-Dialogue: 0,0:04:35.28,0:04:36.44,Main-Nishikata,Нисиката,0,0,0,,Are you sure?
-Dialogue: 0,0:04:36.44,0:04:38.85,Main-Takagi,Такаги,0,0,0,,I'm just sitting how I usually sit.
-Dialogue: 0,0:04:38.85,0:04:41.60,Main-Takagi,Такаги,0,0,0,,If we can't do it, it's all\N because of you, Нисиката.
-Dialogue: 0,0:04:42.43,0:04:45.64,Main-Takagi,Такаги,0,0,0,,Because when I did this last time,
-Dialogue: 0,0:04:45.64,0:04:47.55,Main-Takagi,Такаги,0,0,0,,the person in front was able\N to peddle smoothly.
-Dialogue: 0,0:04:49.02,0:04:50.87,Main-Nishikata,Нисиката,0,0,0,,R-Really? That's great.
-Dialogue: 0,0:04:51.39,0:04:52.90,Main-Nishikata,Нисиката,0,0,0,,A girl… friend of yours?
-Dialogue: 0,0:04:53.28,0:04:55.61,Main-Takagi,Такаги,0,0,0,,Nope. Not a girl.
-Dialogue: 0,0:04:56.00,0:04:57.25,Main-Nishikata,Нисиката,0,0,0,,Oh…
-Dialogue: 0,0:05:03.54,0:05:05.96,Main-Nishikata,Нисиката,0,0,0,,One more time. I've almost got it.
-Dialogue: 0,0:05:06.71,0:05:07.51,Main-Nishikata,Нисиката,0,0,0,,Whoa!
-Dialogue: 0,0:05:07.83,0:05:08.96,Main-Nishikata,Нисиката,0,0,0,,I'll get it this time!
-Dialogue: 0,0:05:09.21,0:05:12.24,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn… I feel frustrated for some reason!
-Dialogue: 0,0:05:12.24,0:05:13.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}What is this?
-Dialogue: 0,0:05:14.91,0:05:16.80,Main-Takagi,Такаги,0,0,0,,Are you getting aggressive?
-Dialogue: 0,0:05:17.11,0:05:20.14,Main-Nishikata,Нисиката,0,0,0,,No, I'm not!\N I just don't want to buy you juice!
-Dialogue: 0,0:05:20.14,0:05:23.51,Main-Nishikata,Нисиката,0,0,0,,{\i1}Yeah, I just don't want to\N buy her a drink. That's all!
-Dialogue: 0,0:05:28.17,0:05:30.35,Main-Takagi,Такаги,0,0,0,,Oh, we're moving.
-Dialogue: 0,0:05:31.04,0:05:32.31,Main-Takagi,Такаги,0,0,0,,By the way, Нисиката,
-Dialogue: 0,0:05:33.02,0:05:35.03,Main-Takagi,Такаги,0,0,0,,the last time I went tandem riding,
-Dialogue: 0,0:05:35.03,0:05:36.36,Main-Takagi,Такаги,0,0,0,,It was with my dad.
-Dialogue: 0,0:05:36.61,0:05:37.53,Main-Nishikata,Нисиката,0,0,0,,Huh?
-Dialogue: 0,0:05:37.53,0:05:39.25,Main-Takagi,Такаги,0,0,0,,I think I was four years old at the time.
-Dialogue: 0,0:05:47.76,0:05:48.56,Main-Nishikata,Нисиката,0,0,0,,Here.
-Dialogue: 0,0:05:48.56,0:05:49.72,Main-Takagi,Такаги,0,0,0,,Thanks.
-Dialogue: 0,0:05:56.21,0:05:57.09,Main-Takagi,Такаги,0,0,0,,Tasty!
-Dialogue: 0,0:05:59.05,0:06:01.17,Main-Takagi,Такаги,0,0,0,,Нисиката, you're not getting a drink?
-Dialogue: 0,0:06:01.17,0:06:02.76,Main-Nishikata,Нисиката,0,0,0,,Uh, yeah…
-Dialogue: 0,0:06:02.76,0:06:05.47,Main-Nishikata,Нисиката,0,0,0,,I'll pass.
-Dialogue: 0,0:06:05.94,0:06:09.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can't tell her I have no money to buy my own.
-Dialogue: 0,0:06:10.94,0:06:12.40,Grape Cider,Can,0,0,0,,Grape Cider
-Dialogue: 0,0:06:11.50,0:06:12.40,Main-Takagi,Такаги,0,0,0,,You want some?
-Dialogue: 0,0:06:16.91,0:06:18.82,Main-Nishikata,Нисиката,0,0,0,,No… thanks.
-Dialogue: 0,0:06:19.20,0:06:22.83,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's gonna say it's an indirect kiss\N or whatever and make fun of me again!
-Dialogue: 0,0:06:23.61,0:06:25.87,Main-Takagi,Такаги,0,0,0,,Don't kid yourself. Have a sip.
-Dialogue: 0,0:06:25.87,0:06:27.50,Main-Nishikata,Нисиката,0,0,0,,I really don't want any.
-Dialogue: 0,0:06:30.35,0:06:31.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}Endure it.
-Dialogue: 0,0:06:33.38,0:06:35.44,Main-Nishikata,Нисиката,0,0,0,,{\i1}I need to endure it.
-Dialogue: 0,0:06:39.09,0:06:41.80,Main-Takagi,Такаги,0,0,0,,Here, you're going to get heatstroke.
-Dialogue: 0,0:06:41.80,0:06:44.39,Main-Nishikata,Нисиката,0,0,0,,Huh? I-I can have it?
-Dialogue: 0,0:06:44.39,0:06:45.19,Main-Takagi,Такаги,0,0,0,,Yeah,
-Dialogue: 0,0:06:47.05,0:06:47.92,Main-Takagi,Такаги,0,0,0,,because…
-Dialogue: 0,0:06:48.85,0:06:52.56,Main-Takagi,Такаги,0,0,0,,you get too embarrassed\Nabout an indirect kiss.
-Dialogue: 0,0:06:54.56,0:06:57.75,Main-Nishikata,Нисиката,0,0,0,,Th-That's not it!
-Dialogue: 0,0:06:59.14,0:07:00.78,Main-Takagi,Такаги,0,0,0,,Really?
-Dialogue: 0,0:07:00.78,0:07:02.78,Main-Nishikata,Нисиката,0,0,0,,R-Really!
-Dialogue: 0,0:07:02.78,0:07:04.63,Main-Nishikata,Нисиката,0,0,0,,I-It's so hot.
-Dialogue: 0,0:07:07.70,0:07:09.12,Main-Nishikata,Нисиката,0,0,0,,Thanks for the drink.
+Dialogue: 0,0:00:05.27,0:00:09.57,Main-Tanabe,Танабэ,0,0,0,,Так, завтра начинаются летние каникулы!\NНе беситесь сильно. Всем ясно?
+Dialogue: 0,0:00:17.30,0:00:18.10,Main-Takao,Такао,0,0,0,,Слышь,
+Dialogue: 0,0:00:18.77,0:00:20.95,Main-Takao,Такао,0,0,0,,погнали завтра на пляж.
+Dialogue: 0,0:00:20.95,0:00:22.37,Main-Nishikata,Нисиката,0,0,0,,А, давай.
+Dialogue: 0,0:00:22.37,0:00:25.19,Main-Kimura,Кимура,0,0,0,,Мне, внезапно, захотелось арбуза!
+Dialogue: 0,0:00:25.19,0:00:26.46,Main-Nishikata,Нисиката,0,0,0,,К чему бы это?
+Dialogue: 0,0:00:26.46,0:00:28.08,Main-Takao,Такао,0,0,0,,Давайте плеваться семечками.
+Dialogue: 0,0:00:28.08,0:00:28.92,Main-Nishikata,Нисиката,0,0,0,,Давай-давай!
+Dialogue: 0,0:02:08.95,0:02:12.91,Episode Title,Title1,0,0,0,,Велосипед\Nна Двоих
+Dialogue: 0,0:02:10.32,0:02:11.45,Main-Nishikata,Нисиката,0,0,0,,«Велосипед на двоих»
+Dialogue: 0,0:02:18.98,0:02:21.08,Main-Takagi,Такаги,0,0,0,,Уже завтра каникулы.\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:02:21.55,0:02:24.75,Main-Nishikata,Нисиката,0,0,0,,О, да, Вот они, долгожданные каникулы!\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:02:25.10,0:02:28.16,Main-Nishikata,Нисиката,0,0,0,,Никакой школы, можно играть сколько влезет!
+Dialogue: 0,0:02:28.16,0:02:29.83,Main-Takagi,Такаги,0,0,0,,Займись лучше домашкой.
+Dialogue: 0,0:02:30.60,0:02:34.80,Main-Takagi,Такаги,0,0,0,,«Завтра только первый день каникул,\Nтак что можно забить», — так думал?
+Dialogue: 0,0:02:34.79,0:02:36.10,Main-Nishikata,Нисиката,0,0,0,,Как догадалась?!
+Dialogue: 0,0:02:36.57,0:02:37.88,Main-Takagi,Такаги,0,0,0,,Значит, я права?
+Dialogue: 0,0:02:37.88,0:02:40.81,Main-Nishikata,Нисиката,0,0,0,,Н-Но ведь каникулы созданы для веселья.
+Dialogue: 0,0:02:41.18,0:02:45.85,Main-Nishikata,Нисиката,0,0,0,,Бассейн или, там, пляж. А ещё походы и всё такое.
+Dialogue: 0,0:02:45.85,0:02:47.90,Main-Nishikata,Нисиката,0,0,0,,Времени совсем в обрез!
+Dialogue: 0,0:02:48.91,0:02:51.86,Main-Nishikata,Нисиката,0,0,0,,Вот бы летние каникулы никогда не кончались!
+Dialogue: 0,0:02:52.14,0:02:53.01,Main-Takagi,Такаги,0,0,0,,Даже так?
+Dialogue: 0,0:02:53.78,0:02:55.57,Main-Takagi,Такаги,0,0,0,,А мне нравится школа.
+Dialogue: 0,0:02:56.38,0:02:57.33,Main-Takagi,Такаги,0,0,0,,Ведь…
+Dialogue: 0,0:03:01.08,0:03:02.10,Main-Takagi,Такаги,0,0,0,,там весело.
+Dialogue: 0,0:03:04.89,0:03:06.53,Main-Takagi,Такаги,0,0,0,,Летние каникулы, да?
+Dialogue: 0,0:03:06.96,0:03:08.42,Main-Nakai,Накай,0,0,0,,Жарень!
+Dialogue: 0,0:03:08.72,0:03:10.65,Main-Mano,Мано,0,0,0,,Такой приятный ветерок.
+Dialogue: 0,0:03:10.65,0:03:12.38,Main-Mano,Мано,0,0,0,,{«Подбавь газку, браток!»… нет, не так. «Накатика скорости, а» и так тоже плохо}Прибавь ещё скорости!
+Dialogue: 0,0:03:12.38,0:03:15.44,Main-Nakai,Накай,0,0,0,,Не проси невозможного, я и так спёкся.
+Dialogue: 0,0:03:20.43,0:03:21.84,Main-Takagi,Такаги,0,0,0,,Жара…
+Dialogue: 0,0:03:28.48,0:03:29.86,Main-Takagi,Такаги,0,0,0,,Может и нам попробовать?
+Dialogue: 0,0:03:30.20,0:03:31.01,Main-Nishikata,Нисиката,0,0,0,,Э?!
+Dialogue: 0,0:03:31.01,0:03:32.97,Main-Takagi,Такаги,0,0,0,,Естественно, ты за рулём.
+Dialogue: 0,0:03:32.97,0:03:35.21,Main-Nishikata,Нисиката,0,0,0,,Нет, ни за что!
+Dialogue: 0,0:03:35.21,0:03:37.49,Main-Nishikata,Нисиката,0,0,0,,Так ведь, машина может сбить. Опасно!
+Dialogue: 0,0:03:37.98,0:03:40.99,Main-Takagi,Такаги,0,0,0,,Здесь нет машин и это не общественная дорога.
+Dialogue: 0,0:03:41.70,0:03:42.71,Main-Nishikata,Нисиката,0,0,0,,Но ведь…
+Dialogue: 0,0:03:43.10,0:03:45.50,Main-Takagi,Такаги,0,0,0,,Что такое? Неужели застеснялся?
+Dialogue: 0,0:03:45.50,0:03:47.17,Main-Nishikata,Нисиката,0,0,0,,К-Конечно же нет!
+Dialogue: 0,0:03:47.51,0:03:49.38,Main-Takagi,Такаги,0,0,0,,А, значит просто не умеешь.
+Dialogue: 0,0:03:49.77,0:03:53.01,Main-Nishikata,Нисиката,0,0,0,,О чём это ты? Вдвоём на велике проще простого же.
+Dialogue: 0,0:03:53.39,0:03:56.10,Main-Nishikata,Нисиката,0,0,0,,Но, всё таки, это опасно. Лучше не стоит.
+Dialogue: 0,0:03:58.38,0:03:59.96,Main-Takagi,Такаги,0,0,0,,Тогда пошли на пустырь.
+Dialogue: 0,0:03:59.96,0:04:00.76,Main-Nishikata,Нисиката,0,0,0,,Э?
+Dialogue: 0,0:04:06.89,0:04:09.10,Main-Takagi,Такаги,0,0,0,,Если не сможешь, с тебя сок.
+Dialogue: 0,0:04:09.97,0:04:13.28,Main-Nishikata,Нисиката,0,0,0,,{\i1}Смотри же, Такаги-сан.\N Совместная езда - легкотня!
+Dialogue: 0,0:04:17.39,0:04:19.12,Main-Nishikata,Нисиката,0,0,0,,Стой, это не считается!
+Dialogue: 0,0:04:19.37,0:04:20.58,Main-Nishikata,Нисиката,0,0,0,,{\i1}Я смогу!
+Dialogue: 0,0:04:23.77,0:04:24.75,Main-Takagi,Такаги,0,0,0,,С тебя сок.
+Dialogue: 0,0:04:24.75,0:04:25.96,Main-Nishikata,Нисиката,0,0,0,,Погодь! Погодь!
+Dialogue: 0,0:04:26.30,0:04:29.92,Main-Nishikata,Нисиката,0,0,0,,{\i1}Н-Неужели совместная езда такая трудная?!
+Dialogue: 0,0:04:30.25,0:04:33.78,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан, ты ведь держишь равновесие?
+Dialogue: 0,0:04:33.78,0:04:35.28,Main-Takagi,Такаги,0,0,0,,Держу, конечно.
+Dialogue: 0,0:04:35.28,0:04:36.44,Main-Nishikata,Нисиката,0,0,0,,Уверена?
+Dialogue: 0,0:04:36.44,0:04:38.85,Main-Takagi,Такаги,0,0,0,,Сижу как обычно.
+Dialogue: 0,0:04:38.85,0:04:41.60,Main-Takagi,Такаги,0,0,0,,Не едем мы только из-за тебя, Нисиката.
+Dialogue: 0,0:04:42.43,0:04:45.64,Main-Takagi,Такаги,0,0,0,,Ведь, последний раз, когда меня так катали,
+Dialogue: 0,0:04:45.64,0:04:47.55,Main-Takagi,Такаги,0,0,0,,мой партнёр плавно крутил педали.
+Dialogue: 0,0:04:49.02,0:04:50.87,Main-Nishikata,Нисиката,0,0,0,,Э-Э? Вот это да.
+Dialogue: 0,0:04:51.39,0:04:52.90,Main-Nishikata,Нисиката,0,0,0,,Подруга?
+Dialogue: 0,0:04:53.28,0:04:55.61,Main-Takagi,Такаги,0,0,0,,Не-а. Это была не девочка.
+Dialogue: 0,0:04:56.00,0:04:57.25,Main-Nishikata,Нисиката,0,0,0,,А…
+Dialogue: 0,0:05:03.54,0:05:05.96,Main-Nishikata,Нисиката,0,0,0,,Ещё раз. У меня почти получилось.
+Dialogue: 0,0:05:06.71,0:05:07.51,Main-Nishikata,Нисиката,0,0,0,,Ах ты!
+Dialogue: 0,0:05:07.83,0:05:08.96,Main-Nishikata,Нисиката,0,0,0,,Сейчас-то получится!
+Dialogue: 0,0:05:09.21,0:05:12.24,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чёрт… И почему я так расстроился!
+Dialogue: 0,0:05:12.24,0:05:13.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}Да что это такое?
+Dialogue: 0,0:05:14.91,0:05:16.80,Main-Takagi,Такаги,0,0,0,,Ты как-то стал агрессивнее?
+Dialogue: 0,0:05:17.11,0:05:20.14,Main-Nishikata,Нисиката,0,0,0,,Нифига не агрессинее!\NЯ просто не хочу покупать тебе сок!
+Dialogue: 0,0:05:20.14,0:05:23.51,Main-Nishikata,Нисиката,0,0,0,,{\i1}Именно, я просто не хочу покупать ей сок.\NТолько и всего!
+Dialogue: 0,0:05:28.17,0:05:30.35,Main-Takagi,Такаги,0,0,0,,Ого, поехали.
+Dialogue: 0,0:05:31.04,0:05:32.31,Main-Takagi,Такаги,0,0,0,,Знаешь, Нисиката,
+Dialogue: 0,0:05:33.02,0:05:35.03,Main-Takagi,Такаги,0,0,0,,последний раз вот так меня катал
+Dialogue: 0,0:05:35.03,0:05:36.36,Main-Takagi,Такаги,0,0,0,,мой папа.
+Dialogue: 0,0:05:36.61,0:05:37.53,Main-Nishikata,Нисиката,0,0,0,,Э?
+Dialogue: 0,0:05:37.53,0:05:39.25,Main-Takagi,Такаги,0,0,0,,Мне, вроде как, было 4 годика.
+Dialogue: 0,0:05:47.76,0:05:48.56,Main-Nishikata,Нисиката,0,0,0,,Держи.
+Dialogue: 0,0:05:48.56,0:05:49.72,Main-Takagi,Такаги,0,0,0,,Спасибо.
+Dialogue: 0,0:05:56.21,0:05:57.09,Main-Takagi,Такаги,0,0,0,,Вкуснятина!
+Dialogue: 0,0:05:59.05,0:06:01.17,Main-Takagi,Такаги,0,0,0,,Нисиката, а ты не будешь?
+Dialogue: 0,0:06:01.17,0:06:02.76,Main-Nishikata,Нисиката,0,0,0,,А, ну…
+Dialogue: 0,0:06:02.76,0:06:05.47,Main-Nishikata,Нисиката,0,0,0,,Да, я… это… обойдусь.
+Dialogue: 0,0:06:05.94,0:06:09.38,Main-Nishikata,Нисиката,0,0,0,,{\i1}Нельзя говорить, что денег не хватает.
+Dialogue: 0,0:06:10.94,0:06:12.40,Black Signs,Can,0,0,0,,Виноградный {День}Сидр {Ну, почти}
+Dialogue: 0,0:06:11.50,0:06:12.40,Main-Takagi,Такаги,0,0,0,,Будешь?
+Dialogue: 0,0:06:16.91,0:06:18.82,Main-Nishikata,Нисиката,0,0,0,,Нет… всё в порядке.
+Dialogue: 0,0:06:19.20,0:06:22.83,Main-Nishikata,Нисиката,0,0,0,,{\i1}Опять начнёт затирать про непрямой поцелуй,\N чтоб поиздеваться!
+Dialogue: 0,0:06:23.61,0:06:25.87,Main-Takagi,Такаги,0,0,0,,Не обманывай себя. Попробуй.
+Dialogue: 0,0:06:25.87,0:06:27.50,Main-Nishikata,Нисиката,0,0,0,,Я, правда, не хочу.
+Dialogue: 0,0:06:30.35,0:06:31.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}Терпение.
+Dialogue: 0,0:06:33.38,0:06:35.44,Main-Nishikata,Нисиката,0,0,0,,{\i1}Нужно выстоять.
+Dialogue: 0,0:06:39.09,0:06:41.80,Main-Takagi,Такаги,0,0,0,,Держи, иначе схватишь тепловой удар.
+Dialogue: 0,0:06:41.80,0:06:44.39,Main-Nishikata,Нисиката,0,0,0,,Э? М-Можно?
+Dialogue: 0,0:06:44.39,0:06:45.19,Main-Takagi,Такаги,0,0,0,,Угу,
+Dialogue: 0,0:06:47.05,0:06:47.92,Main-Takagi,Такаги,0,0,0,,так ведь…
+Dialogue: 0,0:06:48.85,0:06:52.56,Main-Takagi,Такаги,0,0,0,,Нисиката, ты так стесняешься непрямого поцелуя.
+Dialogue: 0,0:06:54.56,0:06:57.75,Main-Nishikata,Нисиката,0,0,0,,Д-Да не в этом дело!
+Dialogue: 0,0:06:59.14,0:07:00.78,Main-Takagi,Такаги,0,0,0,,Правда чтоли?
+Dialogue: 0,0:07:00.78,0:07:02.78,Main-Nishikata,Нисиката,0,0,0,,Я-Я тебе говорю!
+Dialogue: 0,0:07:02.78,0:07:04.63,Main-Nishikata,Нисиката,0,0,0,,Ж-Жарко-то как.
+Dialogue: 0,0:07:07.70,0:07:09.12,Main-Nishikata,Нисиката,0,0,0,,Спасибо за напиток.
 Dialogue: 0,0:07:12.52,0:07:14.79,Main-Takagi,Такаги,0,0,0,,We won't be walking home\N from school for a while.
 Dialogue: 0,0:07:15.66,0:07:18.14,Main-Nishikata,Нисиката,0,0,0,,Well, yeah. It's summer vacation.
-Dialogue: 0,0:07:20.10,0:07:20.92,Main-Takagi,Такаги,0,0,0,,I know.
+Dialogue: 0,0:07:20.10,0:07:20.92,Main-Takagi,Такаги,0,0,0,,Придумала.
 Dialogue: 0,0:07:21.99,0:07:25.64,Main-Takagi,Такаги,0,0,0,,Starting from tomorrow, let's practice\N tandem riding here until noon.
 Dialogue: 0,0:07:25.85,0:07:26.67,Main-Nishikata,Нисиката,0,0,0,,Huh?
 Dialogue: 0,0:07:26.67,0:07:29.33,Main-Nishikata,Нисиката,0,0,0,,I guess it's okay. But not on the road.
@@ -171,13 +172,13 @@ Dialogue: 0,0:07:47.55,0:07:50.65,Main-Takagi,Такаги,0,0,0,,Well, then! Le
 Dialogue: 0,0:07:54.06,0:07:55.54,Main-Takagi,Такаги,0,0,0,,Summer vacation, huh?
 Dialogue: 0,0:07:56.71,0:07:58.95,Main-Takagi,Такаги,0,0,0,,I can't wait for summer vacation.
 Dialogue: 0,0:08:00.43,0:08:01.88,Main-Nishikata,Нисиката,0,0,0,,You're saying that now?
-Dialogue: 0,0:08:01.88,0:08:05.58,First day,Title2,0,0,0,,First\N Day of\N Summer\N Vacation
-Dialogue: 0,0:08:02.81,0:08:04.74,Main-Mina,Мина,0,0,0,,"First Day of Summer Vacation."
-Dialogue: 0,0:08:07.16,0:08:09.44,Main-Sanae,Санаэ,0,0,0,,To think it would rain on the first\N day of summer vacation…
+Dialogue: 0,0:08:01.88,0:08:05.58,Episode Title,Title2,0,0,0,,Первый\NДень\NЛетних\NКаникул
+Dialogue: 0,0:08:02.81,0:08:04.74,Main-Mina,Мина,0,0,0,,«Первый день летних каникул»
+Dialogue: 0,0:08:07.16,0:08:09.44,Main-Sanae,Санаэ,0,0,0,,To think it would rain on the first\N day of summer vacation…\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:08:10.48,0:08:13.88,Main-Mina,Мина,0,0,0,,My summer vacation plans are ruined!
-Dialogue: 0,0:08:13.88,0:08:15.92,Main-Yukari,Юкари,0,0,0,,It's just for a day. Who cares?
-Dialogue: 0,0:08:15.92,0:08:18.08,Main-Mina,Мина,0,0,0,,I was supposed to go to the pool today.
-Dialogue: 0,0:08:18.08,0:08:20.48,Main-Mina,Мина,0,0,0,,I'm never getting the time back!
+Dialogue: 0,0:08:13.88,0:08:15.92,Main-Yukari,Юкари,0,0,0,,It's just for a day. Who cares?\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:08:15.92,0:08:18.08,Main-Mina,Мина,0,0,0,,I was supposed to go to the pool today.\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:08:18.08,0:08:20.48,Main-Mina,Мина,0,0,0,,I'm never getting the time back!\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:08:20.76,0:08:21.96,Main-Yukari,Юкари,0,0,0,,Stop crying.
 Dialogue: 0,0:08:23.72,0:08:26.09,Main-Yukari,Юкари,0,0,0,,There's nothing we can do about the rain.
 Dialogue: 0,0:08:26.09,0:08:27.82,Main-Yukari,Юкари,0,0,0,,Let's start our homework.
