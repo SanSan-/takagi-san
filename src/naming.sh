@@ -11,6 +11,8 @@ sed -i -e 's/Mano/Мано/g' $1.ass
 sed -i -e 's/Takao/Такао/g' $1.ass
 sed -i -e 's/Kimura/Кимура/g' $1.ass
 sed -i -e 's/Sakurai/Сакурай/g' $1.ass
+sed -i -e 's/Kyunko/Кюнко/g' $1.ass
+sed -i -e 's/Ikeo/Икео/g' $1.ass
 sed -i -e 's/-san/-сан/g' $1.ass
 sed -i -e 's/-chan/-тян/g' $1.ass
 sed -i -e 's/-kun/-кун/g' $1.ass
