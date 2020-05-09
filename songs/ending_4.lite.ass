@@ -15,9 +15,8 @@ Video File: ../[Ohys-Raws] Karakai Jouzu no Takagi-san - 07 (MX 1280x720 x264 AA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 32
-Active Line: 37
-Video Position: 33646
+Active Line: 3
+Video Position: 32459
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +28,7 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:39.26,0:00:39.26,Default,,0,0,0,,Ending (японский)
 Dialogue: 0,0:22:22.66,0:22:26.09,EDTop,,0,0,0,,{\k46}Hak{\k26}ki{\k18}ri  {\k32}it{\k28}te  {\k20}do{\k18}ryo{\k22}ku  {\k20}wa   {\k24}ki{\k24}ra{\k15}i  {\k50}sa
-Dialogue: 0,0:22:29.08,0:22:32.51,EDTop,,0,0,0,,{\k46}Hak{\k26}ki{\k18}ri  {\k30}it{\k13}te  {\k20}hi{\k21}to  {\k33}wa  {\k26}hi{\k18}to  {\k22}da  {\k43}ne
+Dialogue: 0,0:22:29.08,0:22:32.24,EDTop,,0,0,0,,{\k46}Hak{\k26}ki{\k18}ri  {\k30}it{\k13}te  {\k20}hi{\k21}to  {\k33}wa  {\k26}hi{\k18}to  {\k22}da  {\k43}ne
 Dialogue: 0,0:22:33.80,0:22:36.10,EDTop,,0,0,0,,{\k23}Da{\k21}ke{\k18}do  {\k23}na{\k20}ze  {\k19}ma{\k19}do  {\k21}ga{\k22}ra{\k18}su  {\k26}ni
 Dialogue: 0,0:22:36.24,0:22:38.96,EDTop,,0,0,0,,{\k20}u{\k23}tsu{\k18}ru  {\k19}su{\k20}ga{\k20}ta  {\k18}ki  {\k19}ni  {\k22}shi{\k24}  te{\k37}ru  {\k32}nda?
 Dialogue: 0,0:22:40.23,0:22:42.54,EDTop,,0,0,0,,{\k22}Da{\k22}ke{\k20}do  {\k21}na{\k20}ze  {\k21}i{\k19}ji  {\k21}ni  {\k39}nat{\k26}te
@@ -49,23 +48,23 @@ Dialogue: 0,0:23:29.20,0:23:33.17,EDTop,,0,0,0,,{\k25}I{\k63}ke!  {\k21}I{\k60}k
 Dialogue: 0,0:23:33.40,0:23:36.10,EDTop,,0,0,0,,{\k20}Da{\k22}re{\k20}ni{\k22}mo  {\k17}ma{\k22}ke{\k21}ta{\k23}ku{\k34}na{\k45}i  {\k25}nda
 Dialogue: 0,0:23:36.19,0:23:39.65,EDTop,,0,0,0,,{\k24}Ka{\k37}ze!  {\k25}Ka{\k34}ze!  {\k23}Se{\k38}na{\k27}ka  {\k17}wo  {\k14}o{\k24}shi{\k39}te  {\k44}yo
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending (русский)
-Dialogue: 0,0:22:22.66,0:22:26.09,EDBottom,,0,0,0,,{\k47}Hak{\k25}ki{\k18}ri  {\k32}it{\k28}te  {\k20}do{\k18}ryo{\k22}ku  {\k20}wa   {\k24}ki{\k24}ra{\k15}i  {\k50}sa
-Dialogue: 0,0:22:29.08,0:22:32.51,EDBottom,,0,0,0,,{\k46}Hak{\k26}ki{\k18}ri  {\k30}it{\k13}te  {\k20}hi{\k21}to  {\k33}wa  {\k26}hi{\k18}to  {\k22}da  {\k43}ne
-Dialogue: 0,0:22:33.80,0:22:36.10,EDBottom,,0,0,0,,{\k23}Da{\k21}ke{\k18}do  {\k23}na{\k20}ze  {\k19}ma{\k19}do  {\k21}ga{\k22}ra{\k18}su  {\k26}ni
-Dialogue: 0,0:22:36.24,0:22:38.96,EDBottom,,0,0,0,,{\k20}u{\k23}tsu{\k18}ru  {\k19}su{\k20}ga{\k20}ta  {\k18}ki  {\k19}ni  {\k22}shi{\k24}  te{\k37}ru  {\k32}nda?
-Dialogue: 0,0:22:40.23,0:22:42.54,EDBottom,,0,0,0,,{\k22}Da{\k22}ke{\k20}do  {\k21}na{\k20}ze  {\k21}i{\k19}ji  {\k21}ni  {\k39}nat{\k26}te
-Dialogue: 0,0:22:42.70,0:22:45.41,EDBottom,,0,0,0,,{\k35}u{\k21}tsu{\k18}ru  {\k23}ha{\k20}ya{\k22}ri  {\k20}ki  {\k21}ni  {\k18}shi  {\k20}te{\k34}ru  {\k35}nda?
-Dialogue: 0,0:22:48.44,0:22:51.89,EDBottom,,0,0,0,,{\k46}Hak{\k24}ki{\k19}ri  {\k34}it{\k25}te  {\k17}o{\k23}to{\k22}gi{\k19}ba{\k10}na{\k31}shi  {\k21}wa  {\k22}wa{\k32}na
-Dialogue: 0,0:22:54.72,0:22:57.95,EDBottom,,0,0,0,,{\k17}Ki{\k28}ta{\k14}i{\k27}  shi{\k40}tat{\k39}te  {\k20}ka{\k19}bo{\k24}cha  {\k18}wa  {\k20}ka{\k20}bo{\k37}cha
-Dialogue: 0,0:22:59.52,0:23:01.88,EDBottom,,0,0,0,,{\k20}Da{\k28}ke{\k19}do  {\k23}mo{\k19}u  {\k19}da{\k20}me  {\k21}mi{\k20}ta{\k21}i  {\k26}da
-Dialogue: 0,0:23:01.99,0:23:04.76,EDBottom,,0,0,0,,{\k42}nan{\k20}da{\k23}  ka{\k19}  chi{\k20}ka{\k21}go{\k19}ro  {\k19}o{\k24}ka{\k14}shi{\k24}in  {\k32}da
-Dialogue: 0,0:23:05.96,0:23:08.32,EDBottom,,0,0,0,,{\k20}Da{\k28}ke{\k19}do  {\k23}mo{\k19}u  {\k19}da{\k20}me  {\k21}mi{\k20}ta{\k21}i  {\k26}da
-Dialogue: 0,0:23:08.44,0:23:12.28,EDBottom,,0,0,0,,{\k42}nan{\k20}da{\k23}  ka{\k19}  chi{\k20}ka{\k21}go{\k19}ro  {\k19}o{\k24}ka{\k14}shi{\k24}in  {\k144}da~
-Dialogue: 0,0:23:12.45,0:23:16.16,EDBottom,,0,0,0,,{\k18}Ha{\k25}shi{\k20}ri{\k14}da{\k28}shi{\k38}ta  {\k10}a{\k32}shi  {\k40}ga  {\k21}to{\k20}ma{\k37}ra{\k24}na{\k44}i
-Dialogue: 0,0:23:16.23,0:23:20.30,EDBottom,,0,0,0,,{\k25}I{\k63}ke!  {\k21}I{\k60}ke!  {\k22}A{\k38}no  {\k22}hi{\k20}to  {\k16}to{\k21}ko{\k20}ro  {\k27}no  {\k18}ma{\k34}de
-Dialogue: 0,0:23:20.52,0:23:23.25,EDBottom,,0,0,0,,{\k20}Da{\k22}re{\k20}ni{\k22}mo  {\k18}nu{\k22}ka  {\k18}re{\k22}ta{\k19}ku{\k25}na{\k16}i  {\k49}nda
-Dialogue: 0,0:23:23.31,0:23:26.66,EDBottom,,0,0,0,,{\k24}Ka{\k37}ze!  {\k25}Ka{\k34}ze!  {\k23}Se{\k38}na{\k27}ka  {\k17}wo  {\k14}o{\k24}shi{\k39}te  {\k34}yo
-Dialogue: 0,0:23:26.73,0:23:29.03,EDBottom,,0,0,0,,{\k10}A{\k32}shi  {\k40}ga  {\k21}to{\k20}ma{\k38}ra{\k24}na{\k44}i
-Dialogue: 0,0:23:29.20,0:23:33.17,EDBottom,,0,0,0,,{\k25}I{\k63}ke!  {\k21}I{\k60}ke!  {\k22}A{\k38}no  {\k22}hi{\k20}to  {\k16}to{\k21}ko{\k20}ro  {\k27}no  {\k18}ma{\k34}de
-Dialogue: 0,0:23:33.40,0:23:36.10,EDBottom,,0,0,0,,{\k20}Da{\k22}re{\k20}ni{\k22}mo  {\k17}ma{\k22}ke{\k21}ta{\k23}ku{\k34}na{\k45}i  {\k25}nda
-Dialogue: 0,0:23:36.19,0:23:39.65,EDBottom,,0,0,0,,{\k24}Ka{\k37}ze!  {\k25}Ka{\k34}ze!  {\k23}Se{\k38}na{\k27}ka  {\k17}wo  {\k14}o{\k24}shi{\k39}te  {\k44}yo
+Dialogue: 0,0:22:22.66,0:22:26.09,EDBottom,,0,0,0,,{\k47}Не  {\k25}лю{\k18}блю  {\k32}я  {\k28}нап{\k20}ря{\k18}га{\k22}ться,  {\k20}ес{\k24}ли  {\k24}не  {\k15}яс{\k50}но
+Dialogue: 0,0:22:29.08,0:22:32.25,EDBottom,,0,0,0,,{\k46}Лю{\k26}ди  {\k18}ос{\k30}та{\k13}ю{\k20}ться  {\k21}людь{\k33}ми,  {\k26}вдруг  {\k18}не  {\k22}яс{\k43}но
+Dialogue: 0,0:22:33.80,0:22:36.10,EDBottom,,0,0,0,,{\k23}Но,  {\k21}по{\k18}че{\k23}му,  {\k20}вдруг,  {\k19}на  {\k19}о{\k21}кон{\k22}ном  {\k18}сте{\k26}кле
+Dialogue: 0,0:22:36.24,0:22:38.96,EDBottom,,0,0,0,,{\k20}Те{\k23}бя  {\k18}оч{\k19}ень  {\k20}вол{\k20}ну{\k18}ет,  {\k19}что  {\k22}ты  {\k24}ви{\k37}дишь  {\k32}там?
+Dialogue: 0,0:22:40.23,0:22:42.54,EDBottom,,0,0,0,,{\k22}За{\k22}чем,  {\k20}не{\k21}ве{\k20}ро{\k21}ят{\k19}но  {\k21}уп{\k39}ря{\k26}мо
+Dialogue: 0,0:22:42.70,0:22:45.41,EDBottom,,0,0,0,,{\k35}Ты  {\k21}так  {\k18}за{\k23}ча{\k20}ро{\k20}ван  {\k21}тем,  {\k22}что  {\k18}ты  {\k20}ви{\k34}дишь  {\k35}там?
+Dialogue: 0,0:22:48.44,0:22:51.89,EDBottom,,0,0,0,,{\k46}Сказ{\k24}ки  —  {\k19}ложь  {\k34}и  {\k25}об{\k17}ман,  {\k23}от{\k22}крой  {\k19}гла{\k10}за,  {\k31}вдруг  {\k21}не  {\k22}яс{\k32}но
+Dialogue: 0,0:22:54.72,0:22:57.95,EDBottom,,0,0,0,,{\k17}Тык{\k28}ва  {\k14}ос{\k27}та{\k40}лась  {\k39}тык{\k20}вой,  {\k19}всё  {\k24}бы{\k18}ло  {\k20}нап{\k20}рас{\k37}но
+Dialogue: 0,0:22:59.52,0:23:01.88,EDBottom,,0,0,0,,{\k20}Ви{\k28}дать,  {\k19}э{\k23}то  {\k19}у{\k19}же  {\k20}всё  {\k21}бес{\k20}по{\k21}лез{\k26}но
+Dialogue: 0,0:23:01.99,0:23:04.76,EDBottom,,0,0,0,,{\k42}И  {\k20}я,  {\k23}толь{\k19}ко,  {\k20}ча{\k21}ще  {\k19}сме{\k19}юсь  {\k24}судь{\k14}бе  {\k24}в  ли{\k32}цо
+Dialogue: 0,0:23:05.96,0:23:08.32,EDBottom,,0,0,0,,{\k20}Ви{\k28}дать,  {\k19}э{\k23}то  {\k19}у{\k19}же  {\k20}всё  {\k21}бес{\k20}по{\k21}лез{\k26}но
+Dialogue: 0,0:23:08.44,0:23:12.28,EDBottom,,0,0,0,,{\k35}И  {\k21}я,  {\k18}толь{\k23}ко,  {\k20}ча{\k20}ще  {\k21}сме{\k22}юсь  {\k18}судь{\k20}бе  {\k24}в  ли{\k144}цо~
+Dialogue: 0,0:23:12.45,0:23:16.16,EDBottom,,0,0,0,,{\k18}На{\k25}чав  {\k20}бе{\k14}жать,  {\k28}но{\k38}ги  {\k10}са{\k32}ми  {\k40}не{\k21}сут  {\k20}ме{\k37}ня  {\k24}к  не{\k44}му
+Dialogue: 0,0:23:16.23,0:23:20.30,EDBottom,,0,0,0,,{\k25}Впе{\k63}рёд!  {\k21}Впе{\k60}рёд!  {\k22}Ту{\k38}да,  {\k22}на  {\k20}встре{\k16}чу  {\k21}к  не{\k20}му  {\k27}од{\k18}но{\k34}му
+Dialogue: 0,0:23:20.52,0:23:23.25,EDBottom,,0,0,0,,{\k20}Я  {\k22}по{\k20}ка  {\k22}об{\k18}го{\k22}нять  {\k18}ни{\k22}ко{\k19}го  {\k25}не  {\k16}хо{\k49}чу
+Dialogue: 0,0:23:23.31,0:23:26.66,EDBottom,,0,0,0,,{\k24}Ве{\k37}тер!  {\k25}Ве{\k34}тер!  {\k23}При{\k38}дай  {\k27}мне  {\k17}сил,  {\k14}толь{\k24}ко  {\k39}про{\k34}шу
+Dialogue: 0,0:23:26.73,0:23:29.03,EDBottom,,0,0,0,,{\k10}Но{\k32}ги  {\k40}не{\k21}сут  {\k20}ме{\k37}ня  {\k24}к  не{\k44}му
+Dialogue: 0,0:23:29.20,0:23:33.17,EDBottom,,0,0,0,,{\k25}Впе{\k63}рёд!  {\k21}Впе{\k60}рёд!  {\k22}Ту{\k38}да,  {\k22}на  {\k20}встре{\k16}чу  {\k21}к  не{\k20}му  {\k27}од{\k18}но{\k34}му
+Dialogue: 0,0:23:33.40,0:23:36.10,EDBottom,,0,0,0,,{\k20}Про{\k25}иг{\k17}ры{\k21}вать  {\k17}я  {\k22}не  {\k21}хо{\k23}чу  {\k34}ни{\k45}ко{\k25}му
+Dialogue: 0,0:23:36.19,0:23:39.65,EDBottom,,0,0,0,,{\k24}Ве{\k37}тер!  {\k25}Ве{\k34}тер!  {\k23}При{\k38}дай  {\k27}мне  {\k17}сил,  {\k14}толь{\k24}ко  {\k39}про{\k34}шу
