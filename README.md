@@ -11,6 +11,7 @@ SanSan @Kaschenka
 ## Песни
 
 ### OP "Iwanai kedo ne. (言わないけどね.)" by Yuiko Oohara
+### OP "100% Unrequited love (100%片想い)" by Osaki Keiko & Tsutsumi Hiroaki
 
 Перевод/Литературный текст/Оформление: SanSan
 
