@@ -17,9 +17,9 @@ Video File: [Ohys-Raws] Karakai Jouzu no Takagi-san - 08 (MX 1280x720 x264 AAC).
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 43
-Active Line: 50
-Video Position: 6972
+Scroll Position: 76
+Active Line: 79
+Video Position: 9650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,90 +54,90 @@ Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Диалоги
-Dialogue: 0,0:00:07.57,0:00:09.23,Main-Nishikata,Нисиката,0,0,0,,Hold on tight.
-Dialogue: 0,0:00:09.23,0:00:10.03,Main-Takagi,Такаги,0,0,0,,Okay.
-Dialogue: 0,0:00:13.77,0:00:16.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}When we started practicing tandem riding,
-Dialogue: 0,0:00:16.47,0:00:19.26,Main-Nishikata,Нисиката,0,0,0,,{\i1}it was this «hold on tight»\Npart that was hard.
-Dialogue: 0,0:00:30.09,0:00:32.74,Main-Nishikata,Нисиката,0,0,0,,That's dangerous! Don't tickle me!
-Dialogue: 0,0:00:32.74,0:00:36.04,Main-Takagi,Такаги,0,0,0,,I'm not tickling you. I just held on a little.
-Dialogue: 0,0:00:38.76,0:00:41.19,Main-Takagi,Такаги,0,0,0,,Нисиката, you have ticklish ribs.
-Dialogue: 0,0:00:41.53,0:00:44.17,Main-Nishikata,Нисиката,0,0,0,,Your hands are tickling them.
-Dialogue: 0,0:00:44.17,0:00:45.57,Main-Nishikata,Нисиката,0,0,0,,Change the way you're holding on.
-Dialogue: 0,0:00:46.23,0:00:47.03,Main-Takagi,Такаги,0,0,0,,Like this?
-Dialogue: 0,0:00:48.75,0:00:50.60,Main-Nishikata,Нисиката,0,0,0,,You're too close, too close!
-Dialogue: 0,0:00:51.93,0:00:53.26,Main-Takagi,Такаги,0,0,0,,But it's dangerous otherwise.
-Dialogue: 0,0:00:54.53,0:00:56.65,Main-Takagi,Такаги,0,0,0,,Are you suddenly feeling\N self-conscious?
-Dialogue: 0,0:00:56.65,0:00:57.45,Main-Nishikata,Нисиката,0,0,0,,Hurk!
-Dialogue: 0,0:00:57.66,0:00:59.18,Main-Nishikata,Нисиката,0,0,0,,N-No!
-Dialogue: 0,0:00:59.18,0:01:02.01,Main-Nishikata,Нисиката,0,0,0,,It's just that it's hot when you're too close!
-Dialogue: 0,0:01:02.49,0:01:05.58,Main-Nishikata,Нисиката,0,0,0,,Anyway, don't grab me so tight.
-Dialogue: 0,0:01:05.58,0:01:08.18,Main-Takagi,Такаги,0,0,0,,But you said to hold on tight a minute ago.
-Dialogue: 0,0:01:11.49,0:01:15.06,Main-Takagi,Такаги,0,0,0,,Show me how I should hold on to you, then.
-Dialogue: 0,0:01:15.06,0:01:15.86,Main-Nishikata,Нисиката,0,0,0,,Huh?
-Dialogue: 0,0:01:24.64,0:01:27.45,Main-Takagi,Такаги,0,0,0,,Hurry. We're going to run\N out of time to practice.
-Dialogue: 0,0:01:31.22,0:01:33.89,Main-Nishikata,Нисиката,0,0,0,,L-Like this!
-Dialogue: 0,0:01:34.68,0:01:37.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}We've overcome various hurdles, and finally…
-Dialogue: 0,0:01:41.26,0:01:42.75,Main-Takagi,Такаги,0,0,0,,Whoa!
-Dialogue: 0,0:01:45.45,0:01:47.80,Main-Nishikata,Нисиката,0,0,0,,We've mastered tandem riding.
-Dialogue: 0,0:01:48.21,0:01:50.26,Main-Takagi,Такаги,0,0,0,,Yeah, we're done.
-Dialogue: 0,0:01:53.56,0:01:58.78,Main-Takagi,Такаги,0,0,0,,Well, we can tandem ride now,\N so there's no need to practice anymore.
-Dialogue: 0,0:01:58.78,0:02:00.68,Main-Nishikata,Нисиката,0,0,0,,Y-Yeah…
-Dialogue: 0,0:02:01.51,0:02:02.86,Main-Takagi,Такаги,0,0,0,,Are you…
-Dialogue: 0,0:02:04.19,0:02:05.63,Main-Takagi,Такаги,0,0,0,,a little bummed out?
-Dialogue: 0,0:02:06.48,0:02:07.48,Main-Nishikata,Нисиката,0,0,0,,No…
-Dialogue: 0,0:02:07.86,0:02:08.89,Main-Takagi,Такаги,0,0,0,,Or relieved?
-Dialogue: 0,0:02:10.64,0:02:13.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}It'd be rude if\NI said I don't care,
-Dialogue: 0,0:02:13.71,0:02:17.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}but if I say I'm bummed out, she's\N gonna tease me even more.
-Dialogue: 0,0:02:17.33,0:02:19.31,Main-Nishikata,Нисиката,0,0,0,,B-Both…
-Dialogue: 0,0:02:19.31,0:02:21.15,Main-Takagi,Такаги,0,0,0,,That's not fair.
-Dialogue: 0,0:02:21.15,0:02:23.65,Main-Nishikata,Нисиката,0,0,0,,Wh-What about you?
-Dialogue: 0,0:02:23.65,0:02:24.45,Main-Takagi,Такаги,0,0,0,,Me?
-Dialogue: 0,0:02:25.20,0:02:27.75,Main-Takagi,Такаги,0,0,0,,I'm not that bummed out.
-Dialogue: 0,0:02:29.30,0:02:30.92,Main-Nishikata,Нисиката,0,0,0,,I-I see.
-Dialogue: 0,0:02:37.99,0:02:40.81,Main-Takagi,Такаги,0,0,0,,Let's finish up our homework\N at the library tomorrow.
-Dialogue: 0,0:02:41.27,0:02:42.07,Main-Nishikata,Нисиката,0,0,0,,Huh?
-Dialogue: 0,0:02:45.13,0:02:46.69,Main-Takagi,Такаги,0,0,0,,Let's check each other's answers.
-Dialogue: 0,0:02:46.69,0:02:48.30,Main-Nishikata,Нисиката,0,0,0,,Uh, yeah…
-Dialogue: 0,0:02:52.85,0:02:54.79,Main-Takagi,Такаги,0,0,0,,Summer vacation is coming to an end.
-Dialogue: 0,0:02:55.14,0:02:55.91,Main-Nishikata,Нисиката,0,0,0,,Yeah…
-Dialogue: 0,0:02:57.36,0:02:59.76,Main-Takagi,Такаги,0,0,0,,Term Two is starting, though.
-Dialogue: 0,0:03:00.65,0:03:01.45,Main-Nishikata,Нисиката,0,0,0,,Yeah.
-Dialogue: 0,0:03:02.97,0:03:05.31,Main-Takagi,Такаги,0,0,0,,I wonder if the typhoon is actually coming.
-Dialogue: 0,0:04:50.78,0:04:51.76,Main-Nishikata,Нисиката,0,0,0,,«Typhoon»
-Dialogue: 0,0:04:57.87,0:04:59.74,Main-Nishikata,Нисиката,0,0,0,,It's so windy…
-Dialogue: 0,0:05:04.59,0:05:07.59,Main-Nishikata,Нисиката,0,0,0,,Whoa, so high!
-Dialogue: 0,0:05:08.17,0:05:10.12,Main-Nishikata,Нисиката,0,0,0,,The great typhoon!
+Dialogue: 0,0:00:07.57,0:00:09.23,Main-Nishikata,Нисиката,0,0,0,,Держись крепче.
+Dialogue: 0,0:00:09.23,0:00:10.03,Main-Takagi,Такаги,0,0,0,,Угу.
+Dialogue: 0,0:00:13.77,0:00:16.47,Main-Nishikata,Нисиката,0,0,0,,{\i1}Когда мы только начали практиковаться,
+Dialogue: 0,0:00:16.47,0:00:19.26,Main-Nishikata,Нисиката,0,0,0,,{\i1}были сложности с этим самым «держись крепче».
+Dialogue: 0,0:00:30.09,0:00:32.74,Main-Nishikata,Нисиката,0,0,0,,Не щекотай меня! Опасно же!
+Dialogue: 0,0:00:32.74,0:00:36.04,Main-Takagi,Такаги,0,0,0,,Да не щекотала я тебя. Просто взялась.
+Dialogue: 0,0:00:38.76,0:00:41.19,Main-Takagi,Такаги,0,0,0,,Нисиката, у тебя такие слабые рёбра.
+Dialogue: 0,0:00:41.53,0:00:44.17,Main-Nishikata,Нисиката,0,0,0,,Такаги-сан, твои пальцы щекотают их.
+Dialogue: 0,0:00:44.17,0:00:45.57,Main-Nishikata,Нисиката,0,0,0,,Возьмись по-другому.
+Dialogue: 0,0:00:46.23,0:00:47.03,Main-Takagi,Такаги,0,0,0,,Так?
+Dialogue: 0,0:00:48.75,0:00:50.60,Main-Nishikata,Нисиката,0,0,0,,Ты близко, слишком близко!
+Dialogue: 0,0:00:51.93,0:00:53.26,Main-Takagi,Такаги,0,0,0,,А иначе — опасно.
+Dialogue: 0,0:00:54.53,0:00:56.65,Main-Takagi,Такаги,0,0,0,,Неужели застеснялся?
+Dialogue: 0,0:00:56.65,0:00:57.45,Main-Nishikata,Нисиката,0,0,0,,Кек~!
+Dialogue: 0,0:00:57.66,0:00:59.18,Main-Nishikata,Нисиката,0,0,0,,Н-Нет, конечно!
+Dialogue: 0,0:00:59.18,0:01:02.01,Main-Nishikata,Нисиката,0,0,0,,Просто жарко, когда ты слишком близко!
+Dialogue: 0,0:01:02.49,0:01:05.58,Main-Nishikata,Нисиката,0,0,0,,В любом случае, не хватай меня так сильно.
+Dialogue: 0,0:01:05.58,0:01:08.18,Main-Takagi,Такаги,0,0,0,,Но ты только что сказал держаться крепче.
+Dialogue: 0,0:01:11.49,0:01:15.06,Main-Takagi,Такаги,0,0,0,,Давай, покажи, как я должна хвататься за тебя.
+Dialogue: 0,0:01:15.06,0:01:15.86,Main-Nishikata,Нисиката,0,0,0,,Э?
+Dialogue: 0,0:01:24.64,0:01:27.45,Main-Takagi,Такаги,0,0,0,,Побыстрее. А то не хватит времени покататься.
+Dialogue: 0,0:01:31.22,0:01:33.89,Main-Nishikata,Нисиката,0,0,0,,К-Как-то так!
+Dialogue: 0,0:01:34.68,0:01:37.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}Мы пришлось преодолеть многое, и теперь…
+Dialogue: 0,0:01:41.26,0:01:42.75,Main-Takagi,Такаги,0,0,0,,Ух ты!
+Dialogue: 0,0:01:45.45,0:01:47.80,Main-Nishikata,Нисиката,0,0,0,,Мы освоили совместную езду.
+Dialogue: 0,0:01:48.21,0:01:50.26,Main-Takagi,Такаги,0,0,0,,Угу, на этом всё.
+Dialogue: 0,0:01:53.56,0:01:58.78,Main-Takagi,Такаги,0,0,0,,Так ведь, мы теперь можем просто вместе кататься,\N так что практики больше не нужны.
+Dialogue: 0,0:01:58.78,0:02:00.68,Main-Nishikata,Нисиката,0,0,0,,А, у-угу…
+Dialogue: 0,0:02:01.51,0:02:02.86,Main-Takagi,Такаги,0,0,0,,Даже немного грустно…
+Dialogue: 0,0:02:04.19,0:02:05.63,Main-Takagi,Такаги,0,0,0,,Будешь вспоминать?
+Dialogue: 0,0:02:06.48,0:02:07.48,Main-Nishikata,Нисиката,0,0,0,,Нет…
+Dialogue: 0,0:02:07.86,0:02:08.89,Main-Takagi,Такаги,0,0,0,,Или облегчение? {refresh, clear away, регенерация, освежать, очистить, рассеивать, развеять, рассеять}
+Dialogue: 0,0:02:10.64,0:02:13.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}Не сказал бы, что буду грустить,
+Dialogue: 0,0:02:13.71,0:02:17.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}но, если скажу, что грустить не буду —\N начнёт дразниться ещё больше.
+Dialogue: 0,0:02:17.33,0:02:19.31,Main-Nishikata,Нисиката,0,0,0,,В-Всё вместе…
+Dialogue: 0,0:02:19.31,0:02:21.15,Main-Takagi,Такаги,0,0,0,,Э, так не честно.
+Dialogue: 0,0:02:21.15,0:02:23.65,Main-Nishikata,Нисиката,0,0,0,,А что насчёт тебя, Такаги-сан?
+Dialogue: 0,0:02:23.65,0:02:24.45,Main-Takagi,Такаги,0,0,0,,Я?
+Dialogue: 0,0:02:25.20,0:02:27.75,Main-Takagi,Такаги,0,0,0,,Я не сильно расстроюсь.
+Dialogue: 0,0:02:29.30,0:02:30.92,Main-Nishikata,Нисиката,0,0,0,,Я-Ясно.
+Dialogue: 0,0:02:37.99,0:02:40.81,Main-Takagi,Такаги,0,0,0,,Давай, завтра соберёмся в библиотеке,\N чтобы закончить с домашкой.
+Dialogue: 0,0:02:41.27,0:02:42.07,Main-Nishikata,Нисиката,0,0,0,,Э?
+Dialogue: 0,0:02:45.13,0:02:46.69,Main-Takagi,Такаги,0,0,0,,Сверим наши ответы.
+Dialogue: 0,0:02:46.69,0:02:48.30,Main-Nishikata,Нисиката,0,0,0,,А, угу…
+Dialogue: 0,0:02:52.85,0:02:54.79,Main-Takagi,Такаги,0,0,0,,Летние каникулы подошли к концу.
+Dialogue: 0,0:02:55.14,0:02:55.91,Main-Nishikata,Нисиката,0,0,0,,Угу…
+Dialogue: 0,0:02:57.36,0:02:59.76,Main-Takagi,Такаги,0,0,0,,На смену ему, начинается второй семестр.
+Dialogue: 0,0:03:00.65,0:03:01.45,Main-Nishikata,Нисиката,0,0,0,,Угу.
+Dialogue: 0,0:03:02.97,0:03:05.31,Main-Takagi,Такаги,0,0,0,,А тайфун, и правда, приближается.
+Dialogue: 0,0:04:50.78,0:04:51.76,Main-Nishikata,Нисиката,0,0,0,,«Тайфун»
+Dialogue: 0,0:04:57.87,0:04:59.74,Main-Nishikata,Нисиката,0,0,0,,Вот это ветер…
+Dialogue: 0,0:05:04.59,0:05:07.59,Main-Nishikata,Нисиката,0,0,0,,Ух ты, взлетел-то как!\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:05:08.17,0:05:10.12,Main-Nishikata,Нисиката,0,0,0,,Как и ожидалось от тайфуна!\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:05:11.40,0:05:14.30,Main-Nishikata,Нисиката,0,0,0,,{\i1}I feel so excited for some reason!
-Dialogue: 0,0:05:16.49,0:05:18.73,Main-Nishikata,Нисиката,0,0,0,,Blow harder, wind!
+Dialogue: 0,0:05:16.49,0:05:18.73,Main-Nishikata,Нисиката,0,0,0,,Эй, ветер! Дуй сильнее!
 Dialogue: 0,0:05:20.63,0:05:23.85,Main-Nishikata,Нисиката,0,0,0,,{\i1}I feel like I'm creating this wind!
-Dialogue: 0,0:05:24.19,0:05:25.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}So awesome!
-Dialogue: 0,0:05:27.14,0:05:29.18,Main-Nishikata,Нисиката,0,0,0,,Now, wind, I—
-Dialogue: 0,0:05:36.97,0:05:38.45,Main-Takagi,Такаги,0,0,0,,Morning, Нисиката.
-Dialogue: 0,0:05:39.67,0:05:41.77,Main-Nishikata,Нисиката,0,0,0,,Uh… M-Morning, Такаги-сан!
-Dialogue: 0,0:05:41.77,0:05:43.27,Main-Takagi,Такаги,0,0,0,,Crazy wind, huh?
-Dialogue: 0,0:05:43.95,0:05:46.00,Main-Takagi,Такаги,0,0,0,,I should've tied my hair back.
-Dialogue: 0,0:05:46.57,0:05:48.72,Main-Nishikata,Нисиката,0,0,0,,Uh, yeah…
-Dialogue: 0,0:05:50.05,0:05:53.13,Main-Nishikata,Нисиката,0,0,0,,I-I was checking the direction of the wind.
-Dialogue: 0,0:05:53.13,0:05:55.30,Main-Takagi,Такаги,0,0,0,,I never asked.
+Dialogue: 0,0:05:24.19,0:05:25.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Офигенно!
+Dialogue: 0,0:05:27.14,0:05:29.18,Main-Nishikata,Нисиката,0,0,0,,Слушай, Ветер, я повел—
+Dialogue: 0,0:05:36.97,0:05:38.45,Main-Takagi,Такаги,0,0,0,,Доброе утро, Нисиката.
+Dialogue: 0,0:05:39.67,0:05:41.77,Main-Nishikata,Нисиката,0,0,0,,Ой… Д-Доброе утро, Такаги-сан!
+Dialogue: 0,0:05:41.77,0:05:43.27,Main-Takagi,Такаги,0,0,0,,Скажи, ветер сильный.
+Dialogue: 0,0:05:43.95,0:05:46.00,Main-Takagi,Такаги,0,0,0,,Надо было завязать волосы в хвост.
+Dialogue: 0,0:05:46.57,0:05:48.72,Main-Nishikata,Нисиката,0,0,0,,А-а, согласен…
+Dialogue: 0,0:05:50.05,0:05:53.13,Main-Nishikata,Нисиката,0,0,0,,Я-Я тут пытаюсь определить направление ветра.
+Dialogue: 0,0:05:53.13,0:05:55.30,Main-Takagi,Такаги,0,0,0,,Я даже не спрашивала.
 Dialogue: 0,0:05:56.64,0:06:00.97,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn it! Why does she always\N see me at the worst time?!
-Dialogue: 0,0:06:01.57,0:06:03.12,Main-Takagi,Такаги,0,0,0,,So, what were you doing?
-Dialogue: 0,0:06:03.12,0:06:05.55,Main-Nishikata,Нисиката,0,0,0,,As I said, I was checking\N the direction of the wind.
-Dialogue: 0,0:06:05.55,0:06:07.68,Main-Takagi,Такаги,0,0,0,,I thought you were saying,
-Dialogue: 0,0:06:10.77,0:06:13.44,Main-Takagi,Такаги,0,0,0,,"Blow harder, wind!"
-Dialogue: 0,0:06:14.48,0:06:16.49,Main-Takagi,Такаги,0,0,0,,Or something like that.
-Dialogue: 0,0:06:16.49,0:06:18.90,Main-Nishikata,Нисиката,0,0,0,,Wh-Why would I?
+Dialogue: 0,0:06:01.57,0:06:03.12,Main-Takagi,Такаги,0,0,0,,Так, чем ты тут занимаешься?
+Dialogue: 0,0:06:03.12,0:06:05.55,Main-Nishikata,Нисиката,0,0,0,,Сказал же, пытаюсь определить направление ветра.
+Dialogue: 0,0:06:05.55,0:06:07.68,Main-Takagi,Такаги,0,0,0,,Да-а? А я слышала:
+Dialogue: 0,0:06:10.77,0:06:13.44,Main-Takagi,Такаги,0,0,0,,«Эй, ветер! Дуй сильнее!»
+Dialogue: 0,0:06:14.48,0:06:16.49,Main-Takagi,Такаги,0,0,0,,Или что-то типа того.
+Dialogue: 0,0:06:16.49,0:06:18.90,Main-Nishikata,Нисиката,0,0,0,,Д-Да не может быть такого.
 Dialogue: 0,0:06:19.47,0:06:22.59,Main-Nishikata,Нисиката,0,0,0,,{\i1}Looking at it objectively,\N it's quite embarrassing.
 Dialogue: 0,0:06:23.39,0:06:26.33,Main-Takagi,Такаги,0,0,0,,But why were you checking\N the direction of the wind?
 Dialogue: 0,0:06:26.54,0:06:31.24,Main-Nishikata,Нисиката,0,0,0,,W-Well, I thought it'd be safer\N to know which way it's blowing
 Dialogue: 0,0:06:31.24,0:06:33.29,Main-Nishikata,Нисиката,0,0,0,,since the wind's so strong.
 Dialogue: 0,0:06:34.57,0:06:37.26,Main-Takagi,Такаги,0,0,0,,But you had both hands raised so high.
-Dialogue: 0,0:06:38.00,0:06:42.46,Main-Takagi,Такаги,0,0,0,,"I feel like I'm the one\Ncreating this wind!
-Dialogue: 0,0:06:42.46,0:06:43.89,Main-Takagi,Такаги,0,0,0,,So awesome!"
+Dialogue: 0,0:06:38.00,0:06:42.46,Main-Takagi,Такаги,0,0,0,,«I feel like I'm the one\Ncreating this wind!
+Dialogue: 0,0:06:42.46,0:06:43.89,Main-Takagi,Такаги,0,0,0,,So awesome!»
 Dialogue: 0,0:06:44.95,0:06:46.55,Main-Takagi,Такаги,0,0,0,,…is what it looked like you were doing.
 Dialogue: 0,0:06:47.25,0:06:48.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}S-So embarrassing…
 Dialogue: 0,0:06:49.14,0:06:52.56,Main-Takagi,Такаги,0,0,0,,Anyway, notice something different about me?
 Dialogue: 0,0:06:58.97,0:07:02.28,Main-Nishikata,Нисиката,0,0,0,,Y-You're not riding your bike, right?
-Dialogue: 0,0:07:02.28,0:07:03.26,Main-Takagi,Такаги,0,0,0,,Right.
+Dialogue: 0,0:07:02.28,0:07:03.26,Main-Takagi,Такаги,0,0,0,,Динь-дон!
 Dialogue: 0,0:07:04.17,0:07:07.16,Main-Takagi,Такаги,0,0,0,,So, why do you think I'm\N not riding my bike today?
 Dialogue: 0,0:07:07.16,0:07:08.70,Main-Nishikata,Нисиката,0,0,0,,Because there's a typh—
 Dialogue: 0,0:07:09.13,0:07:13.88,Main-Takagi,Такаги,0,0,0,,If you guess right, I won't tell anyone\N about you being giddy in the wind earlier.
