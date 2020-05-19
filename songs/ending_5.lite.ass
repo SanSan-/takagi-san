@@ -15,9 +15,9 @@ Video File: ../[Ohys-Raws] Karakai Jouzu no Takagi-san - 09 (MX 1280x720 x264 AA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 30
-Active Line: 37
-Video Position: 34159
+Scroll Position: 20
+Active Line: 26
+Video Position: 32834
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,7 +53,7 @@ Dialogue: 0,0:22:29.49,0:22:33.93,EDBottom,,0,0,0,,{\k35}Chi{\k25}i{\k26}sa{\k31
 Dialogue: 0,0:22:34.19,0:22:38.60,EDBottom,,0,0,0,,{\k24}Chi{\k25}i{\k34}sa{\k24}na  {\k42}shi{\k29}ma  {\k52}no  {\k32}a{\k31}na{\k26}ta  {\k18}no  {\k28}mo{\k27}to  {\k49}e
 Dialogue: 0,0:22:40.01,0:22:44.45,EDBottom,,0,0,0,,{\k29}A{\k31}na{\k31}ta  {\k30}to  {\k26}de{\k32}a{\k56}i  {\k29}to{\k32}ki  {\k28}ha  {\k29}na{\k32}ga{\k30}re{\k29}ru
 Dialogue: 0,0:22:44.69,0:22:49.14,EDBottom,,0,0,0,,{\k33}O{\k27}mo{\k29}i  {\k27}wo  {\k31}ko{\k30}me{\k60}ta  {\k29}te{\k29}ga{\k28}mi  {\k32}mo  {\k20}fu{\k26}e{\k44}ru
-Dialogue: 0,0:22:49.42,0:22:53.86,EDBottom,,0,0,0,,{\k22}I{\k20}tsu{\k43}shi{\k29}ka  {\k30}fu{\k31}ta{\k55}ri  {\k31}ta{\k31}ga{\k26}i  {\k21}ni  {\k41}hi{\k28}bi{\k36}ku
+Dialogue: 0,0:22:49.42,0:22:53.86,EDBottom,,0,0,0,,{\k22}И  {\k20}ко{\k43}гда-{\k29}ни{\k30}будь  {\k31}с  то{\k55}бой  {\k31}мы  {\k31}друг-{\k26}в-дру{\k21}ге  {\k41}за{\k28}зву{\k36}чим
 Dialogue: 0,0:22:54.08,0:22:58.44,EDBottom,,0,0,0,,{\k28}To{\k33}ki  {\k27}ni  {\k30}ha{\k19}ge{\k39}shi{\k58}ku  {\k28}to{\k34}ki  {\k19}ni  {\k24}se{\k30}tsu{\k26}na{\k41}ku
 Dialogue: 0,0:22:58.73,0:23:03.12,EDBottom,,0,0,0,,{\k32}Hi{\k26}bi{\k32}ku  {\k27}ha  {\k27}to{\k34}o{\k60}ku  {\k31}ha{\k28}ru{\k25}ka  {\k21}ka{\k27}na{\k29}ta  {\k40}e
 Dialogue: 0,0:23:03.46,0:23:11.10,EDBottom,,0,0,0,,{\k20}Ya{\k27}sa{\k22}shi{\k34}i  {\k27}u{\k30}ta  {\k61}ha  {\k38}se{\k32}ka{\k27}i  {\k19}wo  {\k27}ka{\k28}e{\k372}ru~
