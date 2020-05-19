@@ -15,8 +15,9 @@ Video File: ../[Ohys-Raws] Karakai Jouzu no Takagi-san - 09 (MX 1280x720 x264 AA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
-Video Position: 32348
+Scroll Position: 30
+Active Line: 37
+Video Position: 34159
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,4 +30,38 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:39.26,0:00:39.26,Default,,0,0,0,,Ending (японский)
 Dialogue: 0,0:22:20.23,0:22:24.60,EDTop,,0,0,0,,{\k23}Hi{\k27}ro{\k27}i  {\k34}u{\k29}chu{\k27}u  {\k57}no  {\k33}ka{\k28}zu  {\k29}a{\k21}ru  {\k38}hi{\k29}to{\k35}tsu
 Dialogue: 0,0:22:24.85,0:22:29.20,EDTop,,0,0,0,,{\k23}A{\k30}o{\k28}i  {\k34}chi{\k32}kyu{\k22}u  {\k60}no  {\k34}hi{\k25}ro{\k20}i  {\k24}se{\k40}ka{\k21}i  {\k42}de
+Dialogue: 0,0:22:29.49,0:22:33.93,EDTop,,0,0,0,,{\k35}Chi{\k25}i{\k26}sa{\k31}na  {\k25}ko{\k34}i  {\k57}no  {\k32}o{\k21}mo{\k35}i  {\k30}wa  {\k28}to{\k26}do{\k39}ku
+Dialogue: 0,0:22:34.19,0:22:38.60,EDTop,,0,0,0,,{\k24}Chi{\k25}i{\k34}sa{\k24}na  {\k42}shi{\k29}ma  {\k52}no  {\k32}a{\k31}na{\k26}ta  {\k18}no  {\k28}mo{\k27}to  {\k49}e
+Dialogue: 0,0:22:40.01,0:22:44.45,EDTop,,0,0,0,,{\k29}A{\k31}na{\k31}ta  {\k30}to  {\k26}de{\k32}a{\k56}i  {\k29}to{\k32}ki  {\k28}ha  {\k29}na{\k32}ga{\k30}re{\k29}ru
+Dialogue: 0,0:22:44.69,0:22:49.14,EDTop,,0,0,0,,{\k33}O{\k27}mo{\k29}i  {\k27}wo  {\k31}ko{\k30}me{\k60}ta  {\k29}te{\k29}ga{\k28}mi  {\k32}mo  {\k20}fu{\k26}e{\k44}ru
+Dialogue: 0,0:22:49.42,0:22:53.86,EDTop,,0,0,0,,{\k22}I{\k20}tsu{\k43}shi{\k29}ka  {\k30}fu{\k31}ta{\k55}ri  {\k31}ta{\k31}ga{\k26}i  {\k21}ni  {\k41}hi{\k28}bi{\k36}ku
+Dialogue: 0,0:22:54.08,0:22:58.44,EDTop,,0,0,0,,{\k28}To{\k33}ki  {\k27}ni  {\k30}ha{\k19}ge{\k39}shi{\k58}ku  {\k28}to{\k34}ki  {\k19}ni  {\k24}se{\k30}tsu{\k26}na{\k41}ku
+Dialogue: 0,0:22:58.73,0:23:03.12,EDTop,,0,0,0,,{\k32}Hi{\k26}bi{\k32}ku  {\k27}ha  {\k27}to{\k34}o{\k60}ku  {\k31}ha{\k28}ru{\k25}ka  {\k21}ka{\k27}na{\k29}ta  {\k40}e
+Dialogue: 0,0:23:03.46,0:23:11.10,EDTop,,0,0,0,,{\k20}Ya{\k27}sa{\k22}shi{\k34}i  {\k27}u{\k30}ta  {\k61}ha  {\k38}se{\k32}ka{\k27}i  {\k19}wo  {\k27}ka{\k28}e{\k372}ru~
+Dialogue: 0,0:23:11.63,0:23:17.56,EDTop,,0,0,0,,{\k58}Ho{\k91}ra  {\k28}a{\k30}na{\k18}ta  {\k26}ni  {\k45}tot{\k87}te  {\k26}da{\k23}i{\k24}ji  {\k25}na  {\k31}hi{\k19}to  {\k29}ho{\k33}do
+Dialogue: 0,0:23:17.71,0:23:20.77,EDTop,,0,0,0,,{\k38}Su{\k44}gu  {\k72}so{\k31}ba  {\k30}ni  {\k31}i{\k27}ru  {\k33}no
+Dialogue: 0,0:23:21.01,0:23:26.90,EDTop,,0,0,0,,{\k61}Ta{\k84}da  {\k32}a{\k29}na{\k17}ta  {\k28}ni  {\k42}da{\k88}ke  {\k31}to{\k27}do{\k15}i{\k25}te  {\k25}ho{\k47}shi{\k38}i
+Dialogue: 0,0:23:27.16,0:23:30.16,EDTop,,0,0,0,,{\k31}Hi{\k54}bi{\k61}ke  {\k30}ko{\k29}i  {\k31}no  {\k29}u{\k35}ta
+Dialogue: 0,0:23:30.38,0:23:34.61,EDTop,,0,0,0,,{\k59}Ho{\k364}ra~
+Dialogue: 0,0:23:35.05,0:23:39.28,EDTop,,0,0,0,,{\k58}Ho{\k365}ra~
+Dialogue: 0,0:23:39.73,0:23:44.37,EDTop,,0,0,0,,{\k60}Ho{\k404}ra~
+Dialogue: 0,0:23:44.70,0:23:47.76,EDTop,,0,0,0,,{\k30}Hi{\k31}bi{\k58}ke  {\k30}ko{\k27}i  {\k30}no  {\k60}u{\k40}ta
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending (русский)
+Dialogue: 0,0:22:20.23,0:22:24.60,EDBottom,,0,0,0,,{\k23}Hi{\k27}ro{\k27}i  {\k34}u{\k29}chu{\k27}u  {\k57}no  {\k33}ka{\k28}zu  {\k29}a{\k21}ru  {\k38}hi{\k29}to{\k35}tsu
+Dialogue: 0,0:22:24.85,0:22:29.20,EDBottom,,0,0,0,,{\k23}A{\k30}o{\k28}i  {\k34}chi{\k32}kyu{\k22}u  {\k60}no  {\k34}hi{\k25}ro{\k20}i  {\k24}se{\k40}ka{\k21}i  {\k42}de
+Dialogue: 0,0:22:29.49,0:22:33.93,EDBottom,,0,0,0,,{\k35}Chi{\k25}i{\k26}sa{\k31}na  {\k25}ko{\k34}i  {\k57}no  {\k32}o{\k21}mo{\k35}i  {\k30}wa  {\k28}to{\k26}do{\k39}ku
+Dialogue: 0,0:22:34.19,0:22:38.60,EDBottom,,0,0,0,,{\k24}Chi{\k25}i{\k34}sa{\k24}na  {\k42}shi{\k29}ma  {\k52}no  {\k32}a{\k31}na{\k26}ta  {\k18}no  {\k28}mo{\k27}to  {\k49}e
+Dialogue: 0,0:22:40.01,0:22:44.45,EDBottom,,0,0,0,,{\k29}A{\k31}na{\k31}ta  {\k30}to  {\k26}de{\k32}a{\k56}i  {\k29}to{\k32}ki  {\k28}ha  {\k29}na{\k32}ga{\k30}re{\k29}ru
+Dialogue: 0,0:22:44.69,0:22:49.14,EDBottom,,0,0,0,,{\k33}O{\k27}mo{\k29}i  {\k27}wo  {\k31}ko{\k30}me{\k60}ta  {\k29}te{\k29}ga{\k28}mi  {\k32}mo  {\k20}fu{\k26}e{\k44}ru
+Dialogue: 0,0:22:49.42,0:22:53.86,EDBottom,,0,0,0,,{\k22}I{\k20}tsu{\k43}shi{\k29}ka  {\k30}fu{\k31}ta{\k55}ri  {\k31}ta{\k31}ga{\k26}i  {\k21}ni  {\k41}hi{\k28}bi{\k36}ku
+Dialogue: 0,0:22:54.08,0:22:58.44,EDBottom,,0,0,0,,{\k28}To{\k33}ki  {\k27}ni  {\k30}ha{\k19}ge{\k39}shi{\k58}ku  {\k28}to{\k34}ki  {\k19}ni  {\k24}se{\k30}tsu{\k26}na{\k41}ku
+Dialogue: 0,0:22:58.73,0:23:03.12,EDBottom,,0,0,0,,{\k32}Hi{\k26}bi{\k32}ku  {\k27}ha  {\k27}to{\k34}o{\k60}ku  {\k31}ha{\k28}ru{\k25}ka  {\k21}ka{\k27}na{\k29}ta  {\k40}e
+Dialogue: 0,0:23:03.46,0:23:11.10,EDBottom,,0,0,0,,{\k20}Ya{\k27}sa{\k22}shi{\k34}i  {\k27}u{\k30}ta  {\k61}ha  {\k38}se{\k32}ka{\k27}i  {\k19}wo  {\k27}ka{\k28}e{\k372}ru~
+Dialogue: 0,0:23:11.63,0:23:17.56,EDBottom,,0,0,0,,{\k58}Ho{\k91}ra  {\k28}a{\k30}na{\k18}ta  {\k26}ni  {\k45}tot{\k87}te  {\k26}da{\k23}i{\k24}ji  {\k25}na  {\k31}hi{\k19}to  {\k29}ho{\k33}do
+Dialogue: 0,0:23:17.71,0:23:20.77,EDBottom,,0,0,0,,{\k38}Su{\k44}gu  {\k72}so{\k31}ba  {\k30}ni  {\k31}i{\k27}ru  {\k33}no
+Dialogue: 0,0:23:21.01,0:23:26.90,EDBottom,,0,0,0,,{\k61}Ta{\k84}da  {\k32}a{\k29}na{\k17}ta  {\k28}ni  {\k42}da{\k88}ke  {\k31}to{\k27}do{\k15}i{\k25}te  {\k25}ho{\k47}shi{\k38}i
+Dialogue: 0,0:23:27.16,0:23:30.16,EDBottom,,0,0,0,,{\k31}Hi{\k54}bi{\k61}ke  {\k30}ko{\k29}i  {\k31}no  {\k29}u{\k35}ta
+Dialogue: 0,0:23:30.38,0:23:34.61,EDBottom,,0,0,0,,{\k59}Ho{\k364}ra~
+Dialogue: 0,0:23:35.05,0:23:39.28,EDBottom,,0,0,0,,{\k58}Ho{\k365}ra~
+Dialogue: 0,0:23:39.73,0:23:44.37,EDBottom,,0,0,0,,{\k60}Ho{\k404}ra~
+Dialogue: 0,0:23:44.70,0:23:47.76,EDBottom,,0,0,0,,{\k30}Hi{\k31}bi{\k58}ke  {\k30}ko{\k27}i  {\k30}no  {\k60}u{\k40}ta
