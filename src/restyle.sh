@@ -19,6 +19,7 @@ sed -i -e 's/,Italics Top,Такаги,0,0,0,,/,Main-Takagi,Такаги,0,0,0,,
 sed -i -e 's/,Main,Мина/,Main-Mina,Мина/g' $1.ass
 sed -i -e 's/,Main,Юкари/,Main-Yukari,Юкари/g' $1.ass
 sed -i -e 's/,Italics,Юкари,0,0,0,,/,Main-Yukari,Юкари,0,0,0,,{\\i1}/g' $1.ass
+sed -i -e 's/,Italics,Юкари,0000,0000,0000,,/,Main-Yukari,Юкари,0000,0000,0000,,{\\i1}/g' $1.ass
 sed -i -e 's/,Main,Санаэ/,Main-Sanae,Санаэ/g' $1.ass
 sed -i -e 's/,Main,Накай/,Main-Nakai,Накай/g' $1.ass
 sed -i -e 's/,Main,Мано/,Main-Mano,Мано/g' $1.ass
