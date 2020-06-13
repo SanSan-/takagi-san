@@ -17,9 +17,9 @@ Video File: [Ohys-Raws] Karakai Jouzu no Takagi-san - 11 (MX 1280x720 x264 AAC).
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 371
-Active Line: 381
-Video Position: 17501
+Scroll Position: 161
+Active Line: 169
+Video Position: 15840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,175 +56,175 @@ Style: Email-Note,Helvetica Neue,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Диалоги
-Dialogue: 0,0:00:06.51,0:00:09.03,Main-Nishikata,Нисиката,0,0,0,,{\i1}How to approach a cat.
-Dialogue: 0,0:00:09.71,0:00:11.69,Main-Nishikata,Нисиката,0,0,0,,{\i1}Number one: Don't make eye contact.
-Dialogue: 0,0:00:12.11,0:00:15.08,Main-Nishikata,Нисиката,0,0,0,,{\i1}Number two: Crouch down.
-Dialogue: 0,0:00:17.84,0:00:22.43,Main-Nishikata,Нисиката,0,0,0,,{\i1}How about it? Now you know\N I don't mean you any harm, right?
-Dialogue: 0,0:00:23.34,0:00:24.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}Number three:
-Dialogue: 0,0:00:25.45,0:00:27.96,Main-Nishikata,Нисиката,0,0,0,,{\i1}Approach slowly.
-Dialogue: 0,0:00:30.42,0:00:31.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}This is amazing!
-Dialogue: 0,0:00:31.93,0:00:35.43,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can get so close now, following\N the advice on that show yesterday!
-Dialogue: 0,0:00:40.01,0:00:41.47,Main-Takagi,Такаги,0,0,0,,Hey, it's Нисиката.
-Dialogue: 0,0:00:47.73,0:00:48.94,Main-Takagi,Такаги,0,0,0,,What were you doing?
-Dialogue: 0,0:00:51.61,0:00:53.17,Main-Nishikata,Нисиката,0,0,0,,N-Nothing…
-Dialogue: 0,0:02:35.86,0:02:36.66,Main-Nishikata,Нисиката,0,0,0,,«Cat.»
-Dialogue: 0,0:02:39.26,0:02:44.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn you, Такаги-сан!\N I was so close to touching that cat!
-Dialogue: 0,0:02:44.81,0:02:45.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}But…
-Dialogue: 0,0:02:46.35,0:02:49.81,Main-Nishikata,Нисиката,0,0,0,,{\i1}I'm glad she didn't see me petting the cat.
-Dialogue: 0,0:02:50.48,0:02:52.19,Main-Nishikata,Нисиката,0,0,0,,{\i1}If she did…
-Dialogue: 0,0:02:52.49,0:02:55.01,Main-Takagi,Такаги,0,0,0,,Нисиката's petting a cat!
-Dialogue: 0,0:02:55.01,0:02:57.15,Main-Takagi,Такаги,0,0,0,,You're a boy, but you like cute things, huh?
-Dialogue: 0,0:02:57.51,0:02:59.76,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's definitely what would have happened.
-Dialogue: 0,0:03:01.81,0:03:06.08,Main-Nishikata,Нисиката,0,0,0,,{\i1}There's no way I'm gonna give her\N more fodder to make fun of me with!
-Dialogue: 0,0:03:06.37,0:03:07.48,Main-Takagi,Такаги,0,0,0,,Oh, a cat.
-Dialogue: 0,0:03:07.48,0:03:08.28,Main-Nishikata,Нисиката,0,0,0,,Where?!
-Dialogue: 0,0:03:10.06,0:03:11.62,Main-Takagi,Такаги,0,0,0,,You like cats?
-Dialogue: 0,0:03:11.62,0:03:13.08,Main-Nishikata,Нисиката,0,0,0,,N-Not really…
-Dialogue: 0,0:03:13.36,0:03:15.26,Main-Nishikata,Нисиката,0,0,0,,{\i1}Crap! I messed up.
-Dialogue: 0,0:03:15.86,0:03:16.65,Main-Takagi,Такаги,0,0,0,,There.
-Dialogue: 0,0:03:18.20,0:03:19.18,Main-Takagi,Такаги,0,0,0,,Here, kitty, kitty.
-Dialogue: 0,0:03:20.10,0:03:21.26,Main-Takagi,Такаги,0,0,0,,Come here.
-Dialogue: 0,0:03:22.44,0:03:26.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}You're naïve, Такаги-сан.\N Cats are very wary animals.
-Dialogue: 0,0:03:26.33,0:03:28.20,Main-Nishikata,Нисиката,0,0,0,,{\i1}There's no way that cat will—
-Dialogue: 0,0:03:28.60,0:03:30.62,Main-Takagi,Такаги,0,0,0,,Oh, here he comes.
-Dialogue: 0,0:03:31.06,0:03:32.50,Main-Nishikata,Нисиката,0,0,0,,{\i1}What?!
-Dialogue: 0,0:03:32.50,0:03:35.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}Why?! That wasn't even a proper call!
-Dialogue: 0,0:03:35.23,0:03:38.67,Main-Nishikata,Нисиката,0,0,0,,{\i1}Could Такаги-сан be a cat master?!
-Dialogue: 0,0:03:39.11,0:03:42.25,Main-Takagi,Такаги,0,0,0,,Good boy. You're cute as usual, Meeta.
-Dialogue: 0,0:03:43.41,0:03:45.06,Main-Nishikata,Нисиката,0,0,0,,You know this cat?
-Dialogue: 0,0:03:45.06,0:03:48.37,Main-Takagi,Такаги,0,0,0,,Yep. He belongs to the\N old lady by our house.
-Dialogue: 0,0:03:48.81,0:03:51.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}No wonder. I freaked out for nothing.
-Dialogue: 0,0:03:51.55,0:03:53.21,Main-Takagi,Такаги,0,0,0,,Good boy.
-Dialogue: 0,0:04:00.92,0:04:04.75,Main-Takagi,Такаги,0,0,0,,He really likes people.\N He lets you pet him all you want.
-Dialogue: 0,0:04:05.76,0:04:07.41,Main-Nishikata,Нисиката,0,0,0,,{\i1}Pet him all you want?!
-Dialogue: 0,0:04:07.41,0:04:09.52,Main-Nishikata,Нисиката,0,0,0,,{\i1}An all-you-can-pet cat?!
-Dialogue: 0,0:04:09.75,0:04:11.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's amazing!
-Dialogue: 0,0:04:12.76,0:04:14.35,Main-Takagi,Такаги,0,0,0,,Why don't you try, Нисиката?
-Dialogue: 0,0:04:14.35,0:04:16.06,Main-Nishikata,Нисиката,0,0,0,,Huh?! Why?!
-Dialogue: 0,0:04:16.06,0:04:18.88,Main-Takagi,Такаги,0,0,0,,You were trying to pet that cat earlier, right?
-Dialogue: 0,0:04:18.88,0:04:21.03,Main-Takagi,Такаги,0,0,0,,You were trying to use\N that trick from TV yesterday.
-Dialogue: 0,0:04:21.58,0:04:23.28,Main-Takagi,Такаги,0,0,0,,You like cats, right?
-Dialogue: 0,0:04:23.28,0:04:25.24,Main-Nishikata,Нисиката,0,0,0,,{\i1}Sh-She already knows!
-Dialogue: 0,0:04:25.24,0:04:29.56,Main-Nishikata,Нисиката,0,0,0,,I-I was just trying to test\N out that trick from TV.
-Dialogue: 0,0:04:30.43,0:04:33.29,Main-Takagi,Такаги,0,0,0,,So you don't particularly like cats or anything?
-Dialogue: 0,0:04:33.29,0:04:35.48,Main-Nishikata,Нисиката,0,0,0,,I guess not.
-Dialogue: 0,0:04:35.48,0:04:38.21,Main-Nishikata,Нисиката,0,0,0,,It's not as if I've ever had the urge\N to touch a cat or anything.
-Dialogue: 0,0:04:38.48,0:04:40.59,Main-Takagi,Такаги,0,0,0,,Oh, really?
-Dialogue: 0,0:04:40.90,0:04:42.80,Main-Takagi,Такаги,0,0,0,,They're so cute, though.
-Dialogue: 0,0:04:43.11,0:04:45.01,Main-Takagi,Такаги,0,0,0,,Their coats are so fluffy,
-Dialogue: 0,0:04:45.41,0:04:47.47,Main-Takagi,Такаги,0,0,0,,and their paws are so squishy.
-Dialogue: 0,0:04:50.47,0:04:53.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}This cat even lets people to touch his paws?!
-Dialogue: 0,0:04:53.93,0:04:55.98,Main-Nishikata,Нисиката,0,0,0,,{\i1}I-I want to touch it.
-Dialogue: 0,0:04:55.98,0:04:58.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}But no! It's too late to say that now!
-Dialogue: 0,0:05:00.45,0:05:01.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}I know!
-Dialogue: 0,0:05:02.22,0:05:06.56,Main-Nishikata,Нисиката,0,0,0,,I really don't understand people\N who want to touch cats.
-Dialogue: 0,0:05:07.32,0:05:09.64,Main-Nishikata,Нисиката,0,0,0,,Are they that cute?
-Dialogue: 0,0:05:09.64,0:05:14.40,Main-Nishikata,Нисиката,0,0,0,,And even if they are,\N I wouldn't want to pet them.
-Dialogue: 0,0:05:14.40,0:05:18.63,Main-Nishikata,Нисиката,0,0,0,,They're animals, after all.\N You don't know what they might do.
-Dialogue: 0,0:05:20.86,0:05:24.42,Main-Takagi,Такаги,0,0,0,,Are you just saying that because\N you're scared of getting scratched?
-Dialogue: 0,0:05:24.42,0:05:26.13,Main-Nishikata,Нисиката,0,0,0,,{\i1}She took the bait!
-Dialogue: 0,0:05:26.13,0:05:28.09,Main-Nishikata,Нисиката,0,0,0,,Of course not!
-Dialogue: 0,0:05:28.09,0:05:32.10,Main-Nishikata,Нисиката,0,0,0,,All right, I'll prove to you right now\N that I'm not scared of petting cats!
-Dialogue: 0,0:05:32.36,0:05:34.32,Main-Takagi,Такаги,0,0,0,,I see. I'm sorry I doubted you.
-Dialogue: 0,0:05:34.32,0:05:35.06,Main-Nishikata,Нисиката,0,0,0,,Huh?!
-Dialogue: 0,0:05:35.56,0:05:36.81,Main-Takagi,Такаги,0,0,0,,I believe you.
-Dialogue: 0,0:05:36.81,0:05:39.02,Main-Nishikata,Нисиката,0,0,0,,Huh?!
-Dialogue: 0,0:05:43.94,0:05:46.25,Main-Takagi,Такаги,0,0,0,,Your face is like an open book, Нисиката!
-Dialogue: 0,0:05:46.25,0:05:48.03,Main-Takagi,Такаги,0,0,0,,You {\i1}really{\i0} want to pet the cat, don't you?
-Dialogue: 0,0:05:49.26,0:05:51.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn you, Такаги-сан!
-Dialogue: 0,0:05:52.09,0:05:54.33,Main-Takagi,Такаги,0,0,0,,Well? Are you going to pet him or not?
-Dialogue: 0,0:05:58.22,0:06:00.79,Main-Nishikata,Нисиката,0,0,0,,Can I… pet him?
-Dialogue: 0,0:06:01.80,0:06:02.54,Main-Takagi,Такаги,0,0,0,,Yeah.
-Dialogue: 0,0:06:03.14,0:06:04.88,Main-Takagi,Такаги,0,0,0,,Though Meeta is gone.
-Dialogue: 0,0:06:04.88,0:06:06.51,Main-Nishikata,Нисиката,0,0,0,,He's gone already?!
-Dialogue: 0,0:06:07.03,0:06:09.25,Main-Takagi,Такаги,0,0,0,,Do you want to go look for a cat, Нисиката?
-Dialogue: 0,0:06:09.58,0:06:12.00,Main-Nishikata,Нисиката,0,0,0,,We're gonna be late for school.
-Dialogue: 0,0:06:15.14,0:06:18.83,Main,Girl,0,0,0,,Satou-тян likes Tanaka-кун from Class 3.
-Dialogue: 0,0:06:18.83,0:06:20.99,Main,Girl 2,0,0,0,,Yeah, I can kinda tell!
-Dialogue: 0,0:06:25.52,0:06:28.49,Main-Yukari,Юкари,0,0,0,,{\i1}I want to talk about love, too!
-Dialogue: 0,0:06:30.65,0:06:31.45,Main-Mina,Мина,0,0,0,,«Taste.»
-Dialogue: 0,0:06:33.25,0:06:34.95,Main-Yukari,Юкари,0,0,0,,So guys,
-Dialogue: 0,0:06:35.26,0:06:37.69,Main-Yukari,Юкари,0,0,0,,what's your type, anyway?
-Dialogue: 0,0:06:40.58,0:06:41.96,Main-Yukari,Юкари,0,0,0,,{\i1}Was that too abrupt?!
-Dialogue: 0,0:06:42.50,0:06:45.84,Main-Mina,Мина,0,0,0,,I like the dependent type.
-Dialogue: 0,0:06:46.27,0:06:47.05,Main-Yukari,Юкари,0,0,0,,{\i1}Whoa?!
-Dialogue: 0,0:06:47.27,0:06:50.38,Main-Sanae,Санаэ,0,0,0,,I like a large physique and long hair.
-Dialogue: 0,0:06:50.38,0:06:52.85,Main-Yukari,Юкари,0,0,0,,O-Oh? I didn't expect that.
-Dialogue: 0,0:06:52.85,0:06:56.06,Main-Yukari,Юкари,0,0,0,,{\i1}We can do this! These two are ready!
-Dialogue: 0,0:06:56.06,0:06:59.25,Main-Mina,Мина,0,0,0,,We were just talking about that right now.
-Dialogue: 0,0:06:59.25,0:07:01.02,Main-Yukari,Юкари,0,0,0,,Huh?! R-Really?
-Dialogue: 0,0:07:01.56,0:07:03.04,Main-Yukari,Юкари,0,0,0,,{\i1}They've grown so much.
-Dialogue: 0,0:07:03.04,0:07:05.26,Main-Yukari,Юкари,0,0,0,,{\i1}All right, I'm going to dig more in-depth.
-Dialogue: 0,0:07:05.26,0:07:06.88,Main-Mina,Мина,0,0,0,,What's your type, Юкари-тян?
-Dialogue: 0,0:07:07.83,0:07:09.64,Main-Yukari,Юкари,0,0,0,,I'm glad you asked!
-Dialogue: 0,0:07:10.26,0:07:14.41,Main-Yukari,Юкари,0,0,0,,I like long legs and the\N handsome type, I guess…
-Dialogue: 0,0:07:14.67,0:07:15.65,Main-Sanae,Санаэ,0,0,0,,What about hair?
-Dialogue: 0,0:07:15.65,0:07:17.87,Main-Yukari,Юкари,0,0,0,,{\i1}Санаэ is particular about a guy's hair.
-Dialogue: 0,0:07:18.17,0:07:20.85,Main-Yukari,Юкари,0,0,0,,I like it long, too, I guess.
-Dialogue: 0,0:07:20.85,0:07:22.17,Main-Yukari,Юкари,0,0,0,,{\i1}This is fun!
-Dialogue: 0,0:07:22.17,0:07:25.29,Main-Yukari,Юкари,0,0,0,,{\i1}This is the kind of conversation\N I've wanted to have with my friends!
-Dialogue: 0,0:07:25.55,0:07:27.13,Main-Mina,Мина,0,0,0,,A borzoi, then.
-Dialogue: 0,0:07:27.13,0:07:28.46,Main-Yukari,Юкари,0,0,0,,Yep, yep. A borzoi…
-Dialogue: 0,0:07:29.88,0:07:32.09,Main-Yukari,Юкари,0,0,0,,Wh-What are you talking about?
-Dialogue: 0,0:07:32.81,0:07:34.38,Main-Mina,Мина,0,0,0,,We're talking about dogs, right?
-Dialogue: 0,0:07:37.53,0:07:39.07,Main-Mina,Мина,0,0,0,,So what do you like?
-Dialogue: 0,0:07:39.40,0:07:41.19,Main-Yukari,Юкари,0,0,0,,I like chihuahuas.
-Dialogue: 0,0:07:41.19,0:07:43.94,Main-Mina,Мина,0,0,0,,Huh? You're contradicting what you said earlier.
-Dialogue: 0,0:07:43.94,0:07:47.33,Main-Sanae,Санаэ,0,0,0,,Though, there are long-haired chihuahuas.
-Dialogue: 0,0:07:49.52,0:07:50.50,Main-Nishikata,Нисиката,0,0,0,,«Portrait.»
-Dialogue: 0,0:07:57.44,0:07:58.40,Main-Takagi,Такаги,0,0,0,,Aren't you going to draw?
-Dialogue: 0,0:07:59.74,0:08:01.18,Main-Takagi,Такаги,0,0,0,,You're going to run out of time.
-Dialogue: 0,0:08:01.98,0:08:02.78,Main-Nishikata,Нисиката,0,0,0,,Yeah…
-Dialogue: 0,0:08:09.43,0:08:11.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}Why does it have to be a portrait?
-Dialogue: 0,0:08:11.35,0:08:13.01,Main-Nishikata,Нисиката,0,0,0,,{\i1}Can't we just draw whatever we want?
-Dialogue: 0,0:08:21.33,0:08:23.61,Main-Takagi,Такаги,0,0,0,,Нисиката, are you actually looking\N at me while you're drawing?
-Dialogue: 0,0:08:23.61,0:08:24.98,Main-Nishikata,Нисиката,0,0,0,,I am looking.
-Dialogue: 0,0:08:28.57,0:08:29.65,Main,Teacher,0,0,0,,Listen up.
-Dialogue: 0,0:08:29.65,0:08:31.73,Main,Teacher,0,0,0,,You can get too focused on drawing
-Dialogue: 0,0:08:31.73,0:08:34.61,Main,Teacher,0,0,0,,and take more time drawing\N than actually observing the subject,
-Dialogue: 0,0:08:34.92,0:08:36.07,Main,Teacher,0,0,0,,but that's not gonna work.
-Dialogue: 0,0:08:36.61,0:08:37.99,Main,Teacher,0,0,0,,You have to observe.
-Dialogue: 0,0:08:37.99,0:08:40.08,Main,Teacher,0,0,0,,Take twice as much\N time observing as drawing.
-Dialogue: 0,0:08:41.34,0:08:42.35,Main-Takagi,Такаги,0,0,0,,You got that?
-Dialogue: 0,0:08:44.56,0:08:46.31,Main-Nishikata,Нисиката,0,0,0,,I-I guess so.
-Dialogue: 0,0:08:50.95,0:08:52.17,Main-Nishikata,Нисиката,0,0,0,,Wh-What?
-Dialogue: 0,0:08:52.88,0:08:54.13,Main-Takagi,Такаги,0,0,0,,Sorry, it's nothing.
-Dialogue: 0,0:08:54.49,0:08:56.86,Main-Nishikata,Нисиката,0,0,0,,{\i1}What? What was that laugh about?
-Dialogue: 0,0:08:56.86,0:08:58.80,Main-Nishikata,Нисиката,0,0,0,,{\i1}Is there something on my face?
-Dialogue: 0,0:08:59.29,0:09:03.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, there was nothing when I checked\N in the restroom mirror during the break.
-Dialogue: 0,0:09:04.10,0:09:06.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}What, then? Bed head?
-Dialogue: 0,0:09:06.33,0:09:08.48,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, that can't be it, either.
-Dialogue: 0,0:09:09.43,0:09:12.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Could it be?! My face itself?!
-Dialogue: 0,0:09:12.04,0:09:13.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}I can't do anything about that!
-Dialogue: 0,0:09:14.25,0:09:16.14,Main-Nishikata,Нисиката,0,0,0,,{\i1}Calm down. I have to calm down.
-Dialogue: 0,0:09:16.60,0:09:18.55,Main-Nishikata,Нисиката,0,0,0,,{\i1}I know. It's the usual stuff.
-Dialogue: 0,0:09:18.55,0:09:21.63,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's just making me worry\N so she can enjoy my reaction.
-Dialogue: 0,0:09:21.63,0:09:23.07,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn Такаги-сан!
-Dialogue: 0,0:09:24.79,0:09:27.17,Main-Nishikata,Нисиката,0,0,0,,{\i1}Two can play this game!
-Dialogue: 0,0:09:32.39,0:09:34.20,Main-Takagi,Такаги,0,0,0,,Are you laughing because\N your drawing sucks so bad?
-Dialogue: 0,0:09:34.20,0:09:35.13,Main-Nishikata,Нисиката,0,0,0,,No!
-Dialogue: 0,0:09:35.44,0:09:38.17,Main-Takagi,Такаги,0,0,0,,Then, is there something on my face?
-Dialogue: 0,0:09:39.12,0:09:41.84,Main-Nishikata,Нисиката,0,0,0,,{\i1}I didn't expect her to ask me straight.
-Dialogue: 0,0:09:41.84,0:09:43.05,Main-Nishikata,Нисиката,0,0,0,,N-No…
-Dialogue: 0,0:09:45.09,0:09:47.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}No damage…
-Dialogue: 0,0:09:47.36,0:09:49.50,Main-Yukari,Юкари,0,0,0,,I told you, Мина!
-Dialogue: 0,0:09:49.97,0:09:52.61,Main-Yukari,Юкари,0,0,0,,My eyes don't slant upward so much.
-Dialogue: 0,0:09:52.61,0:09:55.02,Main-Mina,Мина,0,0,0,,That's how I envision you, though.
-Dialogue: 0,0:09:55.02,0:09:57.01,Main-Yukari,Юкари,0,0,0,,Don't draw me based on\N your «envisioning»! Observe!
-Dialogue: 0,0:09:57.01,0:09:58.18,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's it!
-Dialogue: 0,0:09:58.68,0:10:00.53,Main-Takagi,Такаги,0,0,0,,Huh? This is me?
-Dialogue: 0,0:10:00.53,0:10:03.58,Main-Nishikata,Нисиката,0,0,0,,Well, that how I envision you.
-Dialogue: 0,0:10:04.37,0:10:05.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's what I'll say.
-Dialogue: 0,0:10:13.92,0:10:15.96,Main,Teacher,0,0,0,,Ten more minutes.
-Dialogue: 0,0:10:16.55,0:10:18.56,Main-Nishikata,Нисиката,0,0,0,,{\i1}Okay, this looks good.
+Dialogue: 0,0:00:06.51,0:00:09.03,Main-Nishikata,Нисиката,0,0,0,,{\i1}Правила, чтобы подойти к кошке.
+Dialogue: 0,0:00:09.71,0:00:11.69,Main-Nishikata,Нисиката,0,0,0,,{\i1}Первое: не смотреть в глаза.
+Dialogue: 0,0:00:12.11,0:00:15.08,Main-Nishikata,Нисиката,0,0,0,,{\i1}Второе: пригнуться.
+Dialogue: 0,0:00:17.84,0:00:22.43,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ну, что? Теперь ты понял, что я для тебя не опасен?
+Dialogue: 0,0:00:23.34,0:00:24.42,Main-Nishikata,Нисиката,0,0,0,,{\i1}И третье:
+Dialogue: 0,0:00:25.45,0:00:27.96,Main-Nishikata,Нисиката,0,0,0,,{\i1}Приближаться медленно.
+Dialogue: 0,0:00:30.42,0:00:31.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вот это да!
+Dialogue: 0,0:00:31.93,0:00:35.43,Main-Nishikata,Нисиката,0,0,0,,{\i1}Благодаря советам из ТВ-шоу, я смог подойти так близко!
+Dialogue: 0,0:00:40.01,0:00:41.47,Main-Takagi,Такаги,0,0,0,,О, да это же Нисиката.
+Dialogue: 0,0:00:47.73,0:00:48.94,Main-Takagi,Такаги,0,0,0,,Что ты тут делаешь?
+Dialogue: 0,0:00:51.61,0:00:53.17,Main-Nishikata,Нисиката,0,0,0,,Н-Ничего такого…
+Dialogue: 0,0:02:35.86,0:02:36.66,Main-Nishikata,Нисиката,0,0,0,,«Кошка»
+Dialogue: 0,0:02:39.26,0:02:44.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чёртова Такаги-сан!\N Ещё немного и я бы погладил кошку!
+Dialogue: 0,0:02:44.81,0:02:45.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}Правда…
+Dialogue: 0,0:02:46.35,0:02:49.81,Main-Nishikata,Нисиката,0,0,0,,{\i1}Как же хорошо, что она не увидела, как я её глажу.
+Dialogue: 0,0:02:50.48,0:02:52.19,Main-Nishikata,Нисиката,0,0,0,,{\i1}Если бы увидела…
+Dialogue: 0,0:02:52.49,0:02:55.01,Main-Takagi,Такаги,0,0,0,,Ахаха! Нисиката гладит кошку!
+Dialogue: 0,0:02:55.01,0:02:57.15,Main-Takagi,Такаги,0,0,0,,Тебе так нравятся миленькие кошечки?
+Dialogue: 0,0:02:57.51,0:02:59.76,Main-Nishikata,Нисиката,0,0,0,,{\i1}Не сомневаюсь, что так и будет.
+Dialogue: 0,0:03:01.81,0:03:06.08,Main-Nishikata,Нисиката,0,0,0,,{\i1}Разве стоит давать Такаги-сан лишний раз \N повод посмеяться надо мной?
+Dialogue: 0,0:03:06.37,0:03:07.48,Main-Takagi,Такаги,0,0,0,,О, там кошка.
+Dialogue: 0,0:03:07.48,0:03:08.28,Main-Nishikata,Нисиката,0,0,0,,Где?!
+Dialogue: 0,0:03:10.06,0:03:11.62,Main-Takagi,Такаги,0,0,0,,Любишь кошек?
+Dialogue: 0,0:03:11.62,0:03:13.08,Main-Nishikata,Нисиката,0,0,0,,Д-Да так…
+Dialogue: 0,0:03:13.36,0:03:15.26,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чёрт! Проговорился.
+Dialogue: 0,0:03:15.86,0:03:16.65,Main-Takagi,Такаги,0,0,0,,Вот так.
+Dialogue: 0,0:03:18.20,0:03:19.18,Main-Takagi,Такаги,0,0,0,,Кис-кис.
+Dialogue: 0,0:03:20.10,0:03:21.26,Main-Takagi,Такаги,0,0,0,,Иди сюда.
+Dialogue: 0,0:03:22.44,0:03:26.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}Как же ты наивна, Такаги-сан.\N Кошки очень осторожны.
+Dialogue: 0,0:03:26.33,0:03:28.20,Main-Nishikata,Нисиката,0,0,0,,{\i1}У тебя ничего не—
+Dialogue: 0,0:03:28.60,0:03:30.62,Main-Takagi,Такаги,0,0,0,,О, пришла.
+Dialogue: 0,0:03:31.06,0:03:32.50,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чё?!
+Dialogue: 0,0:03:32.50,0:03:35.23,Main-Nishikata,Нисиката,0,0,0,,{\i1}С чего вдруг она пришла к ней?!
+Dialogue: 0,0:03:35.23,0:03:38.67,Main-Nishikata,Нисиката,0,0,0,,{\i1}Неужели, Такаги-сан — какая-нибудь повелительница кошек?!
+Dialogue: 0,0:03:39.11,0:03:42.25,Main-Takagi,Такаги,0,0,0,,Молодец, молодец. Ты, как всегда, очаровательна, Мита.
+Dialogue: 0,0:03:43.41,0:03:45.06,Main-Nishikata,Нисиката,0,0,0,,Знаешь эту кошку?
+Dialogue: 0,0:03:45.06,0:03:48.37,Main-Takagi,Такаги,0,0,0,,Угу. Это кошка старушки, которая живёт рядом с нами.
+Dialogue: 0,0:03:48.81,0:03:51.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}Вот оно что. Зря переживал.
+Dialogue: 0,0:03:51.55,0:03:53.21,Main-Takagi,Такаги,0,0,0,,Молодец, молодец.
+Dialogue: 0,0:04:00.92,0:04:04.75,Main-Takagi,Такаги,0,0,0,,Этот котёнок любит людей.\N Можешь гладить сколько хочешь.
+Dialogue: 0,0:04:05.76,0:04:07.41,Main-Nishikata,Нисиката,0,0,0,,{\i1}Гладить сколько хочешь?!
+Dialogue: 0,0:04:07.41,0:04:09.52,Main-Nishikata,Нисиката,0,0,0,,{\i1}Кошка, которую можно гладить?!
+Dialogue: 0,0:04:09.75,0:04:11.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Круто!
+Dialogue: 0,0:04:12.76,0:04:14.35,Main-Takagi,Такаги,0,0,0,,Нисиката, хочешь погладить?
+Dialogue: 0,0:04:14.35,0:04:16.06,Main-Nishikata,Нисиката,0,0,0,,Э?! Зачем?!
+Dialogue: 0,0:04:16.06,0:04:18.88,Main-Takagi,Такаги,0,0,0,,Тогда, ты же пытался погладить кошку на дороге?
+Dialogue: 0,0:04:18.88,0:04:21.03,Main-Takagi,Такаги,0,0,0,,Ты использовал приёмы из того ТВ-шоу.
+Dialogue: 0,0:04:21.58,0:04:23.28,Main-Takagi,Такаги,0,0,0,,Тебе же нравятся кошки?
+Dialogue: 0,0:04:23.28,0:04:25.24,Main-Nishikata,Нисиката,0,0,0,,{\i1}Р-Раскусила!
+Dialogue: 0,0:04:25.24,0:04:29.56,Main-Nishikata,Нисиката,0,0,0,,Я просто хотел проверить, работают ли приёмы из ТВ-шоу.
+Dialogue: 0,0:04:30.43,0:04:33.29,Main-Takagi,Такаги,0,0,0,,Так, значит тебе не особо нравятся кошки?
+Dialogue: 0,0:04:33.29,0:04:35.48,Main-Nishikata,Нисиката,0,0,0,,Ну-у, вроде того.
+Dialogue: 0,0:04:35.48,0:04:38.21,Main-Nishikata,Нисиката,0,0,0,,Не то, чтобы я очень хотел его погладить.
+Dialogue: 0,0:04:38.48,0:04:40.59,Main-Takagi,Такаги,0,0,0,,Э?! Вот оно что?
+Dialogue: 0,0:04:40.90,0:04:42.80,Main-Takagi,Такаги,0,0,0,,Ну, что за прелесть?
+Dialogue: 0,0:04:43.11,0:04:45.01,Main-Takagi,Такаги,0,0,0,,Такая пушистая шёрстка,
+Dialogue: 0,0:04:45.41,0:04:47.47,Main-Takagi,Такаги,0,0,0,,а лапки такие мягкие-мягкие.
+Dialogue: 0,0:04:50.47,0:04:53.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Эта кошка даёт людям трогать подушечки на лапках?!
+Dialogue: 0,0:04:53.93,0:04:55.98,Main-Nishikata,Нисиката,0,0,0,,{\i1}Х-Хочу пожмякать.
+Dialogue: 0,0:04:55.98,0:04:58.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}Только, поздно уже метаться!
+Dialogue: 0,0:05:00.45,0:05:01.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно!
+Dialogue: 0,0:05:02.22,0:05:06.56,Main-Nishikata,Нисиката,0,0,0,,Ох, я правда не понимаю, \N что люди нашли в том,  чтобы гладить кошек.
+Dialogue: 0,0:05:07.32,0:05:09.64,Main-Nishikata,Нисиката,0,0,0,,Разве они такие милые?
+Dialogue: 0,0:05:09.64,0:05:14.40,Main-Nishikata,Нисиката,0,0,0,,Пусть они и милые, но гладить — ни за что!
+Dialogue: 0,0:05:14.40,0:05:18.63,Main-Nishikata,Нисиката,0,0,0,,Так ведь, они же — звери. Кто знает, где он лазил.
+Dialogue: 0,0:05:20.86,0:05:24.42,Main-Takagi,Такаги,0,0,0,,Ты так говоришь, потому что боишься, что тебя поцарапают.
+Dialogue: 0,0:05:24.42,0:05:26.13,Main-Nishikata,Нисиката,0,0,0,,{\i1}Попалась!
+Dialogue: 0,0:05:26.13,0:05:28.09,Main-Nishikata,Нисиката,0,0,0,,Конечно же, нет!
+Dialogue: 0,0:05:28.09,0:05:32.10,Main-Nishikata,Нисиката,0,0,0,,Отлично, сейчас я тебе докажу, что я не боюсь их гладить!
+Dialogue: 0,0:05:32.36,0:05:34.32,Main-Takagi,Такаги,0,0,0,,Вот как. Прости, что сомневалась.
+Dialogue: 0,0:05:34.32,0:05:35.06,Main-Nishikata,Нисиката,0,0,0,,Э?!
+Dialogue: 0,0:05:35.56,0:05:36.81,Main-Takagi,Такаги,0,0,0,,Я тебе верю.
+Dialogue: 0,0:05:36.81,0:05:39.02,Main-Nishikata,Нисиката,0,0,0,,Э?!
+Dialogue: 0,0:05:43.94,0:05:46.25,Main-Takagi,Такаги,0,0,0,,У тебя всё на лице написано, Нисиката!
+Dialogue: 0,0:05:46.25,0:05:48.03,Main-Takagi,Такаги,0,0,0,,Ты же хочешь её {\i1}погладить{\i0}?
+Dialogue: 0,0:05:49.26,0:05:51.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чтоб тебя, Такаги-сан!
+Dialogue: 0,0:05:52.09,0:05:54.33,Main-Takagi,Такаги,0,0,0,,Ну так что? Будешь? Не будешь?
+Dialogue: 0,0:05:58.22,0:06:00.79,Main-Nishikata,Нисиката,0,0,0,,Значит можно… погладить?
+Dialogue: 0,0:06:01.80,0:06:02.54,Main-Takagi,Такаги,0,0,0,,Угу.
+Dialogue: 0,0:06:03.14,0:06:04.88,Main-Takagi,Такаги,0,0,0,,Правда, Мита уже убежал.
+Dialogue: 0,0:06:04.88,0:06:06.51,Main-Nishikata,Нисиката,0,0,0,,Э?! Уже убежал?!
+Dialogue: 0,0:06:07.03,0:06:09.25,Main-Takagi,Такаги,0,0,0,,Сейчас найдём другого кота. Нисиката?
+Dialogue: 0,0:06:09.58,0:06:12.00,Main-Nishikata,Нисиката,0,0,0,,Мы так в школу опоздаем.
+Dialogue: 0,0:06:15.14,0:06:18.83,Main-Mano,Мано,0,0,0,,Сато-тян нравится Танака-кун из третьего.
+Dialogue: 0,0:06:18.83,0:06:20.99,Main,Girl 2,0,0,0,,Ух ты, кажется, я поняла!
+Dialogue: 0,0:06:25.52,0:06:28.49,Main-Yukari,Юкари,0,0,0,,{\i1}Я тоже хочу поговорить о любви!
+Dialogue: 0,0:06:30.65,0:06:31.45,Main-Mina,Мина,0,0,0,,«Вкусы»
+Dialogue: 0,0:06:33.25,0:06:34.95,Main-Yukari,Юкари,0,0,0,,Эй, девчат, послушайте,
+Dialogue: 0,0:06:35.26,0:06:37.69,Main-Yukari,Юкари,0,0,0,,а вы какой тип предпочитаете?
+Dialogue: 0,0:06:40.58,0:06:41.96,Main-Yukari,Юкари,0,0,0,,{\i1}Может, слишком внезапно?
+Dialogue: 0,0:06:42.50,0:06:45.84,Main-Mina,Мина,0,0,0,,Мне много кто нравится.
+Dialogue: 0,0:06:46.27,0:06:47.05,Main-Yukari,Юкари,0,0,0,,{\i1}Ого?!
+Dialogue: 0,0:06:47.27,0:06:50.38,Main-Sanae,Санаэ,0,0,0,,В моём вкусе хорошо сложенные и длиноволосые.
+Dialogue: 0,0:06:50.38,0:06:52.85,Main-Yukari,Юкари,0,0,0,,У-Ух ты! Не ожидала от тебя.
+Dialogue: 0,0:06:52.85,0:06:56.06,Main-Yukari,Юкари,0,0,0,,{\i1}Получилось! У вас получилось!
+Dialogue: 0,0:06:56.06,0:06:59.25,Main-Mina,Мина,0,0,0,,Мы как раз только что это обсуждали.
+Dialogue: 0,0:06:59.25,0:07:01.02,Main-Yukari,Юкари,0,0,0,,Э?! П-Правда что ли?
+Dialogue: 0,0:07:01.56,0:07:03.04,Main-Yukari,Юкари,0,0,0,,{\i1}Они всегда такие?
+Dialogue: 0,0:07:03.04,0:07:05.26,Main-Yukari,Юкари,0,0,0,,{\i1}Отлично, значит копнём глубже.
+Dialogue: 0,0:07:05.26,0:07:06.88,Main-Mina,Мина,0,0,0,,Юкари-тян, а тебе какие?
+Dialogue: 0,0:07:07.83,0:07:09.64,Main-Yukari,Юкари,0,0,0,,Спасибо, что спросила!
+Dialogue: 0,0:07:10.26,0:07:14.41,Main-Yukari,Юкари,0,0,0,,Мне нравятся длинноногие и красивые, вроде того…
+Dialogue: 0,0:07:14.67,0:07:15.65,Main-Sanae,Санаэ,0,0,0,,А волосы?
+Dialogue: 0,0:07:15.65,0:07:17.87,Main-Yukari,Юкари,0,0,0,,{\i1}Санаэ делает акцент на волосах.
+Dialogue: 0,0:07:18.17,0:07:20.85,Main-Yukari,Юкари,0,0,0,,Мне, как и Санаэ, нравятся с длинными.
+Dialogue: 0,0:07:20.85,0:07:22.17,Main-Yukari,Юкари,0,0,0,,{\i1}Ах! Здорово!
+Dialogue: 0,0:07:22.17,0:07:25.29,Main-Yukari,Юкари,0,0,0,,{\i1}Вот оно, чем должны заниматься мои друзья!
+Dialogue: 0,0:07:25.55,0:07:27.13,Main-Mina,Мина,0,0,0,,Значит, это Борзая.
+Dialogue: 0,0:07:27.13,0:07:28.46,Main-Yukari,Юкари,0,0,0,,Да-да, Борзая…
+Dialogue: 0,0:07:29.88,0:07:32.09,Main-Yukari,Юкари,0,0,0,,О-О чём вы тут разговариваете?
+Dialogue: 0,0:07:32.81,0:07:34.38,Main-Mina,Мина,0,0,0,,О собаках, о чём еще?
+Dialogue: 0,0:07:37.53,0:07:39.07,Main-Mina,Мина,0,0,0,,Так, какие нравятся?
+Dialogue: 0,0:07:39.40,0:07:41.19,Main-Yukari,Юкари,0,0,0,,Мне чихуахуа нравятся.
+Dialogue: 0,0:07:41.19,0:07:43.94,Main-Mina,Мина,0,0,0,,Э? Ты только что другую породу описывала.
+Dialogue: 0,0:07:43.94,0:07:47.33,Main-Sanae,Санаэ,0,0,0,,А, есть же длинношёрстные чихуахуа.
+Dialogue: 0,0:07:49.52,0:07:50.50,Main-Nishikata,Нисиката,0,0,0,,«Портрет»
+Dialogue: 0,0:07:57.44,0:07:58.40,Main-Takagi,Такаги,0,0,0,,Ты тут?\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:07:59.74,0:08:01.18,Main-Takagi,Такаги,0,0,0,,Время почти вышло.\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:08:01.98,0:08:02.78,Main-Nishikata,Нисиката,0,0,0,,Угу…\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:08:09.43,0:08:11.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}Почему портрет?\N{\alpha&HFFF&}`{\alpha}
+Dialogue: 0,0:08:11.35,0:08:13.01,Main-Nishikata,Нисиката,0,0,0,,{\i1}Разве нельзя что-нибудь ещё?
+Dialogue: 0,0:08:21.33,0:08:23.61,Main-Takagi,Такаги,0,0,0,,Нисиката, внимательно смотри на меня!
+Dialogue: 0,0:08:23.61,0:08:24.98,Main-Nishikata,Нисиката,0,0,0,,Смотрю я.
+Dialogue: 0,0:08:28.57,0:08:29.65,Main,Teacher,0,0,0,,Внимание.
+Dialogue: 0,0:08:29.65,0:08:31.73,Main,Teacher,0,0,0,,Вы слишком увлеклись отрисовкой,
+Dialogue: 0,0:08:31.73,0:08:34.61,Main,Teacher,0,0,0,,больше времени уходит на отрисовку, а не наблюдение.
+Dialogue: 0,0:08:34.92,0:08:36.07,Main,Teacher,0,0,0,,Не надо так делать.
+Dialogue: 0,0:08:36.61,0:08:37.99,Main,Teacher,0,0,0,,В любом случае, наблюдайте.
+Dialogue: 0,0:08:37.99,0:08:40.08,Main,Teacher,0,0,0,,Сократите время отрисовки вдвое.
+Dialogue: 0,0:08:41.34,0:08:42.35,Main-Takagi,Такаги,0,0,0,,Слышал?
+Dialogue: 0,0:08:44.56,0:08:46.31,Main-Nishikata,Нисиката,0,0,0,,В-Вот оно как.
+Dialogue: 0,0:08:50.95,0:08:52.17,Main-Nishikata,Нисиката,0,0,0,,Ч-Чего?
+Dialogue: 0,0:08:52.88,0:08:54.13,Main-Takagi,Такаги,0,0,0,,Прости, ничего.
+Dialogue: 0,0:08:54.49,0:08:56.86,Main-Nishikata,Нисиката,0,0,0,,{\i1}Почему? Почему она сейчас смеялась?
+Dialogue: 0,0:08:56.86,0:08:58.80,Main-Nishikata,Нисиката,0,0,0,,{\i1}Может, у меня что-то на лице?
+Dialogue: 0,0:08:59.29,0:09:03.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}Нет, на перемене, в зеркале туалета,\N ничего странного не заметил.
+Dialogue: 0,0:09:04.10,0:09:06.33,Main-Nishikata,Нисиката,0,0,0,,{\i1}Тогда, почему? Волосы торчат?
+Dialogue: 0,0:09:06.33,0:09:08.48,Main-Nishikata,Нисиката,0,0,0,,{\i1}Нет, этого тоже не должно быть.
+Dialogue: 0,0:09:09.43,0:09:12.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Неужели?! Из-за самого лица?!
+Dialogue: 0,0:09:12.04,0:09:13.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}С этим я ничего не могу поделать!
+Dialogue: 0,0:09:14.25,0:09:16.14,Main-Nishikata,Нисиката,0,0,0,,{\i1}Соберись! Нужно успокоиться.
+Dialogue: 0,0:09:16.60,0:09:18.55,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно. Опять, как обычно.
+Dialogue: 0,0:09:18.55,0:09:21.63,Main-Nishikata,Нисиката,0,0,0,,{\i1}План веселья в том, чтобы заставить меня смущаться.
+Dialogue: 0,0:09:21.63,0:09:23.07,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чтоб тебя, Такаги-сан!
+Dialogue: 0,0:09:24.79,0:09:27.17,Main-Nishikata,Нисиката,0,0,0,,{\i1}Сейчас я тебе верну должок!
+Dialogue: 0,0:09:32.39,0:09:34.20,Main-Takagi,Такаги,0,0,0,,Слишком уродливо, вот и смеёшься?
+Dialogue: 0,0:09:34.20,0:09:35.13,Main-Nishikata,Нисиката,0,0,0,,Нет!
+Dialogue: 0,0:09:35.44,0:09:38.17,Main-Takagi,Такаги,0,0,0,,Тогда, может у меня что-то на лице?
+Dialogue: 0,0:09:39.12,0:09:41.84,Main-Nishikata,Нисиката,0,0,0,,{\i1}Неужели, так прямо и спросила.
+Dialogue: 0,0:09:41.84,0:09:43.05,Main-Nishikata,Нисиката,0,0,0,,Н-Нет…
+Dialogue: 0,0:09:45.09,0:09:47.36,Main-Nishikata,Нисиката,0,0,0,,{\i1}Не задел?…
+Dialogue: 0,0:09:47.36,0:09:49.50,Main-Yukari,Юкари,0,0,0,,Поэтому я тебе и говорила, Мина!
+Dialogue: 0,0:09:49.97,0:09:52.61,Main-Yukari,Юкари,0,0,0,,У меня ведь не такие кривые глаза.
+Dialogue: 0,0:09:52.61,0:09:55.02,Main-Mina,Мина,0,0,0,,Я — художник, я так вижу.
+Dialogue: 0,0:09:55.02,0:09:57.01,Main-Yukari,Юкари,0,0,0,,Какое ещё «вижу»?! Смотри внимательней!
+Dialogue: 0,0:09:57.01,0:09:58.18,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно!
+Dialogue: 0,0:09:58.68,0:10:00.53,Main-Takagi,Такаги,0,0,0,,Э? Разве это я?
+Dialogue: 0,0:10:00.53,0:10:03.58,Main-Nishikata,Нисиката,0,0,0,,Ой, это всё моё {\i1}виденье{\i0} виновато.
+Dialogue: 0,0:10:04.37,0:10:05.66,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так и скажу.
+Dialogue: 0,0:10:13.92,0:10:15.96,Main,Teacher,0,0,0,,Так, ещё 10 минут.
+Dialogue: 0,0:10:16.55,0:10:18.56,Main-Nishikata,Нисиката,0,0,0,,{\i1}Отлично, получается неплохо.
 Dialogue: 0,0:10:19.41,0:10:20.26,Main-Takagi,Такаги,0,0,0,,Нисиката,
-Dialogue: 0,0:10:21.33,0:10:22.46,Main-Takagi,Такаги,0,0,0,,can I take a look?
-Dialogue: 0,0:10:26.77,0:10:28.17,Main-Nishikata,Нисиката,0,0,0,,Yeah, go ahead.
-Dialogue: 0,0:10:33.77,0:10:35.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}How's that, Такаги-сан?
-Dialogue: 0,0:10:40.64,0:10:43.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}Crap, did I go too far?
+Dialogue: 0,0:10:21.33,0:10:22.46,Main-Takagi,Такаги,0,0,0,,можно глянуть?
+Dialogue: 0,0:10:26.77,0:10:28.17,Main-Nishikata,Нисиката,0,0,0,,Ага, смотри.
+Dialogue: 0,0:10:33.77,0:10:35.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ну что, Такаги-сан?
+Dialogue: 0,0:10:40.64,0:10:43.37,Main-Nishikata,Нисиката,0,0,0,,{\i1}Чёрт, может я перегнул?
 Dialogue: 0,0:10:44.20,0:10:48.29,Main-Nishikata,Нисиката,0,0,0,,U-Uh, I drew it based on how I envision you.
 Dialogue: 0,0:10:48.67,0:10:49.68,Main-Takagi,Такаги,0,0,0,,Нисиката.
-Dialogue: 0,0:10:57.98,0:11:00.68,Main-Nishikata,Нисиката,0,0,0,,What the heck?! Такаги-сан, your face!
+Dialogue: 0,0:10:57.98,0:11:00.68,Main-Nishikata,Нисиката,0,0,0,,Что за фигня?! Такаги-сан, вот это рожа!
 Dialogue: 0,0:11:01.58,0:11:02.80,Main-Nishikata,Нисиката,0,0,0,,My stomach hurts!
 Dialogue: 0,0:11:03.32,0:11:05.89,Main-Takagi,Такаги,0,0,0,,If you're going to draw me weird,\N you might as well make it really weird.
 Dialogue: 0,0:11:06.78,0:11:08.49,Main-Takagi,Такаги,0,0,0,,Here, look closely.
@@ -426,18 +426,18 @@ Dialogue: 0,0:21:30.18,0:21:33.50,Main-Nishikata,Нисиката,0,0,0,,So pret
 Dialogue: 0,0:21:35.72,0:21:37.14,Main-Takagi,Такаги,0,0,0,,I guess I can do that.
 Dialogue: 0,0:21:38.61,0:21:42.36,Main-Takagi,Такаги,0,0,0,,I'll pretend I didn't hear\N it if you say it again.
 Dialogue: 0,0:21:44.19,0:21:46.11,Main-Nishikata,Нисиката,0,0,0,,Why would I?!
-Dialogue: 0,0:21:46.39,0:21:48.22,Main-Nishikata,Нисиката,0,0,0,,I-I'm going this way.
-Dialogue: 0,0:21:48.22,0:21:49.82,Main-Nishikata,Нисиката,0,0,0,,Bye-bye!
-Dialogue: 0,0:22:05.45,0:22:06.72,Main-Takagi,Такаги,0,0,0,,{\i1}A critical hit…
-Dialogue: 0,0:22:09.46,0:22:10.56,Main-Takagi,Такаги,0,0,0,,{\i1}Terrifying.
+Dialogue: 0,0:21:46.39,0:21:48.22,Main-Nishikata,Нисиката,0,0,0,,М-Мне в эту сторону.
+Dialogue: 0,0:21:48.22,0:21:49.82,Main-Nishikata,Нисиката,0,0,0,,Ну всё, пока-пока!
+Dialogue: 0,0:22:05.45,0:22:06.72,Main-Takagi,Такаги,0,0,0,,{\i1}Критический урон…
+Dialogue: 0,0:22:09.46,0:22:10.56,Main-Takagi,Такаги,0,0,0,,{\i1}Жуть.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Надписи
-Dialogue: 0,0:02:33.94,0:02:37.92,Episode Title,Title 1,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Cat
-Dialogue: 0,0:06:28.51,0:06:32.50,Episode Title,Title 2,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Taste
-Dialogue: 0,0:07:47.98,0:07:51.92,Episode Title,Title 3,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Portrait
-Dialogue: 0,0:12:09.93,0:12:13.93,Episode Title,Title 4,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Fortune Telling
-Dialogue: 0,0:16:53.96,0:16:57.38,Episode Title,Title 5,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Critical Hit
+Dialogue: 0,0:02:33.94,0:02:37.92,Episode Title,Title 1,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Кошка
+Dialogue: 0,0:06:28.51,0:06:32.50,Episode Title,Title 2,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Вкусы
+Dialogue: 0,0:07:47.98,0:07:51.92,Episode Title,Title 3,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Портрет
+Dialogue: 0,0:12:09.93,0:12:13.93,Episode Title,Title 4,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Гадание
+Dialogue: 0,0:16:53.96,0:16:57.38,Episode Title,Title 5,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Критический урон
 Dialogue: 0,0:06:32.51,0:06:34.94,Black Signs,Sign,0,0,0,,Year 1 Class 2
-Dialogue: 0,0:08:17.95,0:08:20.86,Black Signs,Poster,0,0,0,,The importance of a smile
+Dialogue: 0,0:08:17.95,0:08:20.86,Black Signs,Poster,0,0,0,,Важность улыбки
 Dialogue: 0,0:12:09.93,0:12:11.96,Black Signs,Sign,0,0,0,,House of Fortune
 Dialogue: 0,0:16:52.65,0:16:53.15,Black Signs,,0,0,0,,Нисиката has appeared!
 Dialogue: 0,0:16:52.65,0:16:57.39,Black Signs,Left,0,0,0,,Toy with\N \N Soothe\N \N Run\N \N Tease
