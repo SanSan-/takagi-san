@@ -34,6 +34,8 @@ SanSan @Kaschenka
 - PT Sans
 - PT Serif Caption
 - Five Minutes
+- Comic Sans MS
+- Pixel Cyr
 
 
 ## Пояснения

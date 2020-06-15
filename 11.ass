@@ -12,14 +12,15 @@ Original Script: Ohys-Raws
 Original Translation: SanSan
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: [Ohys-Raws] Karakai Jouzu no Takagi-san - 11 (MX 1280x720 x264 AAC).mp4
 Video File: [Ohys-Raws] Karakai Jouzu no Takagi-san - 11 (MX 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 161
-Active Line: 169
-Video Position: 15840
+Scroll Position: 374
+Active Line: 377
+Video Position: 11221
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,6 +53,7 @@ Style: Title,PT Serif Caption,95,&H00000000,&H000000FF,&H00FFFFFF,&H00FAFAFD,0,0
 Style: EDTop,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0,0,0,100,100,0,0,1,2,0,8,31,32,45,0
 Style: EDBottom,Five Minutes,65,&H00FFFFFF,&H00E874EA,&H00D033D3,&H00820D84,-1,0,0,0,100,100,0,0,1,2,0,2,31,32,45,0
 Style: Email-Note,Helvetica Neue,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Pixel,Pixel Cyr,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -245,8 +247,8 @@ Dialogue: 0,0:11:55.26,0:11:56.16,Main-Takagi,Такаги,0,0,0,,Finished.
 Dialogue: 0,0:12:01.06,0:12:03.34,Main-Nishikata,Нисиката,0,0,0,,My face isn't that red!
 Dialogue: 0,0:12:03.34,0:12:04.79,Main-Takagi,Такаги,0,0,0,,You've been blushing the whole time.
 Dialogue: 0,0:12:04.79,0:12:06.95,Main-Nishikata,Нисиката,0,0,0,,No, I haven't! It just looks like that.
-Dialogue: 0,0:12:07.77,0:12:09.95,Main-Nishikata,Нисиката,0,0,0,,Look carefully! How am I blushing?!
-Dialogue: 0,0:12:11.14,0:12:11.96,Main-Nishikata,Нисиката,0,0,0,,«Fortune Telling.»
+Dialogue: 0,0:12:07.77,0:12:09.90,Main-Nishikata,Нисиката,0,0,0,,Look carefully! How am I blushing?!
+Dialogue: 0,0:12:11.14,0:12:11.96,Main-Nishikata,Нисиката,0,0,0,,«Предсказания»
 Dialogue: 0,0:12:16.54,0:12:20.92,Main,Girl,0,0,0,,Oh, this card means your wish\N will more or less come true.
 Dialogue: 0,0:12:20.92,0:12:22.01,Main-Takagi,Такаги,0,0,0,,Really?
 Dialogue: 0,0:12:23.46,0:12:26.09,Main-Yukari,Юкари,0,0,0,,Why don't you get your\N love fortune telling done, too, Мина?
@@ -341,7 +343,6 @@ Dialogue: 0,0:16:42.21,0:16:43.01,Main-Nishikata,Нисиката,0,0,0,,Huh?
 Dialogue: 0,0:16:44.02,0:16:46.57,Main-Takagi,Такаги,0,0,0,,Let's clean up, Нисиката.
 Dialogue: 0,0:16:46.57,0:16:47.37,Main-Nishikata,Нисиката,0,0,0,,Uh,
 Dialogue: 0,0:16:47.64,0:16:49.54,Main-Nishikata,Нисиката,0,0,0,,yeah… Huh?
-Dialogue: 0,0:16:55.23,0:16:56.29,Main-Nishikata,Нисиката,0,0,0,,«Critical.»
 Dialogue: 0,0:16:59.81,0:17:03.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}I'll finally win against\N Такаги-сан today, for sure!
 Dialogue: 0,0:17:05.32,0:17:06.75,Main-Takagi,Такаги,0,0,0,,Oh, Нисиката.
 Dialogue: 0,0:17:07.30,0:17:08.10,Main-Takagi,Такаги,0,0,0,,Morning.
@@ -431,19 +432,103 @@ Dialogue: 0,0:21:48.22,0:21:49.82,Main-Nishikata,Нисиката,0,0,0,,Ну в
 Dialogue: 0,0:22:05.45,0:22:06.72,Main-Takagi,Такаги,0,0,0,,{\i1}Критический урон…
 Dialogue: 0,0:22:09.46,0:22:10.56,Main-Takagi,Такаги,0,0,0,,{\i1}Жуть.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Надписи
-Dialogue: 0,0:02:33.94,0:02:37.92,Episode Title,Title 1,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Кошка
-Dialogue: 0,0:06:28.51,0:06:32.50,Episode Title,Title 2,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Вкусы
-Dialogue: 0,0:07:47.98,0:07:51.92,Episode Title,Title 3,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Портрет
-Dialogue: 0,0:12:09.93,0:12:13.93,Episode Title,Title 4,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Гадание
-Dialogue: 0,0:16:53.96,0:16:57.38,Episode Title,Title 5,0,0,0,,{\1c&H5167EC&\pos(381.887,424.5)}Критический урон
-Dialogue: 0,0:06:32.51,0:06:34.94,Black Signs,Sign,0,0,0,,Year 1 Class 2
-Dialogue: 0,0:08:17.95,0:08:20.86,Black Signs,Poster,0,0,0,,Важность улыбки
-Dialogue: 0,0:12:09.93,0:12:11.96,Black Signs,Sign,0,0,0,,House of Fortune
-Dialogue: 0,0:16:52.65,0:16:53.15,Black Signs,,0,0,0,,Нисиката has appeared!
-Dialogue: 0,0:16:52.65,0:16:57.39,Black Signs,Left,0,0,0,,Toy with\N \N Soothe\N \N Run\N \N Tease
-Dialogue: 0,0:16:52.65,0:16:57.39,Black Signs,Left,0,0,0,,Такаги-сан
-Dialogue: 0,0:16:53.15,0:16:53.99,Black Signs,Bottom,0,0,0,,Нисиката has appeared!\N Нисиката looks embarrassed.
-Dialogue: 0,0:16:53.99,0:16:54.65,Black Signs,Bottom,0,0,0,,Нисиката looks embarrassed.\N Такаги-сан teases him.
-Dialogue: 0,0:16:54.65,0:16:55.28,Black Signs,Bottom,0,0,0,,Critical hit!
-Dialogue: 0,0:16:55.28,0:16:55.49,Black Signs,Bottom,0,0,0,,Нисиката has been defeated!
-Dialogue: 0,0:16:55.49,0:16:57.37,Black Signs,Bottom,0,0,0,,Нисиката has been defeated!\N Нисиката still looks embarrassed.
+Dialogue: 0,0:02:33.94,0:02:37.92,Episode Title,Title 1,0,0,0,,{\fnComicSansMS\fs150\1c&HC8F1FC&\3c&H164E5D&\bord2\pos(1119.887,346.5)}Кошка
+Dialogue: 0,0:06:28.51,0:06:32.50,Episode Title,Title 2,0,0,0,,{\1c&H5167EC&\pos(737.887,100.5)}Вкусы
+Dialogue: 0,0:07:47.98,0:07:51.92,Episode Title,Title 3,0,0,0,,{\1c&H8FFF6F&\pos(457.887,412.5)}Портрет
+Dialogue: 0,0:12:09.93,0:12:13.93,Episode Title,Title 4,0,0,0,,{\1c&H403A3D&\pos(527.887,466.5)}Предсказания
+Dialogue: 0,0:16:53.96,0:16:57.38,Episode Title,Title 5,0,0,0,,{\1c&H3AFBFC&\3c&HCDE2ED&\4c&H00058D&\bord1\shad4.5\pos(1253.887,290.5)}Критический урон
+Dialogue: 0,0:06:32.51,0:06:34.94,Default - Note,Sign,0,0,0,,{\an4\1c&H0B1E30&\frx351\fry45\frz17.46\pos(386,268)}класс
+Dialogue: 0,0:06:32.51,0:06:34.94,Default - Note,Sign,0,0,0,,{\an4\1c&H0B1E30&\frx351\fry45\frz17.46\pos(220,338)}год
+Dialogue: 0,0:08:17.95,0:08:20.86,Black Signs,Poster,0,0,0,,{\1c&H5251BB&}Важность улыбки
+Dialogue: 0,0:12:09.93,0:12:11.96,Black Signs,Sign,0,0,0,,{\1c&HA65AB2&\bord3\pos(970,150)}Дом предсказаний
+Dialogue: 1,0:16:52.65,0:16:54.11,Pixel,,0,0,0,,{\pos(134,352)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.11,0:16:54.15,Pixel,,0,0,0,,{\pos(156,370)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.15,0:16:54.20,Pixel,,0,0,0,,{\pos(116,330)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.20,0:16:54.24,Pixel,,0,0,0,,{\pos(122,370)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.24,0:16:54.28,Pixel,,0,0,0,,{\pos(156,329)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.28,0:16:54.32,Pixel,,0,0,0,,{\pos(156,370)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.32,0:16:54.36,Pixel,,0,0,0,,{\pos(120,336)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.36,0:16:54.40,Pixel,,0,0,0,,{\pos(114,362)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.40,0:16:54.45,Pixel,,0,0,0,,{\pos(152,330)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.45,0:16:54.49,Pixel,,0,0,0,,{\pos(154,366)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.49,0:16:54.53,Pixel,,0,0,0,,{\pos(122,330)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.53,0:16:54.57,Pixel,,0,0,0,,{\pos(116,372)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.57,0:16:54.61,Pixel,,0,0,0,,{\pos(158,342)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 1,0:16:54.61,0:16:57.39,Pixel,,0,0,0,,{\pos(134,352)}поиграть\N\N\N утешить\N\N\N бежать\N\N\N дразнить
+Dialogue: 0,0:16:52.65,0:16:54.11,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(206,339)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.11,0:16:54.15,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(228,357)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.15,0:16:54.20,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(188,317)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.20,0:16:54.24,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(194,357)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.24,0:16:54.28,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(228,316s)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.28,0:16:54.32,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(228,357)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.32,0:16:54.36,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(192,323)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.36,0:16:54.40,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(186,349)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.40,0:16:54.45,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(224,317)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.45,0:16:54.49,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(226,353)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.49,0:16:54.53,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(194,317)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.53,0:16:54.57,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(188,359)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.57,0:16:54.61,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(230,329)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 0,0:16:54.61,0:16:57.37,Default,,0,0,0,,{\blur1\1c&H131313&\p1\pos(206,339)}m 0 0 l 150 0 150 250 0 250{\p0}
+Dialogue: 1,0:16:52.65,0:16:54.03,Pixel,,0,0,0,,{\fs36\pos(98,246)}Такаги-сан
+Dialogue: 1,0:16:54.03,0:16:54.07,Pixel,,0,0,0,,{\pos(98,246)\iclip(m 122 236 l 100 264 76 234)}Такаги-сан
+Dialogue: 1,0:16:54.07,0:16:54.11,Pixel,,0,0,0,,{\pos(98,246)\iclip(m 218 234 l 186 272 152 236)}Такаги-сан
+Dialogue: 1,0:16:54.11,0:16:54.15,Pixel,,0,0,0,,{\pos(120,264)\iclip(m 310 256 l 272 304 216 250)}Такаги-сан
+Dialogue: 1,0:16:54.15,0:16:54.20,Pixel,,0,0,0,,{\pos(80,224)\iclip(m 268 218 l 228 264 174 212)}Такаги-сан
+Dialogue: 1,0:16:54.20,0:16:54.24,Pixel,,0,0,0,,{\pos(86,264)\iclip(m 272 256 l 236 302 182 250)}Такаги-сан
+Dialogue: 1,0:16:54.24,0:16:54.28,Pixel,,0,0,0,,{\pos(120,223)\iclip(m 306 216 l 270 262 216 206)}Такаги-сан
+Dialogue: 1,0:16:54.28,0:16:54.32,Pixel,,0,0,0,,{\pos(120,264)\iclip(m 308 254 l 270 302 214 248)}Такаги-сан
+Dialogue: 1,0:16:54.32,0:16:54.36,Pixel,,0,0,0,,{\pos(84,230)\iclip(m 272 220 l 234 268 178 214)}Такаги-сан
+Dialogue: 1,0:16:54.36,0:16:54.40,Pixel,,0,0,0,,{\pos(78,256)\iclip(m 264 246 l 226 294 170 240)}Такаги-сан
+Dialogue: 1,0:16:54.40,0:16:54.45,Pixel,,0,0,0,,{\pos(116,224)\iclip(m 306 214 l 268 262 212 208)}Такаги-сан
+Dialogue: 1,0:16:54.45,0:16:54.49,Pixel,,0,0,0,,{\pos(118,260)\iclip(m 304 248 l 266 296 210 242)}Такаги-сан
+Dialogue: 1,0:16:54.49,0:16:54.53,Pixel,,0,0,0,,{\pos(86,224)\iclip(m 274 214 l 236 262 180 208)}Такаги-сан
+Dialogue: 1,0:16:54.53,0:16:54.57,Pixel,,0,0,0,,{\pos(80,266)\iclip(m 266 256 l 228 304 172 250)}Такаги-сан
+Dialogue: 1,0:16:54.57,0:16:54.61,Pixel,,0,0,0,,{\pos(122,236)\iclip(m 308 226 l 270 274 214 220)}Такаги-сан
+Dialogue: 1,0:16:54.61,0:16:57.37,Pixel,,0,0,0,,{\pos(98,246)\iclip(m 286 236 l 248 284 192 230)}Такаги-сан
+Dialogue: 0,0:16:52.65,0:16:54.07,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(96,244)\iclip(m 122 236 l 100 264 76 234)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.07,0:16:54.11,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(96,244)\iclip(m 218 234 l 186 272 152 236)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.11,0:16:54.15,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(118,262)\iclip(m 310 256 l 272 304 216 250)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.15,0:16:54.20,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(78,222)\iclip(m 268 218 l 228 264 174 212)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.20,0:16:54.24,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(84,262)\iclip(m 272 256 l 236 302 182 250)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.24,0:16:54.28,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(118,221)\iclip(m 306 216 l 270 262 216 206)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.28,0:16:54.32,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(118,262)\iclip(m 308 254 l 270 302 214 248)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.32,0:16:54.36,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(82,228)\iclip(m 272 220 l 234 268 178 214)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.36,0:16:54.40,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(76,254)\iclip(m 264 246 l 226 294 170 240)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.40,0:16:54.45,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(114,222)\iclip(m 306 214 l 268 262 212 208)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.45,0:16:54.49,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(116,258)\iclip(m 304 248 l 266 296 210 242)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.49,0:16:54.53,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(84,222)\iclip(m 274 214 l 236 262 180 208)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.53,0:16:54.57,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(78,264)\iclip(m 266 256 l 228 304 172 250)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.57,0:16:54.61,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(120,234)\iclip(m 308 226 l 270 274 214 220)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 0,0:16:54.61,0:16:57.37,Pixel,,0,0,0,,{\blur1\1c&H171719&\p1\pos(96,244)\iclip(m 286 236 l 248 284 192 230)}m 0 0 l 190 0 190 55 0 55{\p0}
+Dialogue: 1,0:16:52.65,0:16:53.15,Pixel,,0,0,0,,{\pos(602,572)\clip(572,552,1168,692)}Нисиката появился!
+Dialogue: 1,0:16:53.15,0:16:54.11,Pixel,,0,0,0,,{\move(602,572,602,492,780,946)\clip(572,552,1168,692)}Нисиката появился!\N\N\N Нисиката выглядит смущённым.
+Dialogue: 1,0:16:53.99,0:16:54.11,Pixel,,0,0,0,,{\move(604,676,604,622)\clip(572,552,1168,692)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.11,0:16:54.15,Pixel,,0,0,0,,{\clip(598,570,1190,710)\pos(626,564)}Нисиката выглядит смущённым.\N\N\N Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.15,0:16:54.20,Pixel,,0,0,0,,{\pos(584,569))}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.20,0:16:54.24,Pixel,,0,0,0,,{\pos(590,588)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.24,0:16:54.28,Pixel,,0,0,0,,{\pos(624,547)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.28,0:16:54.32,Pixel,,0,0,0,,{\pos(624,588)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.32,0:16:54.36,Pixel,,0,0,0,,{\pos(588,554)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.36,0:16:54.40,Pixel,,0,0,0,,{\pos(582,580)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.40,0:16:54.45,Pixel,,0,0,0,,{\pos(620,548)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.45,0:16:54.49,Pixel,,0,0,0,,{\pos(622,584)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.49,0:16:54.53,Pixel,,0,0,0,,{\pos(590,548)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.53,0:16:54.57,Pixel,,0,0,0,,{\pos(584,590)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.57,0:16:54.61,Pixel,,0,0,0,,{\pos(626,560)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.61,0:16:55.36,Pixel,,0,0,0,,{\move(602,570,602,525,571,738)\clip(572,552,1168,692)}Такаги-сан дразнит его.
+Dialogue: 1,0:16:54.65,0:16:55.57,Pixel,,0,0,0,,{\move(602,630,602,526,531,906)\clip(572,552,1168,692)}Нисиката получает критический урон!!
+Dialogue: 1,0:16:55.20,0:16:57.37,Pixel,,0,0,0,,{\move(602,686,602,576,0,398)\clip(572,552,1168,692)}Нисиката повержен!\N\N\N Нисиката всё ещё смущается.
+Dialogue: 0,0:16:52.65,0:16:54.11,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(570,550)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.11,0:16:54.15,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(592,568)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.15,0:16:54.20,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(552,528)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.20,0:16:54.24,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(558,568)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.24,0:16:54.28,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(592,527)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.28,0:16:54.32,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(592,568)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.32,0:16:54.36,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(556,534)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.36,0:16:54.40,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(550,560)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.40,0:16:54.45,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(588,528)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.45,0:16:54.49,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(590,564)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.49,0:16:54.53,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(558,528)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.53,0:16:54.57,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(552,570)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.57,0:16:54.61,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(594,540)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 0,0:16:54.61,0:16:57.39,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(570,550)}m 0 0 l 597 0 597 137 0 137{\p0}
