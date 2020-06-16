@@ -18,9 +18,9 @@ Video File: [Ohys-Raws] Karakai Jouzu no Takagi-san - 11 (MX 1280x720 x264 AAC).
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 272
-Active Line: 275
-Video Position: 23521
+Scroll Position: 368
+Active Line: 374
+Video Position: 31901
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -343,100 +343,101 @@ Dialogue: 0,0:16:42.21,0:16:43.01,Main-Nishikata,Нисиката,0,0,0,,А?
 Dialogue: 0,0:16:44.02,0:16:46.57,Main-Takagi,Такаги,0,0,0,,Ну-ка, Нисиката, давай, убирайся.
 Dialogue: 0,0:16:46.57,0:16:47.37,Main-Nishikata,Нисиката,0,0,0,,Э…
 Dialogue: 0,0:16:47.64,0:16:49.54,Main-Nishikata,Нисиката,0,0,0,,А… Да?
-Dialogue: 0,0:16:59.81,0:17:03.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}I'll finally win against\N Такаги-сан today, for sure!
-Dialogue: 0,0:17:05.32,0:17:06.75,Main-Takagi,Такаги,0,0,0,,Oh, Нисиката.
-Dialogue: 0,0:17:07.30,0:17:08.10,Main-Takagi,Такаги,0,0,0,,Morning.
-Dialogue: 0,0:17:08.70,0:17:10.67,Main-Nishikata,Нисиката,0,0,0,,Morning.
-Dialogue: 0,0:17:11.30,0:17:13.21,Main-Takagi,Такаги,0,0,0,,You're in a good mood today.
-Dialogue: 0,0:17:13.73,0:17:16.22,Main-Nishikata,Нисиката,0,0,0,,Really? You think so?
-Dialogue: 0,0:17:16.94,0:17:18.31,Main-Nishikata,Нисиката,0,0,0,,{\i1}You're right, though.
-Dialogue: 0,0:17:21.39,0:17:24.40,Main-Nishikata,Нисиката,0,0,0,,{\i1}You have no idea what's coming, Такаги-сан.
-Dialogue: 0,0:17:24.40,0:17:26.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}I'm invincible today.
-Dialogue: 0,0:17:26.99,0:17:30.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Because according to\N this morning's horoscope, I—
-Dialogue: 0,0:17:30.65,0:17:33.69,Main-Takagi,Такаги,0,0,0,,Is it because Cancer was number\N one in the morning horoscope?
-Dialogue: 0,0:17:34.90,0:17:37.43,Main-Nishikata,Нисиката,0,0,0,,How do you know I'm a Cancer?!
-Dialogue: 0,0:17:37.43,0:17:40.30,Main-Takagi,Такаги,0,0,0,,Don't you remember me\N wishing you a happy birthday?
-Dialogue: 0,0:17:41.39,0:17:43.70,Main-Nishikata,Нисиката,0,0,0,,Oh, yeah. Now that you mention it.
-Dialogue: 0,0:17:44.37,0:17:46.51,Main-Nishikata,Нисиката,0,0,0,,{\i1}Why does she even know\N about the horoscope?
-Dialogue: 0,0:17:46.51,0:17:47.94,Main-Nishikata,Нисиката,0,0,0,,{\i1}I have to be careful.
-Dialogue: 0,0:17:48.64,0:17:50.17,Main-Nishikata,Нисиката,0,0,0,,{\i1}But you underestimate me, too.
-Dialogue: 0,0:17:50.79,0:17:54.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}I bet you don't know that in\N today's blood-type fortune, I—
-Dialogue: 0,0:17:54.04,0:17:56.38,Main-Takagi,Такаги,0,0,0,,Also, blood type O got number one too, right?
-Dialogue: 0,0:17:57.34,0:17:59.91,Main-Nishikata,Нисиката,0,0,0,,How do you know I'm type O?!
-Dialogue: 0,0:17:59.91,0:18:02.46,Main-Takagi,Такаги,0,0,0,,Oh, so you are. I had a feeling.
-Dialogue: 0,0:18:05.21,0:18:06.72,Main-Nishikata,Нисиката,0,0,0,,{\i1}She's too good.
-Dialogue: 0,0:18:06.72,0:18:08.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}I was the one underestimating her.
-Dialogue: 0,0:18:08.99,0:18:10.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}You can't mess with Такаги-сан.
-Dialogue: 0,0:18:11.22,0:18:12.96,Main-Nishikata,Нисиката,0,0,0,,{\i1}But just you wait.
-Dialogue: 0,0:18:12.96,0:18:14.51,Main-Nishikata,Нисиката,0,0,0,,{\i1}Today, I am—
-Dialogue: 0,0:18:14.51,0:18:16.60,Main-Takagi,Такаги,0,0,0,,You have an invincible aura
-Dialogue: 0,0:18:16.60,0:18:19.00,Main-Takagi,Такаги,0,0,0,,because you got number\N one in both fortunes, huh?
-Dialogue: 0,0:18:25.88,0:18:27.96,Main-Takagi,Такаги,0,0,0,,Well, I hope something good happens today.
-Dialogue: 0,0:18:28.82,0:18:29.99,Main-Nishikata,Нисиката,0,0,0,,Y-Yeah…
-Dialogue: 0,0:18:30.73,0:18:35.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Just watch, Такаги-сан.\N I'm lucky as hell today!
-Dialogue: 0,0:18:44.85,0:18:49.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}I was teased fifty times today, so\N I have to do a hundred and fifty push-ups!
-Dialogue: 0,0:18:49.96,0:18:51.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}Wh-Why?! Damn it!
-Dialogue: 0,0:18:51.93,0:18:53.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}Was I stupid for getting excited
-Dialogue: 0,0:18:53.61,0:18:55.87,Main-Nishikata,Нисиката,0,0,0,,{\i1}just because I was told I have good fortune?
-Dialogue: 0,0:18:57.14,0:19:00.26,Main-Takagi,Такаги,0,0,0,,Are you upset because\N nothing special happened?
-Dialogue: 0,0:19:00.26,0:19:01.90,Main-Takagi,Такаги,0,0,0,,It's just a fortune.
-Dialogue: 0,0:19:01.90,0:19:04.80,Main-Nishikata,Нисиката,0,0,0,,You had a tarot reading, too.
-Dialogue: 0,0:19:05.16,0:19:09.05,Main-Nishikata,Нисиката,0,0,0,,{\i1}Man, I've been thinking of a plan\N to win against Такаги-сан all day,
-Dialogue: 0,0:19:09.05,0:19:11.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}but nothing came to mind.
-Dialogue: 0,0:19:11.35,0:19:13.63,Main-Nishikata,Нисиката,0,0,0,,{\i1}Maybe I should just give up today.
-Dialogue: 0,0:19:13.93,0:19:17.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Or was today a good day\N because that's all that happened?
-Dialogue: 0,0:19:17.65,0:19:19.00,Main-Nishikata,Нисиката,0,0,0,,{\i1}Is that what it means?
-Dialogue: 0,0:19:19.00,0:19:21.55,Main-Takagi,Такаги,0,0,0,,Hey, Нисиката, let's walk home together.
-Dialogue: 0,0:19:22.38,0:19:24.05,Main-Nishikata,Нисиката,0,0,0,,Yeah, okay…
-Dialogue: 0,0:19:24.30,0:19:27.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, I can't let it end like this!
-Dialogue: 0,0:19:29.00,0:19:32.37,Main-Takagi,Такаги,0,0,0,,By the way, what did it say about your fortune?
-Dialogue: 0,0:19:32.37,0:19:36.22,Main-Nishikata,Нисиката,0,0,0,,Huh? Oh, you mean the one-line description?
-Dialogue: 0,0:19:36.22,0:19:36.94,Main-Takagi,Такаги,0,0,0,,Yeah.
-Dialogue: 0,0:19:36.94,0:19:39.03,Main-Nishikata,Нисиката,0,0,0,,Uh, let's see.
-Dialogue: 0,0:19:39.96,0:19:42.65,Main,Anchor,0,0,0,,{\an8\i1}Cancer is in first place.\N You'll land a critical hit!
-Dialogue: 0,0:19:42.65,0:19:43.45,Main,Anchor,0,0,0,,{\an8\i1}Get 'em!
-Dialogue: 0,0:19:44.53,0:19:47.20,Main-Nishikata,Нисиката,0,0,0,,{\i1}That's right! A critical hit!
-Dialogue: 0,0:19:47.20,0:19:49.62,Main-Nishikata,Нисиката,0,0,0,,{\i1}Which means I'll have a chance\N to turn the tables with a single blow!
-Dialogue: 0,0:19:49.92,0:19:52.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}I get it now! No matter how\N many times she teases me,
-Dialogue: 0,0:19:52.73,0:19:55.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}If I get to tease her just once, I win!
-Dialogue: 0,0:19:55.99,0:19:57.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}Don't give up!
-Dialogue: 0,0:19:57.71,0:19:59.59,Main-Takagi,Такаги,0,0,0,,So? What did it say?
-Dialogue: 0,0:19:59.59,0:20:02.93,Main-Nishikata,Нисиката,0,0,0,,Uh, I wonder what it said.
-Dialogue: 0,0:20:03.49,0:20:05.12,Main-Sakurai,Сакурай,0,0,0,,Hey, Нисиката.
-Dialogue: 0,0:20:06.44,0:20:09.14,Main-Sakurai,Сакурай,0,0,0,,The {\i1}Fierce-Soccer{\i0}\N video game is on sale today.
-Dialogue: 0,0:20:09.14,0:20:10.96,Main-Sakurai,Сакурай,0,0,0,,Let's play at this kid's house!
-Dialogue: 0,0:20:22.45,0:20:24.24,Main-Nishikata,Нисиката,0,0,0,,{\i1}Fierce-Soccer{\i0}…
-Dialogue: 0,0:20:24.90,0:20:26.55,Main-Nishikata,Нисиката,0,0,0,,{\i1}I wanted to play, too.
-Dialogue: 0,0:20:27.96,0:20:31.81,Main-Nishikata,Нисиката,0,0,0,,{\i1}No! I can't go home\N without scoring my critical hit!
-Dialogue: 0,0:20:32.61,0:20:36.55,Main-Nishikata,Нисиката,0,0,0,,{\i1}But then again, I have\N yet to come up with a plan.
-Dialogue: 0,0:20:36.55,0:20:38.67,Main-Nishikata,Нисиката,0,0,0,,{\i1}No, I should be able to!
-Dialogue: 0,0:20:38.67,0:20:41.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}I'm the luckiest man\N of the day, after all.
-Dialogue: 0,0:20:41.96,0:20:43.26,Main-Takagi,Такаги,0,0,0,,You're okay with not playing?
-Dialogue: 0,0:20:43.26,0:20:44.09,Main-Nishikata,Нисиката,0,0,0,,Hm?
-Dialogue: 0,0:20:44.09,0:20:44.93,Main-Takagi,Такаги,0,0,0,,The video game?
-Dialogue: 0,0:20:45.38,0:20:46.97,Main-Nishikata,Нисиката,0,0,0,,Uh, yeah…
-Dialogue: 0,0:20:48.36,0:20:50.60,Main-Nishikata,Нисиката,0,0,0,,I wanted to walk home with you, anyway.
-Dialogue: 0,0:20:52.35,0:20:55.34,Main-Nishikata,Нисиката,0,0,0,,{\i1}Hmm… There must be something.
-Dialogue: 0,0:20:57.76,0:21:01.20,Main-Nishikata,Нисиката,0,0,0,,{\i1}Wait! Did I just say something\N super awkward just now?
-Dialogue: 0,0:21:09.13,0:21:11.56,Main-Nishikata,Нисиката,0,0,0,,T-Today's fortune said I'd land\N a critical hit, so I…
-Dialogue: 0,0:21:11.56,0:21:15.34,Main-Nishikata,Нисиката,0,0,0,,I thought I'd finally win against you!
-Dialogue: 0,0:21:15.34,0:21:17.92,Main-Nishikata,Нисиката,0,0,0,,So I didn't mean what you think!
-Dialogue: 0,0:21:21.66,0:21:24.88,Main-Nishikata,Нисиката,0,0,0,,{\i1}Damn it! This is not a critical hit!
-Dialogue: 0,0:21:24.88,0:21:27.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}I just made an own goal!
-Dialogue: 0,0:21:30.18,0:21:33.50,Main-Nishikata,Нисиката,0,0,0,,So pretend you didn't hear that.
-Dialogue: 0,0:21:35.72,0:21:37.14,Main-Takagi,Такаги,0,0,0,,I guess I can do that.
-Dialogue: 0,0:21:38.61,0:21:42.36,Main-Takagi,Такаги,0,0,0,,I'll pretend I didn't hear\N it if you say it again.
-Dialogue: 0,0:21:44.19,0:21:46.11,Main-Nishikata,Нисиката,0,0,0,,Why would I?!
+Dialogue: 0,0:16:59.81,0:17:03.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}Сегодня я точно смогу победить Такаги-сан!
+Dialogue: 0,0:17:05.32,0:17:06.75,Main-Takagi,Такаги,0,0,0,,О, Нисиката.
+Dialogue: 0,0:17:07.30,0:17:08.10,Main-Takagi,Такаги,0,0,0,,Доброе утро.
+Dialogue: 0,0:17:08.70,0:17:10.67,Main-Nishikata,Нисиката,0,0,0,,Ага, доброе утро.
+Dialogue: 0,0:17:11.30,0:17:13.21,Main-Takagi,Такаги,0,0,0,,Какой-то ты довольный сегодня.
+Dialogue: 0,0:17:13.73,0:17:16.22,Main-Nishikata,Нисиката,0,0,0,,Правда? Ничего особенного не случилось.
+Dialogue: 0,0:17:16.94,0:17:18.31,Main-Nishikata,Нисиката,0,0,0,,{\i1}Так и есть.
+Dialogue: 0,0:17:21.39,0:17:24.40,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ты и понятия не имеешь, что случилось, Такаги-сан.
+Dialogue: 0,0:17:24.40,0:17:26.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}Сегодня я непобедим.
+Dialogue: 0,0:17:26.99,0:17:30.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ведь утром в гороскопе сказали, что я—
+Dialogue: 0,0:17:30.65,0:17:33.69,Main-Takagi,Такаги,0,0,0,,Утром в гороскопе сказали, что ракам повезёт?
+Dialogue: 0,0:17:34.90,0:17:37.43,Main-Nishikata,Нисиката,0,0,0,,Откуда ты знаешь мой знак зодиака?!
+Dialogue: 0,0:17:37.43,0:17:40.30,Main-Takagi,Такаги,0,0,0,,Так я же тебя с днём рождения поздравляла.
+Dialogue: 0,0:17:41.39,0:17:43.70,Main-Nishikata,Нисиката,0,0,0,,Точно. Теперь, когда ты напомнила…
+Dialogue: 0,0:17:44.37,0:17:46.51,Main-Nishikata,Нисиката,0,0,0,,{\i1}Откуда она про гороскоп знает?
+Dialogue: 0,0:17:46.51,0:17:47.94,Main-Nishikata,Нисиката,0,0,0,,{\i1}Дурацкая Такаги-сан.
+Dialogue: 0,0:17:48.64,0:17:50.17,Main-Nishikata,Нисиката,0,0,0,,{\i1}Однако, это к лучшему.
+Dialogue: 0,0:17:50.79,0:17:54.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ведь гороскоп по группе крови сказал, что меня—
+Dialogue: 0,0:17:54.04,0:17:56.38,Main-Takagi,Такаги,0,0,0,,Ах, да, первой группе крови тоже везёт?
+Dialogue: 0,0:17:57.34,0:17:59.91,Main-Nishikata,Нисиката,0,0,0,,Откуда ты знаешь мою группу крови?!
+Dialogue: 0,0:17:59.91,0:18:02.46,Main-Takagi,Такаги,0,0,0,,О, так и знала. По тебе видно.
+Dialogue: 0,0:18:05.21,0:18:06.72,Main-Nishikata,Нисиката,0,0,0,,{\i1}Недостижимая.
+Dialogue: 0,0:18:06.72,0:18:08.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}«Скорее повезёт», — было же обо мне?
+Dialogue: 0,0:18:08.99,0:18:10.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}Дурацкая Такаги-сан.
+Dialogue: 0,0:18:11.22,0:18:12.96,Main-Nishikata,Нисиката,0,0,0,,{\i1}Но смотри же.
+Dialogue: 0,0:18:12.96,0:18:14.51,Main-Nishikata,Нисиката,0,0,0,,{\i1}Сегодня, я—
+Dialogue: 0,0:18:14.51,0:18:16.60,Main-Takagi,Такаги,0,0,0,,Двойное везение в гороскопах
+Dialogue: 0,0:18:16.60,0:18:19.00,Main-Takagi,Такаги,0,0,0,,даёт тебе ауру невероятной силы?
+Dialogue: 0,0:18:25.88,0:18:27.96,Main-Takagi,Такаги,0,0,0,,Ну, что-то хорошее должно случится.
+Dialogue: 0,0:18:28.82,0:18:29.99,Main-Nishikata,Нисиката,0,0,0,,Т-Типа того…
+Dialogue: 0,0:18:30.73,0:18:35.21,Main-Nishikata,Нисиката,0,0,0,,{\i1}Ну погоди, Такаги-сан.\N Моя удача сегодня невероятно сильна!
+Dialogue: 0,0:18:44.85,0:18:49.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}Меня подкололи за сегодня 50 раз,\N значит 50 подходов отжиманий по 10 раз!
+Dialogue: 0,0:18:49.96,0:18:51.93,Main-Nishikata,Нисиката,0,0,0,,{\i1}За что?! Блин!
+Dialogue: 0,0:18:51.93,0:18:53.61,Main-Nishikata,Нисиката,0,0,0,,{\i1}Неужели я такой дурак,
+Dialogue: 0,0:18:53.61,0:18:55.87,Main-Nishikata,Нисиката,0,0,0,,{\i1}раз поверил в хорошее предсказание?
+Dialogue: 0,0:18:57.14,0:19:00.26,Main-Takagi,Такаги,0,0,0,,Вау! Расстроился, что ничего хорошего не произошло?
+Dialogue: 0,0:19:00.26,0:19:01.90,Main-Takagi,Такаги,0,0,0,,Это же просто предсказания.
+Dialogue: 0,0:19:01.90,0:19:04.80,Main-Nishikata,Нисиката,0,0,0,,Ты тоже на картах Таро гадала.
+Dialogue: 0,0:19:05.16,0:19:09.05,Main-Nishikata,Нисиката,0,0,0,,{\i1}Всё таки абсолютный план победы над Такаги-сан
+Dialogue: 0,0:19:09.05,0:19:11.35,Main-Nishikata,Нисиката,0,0,0,,{\i1}так и не пришёл в голову.
+Dialogue: 0,0:19:11.35,0:19:13.63,Main-Nishikata,Нисиката,0,0,0,,{\i1}Может на сегодня стоит сдаться.
+Dialogue: 0,0:19:13.93,0:19:17.65,Main-Nishikata,Нисиката,0,0,0,,{\i1}Стоп, может всё что сегодня случилось, мне поможет?
+Dialogue: 0,0:19:17.65,0:19:19.00,Main-Nishikata,Нисиката,0,0,0,,{\i1}Всё дело в этом?
+Dialogue: 0,0:19:19.00,0:19:21.55,Main-Takagi,Такаги,0,0,0,,Эй, Нисиката, пойдём сегодня домой вместе?
+Dialogue: 0,0:19:22.38,0:19:24.05,Main-Nishikata,Нисиката,0,0,0,,Угу, давай…
+Dialogue: 0,0:19:24.30,0:19:27.04,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно! Я не могу оставить это просто так!
+Dialogue: 0,0:19:29.00,0:19:32.37,Main-Takagi,Такаги,0,0,0,,Кстати, а что там было сказано, в твоём гороскопе?
+Dialogue: 0,0:19:32.37,0:19:36.22,Main-Nishikata,Нисиката,0,0,0,,Э? Ты имеешь ввиду комментарий к прогнозу?
+Dialogue: 0,0:19:36.22,0:19:36.94,Main-Takagi,Такаги,0,0,0,,Угу.
+Dialogue: 0,0:19:36.94,0:19:39.03,Main-Nishikata,Нисиката,0,0,0,,Эм, щас вспомню.
+Dialogue: 0,0:19:39.96,0:19:42.65,Main,Anchor,0,0,0,,{\an8\i1}Раки на первом месте.\N Вы сделаете важный выбор!
+Dialogue: 0,0:19:42.65,0:19:43.45,Main,Anchor,0,0,0,,{\an8\i1}Удачи!
+Dialogue: 0,0:19:44.53,0:19:47.20,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно! Критический удар!
+Dialogue: 0,0:19:47.20,0:19:49.62,Main-Nishikata,Нисиката,0,0,0,,{\i1}Значит, шанс поменять всё раз и навсегда!
+Dialogue: 0,0:19:49.92,0:19:52.73,Main-Nishikata,Нисиката,0,0,0,,{\i1}Точно! Не важно сколько дразнили меня,
+Dialogue: 0,0:19:52.73,0:19:55.99,Main-Nishikata,Нисиката,0,0,0,,{\i1}один раз над Такаги-сан станет моей победой!
+Dialogue: 0,0:19:55.99,0:19:57.71,Main-Nishikata,Нисиката,0,0,0,,{\i1}Не сдавайся никогда!
+Dialogue: 0,0:19:57.71,0:19:59.59,Main-Takagi,Такаги,0,0,0,,Эй! И что это значит?
+Dialogue: 0,0:19:59.59,0:20:02.93,Main-Nishikata,Нисиката,0,0,0,,Вот да, что бы это всё значило.
+Dialogue: 0,0:20:03.49,0:20:05.12,Main-Sakurai,Сакурай,0,0,0,,Эй, Нисиката.
+Dialogue: 0,0:20:06.44,0:20:09.14,Main-Sakurai,Сакурай,0,0,0,,Там {\i1}«Лютый футбол»{\i0} на приставку вышел.
+Dialogue: 0,0:20:09.14,0:20:10.96,Main-Sakurai,Сакурай,0,0,0,,Пойдёшь к нему играть?
+Dialogue: 0,0:20:22.45,0:20:24.24,Main-Nishikata,Нисиката,0,0,0,,{\i1}«Лютый футбол», да?
+Dialogue: 0,0:20:24.90,0:20:26.55,Main-Nishikata,Нисиката,0,0,0,,{\i1}Щас бы поиграть.
+Dialogue: 0,0:20:27.96,0:20:31.81,Main-Nishikata,Нисиката,0,0,0,,{\i1}Однако, я не могу уйти,\N так и не забив свой критический удар!
+Dialogue: 0,0:20:32.61,0:20:36.55,Main-Nishikata,Нисиката,0,0,0,,{\i1}Хотя, до сих пор, ни одной мысли насчёт плана.
+Dialogue: 0,0:20:36.55,0:20:38.67,Main-Nishikata,Нисиката,0,0,0,,{\i1}Нет, должно получиться!
+Dialogue: 0,0:20:38.67,0:20:41.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}Я же самый везучий сегодня, как-никак.
+Dialogue: 0,0:20:41.96,0:20:43.26,Main-Takagi,Такаги,0,0,0,,Ты в порядке?
+Dialogue: 0,0:20:43.26,0:20:44.09,Main-Nishikata,Нисиката,0,0,0,,Эм?
+Dialogue: 0,0:20:44.09,0:20:44.93,Main-Takagi,Такаги,0,0,0,,Игра.
+Dialogue: 0,0:20:45.38,0:20:46.97,Main-Nishikata,Нисиката,0,0,0,,А, да…
+Dialogue: 0,0:20:48.36,0:20:50.60,Main-Nishikata,Нисиката,0,0,0,,Хотел пойти домой с тобой, Такаги-сан.
+Dialogue: 0,0:20:52.35,0:20:55.34,Main-Nishikata,Нисиката,0,0,0,,{\i1}Хмм… И так ничего не выходит.
+Dialogue: 0,0:20:57.76,0:21:01.20,Main-Nishikata,Нисиката,0,0,0,,{\i1}Стоп! Разве я не сказал, только что, нечто странное?
+Dialogue: 0,0:21:09.13,0:21:11.56,Main-Nishikata,Нисиката,0,0,0,,{\pos(915,629)}важный выбор
+Dialogue: 0,0:21:09.13,0:21:11.56,Main-Nishikata,Нисиката,0,0,0,,Г-Гороскоп сказал, что сделаю {\s1\1c&H2F1EE3&}критический удар{\1c\s0}…
+Dialogue: 0,0:21:11.56,0:21:15.34,Main-Nishikata,Нисиката,0,0,0,,Из-за этого я думал, что наконец смогу одолеть тебя!
+Dialogue: 0,0:21:15.34,0:21:17.92,Main-Nishikata,Нисиката,0,0,0,,Так что ничего {\i1}такого{\i0} я не имел ввиду!
+Dialogue: 0,0:21:21.66,0:21:24.88,Main-Nishikata,Нисиката,0,0,0,,{\i1}Блин! И в каком месте это критический удар?!
+Dialogue: 0,0:21:24.88,0:21:27.60,Main-Nishikata,Нисиката,0,0,0,,{\i1}Автогол, не иначе?!
+Dialogue: 0,0:21:30.18,0:21:33.50,Main-Nishikata,Нисиката,0,0,0,,Так что давай забудем то, что сейчас произошло.
+Dialogue: 0,0:21:35.72,0:21:37.14,Main-Takagi,Такаги,0,0,0,,Так и быть.
+Dialogue: 0,0:21:38.61,0:21:42.36,Main-Takagi,Такаги,0,0,0,,Повторишь снова, и я сделаю вид, что не слышала.
+Dialogue: 0,0:21:44.19,0:21:46.11,Main-Nishikata,Нисиката,0,0,0,,С какой стати?!
 Dialogue: 0,0:21:46.39,0:21:48.22,Main-Nishikata,Нисиката,0,0,0,,М-Мне в эту сторону.
 Dialogue: 0,0:21:48.22,0:21:49.82,Main-Nishikata,Нисиката,0,0,0,,Ну всё, пока-пока!
-Dialogue: 0,0:22:05.45,0:22:06.72,Main-Takagi,Такаги,0,0,0,,{\i1}Критический урон…
-Dialogue: 0,0:22:09.46,0:22:10.56,Main-Takagi,Такаги,0,0,0,,{\i1}Жуть.
+Dialogue: 0,0:22:05.45,0:22:06.72,Main-Takagi,Такаги,0,0,0,,{\i1}Важный выбор…
+Dialogue: 0,0:22:09.46,0:22:10.56,Main-Takagi,Такаги,0,0,0,,{\i1}Ужас.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Надписи
 Dialogue: 0,0:02:33.94,0:02:37.92,Episode Title,Title 1,0,0,0,,{\fnComicSansMS\fs150\1c&HC8F1FC&\3c&H164E5D&\bord2\pos(1119.887,346.5)}Кошка
 Dialogue: 0,0:06:28.51,0:06:32.50,Episode Title,Title 2,0,0,0,,{\1c&H5167EC&\pos(737.887,100.5)}Вкусы
 Dialogue: 0,0:07:47.98,0:07:51.92,Episode Title,Title 3,0,0,0,,{\1c&H8FFF6F&\pos(457.887,412.5)}Портрет
 Dialogue: 0,0:12:09.93,0:12:13.93,Episode Title,Title 4,0,0,0,,{\1c&H403A3D&\pos(527.887,466.5)}Предсказания
-Dialogue: 0,0:16:53.96,0:16:57.38,Episode Title,Title 5,0,0,0,,{\1c&H3AFBFC&\3c&HCDE2ED&\4c&H00058D&\bord1\shad4.5\pos(1253.887,290.5)}Критический урон
+Dialogue: 0,0:16:53.96,0:16:57.38,Episode Title,Title 5,0,0,0,,{\1c&H3AFBFC&\3c&HCDE2ED&\4c&H00058D&\bord1\shad4.5\pos(1253.887,290.5)}Критический удар
 Dialogue: 0,0:06:32.51,0:06:34.94,Default - Note,Sign,0,0,0,,{\an4\1c&H0B1E30&\frx351\fry45\frz17.46\pos(386,268)}класс
 Dialogue: 0,0:06:32.51,0:06:34.94,Default - Note,Sign,0,0,0,,{\an4\1c&H0B1E30&\frx351\fry45\frz17.46\pos(220,338)}год
 Dialogue: 0,0:08:17.95,0:08:20.86,Black Signs,Poster,0,0,0,,{\1c&H5251BB&}Важность улыбки
@@ -532,3 +533,12 @@ Dialogue: 0,0:16:54.49,0:16:54.53,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(558,5
 Dialogue: 0,0:16:54.53,0:16:54.57,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(552,570)}m 0 0 l 597 0 597 137 0 137{\p0}
 Dialogue: 0,0:16:54.57,0:16:54.61,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(594,540)}m 0 0 l 597 0 597 137 0 137{\p0}
 Dialogue: 0,0:16:54.61,0:16:57.39,Pixel,,0,0,0,,{\blur1\1c&H131313&\p1\pos(570,550)}m 0 0 l 597 0 597 137 0 137{\p0}
+Dialogue: 1,0:19:40.98,0:19:43.46,Default - Note,,0,0,0,,{\an7\bord3\fs85\1c&H2F1EE3&\3c&HF1FDFD&\frz345.7\pos(232,194)}место
+Dialogue: 0,0:19:40.99,0:19:43.45,Pixel,,0,0,0,,{\blur3\1c&H00EAFA&\p1\frz345.7\pos(236,172)}m 0 0 l 140 0 140 130 0 130{\p0}
+Dialogue: 1,0:19:40.98,0:19:43.46,Default - Note,,0,0,0,,{\an7\fs225\1c&H2F1EE3&\frz345.7\pos(690,228)}Раки
+Dialogue: 0,0:19:40.99,0:19:43.45,Pixel,,0,0,0,,{\blur3\1c&HFDFDFD&\p1\frz345.7\pos(562,232)}m 0 0 l 600 0 600 160 0 160{\p0}
+Dialogue: 1,0:19:40.98,0:19:43.46,Email-Note,,0,0,0,,{\an7\fs85\1c&H433A3C&\pos(102,344)\frz345.7}Вы сделаете важный выбор\N{\fs25} \N{\fs85} Удачи!
+Dialogue: 0,0:19:40.99,0:19:43.45,Pixel,,0,0,0,,{\blur3\1c&HFDFDFD&\p1\frz345.7\pos(100,340)}m 0 0 l 1100 0 1100 195 0 195{\p0}
+Comment: 0,0:00:03.41,0:00:03.41,Main,,0,0,0,,Примечания
+Dialogue: 1,0:19:44.53,0:19:49.62,Default - Note,Примечание,0,0,0,,{\an7\pos(198,38)}Примечание: Во-первых, слово «Critical» для японцев не родное. Имеет множество конотаций.\N Во-вторых, так как Нисиката - игроман, то «крит» для него - это термин из игры, означающий удар. {я честно пытался это обыграть игрой слов, но у меня не получилось, поэтому ловите примечание}
+Dialogue: 0,0:19:44.53,0:19:49.62,Default - Note,Примечание,0,0,0,,{\blur1\c&8a8a8a&\alpha&999\p1\pos(640,32)}m 0 0 l 930 0 930 75 0 75{\p0}
