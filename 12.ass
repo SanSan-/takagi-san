@@ -17,9 +17,8 @@ Video File: [Ohys-Raws] Karakai Jouzu no Takagi-san - 12 END (MX 1280x720 x264 A
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 150
-Active Line: 157
-Video Position: 16112
+Active Line: 5
+Video Position: 1054
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,10 +57,10 @@ Style: Pixel,Pixel Cyr,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Диалоги
 Dialogue: 0,0:00:35.64,0:00:37.51,Main-Mina,Мина,0,0,0,,Санаэ-тян!
-Dialogue: 0,0:00:38.10,0:00:39.06,Main-Mina,Мина,0,0,0,,Here.
-Dialogue: 0,0:00:39.06,0:00:39.93,Main-Mina,Мина,0,0,0,,For you.
-Dialogue: 0,0:00:41.47,0:00:42.35,Main-Sanae,Санаэ,0,0,0,,What's this?
-Dialogue: 0,0:00:42.98,0:00:43.98,Main-Sanae,Санаэ,0,0,0,,A love letter?
+Dialogue: 0,0:00:38.10,0:00:39.06,Main-Mina,Мина,0,0,0,,На.
+Dialogue: 0,0:00:39.06,0:00:39.93,Main-Mina,Мина,0,0,0,,Это тебе.
+Dialogue: 0,0:00:41.47,0:00:42.35,Main-Sanae,Санаэ,0,0,0,,Что это?
+Dialogue: 0,0:00:42.98,0:00:43.98,Main-Sanae,Санаэ,0,0,0,,Любовное письмо?
 Dialogue: 0,0:00:43.98,0:00:46.65,Main-Mina,Мина,0,0,0,,No way! It's a normal letter.\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:00:46.65,0:00:48.40,Main-Mina,Мина,0,0,0,,Everyone's doing it these days.\N{\alpha&HFFF&}`{\alpha}
 Dialogue: 0,0:00:48.40,0:00:49.73,Main-Mina,Мина,0,0,0,,Didn't you know?\N{\alpha&HFFF&}`{\alpha}
@@ -355,9 +354,9 @@ Dialogue: 0,0:21:24.13,0:21:25.51,Main-Takagi,Такаги,0,0,0,,I'm looking fo
 Dialogue: 0,0:21:30.35,0:21:31.14,Main-Nishikata,Нисиката,0,0,0,,Yeah.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Надписи
 Dialogue: 0,0:03:55.92,0:03:59.92,Episode Title,Text,0,0,0,,{\fad(0,300)}Letter
-Dialogue: 0,0:08:19.85,0:08:23.85,Episode Title,Text,0,0,0,,First Day of School
-Dialogue: 0,0:13:47.84,0:13:51.14,Episode Title,Text,0,0,0,,Seating Arrangement
-Dialogue: 0,0:00:39.06,0:00:40.48,Notes,Text,0,0,0,,To Санаэ-тян
+Dialogue: 0,0:08:20.00,0:08:23.94,Episode Title,Text,0,0,0,,First Day of School
+Dialogue: 0,0:13:48.02,0:13:51.26,Episode Title,Text,0,0,0,,Seating Arrangement
+Dialogue: 0,0:00:39.06,0:00:40.48,Notes,Text,0,0,0,,{\pos(616,432)}для Санаэ-тян
 Dialogue: 0,0:01:39.37,0:01:42.45,Default,Text,0,0,0,,Year 1 Class 2
 Dialogue: 0,0:07:31.68,0:07:36.51,Notes,Text,0,0,0,,{\fad(102,1)}Dear Нисиката,\N\NLet's walk home together today.\N\N—Такаги
 Dialogue: 0,0:08:23.95,0:08:27.61,Black Signs,Text,0,0,0,,Entrance Ceremony
