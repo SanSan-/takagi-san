@@ -15,9 +15,9 @@ Video File: ../[Ohys-Raws] Karakai Jouzu no Takagi-san - 12 END (MX 1280x720 x26
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 29
-Active Line: 33
-Video Position: 34028
+Scroll Position: 16
+Active Line: 25
+Video Position: 33159
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Dialogue: 0,0:22:40.24,0:22:47.28,EDTop,,0,0,0,,{\k26}Da{\k38}i{\k36}a{\k24}ri{\
 Dialogue: 0,0:22:48.22,0:22:52.27,EDTop,,0,0,0,,{\k60}Nan{\k41}da{\k74}ka  {\k13}fu{\k84}shi{\k28}gi  {\k105}ne
 Dialogue: 0,0:22:54.48,0:23:02.53,EDTop,,0,0,0,,{\k49}I{\k50}ma  {\k51}ma{\k27}de  {\k45}i{\k30}jo{\k24}u  {\k126}ni  {\k45}mu{\k54}chu{\k72}u  {\k29}ni  {\k50}na{\k24}re{\k48}ru  {\k28}no  {\k53}wa
 Dialogue: 0,0:23:02.98,0:23:09.53,EDTop,,0,0,0,,{\k22}Na{\k27}tsu  {\k24}no  {\k27}ko{\k26}i  {\k50}no  {\k25}ma{\k26}ho{\k24}u  {\k64}no  {\k38}se{\k21}i  {\k14}ka{\k39}shi{\k228}ra
-Dialogue: 0,0:23:10.69,0:23:12.96,EDTop,,0,0,0,,{\k22}My  {\k28}love  {\k22}is  {\k48}fo{\k29}re{\k70}ver
+Dialogue: 0,0:23:10.69,0:23:12.96,EDTop,,0,0,0,,{\k22}My  {\k28}love  {\k22}is  {\k48}fo{\k29}re{\k78}ver
 Dialogue: 0,0:23:13.23,0:23:19.00,EDTop,,0,0,0,,{\k27}A{\k67}na{\k28}ta  {\k127}to  {\k31}de{\k44}at{\k28}ta  {\k26}ko{\k23}ro  {\k25}no  {\k72}yo{\k30}u  {\k49}ni
 Dialogue: 0,0:23:19.48,0:23:22.64,EDTop,,0,0,0,,{\k69}I{\k57}tsu  {\k25}ma{\k25}de{\k25}mo  {\k25}i{\k24}ta{\k26}i  {\k40}ne
 Dialogue: 0,0:23:22.99,0:23:26.35,EDTop,,0,0,0,,{\k23}To{\k25}ki{\k25}me{\k28}ki  {\k25}da{\k19}i{\k32}ji  {\k14}ni  {\k36}shi{\k109}te
@@ -45,19 +45,19 @@ Dialogue: 0,0:23:31.71,0:23:35.06,EDTop,,0,0,0,,{\k30}Ko{\k24}no  {\k24}mu{\k26}
 Dialogue: 0,0:23:35.45,0:23:38.89,EDTop,,0,0,0,,{\k65}Ki{\k56}se{\k30}tsu  {\k25}ga  {\k28}ka{\k47}wat{\k28}te{\k65}mo
 Dialogue: 0,0:23:39.22,0:23:46.34,EDTop,,0,0,0,,{\k31}Kit{\k75}to  {\k24}i{\k36}ro{\k27}a{\k38}se{\k49}na{\k47}i  {\k54}ha{\k26}zu  {\k47}da  {\k258}yo
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending (русский)
-Dialogue: 0,0:22:04.78,0:22:06.97,EDBottom,,0,0,0,,{\k22}Мо{\k28}я  {\k22}лю{\k48}бовь  {\k29}на  {\k70}век
-Dialogue: 0,0:22:07.22,0:22:12.99,EDBottom,,0,0,0,,{\k27}A{\k67}na{\k28}ta  {\k127}to  {\k31}de{\k44}at{\k28}ta  {\k26}ko{\k23}ro  {\k25}no  {\k72}yo{\k30}u  {\k49}ni
-Dialogue: 0,0:22:13.45,0:22:16.86,EDBottom,,0,0,0,,{\k65}Ki{\k56}se{\k30}tsu  {\k25}ga  {\k28}ka{\k47}wat{\k28}te{\k62}mo
-Dialogue: 0,0:22:17.16,0:22:24.17,EDBottom,,0,0,0,,{\k31}Kit{\k75}to  {\k24}i{\k36}ro{\k27}a{\k38}se{\k49}na{\k47}i  {\k54}ha{\k26}zu  {\k47}da  {\k247}yo
-Dialogue: 0,0:22:40.24,0:22:47.28,EDBottom,,0,0,0,,{\k26}Da{\k38}i{\k36}a{\k24}ri{\k120}i  {\k32}a{\k20}e{\k20}ru  {\k77}hi  {\k36}shi{\k25}ru  {\k43}shi{\k27}tsu{\k49}ke{\k30}te{\k101}ru
-Dialogue: 0,0:22:48.22,0:22:52.27,EDBottom,,0,0,0,,{\k60}Nan{\k41}da{\k74}ka  {\k13}fu{\k84}shi{\k28}gi  {\k105}ne
-Dialogue: 0,0:22:54.48,0:23:02.53,EDBottom,,0,0,0,,{\k49}I{\k50}ma  {\k51}ma{\k27}de  {\k45}i{\k30}jo{\k24}u  {\k126}ni  {\k45}mu{\k54}chu{\k72}u  {\k29}ni  {\k50}na{\k24}re{\k48}ru  {\k28}no  {\k53}wa
-Dialogue: 0,0:23:02.98,0:23:09.53,EDBottom,,0,0,0,,{\k22}Na{\k27}tsu  {\k24}no  {\k27}ko{\k26}i  {\k50}no  {\k25}ma{\k26}ho{\k24}u  {\k64}no  {\k38}se{\k21}i  {\k14}ka{\k39}shi{\k228}ra
-Dialogue: 0,0:23:10.69,0:23:12.96,EDBottom,,0,0,0,,{\k22}My  {\k28}love  {\k22}is  {\k48}fo{\k29}re{\k70}ver
-Dialogue: 0,0:23:13.23,0:23:19.00,EDBottom,,0,0,0,,{\k27}A{\k67}na{\k28}ta  {\k127}to  {\k31}de{\k44}at{\k28}ta  {\k26}ko{\k23}ro  {\k25}no  {\k72}yo{\k30}u  {\k49}ni
-Dialogue: 0,0:23:19.48,0:23:22.64,EDBottom,,0,0,0,,{\k69}I{\k57}tsu  {\k25}ma{\k25}de{\k25}mo  {\k25}i{\k24}ta{\k26}i  {\k40}ne
-Dialogue: 0,0:23:22.99,0:23:26.35,EDBottom,,0,0,0,,{\k23}To{\k25}ki{\k25}me{\k28}ki  {\k25}da{\k19}i{\k32}ji  {\k14}ni  {\k36}shi{\k109}te
-Dialogue: 0,0:23:26.74,0:23:31.39,EDBottom,,0,0,0,,{\k25}A{\k23}o{\k17}ku  {\k86}sun{\k98}da  {\k26}hi{\k76}to{\k27}mi  {\k87}ni
-Dialogue: 0,0:23:31.71,0:23:35.06,EDBottom,,0,0,0,,{\k30}Ko{\k24}no  {\k24}mu{\k26}ne  {\k24}wa  {\k24}ta{\k25}ka{\k77}na{\k24}ru  {\k57}yo
-Dialogue: 0,0:23:35.45,0:23:38.89,EDBottom,,0,0,0,,{\k65}Ki{\k56}se{\k30}tsu  {\k25}ga  {\k28}ka{\k47}wat{\k28}te{\k65}mo
-Dialogue: 0,0:23:39.22,0:23:46.34,EDBottom,,0,0,0,,{\k31}Kit{\k75}to  {\k24}i{\k36}ro{\k27}a{\k38}se{\k49}na{\k47}i  {\k54}ha{\k26}zu  {\k47}da  {\k258}yo
+Dialogue: 0,0:22:04.78,0:22:06.97,EDBottom,,0,0,0,,{\k22}Мо{\k28}я  {\k22}лю{\k48}бовь  {\k29}к  те{\k70}бе
+Dialogue: 0,0:22:07.22,0:22:12.99,EDBottom,,0,0,0,,{\k27}Всег{\k67}да  {\k28}жи{\k127}ва,  {\k31}как  {\k44}в  день,  {\k28}ког{\k26}да  {\k23}я  {\k25}наш{\k72}ла  {\k30}те{\k49}бя
+Dialogue: 0,0:22:13.45,0:22:16.86,EDBottom,,0,0,0,,{\k65}Да{\k56}же  {\k30}ког{\k25}да  {\k28}зи{\k47}ма  {\k28}при{\k62}дёт
+Dialogue: 0,0:22:17.16,0:22:24.17,EDBottom,,0,0,0,,{\k31}Я  {\k75}зна{\k24}ю,  {\k36}что  {\k27}о{\k38}на  {\k49}про{\k47}сто  {\k54}так  {\k26}не  {\k47}уй{\k247}дёт
+Dialogue: 0,0:22:40.24,0:22:47.28,EDBottom,,0,0,0,,{\k26}Пи{\k38}шу  {\k36}в  дне{\k24}вни{\k120}ке  {\k32}о  {\k20}том,  {\k20}как  {\k77}мы  {\k36}с  то{\k25}бой  {\k43}зав{\k27}тра  {\k49}встре{\k30}тим{\k101}ся
+Dialogue: 0,0:22:48.22,0:22:52.27,EDBottom,,0,0,0,,{\k60}И  {\k41}как-{\k74}то  {\k13}мне  {\k84}стран{\k28}но  {\k105}вдруг
+Dialogue: 0,0:22:54.48,0:23:02.53,EDBottom,,0,0,0,,{\k49}Лишь  {\k50}сей{\k51}час  {\k27}по{\k45}нять,  {\k30}что  {\k24}о{\k126}но  {\k45}по{\k54}гло{\k72}тит  {\k29}ме{\k50}ня  {\k24}с  {\k48}го{\k28}ло{\k53}вой
+Dialogue: 0,0:23:02.98,0:23:09.53,EDBottom,,0,0,0,,{\k22}Вол{\k27}шеб{\k24}ство  {\k27}той  {\k26}люб{\k50}ви  {\k25}лет{\k26}ней,  {\k24}как  {\k64}зной,  {\k38}все{\k21}му  {\k14}тут  {\k39}ви{\k228}ной
+Dialogue: 0,0:23:10.69,0:23:12.96,EDBottom,,0,0,0,,{\k22}Мо{\k28}я  {\k22}лю{\k48}бовь  {\k29}к  те{\k78}бе
+Dialogue: 0,0:23:13.23,0:23:19.00,EDBottom,,0,0,0,,{\k27}Всег{\k67}да  {\k28}жи{\k127}ва,  {\k31}как  {\k44}в  день,  {\k28}ког{\k26}да  {\k23}я  {\k25}наш{\k72}ла  {\k30}те{\k49}бя
+Dialogue: 0,0:23:19.48,0:23:22.64,EDBottom,,0,0,0,,{\k69}Хо{\k57}чу,  {\k25}что{\k25}бы  {\k25}так  {\k25}бы{\k24}ло  {\k26}все{\k40}гда
+Dialogue: 0,0:23:22.99,0:23:26.35,EDBottom,,0,0,0,,{\k23}Чтоб  {\k25}сло{\k25}мать  {\k28}нас  {\k25}су{\k19}е{\k32}та  {\k14}не  {\k36}смог{\k109}ла
+Dialogue: 0,0:23:26.74,0:23:31.39,EDBottom,,0,0,0,,{\k25}От  {\k23}тво{\k17}их  {\k86}глаз,  {\k98}что  {\k26}как  {\k76}синь  {\k27}яс{\k87}ны
+Dialogue: 0,0:23:31.71,0:23:35.06,EDBottom,,0,0,0,,{\k30}Вдруг  {\k24}что-{\k24}то  {\k26}так  {\k24}сту{\k24}чит  {\k25}в мо{\k77}ей  {\k24}гру{\k57}ди
+Dialogue: 0,0:23:35.45,0:23:38.89,EDBottom,,0,0,0,,{\k65}Да{\k56}же  {\k30}ког{\k25}да  {\k28}зи{\k47}ма  {\k28}при{\k65}дёт
+Dialogue: 0,0:23:39.22,0:23:46.34,EDBottom,,0,0,0,,{\k31}Я  {\k75}зна{\k24}ю,  {\k36}что  {\k27}о{\k38}на  {\k49}про{\k47}сто  {\k54}так  {\k26}не  {\k47}уй{\k258}дёт
